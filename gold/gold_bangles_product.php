@@ -1,8 +1,3 @@
-
-<?php
-// Include the header
-include_once '../header.php';
-?>
 <?php
 $servername = "localhost";
 $username = "root";

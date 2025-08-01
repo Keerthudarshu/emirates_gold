@@ -1308,7 +1308,7 @@ document.addEventListener('DOMContentLoaded', function() {
     </div>
     
 
-    <h1>Gold Rings</h1>
+    <h1>Diamond Rings</h1>
 
 
     <div class="product-list">
@@ -1320,7 +1320,7 @@ document.addEventListener('DOMContentLoaded', function() {
         $offset = ($page - 1) * $items_per_page;
 
         // Get total items count
-        $count_sql = "SELECT COUNT(*) as total FROM gold_ring";
+        $count_sql = "SELECT COUNT(*) as total FROM diamond_rings";
         $count_result = $conn->query($count_sql);
         $total_items = 0;
         if ($count_result && $row = $count_result->fetch_assoc()) {
@@ -1329,12 +1329,12 @@ document.addEventListener('DOMContentLoaded', function() {
         $total_pages = ceil($total_items / $items_per_page);
 
         // Fetch paginated items
-        $sql = "SELECT * FROM gold_ring LIMIT $items_per_page OFFSET $offset";
+        $sql = "SELECT * FROM diamond_rings LIMIT $items_per_page OFFSET $offset";
         $result = $conn->query($sql);
 
         if ($result && $result->num_rows > 0) {
             while ($row = $result->fetch_assoc()) {
-                $productUrl = 'gold_ring_product.php?code=' . urlencode($row['code']) . '&type=gold_ring';
+                $productUrl = 'diamond_rings_product.php?code=' . urlencode($row['code']) . '&type=diamond_rings';
                 echo '<div class="product-card">';
                 echo '<a href="' . $productUrl . '">';
                 echo '<img src="' . htmlspecialchars($row['image']) . '" alt="' . htmlspecialchars($row['name']) . '">';
