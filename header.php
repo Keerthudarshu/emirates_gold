@@ -1,3 +1,5 @@
+<?php
+?>
 <!doctype html>
 <html lang="en-US">
 
@@ -572,12 +574,8 @@
                     <div class="elementor-element elementor-element-ed409db e-con-full elementor-hidden-mobile elementor-hidden-tablet e-flex e-con e-child" data-id="ed409db" data-element_type="container">
                         <div class="elementor-element elementor-element-b97c4e7 elementor-widget elementor-widget-image" data-id="b97c4e7" data-element_type="widget" data-widget_type="image.default">
                             <div class="elementor-widget-container">
-                                <?php
-                                $logo_path = "assets/emirats logo.jpg";
-                                $home_url = "index.php";
-                                ?>
-                                <a href="<?php echo $home_url; ?>">
-                            <img width="152" height="69" src="<?php echo $logo_path; ?>" class="attachment-large size-large wp-image-11160" alt="Logo" />								
+                                <a href="../index.php">
+                            <img width="152" height="69" src="../assets/emirats logo.jpg" class="attachment-large size-large wp-image-11160" alt="Logo" />								
                         </a>
                             </div>
                         </div>
@@ -593,10 +591,7 @@
 
                                                 <span class="elementor-icon-list-icon">
                             <!-- <svg xmlns="http://www.w3.org/2000/svg" width="37" height="27" viewBox="0 0 37 27" fill="none"><path d="M24.4694 20.4635L32.6134 15.2543C33.096 14.955 35.0024 14.3562 35.8711 15.7932C36.7398 17.2302 36.052 18.308 34.9662 19.0265L24.1074 26.2116H11.0769L7.09534 23.5172V12.021H14.8775L20.6688 17.9488C21.2721 18.4876 21.7547 19.745 20.3068 20.8228C19.4019 21.3617 18.3161 21.5413 17.2302 20.4635L12.7057 16.1525H9.81003" stroke="#E92548" stroke-width="1.18255" stroke-linecap="round"></path><mask id="path-2-inside-1_2421_2849" fill="white"><rect y="10.4443" width="7.88366" height="16.5557" rx="0.788366"></rect></mask><rect y="10.4443" width="7.88366" height="16.5557" rx="0.788366" fill="#FFE8EC" stroke="#E92548" stroke-width="2.3651" mask="url(#path-2-inside-1_2421_2849)"></rect><circle cx="24.8346" cy="7.58725" r="6.99598" fill="#FFE8EC" stroke="#E92548" stroke-width="1.18255"></circle><path d="M22.7845 4.4259H27.5364V4.43577C27.2565 4.86717 27.0984 5.09768 27.0622 5.12732H25.7927C25.9673 5.33149 26.0858 5.58012 26.1484 5.8732H27.5018C27.5183 5.8765 27.5265 5.88308 27.5265 5.89296C27.2236 6.34741 27.0688 6.57463 27.0622 6.57463H26.183C26.1632 6.80844 26.0512 7.09 25.8471 7.4193C25.577 7.75191 25.3185 7.9676 25.0715 8.06639C24.6105 8.28703 24.1692 8.39735 23.7477 8.39735V8.40723C23.7477 8.44016 24.7011 9.57133 26.6078 11.8007H25.3482C23.4909 9.63719 22.5622 8.55048 22.5622 8.5406V7.88363L22.5721 7.85893C22.7368 7.88198 22.9294 7.89351 23.15 7.89351C24.1906 7.89351 24.8377 7.55597 25.0913 6.88089C25.1308 6.78209 25.1506 6.68001 25.1506 6.57463H22.3251C22.3119 6.57463 22.3054 6.56804 22.3054 6.55487C22.6182 6.10043 22.7779 5.8732 22.7845 5.8732H25.0271V5.86332C24.8987 5.60317 24.65 5.40065 24.2812 5.25575C24.0178 5.17013 23.7807 5.12732 23.5699 5.12732H22.3152V5.10262C22.6182 4.65147 22.7746 4.4259 22.7845 4.4259Z" fill="#E92548"></path></svg>			 -->
-                                   <?php
-                                   $euro_icon_path = "assets/favicon/euro-money.png";
-                                   ?>
-                                   <img src="<?php echo $euro_icon_path; ?>" alt="Euro Money Icon">
+                                   <img src="../assets/favicon/euro-money.png" alt="">
                         </span>
                                         <span class="elementor-icon-list-text" style="color: #000000;"></span><br><span style="color: #000000;">Jewellery Buying Plan</span></span>
                                             </a>
@@ -613,12 +608,7 @@
 
                                                 <span class="elementor-icon-list-icon">
                                         <!-- <svg xmlns="http://www.w3.org/2000/svg" width="44" height="26" viewBox="0 0 44 26" fill="none"><path d="M17.5888 14.2537H4.14304C3.84284 14.2537 3.58067 14.4568 3.50565 14.7475L1.21232 23.6341C1.1048 24.0508 1.4194 24.4569 1.84971 24.4569H19.5955C20.0175 24.4569 20.3306 24.0653 20.2376 23.6536L18.2309 14.767C18.1632 14.4669 17.8965 14.2537 17.5888 14.2537Z" fill="#FFE8EC" stroke="#E92548" stroke-width="1.23644"></path><path d="M29.0003 1H15.5545C15.2468 1 14.9802 1.21315 14.9124 1.51328L12.9057 10.3999C12.8128 10.8116 13.1258 11.2032 13.5479 11.2032H31.2936C31.7239 11.2032 32.0385 10.7971 31.931 10.3804L29.6377 1.49378C29.5627 1.20311 29.3005 1 29.0003 1Z" fill="#FFE8EC" stroke="#E92548" stroke-width="1.23644"></path><path d="M39.7054 14.2537H26.2596C25.9519 14.2537 25.6853 14.4669 25.6175 14.767L23.6108 23.6536C23.5179 24.0653 23.8309 24.4569 24.2529 24.4569H41.9987C42.429 24.4569 42.7436 24.0508 42.6361 23.6341L40.3428 14.7475C40.2678 14.4568 40.0056 14.2537 39.7054 14.2537Z" fill="#FFE8EC" stroke="#E92548" stroke-width="1.23644"></path></svg>						 -->
-                                         <?php
-                                   $euro_icon_path = "assets/favicon/gold-bar.png";
-                                   ?>
-                                   <img src="<?php echo $euro_icon_path; ?>" alt="Euro Money Icon">
-                       
-                                        
+                                        <img src="../assets/favicon/gold-bar.png" alt="">
                                     </span>
                                         <span class="elementor-icon-list-text"><span style="color: #272727">Today's
                                         </span><br>Gold Rate</span>
@@ -777,25 +767,21 @@ document.addEventListener('DOMContentLoaded', function() {
                             </div>
                         </div>
                     </div>
-                    <!-- <div class="elementor-element elementor-element-13a8ae2 e-con-full e-transform e-flex e-con e-child" data-id="13a8ae2" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;position&quot;:&quot;fixed&quot;,&quot;_transform_rotateZ_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:-90,&quot;sizes&quot;:[]},&quot;_transform_rotateZ_effect_tablet&quot;:{&quot;unit&quot;:&quot;deg&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_rotateZ_effect_mobile&quot;:{&quot;unit&quot;:&quot;deg&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}">
+                    <div class="elementor-element elementor-element-13a8ae2 e-con-full e-transform e-flex e-con e-child" data-id="13a8ae2" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;position&quot;:&quot;fixed&quot;,&quot;_transform_rotateZ_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:-90,&quot;sizes&quot;:[]},&quot;_transform_rotateZ_effect_tablet&quot;:{&quot;unit&quot;:&quot;deg&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_rotateZ_effect_mobile&quot;:{&quot;unit&quot;:&quot;deg&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}">
                         <div class="elementor-element elementor-element-7ce9365 elementor-widget-mobile__width-initial elementor-widget elementor-widget-text-editor" data-id="7ce9365" data-element_type="widget" data-widget_type="text-editor.default">
                             <div class="elementor-widget-container">
                                 <p><a href="#">Feedback</a></p>
                             </div>
                         </div>
-                    </div> -->
+                    </div>
                 </div>
             </div>
             <div class="elementor-element elementor-element-f995112 mj-menu-header e-flex e-con-boxed e-con e-child" data-id="f995112" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                 <div class="e-con-inner">
                     <div class="elementor-element elementor-element-54dae0a elementor-hidden-desktop elementor-widget-tablet__width-initial elementor-widget elementor-widget-image" data-id="54dae0a" data-element_type="widget" data-widget_type="image.default">
                         <div class="elementor-widget-container">
-                            <?php
-                            $logo_path = "assets/emirats logo.jpg";
-                            $home_url = "/";
-                            ?>
-                            <a href="<?php echo $home_url; ?>">
-                            <img width="152" height="69" src="<?php echo $logo_path; ?>" class="attachment-large size-large wp-image-11160" alt="Logo" />								</a>
+                            <a href="/">
+                            <img width="152" height="69" src="../assets/emirats logo.jpg" class="attachment-large size-large wp-image-11160" alt="Logo" />								</a>
                         </div>
                     </div>
                     <div class="elementor-element elementor-element-07d25c0 elementor-widget-tablet__width-initial e-full_width e-n-menu-layout-horizontal e-n-menu-tablet elementor-widget elementor-widget-n-menu" data-id="07d25c0" data-element_type="widget" data-settings="{&quot;menu_items&quot;:[{&quot;item_title&quot;:&quot;&lt;img src=\&quot;\/wp-content\/uploads\/2025\/04\/Gold.svg\&quot; style=\&quot;margin-right:6px; Width: 24px;\&quot;&gt;Gold&quot;,&quot;_id&quot;:&quot;38016ae&quot;,&quot;__dynamic__&quot;:{&quot;item_link&quot;:&quot;[elementor-tag id=\&quot;4bb6dbe\&quot; name=\&quot;internal-url\&quot; settings=\&quot;%7B%22type%22%3A%22post%22%2C%22post_id%22%3A%222875%22%7D\&quot;]&quot;},&quot;item_dropdown_content&quot;:&quot;yes&quot;,&quot;item_link&quot;:{&quot;url&quot;:&quot;https:\/\/muliya.in\/gold\/&quot;,&quot;is_external&quot;:&quot;&quot;,&quot;nofollow&quot;:&quot;&quot;,&quot;custom_attributes&quot;:&quot;&quot;},&quot;item_icon&quot;:{&quot;value&quot;:&quot;&quot;,&quot;library&quot;:&quot;&quot;},&quot;item_icon_active&quot;:null,&quot;element_id&quot;:&quot;&quot;},{&quot;item_title&quot;:&quot;&lt;img src=\&quot;\/wp-content\/uploads\/2025\/04\/Silver.svg\&quot; style=\&quot;margin-right:6px; Width: 18px;\&quot;&gt;Silver&quot;,&quot;_id&quot;:&quot;fd45e80&quot;,&quot;__dynamic__&quot;:{&quot;item_link&quot;:&quot;[elementor-tag id=\&quot;5277658\&quot; name=\&quot;internal-url\&quot; settings=\&quot;%7B%22type%22%3A%22post%22%2C%22post_id%22%3A%229603%22%7D\&quot;]&quot;},&quot;item_dropdown_content&quot;:&quot;&quot;,&quot;item_link&quot;:{&quot;url&quot;:&quot;https:\/\/muliya.in\/silver\/&quot;,&quot;is_external&quot;:&quot;&quot;,&quot;nofollow&quot;:&quot;&quot;,&quot;custom_attributes&quot;:&quot;&quot;},&quot;item_icon&quot;:{&quot;value&quot;:&quot;&quot;,&quot;library&quot;:&quot;&quot;},&quot;item_icon_active&quot;:null,&quot;element_id&quot;:&quot;&quot;},{&quot;item_title&quot;:&quot;&lt;img src=\&quot;\/wp-content\/uploads\/2025\/04\/Diamond.svg\&quot; style=\&quot;margin-right:6px; Width: 18px;\&quot;&gt;Diamond&quot;,&quot;_id&quot;:&quot;53655cc&quot;,&quot;__dynamic__&quot;:{&quot;item_link&quot;:&quot;[elementor-tag id=\&quot;e6777ed\&quot; name=\&quot;internal-url\&quot; settings=\&quot;%7B%22type%22%3A%22post%22%2C%22post_id%22%3A%229552%22%7D\&quot;]&quot;},&quot;item_dropdown_content&quot;:&quot;yes&quot;,&quot;item_link&quot;:{&quot;url&quot;:&quot;https:\/\/muliya.in\/diamond\/&quot;,&quot;is_external&quot;:&quot;&quot;,&quot;nofollow&quot;:&quot;&quot;,&quot;custom_attributes&quot;:&quot;&quot;},&quot;item_icon&quot;:{&quot;value&quot;:&quot;&quot;,&quot;library&quot;:&quot;&quot;},&quot;item_icon_active&quot;:null,&quot;element_id&quot;:&quot;&quot;},{&quot;item_title&quot;:&quot;&lt;img src=\&quot;\/wp-content\/uploads\/2025\/04\/Collections.svg\&quot; style=\&quot;margin-right:6px; Width: 18px;\&quot;&gt;Collections&quot;,&quot;__dynamic__&quot;:[],&quot;_id&quot;:&quot;641ac90&quot;,&quot;item_dropdown_content&quot;:&quot;yes&quot;,&quot;item_link&quot;:{&quot;url&quot;:&quot;&quot;,&quot;is_external&quot;:&quot;&quot;,&quot;nofollow&quot;:&quot;&quot;,&quot;custom_attributes&quot;:&quot;&quot;},&quot;item_icon&quot;:{&quot;value&quot;:&quot;&quot;,&quot;library&quot;:&quot;&quot;},&quot;item_icon_active&quot;:null,&quot;element_id&quot;:&quot;&quot;},{&quot;item_title&quot;:&quot;&lt;img src=\&quot;\/wp-content\/uploads\/2025\/04\/Showrooms.svg\&quot; style=\&quot;margin-right:6px; Width: 18px;\&quot;&gt;Showrooms&quot;,&quot;__dynamic__&quot;:{&quot;item_link&quot;:&quot;[elementor-tag id=\&quot;7e5f470\&quot; name=\&quot;internal-url\&quot; settings=\&quot;%7B%22type%22%3A%22post%22%2C%22post_id%22%3A%229736%22%7D\&quot;]&quot;},&quot;_id&quot;:&quot;4588b17&quot;,&quot;item_link&quot;:{&quot;url&quot;:&quot;https:\/\/muliya.in\/store-locator\/&quot;,&quot;is_external&quot;:&quot;&quot;,&quot;nofollow&quot;:&quot;&quot;,&quot;custom_attributes&quot;:&quot;&quot;},&quot;item_dropdown_content&quot;:&quot;no&quot;,&quot;item_icon&quot;:{&quot;value&quot;:&quot;&quot;,&quot;library&quot;:&quot;&quot;},&quot;item_icon_active&quot;:null,&quot;element_id&quot;:&quot;&quot;},{&quot;item_title&quot;:&quot;&lt;img src=\&quot;\/wp-content\/uploads\/2025\/04\/gallery.svg\&quot; style=\&quot;margin-right:6px; Width: 20px;\&quot;&gt;Gallery&quot;,&quot;__dynamic__&quot;:[],&quot;item_link&quot;:{&quot;url&quot;:&quot;https:\/\/gallery.muliya.in\/&quot;,&quot;is_external&quot;:&quot;on&quot;,&quot;nofollow&quot;:&quot;&quot;,&quot;custom_attributes&quot;:&quot;&quot;},&quot;_id&quot;:&quot;7ac2c36&quot;,&quot;item_dropdown_content&quot;:&quot;no&quot;,&quot;item_icon&quot;:{&quot;value&quot;:&quot;&quot;,&quot;library&quot;:&quot;&quot;},&quot;item_icon_active&quot;:null,&quot;element_id&quot;:&quot;&quot;},{&quot;item_title&quot;:&quot;&lt;img src=\&quot;\/wp-content\/uploads\/2025\/04\/Virtual-Tour.svg\&quot; style=\&quot;margin-right:6px; Width: 18px;\&quot;&gt;Virtual Tour&quot;,&quot;__dynamic__&quot;:[],&quot;_id&quot;:&quot;de23cf7&quot;,&quot;item_link&quot;:{&quot;url&quot;:&quot;https:\/\/muliya.in\/virtualtour\/bangalore&quot;,&quot;is_external&quot;:&quot;on&quot;,&quot;nofollow&quot;:&quot;&quot;,&quot;custom_attributes&quot;:&quot;&quot;},&quot;item_dropdown_content&quot;:&quot;no&quot;,&quot;item_icon&quot;:{&quot;value&quot;:&quot;&quot;,&quot;library&quot;:&quot;&quot;},&quot;item_icon_active&quot;:null,&quot;element_id&quot;:&quot;&quot;},{&quot;item_title&quot;:&quot;&lt;img src=\&quot;\/wp-content\/uploads\/2025\/04\/More.svg\&quot; style=\&quot;margin-right:6px; Width: 18px;\&quot;&gt;More&quot;,&quot;__dynamic__&quot;:[],&quot;_id&quot;:&quot;1da3b56&quot;,&quot;item_dropdown_content&quot;:&quot;yes&quot;,&quot;item_link&quot;:{&quot;url&quot;:&quot;&quot;,&quot;is_external&quot;:&quot;&quot;,&quot;nofollow&quot;:&quot;&quot;,&quot;custom_attributes&quot;:&quot;&quot;},&quot;item_icon&quot;:{&quot;value&quot;:&quot;&quot;,&quot;library&quot;:&quot;&quot;},&quot;item_icon_active&quot;:null,&quot;element_id&quot;:&quot;&quot;}],&quot;item_position_horizontal&quot;:&quot;stretch&quot;,&quot;item_position_horizontal_tablet&quot;:&quot;center&quot;,&quot;menu_item_title_distance_from_content&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:3,&quot;sizes&quot;:[]},&quot;content_width&quot;:&quot;full_width&quot;,&quot;item_layout&quot;:&quot;horizontal&quot;,&quot;open_on&quot;:&quot;hover&quot;,&quot;horizontal_scroll&quot;:&quot;disable&quot;,&quot;breakpoint_selector&quot;:&quot;tablet&quot;,&quot;menu_item_title_distance_from_content_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;menu_item_title_distance_from_content_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}"
@@ -814,10 +800,7 @@ document.addEventListener('DOMContentLoaded', function() {
                                             <div id="e-n-menu-title-8201" class="e-n-menu-title">
                                                 <a class="e-n-menu-title-container e-focus e-link" href="#">												
                                                     <span class="e-n-menu-title-text">
-                                                        <?php
-                                                        $gold_icon_path = "assets/favicon/gold.png";
-                                                        ?>
-                                                        <img src="<?php echo $gold_icon_path; ?>" style="margin-right:6px; Width: 24px;" alt="Gold Icon">Gold						
+                                                        <img src="../assets/favicon/gold.png" style="margin-right:6px; Width: 24px;">Gold						
                                                     </span>
                                                         
                                                 </a> 
@@ -825,11 +808,11 @@ document.addEventListener('DOMContentLoaded', function() {
                                                 <button id="e-n-menu-dropdown-icon-8201" class="e-n-menu-dropdown-icon e-focus" data-tab-index="1" aria-haspopup="true" aria-expanded="false" aria-controls="e-n-menu-content-8201">
                                                         <span class="e-n-menu-dropdown-icon-opened">
                                                             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6"><path stroke-linecap="round" stroke-linejoin="round" d="m4.5 15.75 7.5-7.5 7.5 7.5"></path></svg>								
-                                                            <span class="elementor-screen-only">Close <img src="<?php echo $gold_icon_path; ?>" style="margin-right:6px; Width: 24px;" alt="Gold Icon">Gold</span>
+                                                            <span class="elementor-screen-only">Close <img src="../assets/favicon/gold.png" style="margin-right:6px; Width: 24px;">Gold</span>
                                                         </span>
                                                         <span class="e-n-menu-dropdown-icon-closed">
                                                             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6"><path stroke-linecap="round" stroke-linejoin="round" d="m19.5 8.25-7.5 7.5-7.5-7.5"></path></svg>							
-                                                            <span class="elementor-screen-only">Open <img src="<?php echo $gold_icon_path; ?>" style="margin-right:6px; margin-top: 20px; Width: 24px;" alt="Gold Icon">Gold</span>
+                                                            <span class="elementor-screen-only">Open <img src="../assets/favicon/gold.png" style="margin-right:6px; margin-top: 20px; Width: 24px;">Gold</span>
                                                         </span>
                                                     </button>
                                                         <script>
@@ -874,10 +857,7 @@ document.addEventListener('DOMContentLoaded', function() {
                                                                     <div class="elementor-element elementor-element-0a8fc2c e-con-full e-flex e-con e-child" data-id="0a8fc2c" data-element_type="container">
                                                                         <div class="elementor-element elementor-element-ce5ba76 elementor-widget-mobile__width-initial elementor-widget elementor-widget-image" data-id="ce5ba76" data-element_type="widget" data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
-                                                                            <?php
-                                                                            $rings_menu_path = "assets/gold_menu/Rings-Menu.png";
-                                                                            ?>
-                                                                            <img width="90" height="89" src="<?php echo $rings_menu_path; ?>" class="attachment-full size-full wp-image-11218" alt="Rings" /> </div>
+                                                                            <img width="90" height="89" src="../assets/gold_menu/Rings-Menu.png" class="attachment-full size-full wp-image-11218" alt="Rings" /> </div>
                                                                         </div>
                                                                         <div class="elementor-element elementor-element-ec98ce4 elementor-widget elementor-widget-heading" data-id="ec98ce4" data-element_type="widget" data-widget_type="heading.default">
                                                                             <div class="elementor-widget-container">
@@ -890,10 +870,7 @@ document.addEventListener('DOMContentLoaded', function() {
                                                                     <div class="elementor-element elementor-element-2dae3f1 e-con-full e-flex e-con e-child" data-id="2dae3f1" data-element_type="container">
                                                                         <div class="elementor-element elementor-element-c1eef24 elementor-widget elementor-widget-image" data-id="c1eef24" data-element_type="widget" data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
-                                                                                <?php
-                                                                                $earrings_menu_path = "assets/gold_menu/Earrings-Menu.png";
-                                                                                ?>
-                                                                                <img loading="lazy" width="63" height="95" src="<?php echo $earrings_menu_path; ?>" class="attachment-full size-full wp-image-11217" alt="Earrings" />                                                                                </div>
+                                                                                <img loading="lazy" width="63" height="95" src="../assets/gold_menu/Earrings-Menu.png" class="attachment-full size-full wp-image-11217" alt="Earrings" />                                                                                </div>
                                                                         </div>
                                                                         <div class="elementor-element elementor-element-0f2ec30 elementor-widget elementor-widget-heading" data-id="0f2ec30" data-element_type="widget" data-widget_type="heading.default">
                                                                             <div class="elementor-widget-container">
@@ -906,10 +883,7 @@ document.addEventListener('DOMContentLoaded', function() {
                                                                     <div class="elementor-element elementor-element-5bb2f39 e-con-full e-flex e-con e-child" data-id="5bb2f39" data-element_type="container">
                                                                         <div class="elementor-element elementor-element-3beeea1 elementor-widget elementor-widget-image" data-id="3beeea1" data-element_type="widget" data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
-                                                                                <?php
-                                                                                $pendants_menu_path = "assets/gold_menu/Pendants-menu-1.png";
-                                                                                ?>
-                                                                                <img loading="lazy" width="87" height="100" src="<?php echo $pendants_menu_path; ?>" class="attachment-full size-full wp-image-11492" alt="Pendants" />                                                                                </div>
+                                                                                <img loading="lazy" width="87" height="100" src="../assets/gold_menu/Pendants-menu-1.png" class="attachment-full size-full wp-image-11492" alt="Pendants" />                                                                                </div>
                                                                         </div>
                                                                         <div class="elementor-element elementor-element-8e1aec4 elementor-widget elementor-widget-heading" data-id="8e1aec4" data-element_type="widget" data-widget_type="heading.default">
                                                                             <div class="elementor-widget-container">
@@ -922,11 +896,8 @@ document.addEventListener('DOMContentLoaded', function() {
                                                                     <div class="elementor-element elementor-element-f812653 e-con-full e-flex e-con e-child" data-id="f812653" data-element_type="container">
                                                                         <div class="elementor-element elementor-element-9120555 elementor-widget elementor-widget-image" data-id="9120555" data-element_type="widget" data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
-   <?php
-                                                                            $rings_menu_path = "assets/gold_menu/Necklaces-Menu.png";
-                                                                            ?>
-                                                                            <img width="90" height="89" src="<?php echo $rings_menu_path; ?>" class="attachment-full size-full wp-image-11218" alt="Rings" /> </div>
-                                                                                                                                               </div>
+                                                                                <img loading="lazy" width="111" height="148" src="../assets/gold_menu/Necklaces-Menu.png" class="attachment-full size-full wp-image-11216" alt="Necklaces" />                                                                                </div>
+                                                                        </div>
                                                                         <div class="elementor-element elementor-element-f9f9e38 elementor-widget elementor-widget-heading" data-id="f9f9e38" data-element_type="widget" data-widget_type="heading.default">
                                                                             <div class="elementor-widget-container">
                                                                                 <h3 class="elementor-heading-title elementor-size-default">Necklaces</h3>
@@ -938,10 +909,7 @@ document.addEventListener('DOMContentLoaded', function() {
                                                                     <div class="elementor-element elementor-element-6b02a25 e-con-full e-flex e-con e-child" data-id="6b02a25" data-element_type="container">
                                                                         <div class="elementor-element elementor-element-6f07095 elementor-widget-mobile__width-initial elementor-widget elementor-widget-image" data-id="6f07095" data-element_type="widget" data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
-                                                                                <?php
-                                                                                $haarams_menu_path = "assets/gold_menu/Haarams.png";
-                                                                                ?>
-                                                                                <img loading="lazy" width="70" height="91" src="<?php echo $haarams_menu_path; ?>" class="attachment-full size-full wp-image-11215" alt="Haarams" />                                                                                </div>
+                                                                                <img loading="lazy" width="70" height="91" src="../assets/gold_menu/Haarams.png" class="attachment-full size-full wp-image-11215" alt="Haarams" />                                                                                </div>
                                                                         </div>
                                                                         <div class="elementor-element elementor-element-ba38136 elementor-widget elementor-widget-heading" data-id="ba38136" data-element_type="widget" data-widget_type="heading.default">
                                                                             <div class="elementor-widget-container">
@@ -954,10 +922,7 @@ document.addEventListener('DOMContentLoaded', function() {
                                                                     <div class="elementor-element elementor-element-6d28712 e-con-full e-flex e-con e-child" data-id="6d28712" data-element_type="container">
                                                                         <div class="elementor-element elementor-element-f070ad3 elementor-widget elementor-widget-image" data-id="f070ad3" data-element_type="widget" data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
-                                                                                <?php
-                                                                                $kadaas_menu_path = "assets/gold_menu/Kadaas-menu.png";
-                                                                                ?>
-                                                                                <img loading="lazy" width="109" height="77" src="<?php echo $kadaas_menu_path; ?>" class="attachment-full size-full wp-image-11212" alt="Kadaas" />                                                                                </div>
+                                                                                <img loading="lazy" width="109" height="77" src="../assets/gold_menu/Kadaas-menu.png" class="attachment-full size-full wp-image-11212" alt="Kadaas" />                                                                                </div>
                                                                         </div>
                                                                         <div class="elementor-element elementor-element-10f2b76 elementor-widget elementor-widget-heading" data-id="10f2b76" data-element_type="widget" data-widget_type="heading.default">
                                                                             <div class="elementor-widget-container">
@@ -970,10 +935,7 @@ document.addEventListener('DOMContentLoaded', function() {
                                                                     <div class="elementor-element elementor-element-c6e9a6d e-con-full e-flex e-con e-child" data-id="c6e9a6d" data-element_type="container">
                                                                         <div class="elementor-element elementor-element-fab8042 elementor-widget elementor-widget-image" data-id="fab8042" data-element_type="widget" data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
-                                                                                <?php
-                                                                                $mangalsutra_menu_path = "assets/gold_menu/Mangalsutra-menu.png";
-                                                                                ?>
-                                                                                <img loading="lazy" width="104" height="67" src="<?php echo $mangalsutra_menu_path; ?>" class="attachment-full size-full wp-image-11213" alt="Mangalsutra" />                                                                                </div>
+                                                                                <img loading="lazy" width="104" height="67" src="../assets/gold_menu/Mangalsutra-menu.png" class="attachment-full size-full wp-image-11213" alt="Mangalsutra" />                                                                                </div>
                                                                         </div>
                                                                         <div class="elementor-element elementor-element-be0ff70 elementor-widget elementor-widget-heading" data-id="be0ff70" data-element_type="widget" data-widget_type="heading.default">
                                                                             <div class="elementor-widget-container">
@@ -986,10 +948,7 @@ document.addEventListener('DOMContentLoaded', function() {
                                                                     <div class="elementor-element elementor-element-73a0af6 e-con-full e-flex e-con e-child" data-id="73a0af6" data-element_type="container">
                                                                         <div class="elementor-element elementor-element-9aa3c07 elementor-widget elementor-widget-image" data-id="9aa3c07" data-element_type="widget" data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
-                                                                                <?php
-                                                                                $bangles_menu_path = "assets/gold_menu/Bangles-Menu-1.png";
-                                                                                ?>
-                                                                                <img loading="lazy" width="107" height="57" src="<?php echo $bangles_menu_path; ?>" class="attachment-full size-full wp-image-11297" alt="Bangles - Menu" />                                                                                </div>
+                                                                                <img loading="lazy" width="107" height="57" src="../assets/gold_menu/Bangles-Menu-1.png" class="attachment-full size-full wp-image-11297" alt="Bangles - Menu" />                                                                                </div>
                                                                         </div>
                                                                         <div class="elementor-element elementor-element-eb224fe elementor-widget elementor-widget-heading" data-id="eb224fe" data-element_type="widget" data-widget_type="heading.default">
                                                                             <div class="elementor-widget-container">
@@ -1002,10 +961,7 @@ document.addEventListener('DOMContentLoaded', function() {
                                                                     <div class="elementor-element elementor-element-224fbc6 e-con-full e-flex e-con e-child" data-id="224fbc6" data-element_type="container">
                                                                         <div class="elementor-element elementor-element-3ece8c0 elementor-widget elementor-widget-image" data-id="3ece8c0" data-element_type="widget" data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
-                                                                                <?php
-                                                                                $chain_menu_path = "assets/gold_menu/chain.png";
-                                                                                ?>
-                                                                                <img loading="lazy" width="119" height="123" src="<?php echo $chain_menu_path; ?>" class="attachment-full size-full wp-image-11503" alt="chain" /> </div>
+                                                                                <img loading="lazy" width="119" height="123" src="../assets/gold_menu/chain.png" class="attachment-full size-full wp-image-11503" alt="chain" /> </div>
                                                                         </div>
                                                                         <div class="elementor-element elementor-element-6839704 elementor-widget elementor-widget-heading" data-id="6839704" data-element_type="widget" data-widget_type="heading.default">
                                                                             <div class="elementor-widget-container">
@@ -1018,10 +974,7 @@ document.addEventListener('DOMContentLoaded', function() {
                                                                     <div class="elementor-element elementor-element-e7a1e89 e-con-full e-flex e-con e-child" data-id="e7a1e89" data-element_type="container">
                                                                         <div class="elementor-element elementor-element-a2cc54f elementor-widget elementor-widget-image" data-id="a2cc54f" data-element_type="widget" data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
-                                                                                <?php
-                                                                                $bracelets_menu_path = "assets/gold_menu/Bracelets.png";
-                                                                                ?>
-                                                                                <img loading="lazy" width="90" height="78" src="<?php echo $bracelets_menu_path; ?>" class="attachment-full size-full wp-image-11502" alt="Bracelets" />                                                                                </div>
+                                                                                <img loading="lazy" width="90" height="78" src="../assets/gold_menu/Bracelets.png" class="attachment-full size-full wp-image-11502" alt="Bracelets" />                                                                                </div>
                                                                         </div>
                                                                         <div class="elementor-element elementor-element-e58d8a8 elementor-widget elementor-widget-heading" data-id="e58d8a8" data-element_type="widget" data-widget_type="heading.default">
                                                                             <div class="elementor-widget-container">
@@ -1047,10 +1000,7 @@ document.addEventListener('DOMContentLoaded', function() {
                                         <li class="e-n-menu-item">
                                             <div id="e-n-menu-title-8203" class="e-n-menu-title">
                                                 <a class="e-n-menu-title-container e-focus e-link" href="/diamond/diamond/diamonds.html">												<span class="e-n-menu-title-text">
-                            <?php
-                            $diamond_icon_path = "assets/favicon/diamond.png";
-                            ?>
-                            <img src="<?php echo $diamond_icon_path; ?>" style="margin-right:6px; Width: 18px;">Diamond						</span>
+                            <img src="../assets/favicon/diamond.png" style="margin-right:6px; Width: 18px;">Diamond						</span>
                     </a> 
                     <button id="e-n-menu-dropdown-icon-8203" class="e-n-menu-dropdown-icon e-focus" data-tab-index="3" aria-haspopup="true" aria-expanded="false" aria-controls="e-n-menu-content-8203">
                             <span class="e-n-menu-dropdown-icon-opened">
@@ -1066,14 +1016,11 @@ document.addEventListener('DOMContentLoaded', function() {
                                                     <div class="e-con-inner">
                                                         <div class="elementor-element elementor-element-c82ddff e-con-full e-flex e-con e-child" data-id="c82ddff" data-element_type="container">
                                                             <div class="elementor-element elementor-element-6767b61 e-grid e-con-full e-con e-child" data-id="6767b61" data-element_type="container">
-                                                                <a class="elementor-element elementor-element-9530cf7 e-con-full mj-mm-item e-flex e-con e-child" data-id="9530cf7" data-element_type="container" href="diamond/diamond_rings.php">
+                                                                <a class="elementor-element elementor-element-9530cf7 e-con-full mj-mm-item e-flex e-con e-child" data-id="9530cf7" data-element_type="container" href="/diamond/rings-diamonds/rings-diamonds.html">
                                                                     <div class="elementor-element elementor-element-2439b6c e-con-full e-flex e-con e-child" data-id="2439b6c" data-element_type="container">
                                                                         <div class="elementor-element elementor-element-c8bd581 elementor-widget-mobile__width-initial elementor-widget elementor-widget-image" data-id="c8bd581" data-element_type="widget" data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
-                                                                                <?php
-                                                                                $diamond_rings_path = "assets/diamond/Rings-diamond.png";
-                                                                                ?>
-                                                                                <img loading="lazy" width="118" height="102" src="<?php echo $diamond_rings_path; ?>" class="attachment-full size-full wp-image-11633" alt="Rings diamond" />                                                                                </div>
+                                                                                <img loading="lazy" width="118" height="102" src="https://muliya.in/wp-content/uploads/2025/04/Rings-diamond.png" class="attachment-full size-full wp-image-11633" alt="Rings diamond" />                                                                                </div>
                                                                         </div>
                                                                         <div class="elementor-element elementor-element-2a58b26 elementor-widget elementor-widget-heading" data-id="2a58b26" data-element_type="widget" data-widget_type="heading.default">
                                                                             <div class="elementor-widget-container">
@@ -1086,10 +1033,7 @@ document.addEventListener('DOMContentLoaded', function() {
                                                                     <div class="elementor-element elementor-element-13d11b3 e-con-full e-flex e-con e-child" data-id="13d11b3" data-element_type="container">
                                                                         <div class="elementor-element elementor-element-d5841e3 elementor-widget elementor-widget-image" data-id="d5841e3" data-element_type="widget" data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
-                                                                                <?php
-                                                                                $diamond_earrings_path = "assets/diamond/Earrings-diamond.png";
-                                                                                ?>
-                                                                                <img loading="lazy" width="110" height="95" src="<?php echo $diamond_earrings_path; ?>" class="attachment-full size-full wp-image-11632" alt="Earrings diamond" />                                                                                </div>
+                                                                                <img loading="lazy" width="110" height="95" src="https://muliya.in/wp-content/uploads/2025/04/Earrings-diamond.png" class="attachment-full size-full wp-image-11632" alt="Earrings diamond" />                                                                                </div>
                                                                         </div>
                                                                         <div class="elementor-element elementor-element-57e4e42 elementor-widget elementor-widget-heading" data-id="57e4e42" data-element_type="widget" data-widget_type="heading.default">
                                                                             <div class="elementor-widget-container">
@@ -1102,10 +1046,7 @@ document.addEventListener('DOMContentLoaded', function() {
                                                                     <div class="elementor-element elementor-element-713b394 e-con-full e-flex e-con e-child" data-id="713b394" data-element_type="container">
                                                                         <div class="elementor-element elementor-element-9697f88 elementor-widget elementor-widget-image" data-id="9697f88" data-element_type="widget" data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
-                                                                                <?php
-                                                                                $diamond_pendants_path = "assets/diamond/Pendants-diamond.png";
-                                                                                ?>
-                                                                                <img loading="lazy" width="93" height="128" src="<?php echo $diamond_pendants_path; ?>" class="attachment-full size-full wp-image-11631" alt="Pendants Diamond" />                                                                                </div>
+                                                                                <img loading="lazy" width="93" height="128" src="https://muliya.in/wp-content/uploads/2025/04/Pendants-diamond.png" class="attachment-full size-full wp-image-11631" alt="Pendants Diamond" />                                                                                </div>
                                                                         </div>
                                                                         <div class="elementor-element elementor-element-92802e9 elementor-widget elementor-widget-heading" data-id="92802e9" data-element_type="widget" data-widget_type="heading.default">
                                                                             <div class="elementor-widget-container">
@@ -1118,10 +1059,7 @@ document.addEventListener('DOMContentLoaded', function() {
                                                                     <div class="elementor-element elementor-element-9eceb73 e-con-full e-flex e-con e-child" data-id="9eceb73" data-element_type="container">
                                                                         <div class="elementor-element elementor-element-bb22261 elementor-widget elementor-widget-image" data-id="bb22261" data-element_type="widget" data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
-                                                                                <?php
-                                                                                $diamond_necklaces_path = "assets/diamond/Necklaces-diamond.png";
-                                                                                ?>
-                                                                                <img loading="lazy" width="122" height="110" src="<?php echo $diamond_necklaces_path; ?>" class="attachment-full size-full wp-image-11630" alt="Necklaces diamond" />                                                                                </div>
+                                                                                <img loading="lazy" width="122" height="110" src="https://muliya.in/wp-content/uploads/2025/04/Necklaces-diamond.png" class="attachment-full size-full wp-image-11630" alt="Necklaces diamond" />                                                                                </div>
                                                                         </div>
                                                                         <div class="elementor-element elementor-element-41ad9db elementor-widget elementor-widget-heading" data-id="41ad9db" data-element_type="widget" data-widget_type="heading.default">
                                                                             <div class="elementor-widget-container">
@@ -1134,10 +1072,7 @@ document.addEventListener('DOMContentLoaded', function() {
                                                                     <div class="elementor-element elementor-element-e52827f e-con-full e-flex e-con e-child" data-id="e52827f" data-element_type="container">
                                                                         <div class="elementor-element elementor-element-1d99974 elementor-widget elementor-widget-image" data-id="1d99974" data-element_type="widget" data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
-                                                                                <?php
-                                                                                $diamond_bangles_path = "assets/diamond/Bangles-Diamond.png";
-                                                                                ?>
-                                                                                <img loading="lazy" width="65" height="104" src="<?php echo $diamond_bangles_path; ?>" class="attachment-full size-full wp-image-11629" alt="Bangles Diamond" />                                                                                </div>
+                                                                                <img loading="lazy" width="65" height="104" src="https://muliya.in/wp-content/uploads/2025/04/Bangles-Diamond.png" class="attachment-full size-full wp-image-11629" alt="Bangles Diamond" />                                                                                </div>
                                                                         </div>
                                                                         <div class="elementor-element elementor-element-3951e33 elementor-widget elementor-widget-heading" data-id="3951e33" data-element_type="widget" data-widget_type="heading.default">
                                                                             <div class="elementor-widget-container">
@@ -1150,10 +1085,7 @@ document.addEventListener('DOMContentLoaded', function() {
                                                                     <div class="elementor-element elementor-element-1404380 e-con-full e-flex e-con e-child" data-id="1404380" data-element_type="container">
                                                                         <div class="elementor-element elementor-element-36e9922 elementor-widget elementor-widget-image" data-id="36e9922" data-element_type="widget" data-widget_type="image.default">
                                                                             <div class="elementor-widget-container">
-                                                                                <?php
-                                                                                $diamond_bracelets_path = "assets/diamond/brace.png";
-                                                                                ?>
-                                                                                <img loading="lazy" width="66" height="96" src="<?php echo $diamond_bracelets_path; ?>" class="attachment-full size-full wp-image-11628" alt="bracelets" />                                                                                </div>
+                                                                                <img loading="lazy" width="66" height="96" src="https://muliya.in/wp-content/uploads/2025/04/brace.png" class="attachment-full size-full wp-image-11628" alt="bracelets" />                                                                                </div>
                                                                         </div>
                                                                         <div class="elementor-element elementor-element-1d38acc elementor-widget elementor-widget-heading" data-id="1d38acc" data-element_type="widget" data-widget_type="heading.default">
                                                                             <div class="elementor-widget-container">
@@ -1320,3 +1252,4 @@ document.addEventListener('DOMContentLoaded', function() {
             </div>
         </div>
     </div>
+    ?>
