@@ -745,9 +745,60 @@
                 </div>
                 <div class="elementor-element elementor-element-138bff8 elementor-widget elementor-widget-image" data-id="138bff8" data-element_type="widget" data-widget_type="image.default">
                     <div class="elementor-widget-container">
-                        <img loading="lazy" width="650" height="330" src="../assets/blog/Styling.png" class="attachment-large size-large wp-image-11148" alt="" srcset="../assets/blog/Styling.png 650w, ../assets/blog/Styling.png 600w, ../assets/blog/Styling.png 300w"
+                        <img loading="lazy" width="650" height="330" src="../assets/blog/Styling.png" class="attachment-large size-large wp-image-11148 blog-featured-image" alt="" srcset="../assets/blog/Styling.png 650w, ../assets/blog/Styling.png 600w, ../assets/blog/Styling.png 300w"
                             sizes="(max-width: 650px) 100vw, 650px" /> </div>
                 </div>
+                
+                <style>
+                    .blog-featured-image {
+                        max-width: 340px !important;
+                        width: 340px !important;
+                        height: 500px !important;
+                        object-fit: cover !important;
+                        display: block !important;
+                        margin: 20px auto !important;
+                        border-radius: 12px !important;
+                        box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15) !important;
+                        transition: transform 0.3s ease, box-shadow 0.3s ease !important;
+                    }
+                    
+                    .blog-featured-image:hover {
+                        transform: translateY(-5px) !important;
+                        box-shadow: 0 12px 35px rgba(0, 0, 0, 0.2) !important;
+                    }
+                    
+                    .elementor-element-138bff8 .elementor-widget-container {
+                        text-align: center !important;
+                        padding: 0 20px !important;
+                    }
+                    
+                    @media (max-width: 768px) {
+                        .blog-featured-image {
+                            max-width: 300px !important;
+                            width: 300px !important;
+                            height: 441px !important;
+                            margin: 15px auto !important;
+                        }
+                        
+                        .elementor-element-138bff8 .elementor-widget-container {
+                            padding: 0 15px !important;
+                        }
+                    }
+                    
+                    @media (max-width: 480px) {
+                        .blog-featured-image {
+                            max-width: 250px !important;
+                            width: 250px !important;
+                            height: 368px !important;
+                            margin: 10px auto !important;
+                            border-radius: 8px !important;
+                        }
+                        
+                        .elementor-element-138bff8 .elementor-widget-container {
+                            padding: 0 10px !important;
+                        }
+                    }
+                </style>
                 <div class="elementor-element elementor-element-b9d6448 elementor-widget elementor-widget-theme-post-content" data-id="b9d6448" data-element_type="widget" data-widget_type="theme-post-content.default">
                     <div class="elementor-widget-container">
                         <p>Jewelry is not just an accessory — it’s a powerful style statement that can transform your entire look. Whether you’re heading to a wedding, a casual brunch, or a formal event, knowing how to style your jewelry with the right outfit brings out elegance, confidence, and personality.</p>

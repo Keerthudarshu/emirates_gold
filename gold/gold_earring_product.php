@@ -716,7 +716,7 @@ if ($row) {
                 <a href="#" title="WhatsApp" class="whatsapp" target="_blank"><i class="fab fa-whatsapp"></i></a>
             </div>
             <div class="enquiry-btns">
-                <a href="#" class="send">Send Enquiry</a>
+                <a href="#" class="send" onclick="openEnquiryPopup()">Send Enquiry</a>
                 <a href="#" class="whatsapp">Whatsapp Enquiry</a>
             </div>
             <style>
@@ -741,6 +741,468 @@ if ($row) {
             <a class="back-link box-btn" href="gold_earring.php">&larr; Back to Products</a>
         </div>
     </div>
+
+    <!-- Enquiry Popup Modal -->
+    <div id="enquiryModal" class="enquiry-modal" style="display: none;">
+        <div class="modal-overlay" onclick="closeEnquiryPopup()"></div>
+        <div class="enquiry-popup">
+            <!-- Close Button -->
+            <button type="button" class="close-btn" onclick="closeEnquiryPopup()">
+                <i class="fas fa-times"></i>
+            </button>
+            
+            <!-- Header -->
+            <div class="popup-header">
+                <div class="logo-icon">
+                    <i class="fas fa-gem"></i>
+                </div>
+                <h2>Product Enquiry</h2>
+                <p>Emirates Gold International</p>
+                <div class="product-info">
+                    <small>Enquiry for: <?php echo htmlspecialchars($row['name'] ?? 'Gold Earrings'); ?> - <?php echo htmlspecialchars($row['code'] ?? ''); ?></small>
+                </div>
+            </div>
+            
+            <!-- Body -->
+            <div class="popup-body">
+                <div id="enquiryMessage" class="alert" style="display: none;"></div>
+                
+                <form id="enquiryForm" onsubmit="submitEnquiry(event)">
+                    <input type="hidden" name="product_name" value="<?php echo htmlspecialchars($row['name'] ?? ''); ?>">
+                    <input type="hidden" name="product_code" value="<?php echo htmlspecialchars($row['code'] ?? ''); ?>">
+                    
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label for="name" class="form-label">Full Name <span class="required">*</span></label>
+                                <div class="input-group">
+                                    <span class="input-group-text">
+                                        <i class="fas fa-user"></i>
+                                    </span>
+                                    <input type="text" class="form-control" id="name" name="name" 
+                                           placeholder="Enter your full name" required>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label for="email" class="form-label">Email Address <span class="required">*</span></label>
+                                <div class="input-group">
+                                    <span class="input-group-text">
+                                        <i class="fas fa-envelope"></i>
+                                    </span>
+                                    <input type="email" class="form-control" id="email" name="email" 
+                                           placeholder="Enter your email" required>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label for="phone" class="form-label">Phone Number <span class="required">*</span></label>
+                                <div class="input-group">
+                                    <span class="input-group-text">
+                                        <i class="fas fa-phone"></i>
+                                    </span>
+                                    <input type="tel" class="form-control" id="phone" name="phone" 
+                                           placeholder="Enter your phone number" required>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label for="enquiry_type" class="form-label">Enquiry Type</label>
+                                <select class="form-select" id="enquiry_type" name="enquiry_type">
+                                    <option value="product_enquiry" selected>Product Enquiry</option>
+                                    <option value="price_inquiry">Price Inquiry</option>
+                                    <option value="custom_design">Custom Design</option>
+                                    <option value="availability">Availability</option>
+                                    <option value="general">General Question</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="form-group">
+                        <label for="message" class="form-label">Message <span class="required">*</span></label>
+                        <textarea class="form-control" id="message" name="message" rows="4" 
+                                  placeholder="Please describe your enquiry about this product..." required></textarea>
+                    </div>
+                    
+                    <button type="submit" class="enquiry-btn">
+                        <i class="fas fa-paper-plane me-2"></i>
+                        Send Enquiry
+                    </button>
+                </form>
+                
+                <div class="contact-info">
+                    <p class="mb-2">
+                        <i class="fas fa-phone-alt"></i>
+                        Call us directly: <a href="tel:+918234567890">+91 82345 67890</a>
+                    </p>
+                    <p class="mb-0">
+                        We typically respond within 24 hours
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <style>
+        :root {
+            --gold-primary: #d4af37;
+            --gold-secondary: #b8941f;
+            --gold-light: #f4e99b;
+            --brown-dark: #2c1810;
+            --brown-light: #4a2c1a;
+            --cream: #f8f5f0;
+            --text-light: #c4b896;
+        }
+
+        .enquiry-modal {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: 9999;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }
+
+        .modal-overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.8);
+            backdrop-filter: blur(5px);
+        }
+
+        .enquiry-popup {
+            background: var(--cream);
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.4);
+            max-width: 600px;
+            width: 100%;
+            max-height: 90vh;
+            overflow-y: auto;
+            position: relative;
+            z-index: 10000;
+            animation: slideInUp 0.4s ease-out;
+        }
+
+        .popup-header {
+            background: linear-gradient(135deg, var(--gold-primary) 0%, var(--gold-secondary) 100%);
+            color: var(--brown-dark);
+            padding: 25px 30px;
+            text-align: center;
+            position: relative;
+            border-radius: 20px 20px 0 0;
+        }
+
+        .popup-header h2 {
+            font-family: 'Playfair Display', serif;
+            font-size: 2rem;
+            font-weight: 700;
+            margin: 0;
+        }
+
+        .popup-header p {
+            margin: 5px 0 0 0;
+            font-size: 1rem;
+            opacity: 0.9;
+        }
+
+        .product-info {
+            margin-top: 10px;
+            padding: 8px 15px;
+            background: rgba(255, 255, 255, 0.2);
+            border-radius: 15px;
+        }
+
+        .product-info small {
+            font-size: 0.85rem;
+            font-weight: 500;
+        }
+
+        .logo-icon {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            color: var(--brown-dark);
+        }
+
+        .popup-body {
+            padding: 30px;
+            background: var(--cream);
+            border-radius: 0 0 20px 20px;
+        }
+
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+        .form-label {
+            font-weight: 600;
+            color: var(--brown-dark);
+            margin-bottom: 6px;
+            font-size: 0.9rem;
+        }
+
+        .form-control, .form-select {
+            border: 2px solid #e0d5c7;
+            border-radius: 8px;
+            padding: 10px 12px;
+            font-size: 0.95rem;
+            transition: all 0.3s ease;
+            background: #fff;
+        }
+
+        .form-control:focus, .form-select:focus {
+            border-color: var(--gold-primary);
+            box-shadow: 0 0 0 0.2rem rgba(212, 175, 55, 0.15);
+            outline: none;
+        }
+
+        .form-control::placeholder {
+            color: #999;
+        }
+
+        .input-group-text {
+            background: var(--gold-light);
+            border: 2px solid #e0d5c7;
+            border-right: none;
+            color: var(--brown-dark);
+            border-radius: 8px 0 0 8px;
+        }
+
+        .input-group .form-control {
+            border-left: none;
+            border-radius: 0 8px 8px 0;
+        }
+
+        .input-group .form-control:focus {
+            border-left: none;
+        }
+
+        .enquiry-btn {
+            background: linear-gradient(135deg, var(--gold-primary) 0%, var(--gold-secondary) 100%);
+            border: none;
+            color: var(--brown-dark);
+            font-weight: 600;
+            padding: 12px 30px;
+            border-radius: 25px;
+            font-size: 1rem;
+            transition: all 0.3s ease;
+            width: 100%;
+            cursor: pointer;
+        }
+
+        .enquiry-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 20px rgba(212, 175, 55, 0.4);
+            color: var(--brown-dark);
+        }
+
+        .close-btn {
+            position: absolute;
+            top: 10px;
+            right: 15px;
+            background: rgba(255, 255, 255, 0.2);
+            border: none;
+            color: var(--brown-dark);
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            font-size: 1rem;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            z-index: 2;
+        }
+
+        .close-btn:hover {
+            background: rgba(255, 255, 255, 0.3);
+            transform: rotate(90deg);
+        }
+
+        .alert {
+            border-radius: 8px;
+            margin-bottom: 20px;
+            border: none;
+            font-weight: 500;
+            padding: 12px 15px;
+        }
+
+        .alert-success {
+            background: linear-gradient(135deg, #d4edda 0%, #c3e6cb 100%);
+            color: #155724;
+        }
+
+        .alert-danger {
+            background: linear-gradient(135deg, #f8d7da 0%, #f1b0b7 100%);
+            color: #721c24;
+        }
+
+        .required {
+            color: var(--gold-primary);
+        }
+
+        .contact-info {
+            margin-top: 25px;
+            text-align: center;
+            padding-top: 20px;
+            border-top: 1px solid #e0d5c7;
+        }
+
+        .contact-info p {
+            margin: 5px 0;
+            color: var(--brown-dark);
+            font-size: 0.9rem;
+        }
+
+        .contact-info a {
+            color: var(--gold-primary);
+            text-decoration: none;
+            font-weight: 500;
+        }
+
+        .contact-info i {
+            color: var(--gold-primary);
+            margin-right: 5px;
+        }
+
+        @keyframes slideInUp {
+            from {
+                opacity: 0;
+                transform: translateY(50px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .enquiry-popup {
+                margin: 10px;
+                border-radius: 15px;
+                max-height: 95vh;
+            }
+            
+            .popup-header {
+                padding: 20px;
+                border-radius: 15px 15px 0 0;
+            }
+            
+            .popup-header h2 {
+                font-size: 1.6rem;
+            }
+            
+            .popup-body {
+                padding: 20px;
+                border-radius: 0 0 15px 15px;
+            }
+            
+            .logo-icon {
+                font-size: 2rem;
+            }
+        }
+    </style>
+
+    <script>
+        function openEnquiryPopup() {
+            document.getElementById('enquiryModal').style.display = 'flex';
+            document.body.style.overflow = 'hidden';
+        }
+
+        function closeEnquiryPopup() {
+            document.getElementById('enquiryModal').style.display = 'none';
+            document.body.style.overflow = 'auto';
+            // Reset form
+            document.getElementById('enquiryForm').reset();
+            document.getElementById('enquiryMessage').style.display = 'none';
+        }
+
+        function submitEnquiry(event) {
+            event.preventDefault();
+            
+            const formData = new FormData(event.target);
+            const messageDiv = document.getElementById('enquiryMessage');
+            
+            // Show loading state
+            const submitBtn = event.target.querySelector('.enquiry-btn');
+            const originalText = submitBtn.innerHTML;
+            submitBtn.innerHTML = '<i class="fas fa-spinner fa-spin me-2"></i>Sending...';
+            submitBtn.disabled = true;
+            
+            // Send AJAX request
+            fetch('../Enquiry.php', {
+                method: 'POST',
+                body: formData
+            })
+            .then(response => response.text())
+            .then(data => {
+                // Check if the response contains success message
+                if (data.includes('Thank you for your enquiry')) {
+                    messageDiv.className = 'alert alert-success';
+                    messageDiv.innerHTML = '<i class="fas fa-check-circle me-2"></i>Thank you for your enquiry! We will get back to you soon.';
+                    messageDiv.style.display = 'block';
+                    
+                    // Reset form
+                    event.target.reset();
+                    
+                    // Auto close after 3 seconds
+                    setTimeout(() => {
+                        closeEnquiryPopup();
+                    }, 3000);
+                } else {
+                    messageDiv.className = 'alert alert-danger';
+                    messageDiv.innerHTML = '<i class="fas fa-exclamation-triangle me-2"></i>There was an error sending your enquiry. Please try again.';
+                    messageDiv.style.display = 'block';
+                }
+            })
+            .catch(error => {
+                messageDiv.className = 'alert alert-danger';
+                messageDiv.innerHTML = '<i class="fas fa-exclamation-triangle me-2"></i>There was an error sending your enquiry. Please try again.';
+                messageDiv.style.display = 'block';
+            })
+            .finally(() => {
+                // Restore button
+                submitBtn.innerHTML = originalText;
+                submitBtn.disabled = false;
+            });
+        }
+
+        // Phone number formatting
+        document.addEventListener('DOMContentLoaded', function() {
+            const phoneInput = document.getElementById('phone');
+            if (phoneInput) {
+                phoneInput.addEventListener('input', function(e) {
+                    let value = e.target.value.replace(/\D/g, '');
+                    if (value.length > 10) {
+                        value = value.substring(0, 10);
+                    }
+                    e.target.value = value;
+                });
+            }
+        });
+
+        // Close modal with Escape key
+        document.addEventListener('keydown', function(e) {
+            if (e.key === 'Escape') {
+                closeEnquiryPopup();
+            }
+        });
+    </script>
+
       <?php include_once '../footer.php'; ?>
 </body>
 </html>

@@ -24,6 +24,24 @@
         border-radius: 16px;
         margin: 40px 0;
       }
+      
+      /* Remove underline on hover for the Discover More About Us button */
+      .elementor-element-0c74388 .elementor-button:hover {
+        text-decoration: none !important;
+      }
+      
+      .elementor-element-0c74388 .elementor-button-text:hover {
+        text-decoration: none !important;
+      }
+      
+      /* Remove underline on hover for the Read More button */
+      .elementor-element-909b17f .elementor-button:hover {
+        text-decoration: none !important;
+      }
+      
+      .elementor-element-909b17f .elementor-button-text:hover {
+        text-decoration: none !important;
+      }
     </style>
     <link rel='dns-prefetch' href='//www.googletagmanager.com' />
     <link rel='dns-prefetch' href='//hb.wpmucdn.com' />
@@ -686,13 +704,13 @@ document.addEventListener('DOMContentLoaded', function() {
                         </div>
                         <div class="elementor-element elementor-element-0c74388 elementor-widget elementor-widget-button" data-id="0c74388" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:200}" 
                             data-widget_type="button.default">
-                            <div class="elementor-widget-container">
-                                <div class="elementor-button-wrapper">
-                                    <a class="elementor-button elementor-button-link elementor-size-sm" href="<?php echo 'about.php'; ?>">
-                        <span class="elementor-button-content-wrapper">
-                                    <span class="elementor-button-text">Discover More About Us</span>
-                    </span>
-                    </a>
+                            <div class="elementor-widget-container" >
+                                <div class="elementor-button-wrapper" >
+                                    <a class="elementor-button elementor-button-link elementor-size-sm" style="background-color:#b28713" href="<?php echo 'about.php'; ?>">
+                                    <span class="elementor-button-content-wrapper">
+                                                <span class="elementor-button-text">Discover More About Us</span>
+                                </span>
+                                    </a>
                                 </div>
                             </div>
                         </div>
@@ -704,7 +722,7 @@ document.addEventListener('DOMContentLoaded', function() {
  
 
                 <!-- 4th founder section -->
-                <div class="elementor-element elementor-element-f42cc98 e-flex e-con-boxed e-con e-parent" data-id="f42cc98" data-element_type="container">
+                <div class="elementor-element elementor-element-f42cc98 e-flex e-con-boxed e-con e-parent" data-id="f42cc98" data-element_type="container" >
                     <div class="e-con-inner">
                         <div class="elementor-element elementor-element-1c28791 e-con-full e-flex e-con e-child" data-id="1c28791" data-element_type="container">
                             <div class="elementor-element elementor-element-1958e1c e-con-full e-flex e-con e-child" data-id="1958e1c" data-element_type="container" data-settings="{&quot;animation&quot;:&quot;fadeIn&quot;}">
@@ -728,11 +746,11 @@ document.addEventListener('DOMContentLoaded', function() {
                                             data-widget_type="button.default">
                                             <div class="elementor-widget-container">
                                                 <div class="elementor-button-wrapper">
-                                                    <a class="elementor-button elementor-button-link elementor-size-sm" href="<?php echo 'about.php'; ?>">
-                        <span class="elementor-button-content-wrapper">
-                                    <span class="elementor-button-text">Read More</span>
-                    </span>
-                    </a>
+                                                    <a class="elementor-button elementor-button-link elementor-size-sm" style="background-color:#b28713" href="<?php echo 'about.php'; ?>">
+                                                    <span class="elementor-button-content-wrapper">
+                                                                <span class="elementor-button-text">Read More</span>
+                                                </span>
+                                                </a>
                                                 </div>
                                             </div>
                                         </div>
@@ -751,7 +769,6 @@ document.addEventListener('DOMContentLoaded', function() {
                     </div>
                 </div>
 
-
                 <!-- 3th founder section end -->
 
             <link rel="stylesheet" href="css/common-mergeV1.min.css">
@@ -761,11 +778,9 @@ document.addEventListener('DOMContentLoaded', function() {
                 <!-- new collection sections end---- -->
 
                 <!-- collection section  -->
-                <div class="elementor-element elementor-element-74b286d e-flex e-con-boxed e-con e-parent" data-id="74b286d" data-element_type="container">
+                <div class="elementor-element elementor-element-74b286d e-flex e-con-boxed e-con e-parent" data-id="74b286d" data-element_type="container" style="margin-top: -20px;">
                     <div class="e-con-inner">
                             <!-- new collection sections---- -->
-
-                  <div class="clear">&nbsp;</div>
                             <div>
                                 <!-------------- homepage-Diamond block ------------>
                                 <div>
@@ -775,9 +790,10 @@ document.addEventListener('DOMContentLoaded', function() {
   grid-template-columns: 1.5fr 1fr 1fr;
   grid-template-rows: 1fr 1fr;
   gap: 16px;
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 0 10px;
+  max-width: 100vw;
+  width: 100%;
+  margin: 0;
+  padding: 0 20px;
   min-height: 400px;
 }
 .diamond-showcase-item {
@@ -860,59 +876,52 @@ document.addEventListener('DOMContentLoaded', function() {
 }
 </style>
 
-<section class="diamond-section section-width mb20">
-  <div class="section-heading" style="justify-items: center;">
+<section class="diamond-section section-width mb20" style="width: 100vw !important; max-width: 100vw !important; margin: 0 !important; padding: 0 !important; box-sizing: border-box;">
+  <div class="section-heading" style="justify-items: center; width: 100% !important; max-width: 100% !important; margin: 0 auto; padding: 40px 20px 20px 20px;">
     <h2 class="section-title festive-highlight" style="text-align:center; width:100%;">Diamond Jewellery</h2>
     <p class="section-sub-text" style="text-align:center; width:100%;">Sparkle through the events with timeless diamonds</p>
   </div>
-  <div class="diamond-showcase-grid">
+  <div class="diamond-showcase-grid" style="width: 100% !important; max-width: 100% !important;">
     <!-- Statement Necklaces (large) -->
     <div class="diamond-showcase-item">
       <img src="assets/diamond/diamond-necklace.jpg" alt="Statement Necklaces" />
-      <div class="diamond-showcase-overlay"></div>
-      <div class="diamond-showcase-content">
-        <div class="diamond-showcase-title">Statement Necklaces</div>
-        <div class="diamond-showcase-sub">Starting from ₹ 32,400*</div>
-      </div>
+      
     </div>
     <!-- Sleek Rings -->
     <div class="diamond-showcase-item">
       <img src="assets/diamond/diamond-ring.jpg" alt="Sleek Rings" />
-      <div class="diamond-showcase-overlay"></div>
-      <div class="diamond-showcase-content">
-        <div class="diamond-showcase-title">Sleek Rings</div>
-        <div class="diamond-showcase-sub">Starting from ₹ 10,080*</div>
-      </div>
+      
     </div>
     <!-- Elegant Bangles -->
     <div class="diamond-showcase-item">
       <img src="assets/diamond/diamond-bangle.jpg" alt="Elegant Bangles" />
-      <div class="diamond-showcase-overlay"></div>
-      <div class="diamond-showcase-content">
-        <div class="diamond-showcase-title">Elegant Bangles</div>
-        <div class="diamond-showcase-sub">Starting from ₹ 36,200*</div>
-      </div>
+     
     </div>
     <!-- Stunning Earrings -->
     <div class="diamond-showcase-item">
       <img src="assets/diamond/diamond-earring.jpg" alt="Stunning Earrings" />
-      <div class="diamond-showcase-overlay"></div>
-      <div class="diamond-showcase-content">
-        <div class="diamond-showcase-title">Stunning Earrings</div>
-        <div class="diamond-showcase-sub">Starting from ₹ 10,817*</div>
-      </div>
+     
     </div>
     <!-- Stylish Mangalsutras -->
     <div class="diamond-showcase-item">
       <img src="assets/diamond/diamond-mangalsutra.jpg" alt="Stylish Mangalsutras" />
-      <div class="diamond-showcase-overlay"></div>
-      <div class="diamond-showcase-content">
-        <div class="diamond-showcase-title">Stylish Mangalsutras</div>
-        <div class="diamond-showcase-sub">Starting from ₹ 36,500*</div>
-      </div>
+      
     </div>
   </div>
+   <div class="elementor-element elementor-element-8bec38c elementor-widget elementor-widget-button" style="margin-top: 50px;" data-id="8bec38c" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:100}"
+                            data-widget_type="button.default">
+                            <div class="elementor-widget-container">
+                                <div class="elementor-button-wrapper">
+                                    <a class="elementor-button elementor-button-link elementor-size-sm" style="background-color:#b28713" href="<?php echo 'diamond/diamond.php'; ?>">
+                        <span class="elementor-button-content-wrapper">
+                                    <span class="elementor-button-text">View All Collections</span>
+                    </span>
+                    </a>
+                                </div>
+                            </div>
+                        </div>
 </section>
+
                                     
                                 </div>
                             </div>
@@ -991,7 +1000,7 @@ document.addEventListener('DOMContentLoaded', function() {
                             data-widget_type="button.default">
                             <div class="elementor-widget-container">
                                 <div class="elementor-button-wrapper">
-                                    <a class="elementor-button elementor-button-link elementor-size-sm" href="<?php echo 'gold/gold.php'; ?>">
+                                    <a class="elementor-button elementor-button-link elementor-size-sm" style="background-color:#b28713" href="<?php echo 'gold/gold.php'; ?>">
                         <span class="elementor-button-content-wrapper">
                                     <span class="elementor-button-text">View All Collections</span>
                     </span>
@@ -1025,7 +1034,7 @@ document.addEventListener('DOMContentLoaded', function() {
                                     data-widget_type="button.default">
                                     <div class="elementor-widget-container">
                                         <div class="elementor-button-wrapper">
-                                            <a class="elementor-button elementor-button-link elementor-size-sm" href="bridel.php">
+                                            <a class="elementor-button elementor-button-link elementor-size-sm" style="background-color:#b28713" href="bridel.php">
                         <span class="elementor-button-content-wrapper">
                                     <span class="elementor-button-text">Explore Bridal Collections</span>
                     </span>
@@ -1130,7 +1139,7 @@ document.addEventListener('DOMContentLoaded', function() {
     max-width: 1200px;
     margin: 0 auto;
     padding: 0 15px;
-    height: 600px;
+    min-height: 600px;
 }
 
 .gift-item {
@@ -1140,7 +1149,7 @@ document.addEventListener('DOMContentLoaded', function() {
     box-shadow: 0 2px 8px rgba(0,0,0,0.1);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     background: #fff;
-    height: 100%;
+    min-height: 280px;
 }
 
 .gift-item:hover {
@@ -1152,12 +1161,16 @@ document.addEventListener('DOMContentLoaded', function() {
     margin: 0;
     position: relative;
     height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .gift-item img {
     width: 100%;
-    height: 100%;
-    object-fit: cover;
+    height: auto;
+    max-height: 100%;
+    object-fit: contain;
     display: block;
     border-radius: 8px;
 }
@@ -1228,13 +1241,17 @@ document.addEventListener('DOMContentLoaded', function() {
     .gift-grid {
         grid-template-columns: repeat(3, 1fr);
         grid-template-rows: repeat(2, 1fr);
-        height: 400px;
+        min-height: 400px;
         gap: 10px;
         padding: 0 10px;
     }
     
     .gift-item {
-        height: 100%;
+        min-height: 180px;
+    }
+    
+    .gift-item img {
+        object-fit: contain;
     }
 }
 
@@ -1250,13 +1267,17 @@ document.addEventListener('DOMContentLoaded', function() {
     .gift-grid {
         grid-template-columns: repeat(3, 1fr);
         grid-template-rows: repeat(2, 1fr);
-        height: 300px;
+        min-height: 300px;
         gap: 8px;
         padding: 0 8px;
     }
     
     .gift-item {
-        height: 100%;
+        min-height: 140px;
+    }
+    
+    .gift-item img {
+        object-fit: contain;
     }
 }
 
@@ -1265,18 +1286,94 @@ document.addEventListener('DOMContentLoaded', function() {
     .gift-grid {
         grid-template-columns: repeat(3, 1fr);
         grid-template-rows: repeat(2, 1fr);
-        height: 500px;
+        min-height: 500px;
         gap: 12px;
         padding: 0 20px;
+    }
+    
+    .gift-item {
+        min-height: 230px;
+    }
+    
+    .gift-item img {
+        object-fit: contain;
     }
 }
 
 /* Large Desktop */
 @media (min-width: 1025px) {
     .gift-grid {
-        height: 650px;
+        min-height: 650px;
         gap: 20px;
         padding: 0 30px;
+    }
+    
+    .gift-item {
+        min-height: 300px;
+    }
+    
+    .gift-item img {
+        object-fit: contain;
+    }
+}
+
+/* Button styling for elementor-element-8bec38c */
+.elementor-element-8bec38c {
+    text-align: center;
+}
+
+.elementor-element-8bec38c .elementor-button:hover,
+.elementor-element-8bec38c .elementor-button:hover span {
+    text-decoration: none !important;
+}
+
+/* Founder image responsive styling */
+.elementor-element-798bff8 .elementor-widget-container {
+    max-width: 100%;
+    height: auto;
+}
+
+.elementor-element-798bff8 img {
+    width: 100%;
+    height: auto;
+    max-width: 450px;
+    max-height: 280px;
+    object-fit: cover;
+    border-radius: 8px;
+    display: block;
+    margin: 0 auto;
+}
+
+/* Desktop - Large screens */
+@media (min-width: 1025px) {
+    .elementor-element-798bff8 img {
+        max-width: 400px;
+        max-height: 250px;
+    }
+}
+
+/* Tablet - Medium screens */
+@media (min-width: 769px) and (max-width: 1024px) {
+    .elementor-element-798bff8 img {
+        max-width: 350px;
+        max-height: 220px;
+    }
+}
+
+/* Small tablet - Small screens */
+@media (min-width: 481px) and (max-width: 768px) {
+    .elementor-element-798bff8 img {
+        max-width: 300px;
+        max-height: 180px;
+    }
+}
+
+/* Mobile - Extra small screens */
+@media (max-width: 480px) {
+    .elementor-element-798bff8 img {
+        max-width: 250px;
+        max-height: 150px;
+        border-radius: 6px;
     }
 }
 </style>
@@ -1360,78 +1457,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
                 <!-- destination for wedding jewellery----------------- -->
 
-                <div class="elementor-element elementor-element-f651391 e-con-full elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile e-flex e-con e-parent" data-id="f651391" data-element_type="container">
-                    <div class="elementor-element elementor-element-ab77510  elementor-widget elementor-widget-image" data-id="ab77510" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="image.default">
-                        <div class="elementor-widget-container">
-                            <img decoding="async" src="https://muliya.in/wp-content/uploads/2025/04/Banner-scaled.png" title="Banner" alt="Banner" loading="lazy" /> </div>
-                    </div>
-                </div>
-                <div class="elementor-element elementor-element-5de77cb e-con-full e-flex e-con e-parent" data-id="5de77cb" data-element_type="container">
-                    <div class="elementor-element elementor-element-ffe24ce e-flex e-con-boxed e-con e-child" data-id="ffe24ce" data-element_type="container">
-                        <div class="e-con-inner">
-                            <div class="elementor-element elementor-element-e32a74c elementor-widget__width-initial  elementor-widget elementor-widget-heading" data-id="e32a74c" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}"
-                                data-widget_type="heading.default">
-                                <div class="elementor-widget-container">
-                                    <h2 class="elementor-heading-title elementor-size-default">Jewellery for every generation and every occasion</h2>
-                                </div>
-                            </div>
-                            <div class="elementor-element elementor-element-f74d71f elementor-widget__width-initial  elementor-widget elementor-widget-text-editor" data-id="f74d71f" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:100}"
-                                data-widget_type="text-editor.default">
-                                <div class="elementor-widget-container">
-                                    <p>Explore elegant collections designed to match every milestone—from your first gift to your forever vows.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="elementor-element elementor-element-44a21a2 e-con-full mj-space-section e-flex e-con e-child" data-id="44a21a2" data-element_type="container">
-                        <div class="elementor-element elementor-element-2dc34e1 e-con-full e-flex e-con e-child" data-id="2dc34e1" data-element_type="container">
-                            <div class="elementor-element elementor-element-f3b7328 elementor-widget__width-initial elementor-widget elementor-widget-image" data-id="f3b7328" data-element_type="widget" data-widget_type="image.default">
-                                <div class="elementor-widget-container">
-                                    <a href="https://muliya.in/amuliya/">
-                            <img loading="lazy" decoding="async" width="782" height="780" src="https://muliya.in/wp-content/uploads/2025/04/Amuliya-Slide.png" class="attachment-full size-full wp-image-11886" alt="Amuliya" srcset="https://muliya.in/wp-content/uploads/2025/04/Amuliya-Slide.png 782w, https://muliya.in/wp-content/uploads/2025/04/Amuliya-Slide-300x300.png 300w, https://muliya.in/wp-content/uploads/2025/04/Amuliya-Slide-150x150.png 150w, https://muliya.in/wp-content/uploads/2025/04/Amuliya-Slide-768x766.png 768w, https://muliya.in/wp-content/uploads/2025/04/Amuliya-Slide-600x598.png 600w, https://muliya.in/wp-content/uploads/2025/04/Amuliya-Slide-100x100.png 100w" sizes="(max-width: 782px) 100vw, 782px" />								</a>
-                                </div>
-                            </div>
-                            <div class="elementor-element elementor-element-d497904 elementor-widget__width-initial elementor-widget elementor-widget-image" data-id="d497904" data-element_type="widget" data-widget_type="image.default">
-                                <div class="elementor-widget-container">
-                                    <a href="https://muliya.in/mahathi/">
-                            <img loading="lazy" decoding="async" width="782" height="780" src="https://muliya.in/wp-content/uploads/2025/04/Mahathi-Slide.png" class="attachment-full size-full wp-image-11885" alt="Mahathi" srcset="https://muliya.in/wp-content/uploads/2025/04/Mahathi-Slide.png 782w, https://muliya.in/wp-content/uploads/2025/04/Mahathi-Slide-300x300.png 300w, https://muliya.in/wp-content/uploads/2025/04/Mahathi-Slide-150x150.png 150w, https://muliya.in/wp-content/uploads/2025/04/Mahathi-Slide-768x766.png 768w, https://muliya.in/wp-content/uploads/2025/04/Mahathi-Slide-600x598.png 600w, https://muliya.in/wp-content/uploads/2025/04/Mahathi-Slide-100x100.png 100w" sizes="(max-width: 782px) 100vw, 782px" />								</a>
-                                </div>
-                            </div>
-                            <div class="elementor-element elementor-element-8c5711b elementor-widget__width-initial elementor-widget elementor-widget-image" data-id="8c5711b" data-element_type="widget" data-widget_type="image.default">
-                                <div class="elementor-widget-container">
-                                    <img loading="lazy" decoding="async" width="780" height="780" src="https://muliya.in/wp-content/uploads/2025/04/Pouranik-Slide.png" class="attachment-full size-full wp-image-12111" alt="Pouranik" srcset="https://muliya.in/wp-content/uploads/2025/04/Pouranik-Slide.png 780w, https://muliya.in/wp-content/uploads/2025/04/Pouranik-Slide-300x300.png 300w, https://muliya.in/wp-content/uploads/2025/04/Pouranik-Slide-150x150.png 150w, https://muliya.in/wp-content/uploads/2025/04/Pouranik-Slide-768x768.png 768w, https://muliya.in/wp-content/uploads/2025/04/Pouranik-Slide-600x600.png 600w, https://muliya.in/wp-content/uploads/2025/04/Pouranik-Slide-100x100.png 100w"
-                                        sizes="(max-width: 780px) 100vw, 780px" /> </div>
-                            </div>
-                            <div class="elementor-element elementor-element-9ba8ee4 elementor-widget__width-initial elementor-widget elementor-widget-image" data-id="9ba8ee4" data-element_type="widget" data-widget_type="image.default">
-                                <div class="elementor-widget-container">
-                                    <img loading="lazy" decoding="async" width="782" height="780" src="https://muliya.in/wp-content/uploads/2025/04/Silveriya-Slide.png" class="attachment-full size-full wp-image-11881" alt="Silveriya" srcset="https://muliya.in/wp-content/uploads/2025/04/Silveriya-Slide.png 782w, https://muliya.in/wp-content/uploads/2025/04/Silveriya-Slide-300x300.png 300w, https://muliya.in/wp-content/uploads/2025/04/Silveriya-Slide-150x150.png 150w, https://muliya.in/wp-content/uploads/2025/04/Silveriya-Slide-768x766.png 768w, https://muliya.in/wp-content/uploads/2025/04/Silveriya-Slide-600x598.png 600w, https://muliya.in/wp-content/uploads/2025/04/Silveriya-Slide-100x100.png 100w"
-                                        sizes="(max-width: 782px) 100vw, 782px" /> </div>
-                            </div>
-                            <div class="elementor-element elementor-element-53559a8 elementor-widget__width-initial elementor-widget elementor-widget-image" data-id="53559a8" data-element_type="widget" data-widget_type="image.default">
-                                <div class="elementor-widget-container">
-                                    <img loading="lazy" decoding="async" width="782" height="780" src="https://muliya.in/wp-content/uploads/2025/04/Nithya-Slide.png" class="attachment-full size-full wp-image-11882" alt="Nithya" srcset="https://muliya.in/wp-content/uploads/2025/04/Nithya-Slide.png 782w, https://muliya.in/wp-content/uploads/2025/04/Nithya-Slide-300x300.png 300w, https://muliya.in/wp-content/uploads/2025/04/Nithya-Slide-150x150.png 150w, https://muliya.in/wp-content/uploads/2025/04/Nithya-Slide-768x766.png 768w, https://muliya.in/wp-content/uploads/2025/04/Nithya-Slide-600x598.png 600w, https://muliya.in/wp-content/uploads/2025/04/Nithya-Slide-100x100.png 100w"
-                                        sizes="(max-width: 782px) 100vw, 782px" /> </div>
-                            </div>
-                            <div class="elementor-element elementor-element-977ead5 elementor-widget__width-initial elementor-widget elementor-widget-image" data-id="977ead5" data-element_type="widget" data-widget_type="image.default">
-                                <div class="elementor-widget-container">
-                                    <img loading="lazy" decoding="async" width="782" height="780" src="https://muliya.in/wp-content/uploads/2025/04/Mangalsutra-Slide.png" class="attachment-full size-full wp-image-11883" alt="Mangalsutra" srcset="https://muliya.in/wp-content/uploads/2025/04/Mangalsutra-Slide.png 782w, https://muliya.in/wp-content/uploads/2025/04/Mangalsutra-Slide-300x300.png 300w, https://muliya.in/wp-content/uploads/2025/04/Mangalsutra-Slide-150x150.png 150w, https://muliya.in/wp-content/uploads/2025/04/Mangalsutra-Slide-768x766.png 768w, https://muliya.in/wp-content/uploads/2025/04/Mangalsutra-Slide-600x598.png 600w, https://muliya.in/wp-content/uploads/2025/04/Mangalsutra-Slide-100x100.png 100w"
-                                        sizes="(max-width: 782px) 100vw, 782px" /> </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="elementor-element elementor-element-cb41e2e elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile  elementor-widget elementor-widget-button" data-id="cb41e2e" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:100}"
-                        data-widget_type="button.default">
-                        <div class="elementor-widget-container">
-                            <div class="elementor-button-wrapper">
-                                <a class="elementor-button elementor-button-link elementor-size-sm" href="#">
-                        <span class="elementor-button-content-wrapper">
-                                    <span class="elementor-button-text">View All Collections</span>
-                    </span>
-                    </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                
+                    
 
 
                 

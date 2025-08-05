@@ -271,20 +271,47 @@ document.addEventListener('DOMContentLoaded', function() {
         padding: 40px 0 20px 0 !important;
     }
     
-    .emirates-footer .col-lg-4,
-    .emirates-footer .col-lg-2 {
-        margin-bottom: 30px;
+    /* 2x2 Grid Layout for Mobile */
+    .emirates-footer .row {
+        display: grid !important;
+        grid-template-columns: 1fr 1fr !important;
+        grid-template-rows: auto auto !important;
+        grid-gap: 20px !important;
+        margin: 0 !important;
+    }
+    
+    .emirates-footer .col-lg-4:first-child {
+        grid-column: 1 / -1 !important; /* Full width for company info */
+        text-align: center !important;
+        margin-bottom: 20px !important;
+        order: 1 !important;
+    }
+    
+    .emirates-footer .col-lg-2:nth-child(2) {
+        grid-column: 1 !important;
+        grid-row: 2 !important;
+        order: 2 !important;
+    }
+    
+    .emirates-footer .col-lg-2:nth-child(3) {
+        grid-column: 2 !important;
+        grid-row: 2 !important;
+        order: 3 !important;
+    }
+    
+    .emirates-footer .col-lg-4:last-child {
+        grid-column: 1 / -1 !important; /* Full width for contact info */
+        grid-row: 3 !important;
+        text-align: center !important;
+        order: 4 !important;
     }
     
     .footer-logo img {
         max-height: 60px !important;
+        margin: 0 auto 15px auto !important;
     }
     
     .social-links div {
-        justify-content: center !important;
-    }
-    
-    .mobile-apps div {
         justify-content: center !important;
     }
     
@@ -294,8 +321,28 @@ document.addEventListener('DOMContentLoaded', function() {
     }
     
     .footer-bottom-links a {
-        display: block;
-        margin: 5px 0 !important;
+        display: inline-block;
+        margin: 5px 10px !important;
+    }
+    
+    /* 2x2 Grid for Footer Bottom */
+    .emirates-footer .row.align-items-center {
+        display: grid !important;
+        grid-template-columns: 1fr 1fr !important;
+        grid-template-rows: auto auto !important;
+        grid-gap: 15px !important;
+        text-align: center !important;
+    }
+    
+    .emirates-footer .row.align-items-center .col-md-6:first-child {
+        grid-column: 1 / -1 !important;
+        grid-row: 1 !important;
+    }
+    
+    .emirates-footer .row.align-items-center .col-md-6:last-child {
+        grid-column: 1 / -1 !important;
+        grid-row: 2 !important;
+        text-align: center !important;
     }
     
     #backToTop {
@@ -308,12 +355,50 @@ document.addEventListener('DOMContentLoaded', function() {
 }
 
 @media (max-width: 480px) {
+    /* Enhanced 2x2 Grid for Very Small Screens */
+    .emirates-footer .row {
+        display: grid !important;
+        grid-template-columns: 1fr 1fr !important;
+        grid-template-rows: auto auto auto !important;
+        grid-gap: 15px !important;
+        margin: 0 !important;
+    }
+    
+    .emirates-footer .col-lg-4:first-child {
+        grid-column: 1 / -1 !important;
+        grid-row: 1 !important;
+        text-align: center !important;
+        order: 1 !important;
+    }
+    
+    .emirates-footer .col-lg-2:nth-child(2) {
+        grid-column: 1 !important;
+        grid-row: 2 !important;
+        order: 2 !important;
+    }
+    
+    .emirates-footer .col-lg-2:nth-child(3) {
+        grid-column: 2 !important;
+        grid-row: 2 !important;
+        order: 3 !important;
+    }
+    
+    .emirates-footer .col-lg-4:last-child {
+        grid-column: 1 / -1 !important;
+        grid-row: 3 !important;
+        text-align: center !important;
+        order: 4 !important;
+    }
+    
     .emirates-footer h4 {
         font-size: 18px !important;
+        text-align: center !important;
     }
     
     .emirates-footer h5 {
         font-size: 16px !important;
+        text-align: center !important;
+        margin-bottom: 15px !important;
     }
     
     .emirates-footer p,
@@ -321,8 +406,63 @@ document.addEventListener('DOMContentLoaded', function() {
         font-size: 13px !important;
     }
     
+    .emirates-footer ul {
+        text-align: center !important;
+    }
+    
+    .footer-section {
+        text-align: center !important;
+        padding: 12px !important;
+        background: rgba(255,255,255,0.05) !important;
+        border-radius: 8px !important;
+        margin-bottom: 8px !important;
+    }
+    
     .container {
-        padding: 0 15px;
+        padding: 0 10px;
+    }
+    
+    .footer-bottom-links a {
+        display: block !important;
+        margin: 8px 0 !important;
+        padding: 5px !important;
+    }
+    
+    /* Enhanced 2x2 Grid for Footer Bottom on Mobile */
+    .emirates-footer .row.align-items-center {
+        display: grid !important;
+        grid-template-columns: 1fr !important;
+        grid-template-rows: auto auto !important;
+        grid-gap: 10px !important;
+        text-align: center !important;
+    }
+    
+    .emirates-footer .row.align-items-center .col-md-6 {
+        grid-column: 1 !important;
+        text-align: center !important;
+    }
+    
+    .footer-bottom-links {
+        display: grid !important;
+        grid-template-columns: 1fr 1fr !important;
+        grid-template-rows: auto auto !important;
+        grid-gap: 8px !important;
+        justify-items: center !important;
+    }
+    
+    .footer-bottom-links a:nth-child(1) {
+        grid-column: 1 !important;
+        grid-row: 1 !important;
+    }
+    
+    .footer-bottom-links a:nth-child(2) {
+        grid-column: 2 !important;
+        grid-row: 1 !important;
+    }
+    
+    .footer-bottom-links a:nth-child(3) {
+        grid-column: 1 / -1 !important;
+        grid-row: 2 !important;
     }
 }
 
