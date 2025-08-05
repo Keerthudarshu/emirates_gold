@@ -365,16 +365,7 @@
                 getWidgetType() {
                     return "global"
                 }
-                animate() {
-                    const e = this.$element,
-                        t = this.getAnimation();
-                    if ("none" === t) return void e.removeClass("elementor-invisible");
-                    const n = this.getElementSettings(),
-                        r = n._animation_delay || n.animation_delay || 0;
-                    e.removeClass(t), this.currentAnimation && e.removeClass(this.currentAnimation), this.currentAnimation = t, setTimeout((() => {
-                        e.removeClass("elementor-invisible").addClass("animated " + t)
-                    }), r)
-                }
+                
                 getAnimation() {
                     return this.getCurrentDeviceSetting("animation") || this.getCurrentDeviceSetting("_animation")
                 }

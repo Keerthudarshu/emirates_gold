@@ -698,8 +698,8 @@ if ($row) {
 
 <body data-rsssl=1 class="home wp-singular page-template-default page page-id-2374 wp-embed-responsive wp-theme-hello-elementor wp-child-theme-muliya-jewels theme-hello-elementor woocommerce-no-js hello-elementor-default elementor-default elementor-kit-7 elementor-page elementor-page-2374">
 
+  <?php include_once '../header.php'; ?>
 
-    
     <div class="product-view-container">
         <div class="product-image">
             <img src="<?php echo htmlspecialchars($row['image']); ?>" alt="<?php echo htmlspecialchars($row['name']); ?>">
@@ -741,6 +741,7 @@ if ($row) {
             <a class="back-link box-btn" href="gold_bracelets.php">&larr; Back to Products</a>
         </div>
     </div>
+      <?php include_once '../footer.php'; ?>
 </body>
 </html>
 <?php

@@ -6,7 +6,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="profile" href="https://gmpg.org/xfn/11">
-    <title>Blog &#8211; Muliya Gold &amp; Diamonds</title>
+    <title>Free hair donation camp on September 11 for cancer sufferers by &quot;Seeds of Hope&quot;. | Muliya Gold &amp; Diamonds</title>
     <meta name='robots' content='max-image-preview:large' />
     <style>
         img:is([sizes="auto" i], [sizes^="auto," i]) {
@@ -18,10 +18,12 @@
     <link href='//hb.wpmucdn.com' rel='preconnect' />
     <link rel="alternate" type="application/rss+xml" title="Muliya Gold &amp; Diamonds &raquo; Feed" href="https://muliya.in/feed/" />
     <link rel="alternate" type="application/rss+xml" title="Muliya Gold &amp; Diamonds &raquo; Comments Feed" href="https://muliya.in/comments/feed/" />
+    <link rel="alternate" type="application/rss+xml" title="Muliya Gold &amp; Diamonds &raquo; Free hair donation camp on September 11 for cancer sufferers by &#8220;Seeds of Hope&#8221;. Comments Feed" href="https://muliya.in/free-hair-donation-camp/feed/"
+    />
     <link rel='stylesheet' id='elementor-post-7-css' href='https://muliya.in/wp-content/uploads/elementor/css/post-7.css?ver=1753797460' media='all' />
     <link rel='stylesheet' id='elementor-post-11154-css' href='https://muliya.in/wp-content/uploads/elementor/css/post-11154.css?ver=1753797463' media='all' />
     <link rel='stylesheet' id='elementor-post-9707-css' href='https://muliya.in/wp-content/uploads/elementor/css/post-9707.css?ver=1753797464' media='all' />
-    <link rel='stylesheet' id='elementor-post-2424-css' href='https://muliya.in/wp-content/uploads/elementor/css/post-2424.css?ver=1753799418' media='all' />
+    <link rel='stylesheet' id='elementor-post-2497-css' href='https://muliya.in/wp-content/uploads/elementor/css/post-2497.css?ver=1753806655' media='all' />
     <link rel='stylesheet' id='elementor-post-11715-css' href='https://muliya.in/wp-content/uploads/elementor/css/post-11715.css?ver=1753797465' media='all' />
     <link rel='stylesheet' id='elementor-post-11346-css' href='https://muliya.in/wp-content/uploads/elementor/css/post-11346.css?ver=1753797465' media='all' />
     <link rel='stylesheet' id='wp-block-library-css' href='https://hb.wpmucdn.com/muliya.in/ac8a5860-25ea-409f-8c66-75489a1d4983.css' media='all' />
@@ -471,6 +473,8 @@
     <link rel='stylesheet' id='widget-search-css' href='https://hb.wpmucdn.com/muliya.in/1db84dba-8d3b-4729-a537-d513b72b69e4.css' media='all' />
     <link rel='stylesheet' id='widget-heading-css' href='https://hb.wpmucdn.com/muliya.in/e451f4b8-e5d5-46cb-80e9-30d222b81964.css' media='all' />
     <link rel='stylesheet' id='widget-mega-menu-css' href='https://hb.wpmucdn.com/muliya.in/537fbbb3-698e-41d4-bd95-795120a86b1b.css' media='all' />
+    <link rel='stylesheet' id='widget-share-buttons-css' href='https://hb.wpmucdn.com/muliya.in/cc2982b6-5ea4-461c-bed2-3d7fe2e65348.css' media='all' />
+    <link rel='stylesheet' id='e-apple-webkit-css' href='https://hb.wpmucdn.com/muliya.in/b97e6e9d-d6e8-497e-ad0b-e955ec011595.css' media='all' />
     <link rel='stylesheet' id='widget-loop-common-css' href='https://hb.wpmucdn.com/muliya.in/1c649dd6-9f3d-4f02-bf67-2b2aaa144922.css' media='all' />
     <link rel='stylesheet' id='widget-loop-grid-css' href='https://hb.wpmucdn.com/muliya.in/1aa9800f-b8ce-419c-adcf-67da09a925cd.css' media='all' />
     <link rel='stylesheet' id='widget-lottie-css' href='https://hb.wpmucdn.com/muliya.in/af7d7526-b66e-468e-bfd5-aba2e22bb15c.css' media='all' />
@@ -514,6 +518,9 @@
         key ] = true; setTimeout( () => { delete window._googlesitekit.throttledEvents[ key ]; }, 5 ); gtag( "event", name, { ...data, event_source: "site-kit" } ); };
     </script>
     <link rel="https://api.w.org/" href="https://muliya.in/wp-json/" />
+    <link rel="alternate" title="JSON" type="application/json" href="https://muliya.in/wp-json/wp/v2/posts/11128" />
+    <link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://muliya.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmuliya.in%2Ffree-hair-donation-camp%2F" />
+    <link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://muliya.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmuliya.in%2Ffree-hair-donation-camp%2F&#038;format=xml" />
     <meta name="generator" content="Site Kit by Google 1.158.0" /> <noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
     <meta name="generator" content="Elementor 3.30.0; features: e_font_icon_svg, additional_custom_breakpoints, e_element_cache; settings: css_print_method-external, google_font-enabled, font_display-swap">
     <!-- Global site tag (gtag.js) - Google Ads: 873895533 -->
@@ -536,6 +543,119 @@
     <!-- End Facebook Pixel Code -->
 
     <!-- SEO meta tags powered by SmartCrawl https://wpmudev.com/project/smartcrawl-wordpress-seo/ -->
+    <link rel="canonical" href="https://muliya.in/free-hair-donation-camp/" />
+    <meta name="description" content="https://www.facebook.com/watch/?v=2032809133572971&amp;extid=NS-UNK-UNK-UNK-AN_GK0T-GK1C&amp;ref=sharing" />
+    <script type="application/ld+json">
+        {
+            "@context": "https:\/\/schema.org",
+            "@graph": [{
+                "@type": "Organization",
+                "@id": "https:\/\/muliya.in\/#schema-publishing-organization",
+                "url": "https:\/\/muliya.in",
+                "name": "Muliya Gold &amp; Diamonds",
+                "logo": {
+                    "@type": "ImageObject",
+                    "@id": "https:\/\/muliya.in\/#schema-organization-logo",
+                    "url": "https:\/\/muliya.in\/wp-content\/uploads\/2025\/04\/muliya-favicon.png",
+                    "height": 60,
+                    "width": 60
+                }
+            }, {
+                "@type": "WebSite",
+                "@id": "https:\/\/muliya.in\/#schema-website",
+                "url": "https:\/\/muliya.in",
+                "name": "Muliya Gold & Diamonds",
+                "encoding": "UTF-8",
+                "potentialAction": {
+                    "@type": "SearchAction",
+                    "target": "https:\/\/muliya.in\/search\/{search_term_string}\/",
+                    "query-input": "required name=search_term_string"
+                },
+                "image": {
+                    "@type": "ImageObject",
+                    "@id": "https:\/\/muliya.in\/#schema-site-logo",
+                    "url": "https:\/\/muliya.in\/wp-content\/uploads\/2025\/04\/Logo.svg",
+                    "height": 69,
+                    "width": 152
+                }
+            }, {
+                "@type": "BreadcrumbList",
+                "@id": "https:\/\/muliya.in\/free-hair-donation-camp?page&name=free-hair-donation-camp\/#breadcrumb",
+                "itemListElement": [{
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https:\/\/muliya.in"
+                }, {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Blog",
+                    "item": "https:\/\/muliya.in\/blog\/"
+                }, {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": "Updates",
+                    "item": "https:\/\/muliya.in\/category\/updates\/"
+                }, {
+                    "@type": "ListItem",
+                    "position": 4,
+                    "name": "Free hair donation camp on September 11 for cancer sufferers by &#8220;Seeds of Hope&#8221;."
+                }]
+            }, {
+                "@type": "Person",
+                "@id": "https:\/\/muliya.in\/author\/developers\/#schema-author",
+                "name": "Developers",
+                "url": "https:\/\/muliya.in\/author\/developers\/"
+            }, {
+                "@type": "WebPage",
+                "@id": "https:\/\/muliya.in\/free-hair-donation-camp\/#schema-webpage",
+                "isPartOf": {
+                    "@id": "https:\/\/muliya.in\/#schema-website"
+                },
+                "publisher": {
+                    "@id": "https:\/\/muliya.in\/#schema-publishing-organization"
+                },
+                "url": "https:\/\/muliya.in\/free-hair-donation-camp\/"
+            }, {
+                "@type": "Article",
+                "mainEntityOfPage": {
+                    "@id": "https:\/\/muliya.in\/free-hair-donation-camp\/#schema-webpage"
+                },
+                "author": {
+                    "@id": "https:\/\/muliya.in\/author\/developers\/#schema-author"
+                },
+                "publisher": {
+                    "@id": "https:\/\/muliya.in\/#schema-publishing-organization"
+                },
+                "dateModified": "2025-04-17T13:03:11",
+                "datePublished": "2022-09-06T12:53:21",
+                "headline": "Free hair donation camp on September 11 for cancer sufferers by \"Seeds of Hope\". | Muliya Gold &amp; Diamonds",
+                "description": "https:\/\/www.facebook.com\/watch\/?v=2032809133572971&amp;extid=NS-UNK-UNK-UNK-AN_GK0T-GK1C&amp;ref=sharing",
+                "name": "Free hair donation camp on September 11 for cancer sufferers by &#8220;Seeds of Hope&#8221;.",
+                "image": {
+                    "@type": "ImageObject",
+                    "@id": "https:\/\/muliya.in\/free-hair-donation-camp\/#schema-article-image",
+                    "url": "https:\/\/muliya.in\/wp-content\/uploads\/2022\/09\/Yoga-Jeevana-Poster.jpg",
+                    "height": 330,
+                    "width": 650
+                },
+                "thumbnailUrl": "https:\/\/muliya.in\/wp-content\/uploads\/2022\/09\/Yoga-Jeevana-Poster.jpg"
+            }]
+        }
+    </script>
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://muliya.in/free-hair-donation-camp/" />
+    <meta property="og:title" content="Free hair donation camp on September 11 for cancer sufferers by &quot;Seeds of Hope&quot;. | Muliya Gold &amp; Diamonds" />
+    <meta property="og:description" content="https://www.facebook.com/watch/?v=2032809133572971&amp;extid=NS-UNK-UNK-UNK-AN_GK0T-GK1C&amp;ref=sharing" />
+    <meta property="og:image" content="https://muliya.in/wp-content/uploads/2022/09/Yoga-Jeevana-Poster.jpg" />
+    <meta property="og:image:width" content="650" />
+    <meta property="og:image:height" content="330" />
+    <meta property="article:published_time" content="2022-09-06T12:53:21" />
+    <meta property="article:author" content="Developers" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Free hair donation camp on September 11 for cancer sufferers by &quot;Seeds of Hope&quot;. | Muliya Gold &amp; Diamonds" />
+    <meta name="twitter:description" content="https://www.facebook.com/watch/?v=2032809133572971&amp;extid=NS-UNK-UNK-UNK-AN_GK0T-GK1C&amp;ref=sharing" />
+    <meta name="twitter:image" content="https://muliya.in/wp-content/uploads/2022/09/Yoga-Jeevana-Poster.jpg" />
     <!-- /SEO -->
     <style>
         .e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
@@ -580,24 +700,138 @@
     </style>
 </head>
 
-<body data-rsssl=1 class="blog wp-embed-responsive wp-theme-hello-elementor wp-child-theme-muliya-jewels theme-hello-elementor woocommerce-no-js hello-elementor-default elementor-page-2424 elementor-default elementor-template-full-width elementor-kit-7">
+<body data-rsssl=1 class="wp-singular post-template-default single single-post postid-11128 single-format-standard wp-embed-responsive wp-theme-hello-elementor wp-child-theme-muliya-jewels theme-hello-elementor woocommerce-no-js hello-elementor-default elementor-default elementor-kit-7 elementor-page-2497">
 
-
-       <?php include_once 'header.php'; ?>
-
-    <div data-elementor-type="archive" data-elementor-id="2424" class="elementor elementor-2424 elementor-location-archive" data-elementor-post-type="elementor_library">
-        <div class="elementor-element elementor-element-e729706 e-flex e-con-boxed e-con e-parent" data-id="e729706" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+<?php include_once '../header.php'; ?>
+    
+    <div data-elementor-type="single-post" data-elementor-id="2497" class="elementor elementor-2497 elementor-location-single post-11128 post type-post status-publish format-standard has-post-thumbnail hentry category-updates" data-elementor-post-type="elementor_library">
+        <div class="elementor-element elementor-element-22259ee e-flex e-con-boxed e-con e-parent" data-id="22259ee" data-element_type="container">
             <div class="e-con-inner">
-                <div class="elementor-element elementor-element-5256cb3 elementor-widget elementor-widget-heading" data-id="5256cb3" data-element_type="widget" data-widget_type="heading.default">
+                <div class="elementor-element elementor-element-1082cb8 elementor-widget elementor-widget-heading" data-id="1082cb8" data-element_type="widget" data-widget_type="heading.default">
                     <div class="elementor-widget-container">
-                        <h1 class="elementor-heading-title elementor-size-default">Blog</h1>
+                        <h1 class="elementor-heading-title elementor-size-default">Jewelry Education – Everything You Need to Know Before You Buy &#8220;Perfect Match&#8221;.</h1>
+                    </div>
+                </div>
+                <div class="elementor-element elementor-element-8efb792 e-con-full e-flex e-con e-child" data-id="8efb792" data-element_type="container">
+                    <div class="elementor-element elementor-element-50bdd13 elementor-widget elementor-widget-text-editor" data-id="50bdd13" data-element_type="widget" data-widget_type="text-editor.default">
+                        <div class="elementor-widget-container">
+                            July 9, 2024 </div>
+                    </div>
+                    <div class="elementor-element elementor-element-cf52792 elementor-share-buttons--view-icon elementor-share-buttons--skin-flat elementor-share-buttons--shape-circle elementor-share-buttons--color-custom elementor-grid-mobile-0 elementor-share-buttons-mobile--align-left elementor-grid-0 elementor-widget elementor-widget-share-buttons"
+                        data-id="cf52792" data-element_type="widget" data-widget_type="share-buttons.default">
+                        <div class="elementor-widget-container">
+                            <div class="elementor-grid" role="list">
+                                <div class="elementor-grid-item" role="listitem">
+                                    <div class="elementor-share-btn elementor-share-btn_facebook" role="button" tabindex="0" aria-label="Share on facebook">
+                                        <span class="elementor-share-btn__icon">
+                                <svg class="e-font-icon-svg e-fab-facebook" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"></path></svg>							</span>
+                                    </div>
+                                </div>
+                                <div class="elementor-grid-item" role="listitem">
+                                    <div class="elementor-share-btn elementor-share-btn_twitter" role="button" tabindex="0" aria-label="Share on twitter">
+                                        <span class="elementor-share-btn__icon">
+                                <svg class="e-font-icon-svg e-fab-twitter" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg>							</span>
+                                    </div>
+                                </div>
+                                <div class="elementor-grid-item" role="listitem">
+                                    <div class="elementor-share-btn elementor-share-btn_whatsapp" role="button" tabindex="0" aria-label="Share on whatsapp">
+                                        <span class="elementor-share-btn__icon">
+                                <svg class="e-font-icon-svg e-fab-whatsapp" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M380.9 97.1C339 55.1 283.2 32 223.9 32c-122.4 0-222 99.6-222 222 0 39.1 10.2 77.3 29.6 111L0 480l117.7-30.9c32.4 17.7 68.9 27 106.1 27h.1c122.3 0 224.1-99.6 224.1-222 0-59.3-25.2-115-67.1-157zm-157 341.6c-33.2 0-65.7-8.9-94-25.7l-6.7-4-69.8 18.3L72 359.2l-4.4-7c-18.5-29.4-28.2-63.3-28.2-98.2 0-101.7 82.8-184.5 184.6-184.5 49.3 0 95.6 19.2 130.4 54.1 34.8 34.9 56.2 81.2 56.1 130.5 0 101.8-84.9 184.6-186.6 184.6zm101.2-138.2c-5.5-2.8-32.8-16.2-37.9-18-5.1-1.9-8.8-2.8-12.5 2.8-3.7 5.6-14.3 18-17.6 21.8-3.2 3.7-6.5 4.2-12 1.4-32.6-16.3-54-29.1-75.5-66-5.7-9.8 5.7-9.1 16.3-30.3 1.8-3.7.9-6.9-.5-9.7-1.4-2.8-12.5-30.1-17.1-41.2-4.5-10.8-9.1-9.3-12.5-9.5-3.2-.2-6.9-.2-10.6-.2-3.7 0-9.7 1.4-14.8 6.9-5.1 5.6-19.4 19-19.4 46.3 0 27.3 19.9 53.7 22.6 57.4 2.8 3.7 39.1 59.7 94.8 83.8 35.2 15.2 49 16.5 66.6 13.9 10.7-1.6 32.8-13.4 37.4-26.4 4.6-13 4.6-24.1 3.2-26.4-1.3-2.5-5-3.9-10.5-6.6z"></path></svg>							</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="elementor-element elementor-element-138bff8 elementor-widget elementor-widget-image" data-id="138bff8" data-element_type="widget" data-widget_type="image.default">
+                    <div class="elementor-widget-container">
+                        <img loading="lazy" width="650" height="330" src="../assets/blog/Jewelry-Education.png" class="attachment-large size-large wp-image-11148" alt="" srcset="../assets/blog/Jewelry-Education.png 650w, ../assets/blog/Jewelry-Education.png 600w, ../assets/blog/Jewelry-Education.png 300w"
+                            sizes="(max-width: 650px) 100vw, 650px" /> </div>
+                </div>
+                <div class="elementor-element elementor-element-b9d6448 elementor-widget elementor-widget-theme-post-content" data-id="b9d6448" data-element_type="widget" data-widget_type="theme-post-content.default">
+                    <div class="elementor-widget-container">
+                         <h3>💎 Why Jewelry Education Matters:</h3>
+                        <p>Before buying jewelry, it’s important to know what you're investing in. With the variety of metals, gemstones, styles, and price points, making an informed decision can save you money and ensure you receive the highest quality. Our educational content helps both beginners and enthusiasts to:</p>
+                        <ul>
+                            <li>Avoid common mistakes when purchasing jewelry</li>
+                            <li>Understand authenticity and certification standards</li>
+                            <li>Learn how to care for and maintain fine jewelry</li>
+                            <li>Appreciate the craftsmanship and stories behind traditional and modern designs</li>
+                        </ul>
+                        <h3>📚 Topics We Cover in Jewelry Education:</h3>
+                        <ol>
+                            <li><strong>Diamond Education: 4Cs Explained</strong><br>
+                                <ul>
+                                    <li>Learn how Cut, Clarity, Color, and Carat weight affect a diamond’s quality and price.</li>
+                                    <li>Understand grading reports (GIA, IGI) and how to read them.</li>
+                                    <li>Real vs. synthetic diamonds – how to tell the difference.</li>
+                                </ul>
+                            </li>
+                            <li><strong>Gold Purity & Hallmarking</strong><br>
+                                <ul>
+                                    <li>What is 24K, 22K, 18K, 14K gold?</li>
+                                    <li>The importance of BIS hallmarking in India.</li>
+                                    <li>Tips for buying gold jewelry wisely, especially during festive seasons like Akshaya Tritiya.</li>
+                                </ul>
+                            </li>
+                            <li><strong>Gemstones: Types, Meanings & Certifications</strong><br>
+                                <ul>
+                                    <li>Understand popular gemstones: rubies, emeralds, sapphires, pearls, etc.</li>
+                                    <li>Learn about birthstones, astrological gems, and their meanings.</li>
+                                    <li>How to verify if a gemstone is natural, synthetic, or imitation.</li>
+                                </ul>
+                            </li>
+                            <li><strong>Jewelry Styles and Traditions</strong><br>
+                                <ul>
+                                    <li>Discover different jewelry styles from around India (e.g., Kundan, Meenakari, Temple Jewelry).</li>
+                                    <li>Explore international jewelry design trends.</li>
+                                    <li>The cultural and symbolic importance of jewelry in weddings, festivals, and milestones.</li>
+                                </ul>
+                            </li>
+                            <li><strong>Jewelry Buying Tips & Investment Advice</strong><br>
+                                <ul>
+                                    <li>How to choose the right jewelry for your occasion, budget, and lifestyle.</li>
+                                    <li>Jewelry as an investment: what holds value over time?</li>
+                                    <li>Online vs. in-store purchases – what to look out for.</li>
+                                </ul>
+                            </li>
+                            <li><strong>Jewelry Care and Maintenance</strong><br>
+                                <ul>
+                                    <li>Best practices for cleaning gold, silver, diamond, and gemstone jewelry.</li>
+                                    <li>Storage tips to prevent tarnishing and scratches.</li>
+                                    <li>When to get your jewelry professionally cleaned or checked.</li>
+                                </ul>
+                            </li>
+                            <li><strong>Behind the Scenes: How Jewelry is Made</strong><br>
+                                <ul>
+                                    <li>Insights into the craftsmanship of goldsmiths and designers.</li>
+                                    <li>How custom jewelry is designed and manufactured.</li>
+                                    <li>Tools and techniques used in traditional and modern jewelry making.</li>
+                                </ul>
+                            </li>
+                        </ol>
+                        <h3>✨ Who Should Read This Blog?</h3>
+                        <ul>
+                            <li>First-time jewelry buyers</li>
+                            <li>Wedding & engagement ring shoppers</li>
+                            <li>Jewelry investors and collectors</li>
+                            <li>Fashion enthusiasts and stylists</li>
+                            <li>Anyone who loves understanding the story behind beautiful things</li>
+                        </ul>
+                        <h3>🎯 Our Mission:</h3>
+                        <p>To empower every jewelry lover with knowledge so you can buy, wear, and gift with confidence. No more guesswork, no more confusion — just sparkle with certainty.</p>
                     </div>
                 </div>
             </div>
         </div>
-        <div class="elementor-element elementor-element-e2d210a e-flex e-con-boxed e-con e-parent" data-id="e2d210a" data-element_type="container">
+        <div class="elementor-element elementor-element-065d24c e-flex e-con-boxed e-con e-parent" data-id="065d24c" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
             <div class="e-con-inner">
-                <div class="elementor-element elementor-element-f5bdb96 elementor-grid-4 elementor-grid-tablet-2 elementor-grid-mobile-1 elementor-widget elementor-widget-loop-grid" data-id="f5bdb96" data-element_type="widget" data-settings="{&quot;template_id&quot;:&quot;2414&quot;,&quot;columns&quot;:4,&quot;columns_tablet&quot;:2,&quot;row_gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:100,&quot;sizes&quot;:[]},&quot;columns_mobile&quot;:1,&quot;pagination_type&quot;:&quot;numbers&quot;,&quot;pagination_load_type&quot;:&quot;ajax&quot;,&quot;row_gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:60,&quot;sizes&quot;:[]},&quot;row_gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:30,&quot;sizes&quot;:[]},&quot;_skin&quot;:&quot;post&quot;,&quot;edit_handle_selector&quot;:&quot;[data-elementor-type=\&quot;loop-item\&quot;]&quot;}"
+                <div class="elementor-element elementor-element-ef94759 elementor-widget elementor-widget-heading" data-id="ef94759" data-element_type="widget" data-widget_type="heading.default">
+                    <div class="elementor-widget-container">
+                        <h2 class="elementor-heading-title elementor-size-default">Most Popular</h2>
+                    </div>
+                </div>
+                <div class="elementor-element elementor-element-ccaf01d elementor-grid-3 elementor-grid-tablet-2 elementor-grid-mobile-1 elementor-widget elementor-widget-loop-grid" data-id="ccaf01d" data-element_type="widget" data-settings="{&quot;template_id&quot;:&quot;2414&quot;,&quot;_skin&quot;:&quot;post&quot;,&quot;columns&quot;:&quot;3&quot;,&quot;columns_tablet&quot;:&quot;2&quot;,&quot;columns_mobile&quot;:&quot;1&quot;,&quot;edit_handle_selector&quot;:&quot;[data-elementor-type=\&quot;loop-item\&quot;]&quot;,&quot;row_gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;row_gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;row_gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}"
                     data-widget_type="loop-grid.post">
                     <div class="elementor-widget-container">
                         <div class="elementor-loop-container elementor-grid" role="list">
@@ -706,44 +940,13 @@
 
                                 /* End custom CSS */
                             </style>
-                            <div data-elementor-type="loop-item" data-elementor-id="2414" class="elementor elementor-2414 e-loop-item e-loop-item-11128 post-11128 post type-post status-publish format-standard has-post-thumbnail hentry category-updates"
+                            <div data-elementor-type="loop-item" data-elementor-id="2414" class="elementor elementor-2414 e-loop-item e-loop-item-1153 post-1153 post type-post status-publish format-standard has-post-thumbnail hentry category-updates"
                                 data-elementor-post-type="elementor_library" data-custom-edit-handle="1">
                                 <div class="elementor-element elementor-element-9616b83 e-flex e-con-boxed e-con e-parent" data-id="9616b83" data-element_type="container">
                                     <div class="e-con-inner">
                                         <div class="elementor-element elementor-element-c8c82b7 elementor-widget elementor-widget-image" data-id="c8c82b7" data-element_type="widget" data-widget_type="image.default">
                                             <div class="elementor-widget-container">
-                                                <img loading="lazy" width="650" height="330" src="assets/blog/Jewelry-Education.png" class="attachment-large size-large wp-image-11148" alt="" srcset="assets/blog/Jewelry-Education.png 650w, assets/blog/Jewelry-Education.png 600w, assets/blog/Jewelry-Education.png 300w"
-                                                    sizes="(max-width: 650px) 100vw, 650px" /> </div>
-                                        </div>
-                                        <div class="elementor-element elementor-element-64e7e35 elementor-widget elementor-widget-heading" data-id="64e7e35" data-element_type="widget" data-widget_type="heading.default">
-                                            <div class="elementor-widget-container">
-                                                <h3 class="elementor-heading-title elementor-size-default">Jewelry Education – Everything You Need to Know Before You Buy
-                                                     &#8220;Seeds of Hope&#8221;.</h3>
-                                            </div>
-                                        </div>
-                                        <div class="elementor-element elementor-element-d1f3c3e e-con-full e-flex e-con e-child" data-id="d1f3c3e" data-element_type="container">
-                                            <div class="elementor-element elementor-element-d8a3646 elementor-widget elementor-widget-button" data-id="d8a3646" data-element_type="widget" data-widget_type="button.default">
-                                                <div class="elementor-widget-container">
-                                                    <div class="elementor-button-wrapper">
-                                                        <a class="elementor-button elementor-button-link elementor-size-sm" href="Blogs/Jewelry Education.php">
-                        <span class="elementor-button-content-wrapper">
-                                    <span class="elementor-button-text">Read More</span>
-                    </span>
-                    </a>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div data-elementor-type="loop-item" data-elementor-id="2414" class="elementor elementor-2414 e-loop-item e-loop-item-1153 post-1153 post type-post status-publish format-standard has-post-thumbnail hentry category-updates" data-elementor-post-type="elementor_library"
-                                data-custom-edit-handle="1">
-                                <div class="elementor-element elementor-element-9616b83 e-flex e-con-boxed e-con e-parent" data-id="9616b83" data-element_type="container">
-                                    <div class="e-con-inner">
-                                        <div class="elementor-element elementor-element-c8c82b7 elementor-widget elementor-widget-image" data-id="c8c82b7" data-element_type="widget" data-widget_type="image.default">
-                                            <div class="elementor-widget-container">
-                                                <img loading="lazy" width="768" height="448" src="assets/blog/Akshaya-Tritiya.png" class="attachment-large size-large wp-image-1473" alt="" srcset="assets/blog/Akshaya-Tritiya.png 768w, assets/blog/Akshaya-Tritiya.png 600w, assets/blog/Akshaya-Tritiya.png 300w"
+                                                <img loading="lazy" width="768" height="448" src="https://muliya.in/wp-content/uploads/2020/02/muliya-founders-day-featured.jpg" class="attachment-large size-large wp-image-1473" alt="" srcset="https://muliya.in/wp-content/uploads/2020/02/muliya-founders-day-featured.jpg 768w, https://muliya.in/wp-content/uploads/2020/02/muliya-founders-day-featured-600x350.jpg 600w, https://muliya.in/wp-content/uploads/2020/02/muliya-founders-day-featured-300x175.jpg 300w"
                                                     sizes="(max-width: 768px) 100vw, 768px" /> </div>
                                         </div>
                                         <div class="elementor-element elementor-element-64e7e35 elementor-widget elementor-widget-heading" data-id="64e7e35" data-element_type="widget" data-widget_type="heading.default">
@@ -755,7 +958,7 @@
                                             <div class="elementor-element elementor-element-d8a3646 elementor-widget elementor-widget-button" data-id="d8a3646" data-element_type="widget" data-widget_type="button.default">
                                                 <div class="elementor-widget-container">
                                                     <div class="elementor-button-wrapper">
-                                                        <a class="elementor-button elementor-button-link elementor-size-sm" href="/muliya-jewels-founders-day-social-responsibility-on-the-path-of-excellence/index.html">
+                                                        <a class="elementor-button elementor-button-link elementor-size-sm" href="https://muliya.in/muliya-jewels-founders-day-social-responsibility-on-the-path-of-excellence/">
                         <span class="elementor-button-content-wrapper">
                                     <span class="elementor-button-text">Read More</span>
                     </span>
@@ -773,25 +976,19 @@
                                     <div class="e-con-inner">
                                         <div class="elementor-element elementor-element-c8c82b7 elementor-widget elementor-widget-image" data-id="c8c82b7" data-element_type="widget" data-widget_type="image.default">
                                             <div class="elementor-widget-container">
-<?php
-$styling_img = 'assets/blog/Styling.png';
-$styling_srcset = 'assets/blog/Styling.png 800w, assets/blog/Styling.png 600w, assets/blog/Styling.png 300w, assets/blog/Styling.png 768w, assets/blog/Styling.png 1200w';
-echo '<div style="width:100%;display:flex;justify-content:center;align-items:center;margin-bottom:16px;">';
-echo '<img loading="lazy" width="320" height="200" src="' . htmlspecialchars($styling_img) . '" class="blog-img-standard" alt="Fashion & Styling Tips" srcset="' . htmlspecialchars($styling_srcset) . '" sizes="320px" style="width:320px;height:200px;object-fit:cover;object-position:center center;border-radius:10px;box-shadow:0 2px 12px rgba(0,0,0,0.08);background:#f3f3f3;display:block;" />';
-echo '</div>';
-?>
-                                                     </div>
+                                                <img loading="lazy" width="800" height="493" src="https://muliya.in/wp-content/uploads/2020/02/akshaya-tritiya-blog-1024x631.jpg" class="attachment-large size-large wp-image-1478" alt="" srcset="https://muliya.in/wp-content/uploads/2020/02/akshaya-tritiya-blog-1024x631.jpg 1024w, https://muliya.in/wp-content/uploads/2020/02/akshaya-tritiya-blog-600x370.jpg 600w, https://muliya.in/wp-content/uploads/2020/02/akshaya-tritiya-blog-300x185.jpg 300w, https://muliya.in/wp-content/uploads/2020/02/akshaya-tritiya-blog-768x474.jpg 768w, https://muliya.in/wp-content/uploads/2020/02/akshaya-tritiya-blog.jpg 1200w"
+                                                    sizes="(max-width: 800px) 100vw, 800px" /> </div>
                                         </div>
                                         <div class="elementor-element elementor-element-64e7e35 elementor-widget elementor-widget-heading" data-id="64e7e35" data-element_type="widget" data-widget_type="heading.default">
                                             <div class="elementor-widget-container">
-                                                <h3 class="elementor-heading-title elementor-size-default">Fashion & Styling Tips – Wear Jewelry Like a Pro</h3>
+                                                <h3 class="elementor-heading-title elementor-size-default">Why purchasing gold on Akshaya Tritiya is considered as a good fortune?</h3>
                                             </div>
                                         </div>
                                         <div class="elementor-element elementor-element-d1f3c3e e-con-full e-flex e-con e-child" data-id="d1f3c3e" data-element_type="container">
                                             <div class="elementor-element elementor-element-d8a3646 elementor-widget elementor-widget-button" data-id="d8a3646" data-element_type="widget" data-widget_type="button.default">
                                                 <div class="elementor-widget-container">
                                                     <div class="elementor-button-wrapper">
-                                                        <a class="elementor-button elementor-button-link elementor-size-sm" href="Blogs/Fashion.php">
+                                                        <a class="elementor-button elementor-button-link elementor-size-sm" href="https://muliya.in/why-purchasing-gold-on-akshaya-tritiya-is-considered-as-a-good-fortune/">
                         <span class="elementor-button-content-wrapper">
                                     <span class="elementor-button-text">Read More</span>
                     </span>
@@ -809,13 +1006,9 @@ echo '</div>';
                                     <div class="e-con-inner">
                                         <div class="elementor-element elementor-element-c8c82b7 elementor-widget elementor-widget-image" data-id="c8c82b7" data-element_type="widget" data-widget_type="image.default">
                                             <div class="elementor-widget-container">
-                                            <?php
-                                            $behind_scenes_img = 'assets/blog/Behind-scenes.png';
-                                            $behind_scenes_srcset = 'assets/blog/Behind-scenes.png 800w, assets/blog/Behind-scenes.png 600w, assets/blog/Behind-scenes.png 300w, assets/blog/Behind-scenes.png 768w, assets/blog/Behind-scenes.png 1200w';
-                                            echo '<div style="width:100%;display:flex;justify-content:center;align-items:center;margin-bottom:16px;">';
-                                            echo '<img loading="lazy" width="320" height="200" src="' . htmlspecialchars($behind_scenes_img) . '" class="blog-img-standard" alt="Behind the Scenes" srcset="' . htmlspecialchars($behind_scenes_srcset) . '" sizes="320px" style="width:320px;height:200px;object-fit:cover;object-position:center center;border-radius:10px;box-shadow:0 2px 12px rgba(0,0,0,0.08);background:#f3f3f3;display:block;" />';
-                                            echo '</div>';
-                                            ?>
+                                                <img loading="lazy" width="800" height="507" src="https://muliya.in/wp-content/uploads/2020/02/Traditional-jewellery-blog-1024x649.jpg" class="attachment-large size-large wp-image-1492" alt="" srcset="https://muliya.in/wp-content/uploads/2020/02/Traditional-jewellery-blog-1024x649.jpg 1024w, https://muliya.in/wp-content/uploads/2020/02/Traditional-jewellery-blog-600x380.jpg 600w, https://muliya.in/wp-content/uploads/2020/02/Traditional-jewellery-blog-300x190.jpg 300w, https://muliya.in/wp-content/uploads/2020/02/Traditional-jewellery-blog-768x486.jpg 768w, https://muliya.in/wp-content/uploads/2020/02/Traditional-jewellery-blog.jpg 1200w"
+                                                    sizes="(max-width: 800px) 100vw, 800px" /> </div>
+                                        </div>
                                         <div class="elementor-element elementor-element-64e7e35 elementor-widget elementor-widget-heading" data-id="64e7e35" data-element_type="widget" data-widget_type="heading.default">
                                             <div class="elementor-widget-container">
                                                 <h3 class="elementor-heading-title elementor-size-default">Enhance Your Beauty with Traditional Jewellery</h3>
@@ -825,7 +1018,7 @@ echo '</div>';
                                             <div class="elementor-element elementor-element-d8a3646 elementor-widget elementor-widget-button" data-id="d8a3646" data-element_type="widget" data-widget_type="button.default">
                                                 <div class="elementor-widget-container">
                                                     <div class="elementor-button-wrapper">
-                                                        <a class="elementor-button elementor-button-link elementor-size-sm" href="Blogs/Behind-scences.php">
+                                                        <a class="elementor-button elementor-button-link elementor-size-sm" href="https://muliya.in/enhance-your-beauty-with-traditional-jewellery/">
                         <span class="elementor-button-content-wrapper">
                                     <span class="elementor-button-text">Read More</span>
                     </span>
@@ -844,8 +1037,7 @@ echo '</div>';
             </div>
         </div>
     </div>
-   
-    <?php include_once 'footer.php'; ?>
+   <?php include_once '../footer.php'; ?>
 
     <script type="speculationrules">
         {"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/muliya-jewels\/*","\/wp-content\/themes\/hello-elementor\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch,
@@ -854,6 +1046,7 @@ echo '</div>';
 
     <script type="wphb-delay-type" data-wphb-type="text/javascript">
         var _paq = _paq || [];
+        _paq.push(['setCustomDimension', 1, '{"ID":1,"name":"Developers","avatar":"f6bec09509c60ea7d5b5f93acd16e596"}']);
         _paq.push(['trackPageView']);
         (function() {
             var u = "https://analytics2.wpmudev.com/";
@@ -939,8 +1132,9 @@ echo '</div>';
                     <form class="elementor-form" method="post" name="Enquiry Form" aria-label="Enquiry Form">
                         <input type="hidden" name="post_id" value="11346" />
                         <input type="hidden" name="form_id" value="7514f09" />
-                        <input type="hidden" name="referer_title" value="Blog" />
+                        <input type="hidden" name="referer_title" value="Free hair donation camp on September 11 for cancer sufferers by &quot;Seeds of Hope&quot;. | Muliya Gold &amp; Diamonds" />
 
+                        <input type="hidden" name="queried_id" value="11128" />
 
                         <div class="elementor-form-fields-wrapper elementor-labels-above">
                             <div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-100 elementor-field-required">
@@ -1669,7 +1863,7 @@ echo '</div>';
     <link rel='stylesheet' id='wc-blocks-style-css' href='https://hb.wpmucdn.com/muliya.in/d2d699ac-5744-4d95-9196-37d8a263072a.css' media='all' />
     <script type="wphb-delay-type" src="https://hb.wpmucdn.com/muliya.in/4bec02ae-5a6a-4181-9569-fac6e93ef352.js" id="wpascript-js"></script>
     <script type="wphb-delay-type" id="wpascript-js-after">
-        wpa_field_info = {"wpa_field_name":"hlozur8873","wpa_field_value":916790,"wpa_add_test":"no"}
+        wpa_field_info = {"wpa_field_name":"hlozur8873","wpa_field_value":481894,"wpa_add_test":"no"}
     </script>
     <script type="wphb-delay-type" src="https://hb.wpmucdn.com/muliya.in/dd9cec62-3b82-4519-96a6-b4b2beffd215.js" id="hello-theme-frontend-js"></script>
     <script type="wphb-delay-type" src="https://muliya.in/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.30.0" id="elementor-webpack-runtime-js"></script>
@@ -1680,8 +1874,7 @@ echo '</div>';
         image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This
         is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile
         Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet
-        Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"3.30.0","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"theme_builder_v2":true,"hello-theme-header-footer":true,"nested-elements":true,"e_element_cache":true,"home_screen":true,"global_classes_should_enforce_capabilities":true,"cloud-library":true,"e_opt_in_v4_page":true,"mega-menu":true},"urls":{"assets":"https:\/\/muliya.in\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/muliya.in\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/muliya.in\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"6f38aab8c8"},"swiperClass":"swiper","settings":{"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","woocommerce_notices_elements":[],"hello_header_logo_type":"title","hello_footer_logo_type":"logo"},"post":{"id":0,"title":"Blog
-        &#8211; Muliya Gold &amp; Diamonds","excerpt":""}};
+        Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"3.30.0","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"theme_builder_v2":true,"hello-theme-header-footer":true,"nested-elements":true,"e_element_cache":true,"home_screen":true,"global_classes_should_enforce_capabilities":true,"cloud-library":true,"e_opt_in_v4_page":true,"mega-menu":true},"urls":{"assets":"https:\/\/muliya.in\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/muliya.in\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/muliya.in\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"7f965ba3e9"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","woocommerce_notices_elements":[],"hello_header_logo_type":"title","hello_footer_logo_type":"logo"},"post":{"id":11128,"title":"Free%20hair%20donation%20camp%20on%20September%2011%20for%20cancer%20sufferers%20by%20%22Seeds%20of%20Hope%22.%20%7C%20Muliya%20Gold%20%26%20Diamonds","excerpt":"","featuredImage":"https:\/\/muliya.in\/wp-content\/uploads\/2022\/09\/Yoga-Jeevana-Poster.jpg"}};
     </script>
     <script type="wphb-delay-type" src="https://hb.wpmucdn.com/muliya.in/7f2110ae-184a-4ef3-9a3e-724fb9c3e6e2.js" id="elementor-frontend-js"></script>
     <script type="wphb-delay-type" src="https://hb.wpmucdn.com/muliya.in/7d9ce607-3dfe-46df-8331-92e75eeaf7c9.js" id="imagesloaded-js"></script>
@@ -1730,7 +1923,7 @@ echo '</div>';
         wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
     </script>
     <script type="wphb-delay-type" id="elementor-pro-frontend-js-before">
-        var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/muliya.in\/wp-admin\/admin-ajax.php","nonce":"b0fc1d340a","urls":{"assets":"https:\/\/muliya.in\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/muliya.in\/wp-json\/"},"settings":{"lazy_load_background_images":true},"popup":{"hasPopUps":true},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"woocommerce":{"menu_cart":{"cart_page_url":"https:\/\/muliya.in\/cart\/","checkout_page_url":"https:\/\/muliya.in\/checkout\/","fragments_nonce":"47af8ce497"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/muliya.in\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+        var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/muliya.in\/wp-admin\/admin-ajax.php","nonce":"6cea72ab21","urls":{"assets":"https:\/\/muliya.in\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/muliya.in\/wp-json\/"},"settings":{"lazy_load_background_images":true},"popup":{"hasPopUps":true},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"woocommerce":{"menu_cart":{"cart_page_url":"https:\/\/muliya.in\/cart\/","checkout_page_url":"https:\/\/muliya.in\/checkout\/","fragments_nonce":"1121bb2564"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/muliya.in\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
     </script>
     <script type="wphb-delay-type" src="https://hb.wpmucdn.com/muliya.in/31ba1874-da61-4dea-9697-c186cb3d235a.js" id="elementor-pro-frontend-js"></script>
     <script type="wphb-delay-type" src="https://hb.wpmucdn.com/muliya.in/771fb892-6f1c-4358-97c0-1f924c37c7ea.js" id="pro-elements-handlers-js"></script>
@@ -1774,4 +1967,4 @@ echo '</div>';
 </body>
 
 </html>
-<!-- Hummingbird cache file was created in 0.64335894584656 seconds, on 31-07-25 5:23:39 -->
+<!-- Hummingbird cache file was created in 0.95530605316162 seconds, on 31-07-25 17:51:39 -->

@@ -754,6 +754,7 @@ if ($row) {
             <a class="back-link box-btn" href="<?php echo $backHref; ?>">&larr; Back to Products</a>
         </div>
     </div>
+      <?php include_once '../footer.php'; ?>
 </body>
 </html>
 <?php

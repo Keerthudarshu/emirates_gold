@@ -208,9 +208,7 @@
     justify-content: var(--justify-content)
 }
 
-.elementor-invisible {
-    visibility: hidden
-}
+
 
 .elementor-align-center {
     text-align: center

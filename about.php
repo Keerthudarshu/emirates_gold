@@ -693,29 +693,29 @@
                     <div class="e-con-inner">
                         <div class="elementor-element elementor-element-19c96f2  elementor-widget elementor-widget-heading" data-id="19c96f2" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="heading.default">
                             <div class="elementor-widget-container">
-                                <h1 class="elementor-heading-title elementor-size-default">Our story</h1>
+                                <h1 class="elementor-heading-title elementor-size-default">Our Legacy</h1>
                             </div>
                         </div>
                         <div class="elementor-element elementor-element-62c8ba4 e-con-full e-flex e-con e-child" data-id="62c8ba4" data-element_type="container">
                             <div class="elementor-element elementor-element-9a0465e elementor-widget__width-initial  elementor-widget elementor-widget-text-editor" data-id="9a0465e" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:100}"
                                 data-widget_type="text-editor.default">
                                 <div class="elementor-widget-container">
-                                    <p>In the quiet town of Puttur in 1944, <strong>Late Shri Muliya Keshava Bhatta</strong> laid the foundation for what would become one of Karnataka’s most cherished jewellery brands. Rooted in humility and guided by integrity,
+                                    <p>Founded in 1998 in Dubai, <strong>Emirates Gold International</strong> laid the foundation for what would become one of Karnataka’s most cherished jewellery brands. Rooted in humility and guided by integrity,
                                         he built more than a business—he built a legacy of trust, transparency, and heartfelt service.</p>
                                 </div>
                             </div>
                             <div class="elementor-element elementor-element-b5a714f  elementor-widget elementor-widget-text-editor" data-id="b5a714f" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:200}"
                                 data-widget_type="text-editor.default">
                                 <div class="elementor-widget-container">
-                                    <p>After his passing, his son, Shri Muliya Shyama Bhat, took up the mantle of responsibility and upheld the brand’s values with devotion and grace. Under his leadership, Muliya continued to be a name associated with honesty,
+                                    <p>With a commitment to excellence and customer satisfaction, Emirates Gold International, took up the mantle of responsibility and upheld the brand’s values with devotion and grace. Under his leadership, Muliya continued to be a name associated with honesty,
                                         tradition, and strong community ties.</p>
                                 </div>
                             </div>
                             <div class="elementor-element elementor-element-bbf6643  elementor-widget elementor-widget-text-editor" data-id="bbf6643" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:300}"
                                 data-widget_type="text-editor.default">
                                 <div class="elementor-widget-container">
-                                    <p>In the early 2000s, the third generation—<strong>the Muliya Brothers &#8211; Keshava Prasad Muliya and Krishna Narayana Muliya</strong>—stepped in with a bold vision and modern approach. It was under their dynamic leadership
-                                        that Muliya entered a phase of rapid growth and transformation. They expanded the brand’s presence across Karnataka, introduced cutting-edge technologies in jewellery authentication, launched new product lines like
+                                    <p>Today, <strong>Emirates Gold International</strong> continues to set new standards in luxury jewelry retail. Our state-of-the-art facilities and expert team
+                                        deliver exceptional jewelry pieces that embody sophistication and artistry. They expanded the brand’s presence across Karnataka, introduced cutting-edge technologies in jewellery authentication, launched new product lines like
                                         Amuliya and Silveriya, and unveiled Dakshina Kannada’s largest showroom in Puttur.</p>
                                 </div>
                             </div>

@@ -618,10 +618,8 @@ if ($conn->connect_error) {
 
 <body data-rsssl=1 class="home wp-singular page-template-default page page-id-2374 wp-embed-responsive wp-theme-hello-elementor wp-child-theme-muliya-jewels theme-hello-elementor woocommerce-no-js hello-elementor-default elementor-default elementor-kit-7 elementor-page elementor-page-2374">
 
-
-   
-
-    <h1>Gold Rings</h1>
+  <?php include_once '../header.php'; ?>
+    <h1>Gold Bangles</h1>
 
 
     <div class="product-list">
@@ -677,6 +675,7 @@ if ($conn->connect_error) {
     <?php endif; ?>
 
     <?php $conn->close(); ?>
+         <?php include_once '../footer.php'; ?>
 
 </body>
 </html>

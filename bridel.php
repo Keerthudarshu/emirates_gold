@@ -1,3 +1,4 @@
+
 <!doctype html>
 <html lang="en-US">
 
@@ -673,6 +674,8 @@
     </style>
 </head>
 
+
+
 <body data-rsssl=1 class="wp-singular page-template-default page page-id-11578 wp-embed-responsive wp-theme-hello-elementor wp-child-theme-muliya-jewels theme-hello-elementor woocommerce-no-js hello-elementor-default elementor-default elementor-kit-7 elementor-page elementor-page-11578">
 
 
@@ -689,139 +692,301 @@
                     </div>
                 </div>
                 <div class="elementor-element elementor-element-541548e e-flex e-con-boxed e-con e-parent" data-id="541548e" data-element_type="container">
+
                     <div class="e-con-inner">
                         <div class="elementor-element elementor-element-874491b elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget elementor-widget-text-editor" data-id="874491b" data-element_type="widget" data-widget_type="text-editor.default">
                             <div class="elementor-widget-container">
-                                <p>A jewel beyond the virtual beauty. Modern designs that bloom on the finest gold. Designed with dedicated care to glorify the princess in you.</p>
+                                <p>Discover our exclusive bridal collection featuring both gold and diamond jewellery. Each piece is crafted to perfection for your special day.</p>
                             </div>
                         </div>
-                        <div class="woocommerce elementor-element elementor-element-5705e50 elementor-grid-4 elementor-grid-tablet-3 elementor-grid-mobile-2  elementor-widget elementor-widget-loop-grid" data-id="5705e50" data-element_type="widget" data-settings="{&quot;_skin&quot;:&quot;product&quot;,&quot;template_id&quot;:&quot;2935&quot;,&quot;columns&quot;:4,&quot;columns_tablet&quot;:3,&quot;columns_mobile&quot;:2,&quot;row_gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:50,&quot;sizes&quot;:[]},&quot;pagination_type&quot;:&quot;numbers&quot;,&quot;pagination_load_type&quot;:&quot;ajax&quot;,&quot;row_gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:30,&quot;sizes&quot;:[]},&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;edit_handle_selector&quot;:&quot;[data-elementor-type=\&quot;loop-item\&quot;]&quot;,&quot;row_gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}"
-                            data-widget_type="loop-grid.product">
-                            <div class="elementor-widget-container">
-                                <div class="elementor-loop-container elementor-grid" role="list">
-                                    <style id="loop-2935">
-                                        .elementor-2935 .elementor-element.elementor-element-58b9baa {
-                                            --display: flex;
-                                            --gap: 10px 10px;
-                                            --row-gap: 10px;
-                                            --column-gap: 10px;
-                                            --padding-top: 0px;
-                                            --padding-bottom: 0px;
-                                            --padding-left: 0px;
-                                            --padding-right: 0px;
-                                        }
+                            <h1 >All Bridal Products (Gold & Diamond)</h1>
 
-                                        .elementor-2935 .elementor-element.elementor-element-ce58285 {
-                                            width: 100%;
-                                            max-width: 100%;
-                                        }
+                        <div class="bridal-products-grid" style="display: grid; grid-template-columns: repeat(5, 1fr); gap: 24px; margin-top: 32px;">
+                        <?php
+$servername = "localhost";
+$username = "root";
+$password = "";
+$dbname = "emirates";
 
-                                        .elementor-2935 .elementor-element.elementor-element-ce58285 img {
-                                            width: 100%;
-                                            max-width: 100%;
-                                            height: 350px;
-                                            object-fit: cover;
-                                            object-position: center center;
-                                            transition-duration: 0.3s;
-                                            border-radius: 15px 15px 15px 15px;
-                                        }
+$conn = new mysqli($servername, $username, $password, $dbname);
+if ($conn->connect_error) {
+    die("Connection failed: " . $conn->connect_error);
+}
 
-                                        .elementor-2935 .elementor-element.elementor-element-ce58285:hover img {
-                                            opacity: 0.95;
-                                        }
-
-                                        .elementor-2935 .elementor-element.elementor-element-df5da1c {
-                                            font-size: 14px;
-                                            color: #4B4F58;
-                                        }
-
-                                        .elementor-2935 .elementor-element.elementor-element-df5da1c a {
-                                            color: #4B4F58;
-                                        }
-
-                                        .elementor-2935 .elementor-element.elementor-element-99e2f2d.elementor-element {
-                                            --flex-grow: 1;
-                                            --flex-shrink: 0;
-                                        }
-
-                                        .elementor-2935 .elementor-element.elementor-element-99e2f2d .elementor-heading-title {
-                                            font-size: 16px;
-                                            color: var( --e-global-color-primary);
-                                        }
-
-                                        .elementor-2935 .elementor-element.elementor-element-92ced07 .elementor-button {
-                                            background-color: #02010100;
-                                            font-weight: 700;
-                                            fill: #000000;
-                                            color: #000000;
-                                            transition-duration: 0.3s;
-                                            border-radius: 0px 0px 0px 0px;
-                                            padding: 0px 0px 0px 0px;
-                                        }
-
-                                        .elementor-2935 .elementor-element.elementor-element-92ced07>.elementor-widget-container {
-                                            padding: 0px 0px 0px 0px;
-                                        }
-
-                                        .elementor-2935 .elementor-element.elementor-element-92ced07.elementor-element {
-                                            --align-self: stretch;
-                                        }
-
-                                        .elementor-2935 .elementor-element.elementor-element-92ced07 .elementor-button:hover,
-                                        .elementor-2935 .elementor-element.elementor-element-92ced07 .elementor-button:focus {
-                                            color: var( --e-global-color-primary);
-                                        }
-
-                                        .elementor-2935 .elementor-element.elementor-element-92ced07 .elementor-button:hover svg,
-                                        .elementor-2935 .elementor-element.elementor-element-92ced07 .elementor-button:focus svg {
-                                            fill: var( --e-global-color-primary);
-                                        }
-
-                                        @media(max-width:1024px) {
-                                            .elementor-2935 .elementor-element.elementor-element-ce58285 img {
-                                                height: 300px;
-                                            }
-                                        }
-
-                                        @media(max-width:767px) {
-                                            .elementor-2935 .elementor-element.elementor-element-58b9baa {
-                                                --gap: 5px 5px;
-                                                --row-gap: 5px;
-                                                --column-gap: 5px;
-                                            }
-                                            .elementor-2935 .elementor-element.elementor-element-ce58285 img {
-                                                height: 200px;
-                                                object-fit: cover;
-                                                object-position: center center;
-                                            }
-                                            .elementor-2935 .elementor-element.elementor-element-df5da1c {
-                                                font-size: 12px;
-                                            }
-                                        }
-
-                                        /* Start custom CSS for image, class: .elementor-element-ce58285 */
-
-                                        .elementor-2935 .elementor-element.elementor-element-ce58285 a {
-                                            width: 100%;
-                                        }
-
-                                        /* End custom CSS */
-
-                                        /* Start custom CSS for container, class: .elementor-element-58b9baa */
-
-                                        .elementor-2935 .elementor-element.elementor-element-58b9baa {
-                                            transition: .2s linear;
-                                        }
-
-                                        .elementor-2935 .elementor-element.elementor-element-58b9baa:hover {
-                                            transform: translatey(-5px);
-                                        }
-
-                                        /* End custom CSS */
-                                    </style>
-                                    
+// List of all diamond and gold product tables
+$diamond_tables = [
+    'diamond_rings',
+    'diamond_bangles',
+    'diamond_bracelets',
+    'diamond_earring',
+    'diamond_necklaces',
+    'diamond_pendants'
+];
+$gold_tables = [
+    'gold_rings',
+    'gold_bangles',
+    'gold_bracelets',
+    'gold_earring',
+    'gold_necklaces',
+    'gold_pendants'
+];
 
 
+// Only use tables that exist in the database
+$existing_tables = [];
+$all_tables = array_merge($diamond_tables, $gold_tables);
+$show_tables_result = $conn->query("SHOW TABLES");
+if ($show_tables_result) {
+    while ($row = $show_tables_result->fetch_array()) {
+        $existing_tables[] = $row[0];
+    }
+}
+
+$valid_diamond_tables = array_intersect($diamond_tables, $existing_tables);
+$valid_gold_tables = array_intersect($gold_tables, $existing_tables);
+$valid_all_tables = array_merge($valid_diamond_tables, $valid_gold_tables);
+
+$limit = 20;
+$page = isset($_GET['page']) && is_numeric($_GET['page']) ? (int)$_GET['page'] : 1;
+if ($page < 1) $page = 1;
+$offset = ($page - 1) * $limit;
+
+// Get total count
+$total = 0;
+foreach ($valid_all_tables as $table) {
+    $count_sql = "SELECT COUNT(*) as total FROM $table";
+    $count_result = $conn->query($count_sql);
+    if ($count_result && $row = $count_result->fetch_assoc()) {
+        $total += $row['total'];
+    }
+}
+$total_pages = $total > 0 ? ceil($total / $limit) : 1;
+
+// Build UNION query to fetch all products
+$union_sql = [];
+foreach ($valid_diamond_tables as $table) {
+    $union_sql[] = "SELECT id, name, code, weight, image, 'diamond', '" . $table . "' as source FROM $table";
+}
+foreach ($valid_gold_tables as $table) {
+    $union_sql[] = "SELECT id, name, code, weight, image, 'gold', '" . $table . "' as source FROM $table";
+}
+$sql = count($union_sql) > 0 ? implode(" UNION ALL ", $union_sql) . " ORDER BY id DESC LIMIT $limit OFFSET $offset" : '';
+$result = $sql ? $conn->query($sql) : false;
+
+// Map for detail pages
+$detail_pages = [
+    // Diamond
+    'diamond_rings' => 'diamond/diamond_rings_product.php',
+    'diamond_bangles' => 'diamond/diamond_bangles_product.php',
+    'diamond_bracelets' => 'diamond/diamond_bracelets_product.php',
+    'diamond_earring' => 'diamond/diamond_earring_product.php',
+    'diamond_necklaces' => 'diamond/diamond_necklaces_product.php',
+    'diamond_pendants' => 'diamond/diamond_pendants_product.php',
+    // Gold
+    'gold_rings' => 'gold/gold_rings_product.php',
+    'gold_bangles' => 'gold/gold_bangles_product.php',
+    'gold_bracelets' => 'gold/gold_bracelets_product.php',
+    'gold_earring' => 'gold/gold_earring_product.php',
+    'gold_necklaces' => 'gold/gold_necklaces_product.php',
+    'gold_pendants' => 'gold/gold_pendants_product.php'
+];
+?>
+  <?php include_once 'header.php'; ?>
+
+
+
+
+    <style>
+    body {
+        overflow-x: hidden;
+    }
+    main, .product-list, .pagination {
+        box-sizing: border-box;
+    }
+    .product-list {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+        gap: 28px;
+        max-width: 1400px;
+        margin: 40px auto 0 auto;
+        padding-bottom: 32px;
+        box-sizing: border-box;
+        width: 100vw;
+        overflow-x: auto;
+    }
+    .product-card {
+        background: #fff;
+        border-radius: 14px;
+        box-shadow: 0 2px 12px rgba(0,0,0,0.07);
+        padding: 18px 14px 20px 14px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        transition: box-shadow 0.2s, transform 0.2s;
+        min-height: 420px;
+        position: relative;
+    }
+    .product-card:hover {
+        box-shadow: 0 6px 24px rgba(0,0,0,0.13);
+        transform: translateY(-4px) scale(1.02);
+    }
+    .product-card img {
+        width: 100%;
+        height: 220px;
+        object-fit: cover;
+        border-radius: 10px;
+        background: #f3f3f3;
+        margin-bottom: 12px;
+    }
+    .product-card h3 {
+        font-size: 1.08rem;
+        font-weight: 600;
+        margin: 0 0 6px 0;
+        text-align: center;
+        color: #222;
+        min-height: 38px;
+    }
+    .product-card .code, .product-card .weight, .product-card .type {
+        font-size: 0.97rem;
+        color: #666;
+        margin-bottom: 4px;
+        text-align: center;
+    }
+    .product-card .type {
+        color: #888;
+        margin-bottom: 10px;
+    }
+    .product-card .button {
+        margin-top: auto;
+        display: inline-block;
+        background: #d4af37;
+        color: #fff;
+        padding: 8px 22px;
+        border-radius: 6px;
+        text-decoration: none;
+        font-weight: 600;
+        font-size: 1rem;
+        transition: background 0.2s;
+        box-shadow: 0 1px 4px rgba(0,0,0,0.07);
+    }
+    .product-card .button:hover {
+        background: #bfa133;
+        color: #fff;
+    }
+    .pagination {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 8px;
+        margin: 0 auto 40px auto;
+        max-width: 1400px;
+        padding-top: 24px;
+    }
+    </style>
+
+    <div class="product-list">
+        <?php
+        $products = [];
+        if ($result && $result->num_rows > 0) {
+            while($row = $result->fetch_assoc()) {
+                $products[] = $row;
+            }
+        }
+        if (count($products) > 0):
+            foreach ($products as $row):
+                $source = isset($row['source']) ? $row['source'] : (isset($row['7']) ? $row['7'] : '');
+                $type = '';
+                if (strpos($source, 'diamond') !== false) {
+                    $type = 'Diamond';
+                } elseif (strpos($source, 'gold') !== false) {
+                    $type = 'Gold';
+                }
+                $img = isset($row['image']) ? $row['image'] : '';
+                $img_path = '';
+                if ($img) {
+                    if (preg_match('/^https?:\/\//', $img)) {
+                        $img_path = $img;
+                    } elseif (strpos($source, 'diamond') !== false) {
+                        $img_path = 'diamond/' . ltrim($img, '/');
+                    } elseif (strpos($source, 'gold') !== false) {
+                        $img_path = 'gold/' . ltrim($img, '/');
+                    } else {
+                        $img_path = $img;
+                    }
+                } else {
+                    // fallback placeholder
+                    $img_path = 'assets/no-image.png';
+                }
+        ?>
+            <div class="product-card">
+                <img src="<?php echo htmlspecialchars($img_path); ?>" alt="<?php echo htmlspecialchars($row['name']); ?>" onerror="this.onerror=null;this.src='assets/no-image.png';">
+                <h3><?php echo htmlspecialchars($row['name']); ?></h3>
+                <div class="code">Code: <?php echo htmlspecialchars($row['code']); ?></div>
+                <div class="weight">Weight: <?php echo htmlspecialchars($row['weight']); ?></div>
+                <div class="type">Type: <?php echo $type; ?></div>
+                <?php $detail_page = isset($detail_pages[$source]) ? $detail_pages[$source] : '#'; ?>
+                <a class="button" href="<?php echo $detail_page . '?id=' . urlencode($row['id']); ?>">View Details</a>
+            </div>
+        <?php endforeach; ?>
+        <?php else: ?>
+            <p>No bridal products found.</p>
+        <?php endif; ?>
+    </div>
+
+
+
+   
+
+                        </div>
+                    </div>
+
+                    
+    <div class="pagination" style="display: flex; justify-content: center; align-items: center; gap: 8px; margin: 40px auto 0 auto; max-width: 1400px;">
+        <?php if ($total_pages > 1): ?>
+            <!-- First page -->
+            <?php if ($page > 1): ?>
+                <a class="first" href="?page=1" title="First Page" style="padding: 8px 10px; font-size: 1.2rem; border-radius: 50%; background: #eee; color: #333; text-decoration: none;">&#171;</a>
+            <?php else: ?>
+                <span class="first" style="padding: 8px 10px; font-size: 1.2rem; border-radius: 50%; background: #ccc; color: #fff;">&#171;</span>
+            <?php endif; ?>
+
+            <!-- Prev page -->
+            <?php if ($page > 1): ?>
+                <a class="prev" href="?page=<?php echo $page-1; ?>" title="Previous Page" style="padding: 8px 10px; font-size: 1.2rem; border-radius: 50%; background: #eee; color: #333; text-decoration: none;">&#8249;</a>
+            <?php else: ?>
+                <span class="prev" style="padding: 8px 10px; font-size: 1.2rem; border-radius: 50%; background: #ccc; color: #fff;">&#8249;</span>
+            <?php endif; ?>
+
+            <!-- Page numbers (show max 5 around current) -->
+            <?php
+                $start = max(1, $page - 2);
+                $end = min($total_pages, $page + 2);
+                if ($start > 1) echo '<span style="padding:0 4px;">...</span>';
+                for ($i = $start; $i <= $end; $i++):
+            ?>
+                <?php if ($i == $page): ?>
+                    <span class="current" style="padding: 8px 14px; font-size: 1.2rem; border-radius: 50%; background: #000; color: #fff; font-weight: bold; border: 2px solid #444; box-shadow: 0 2px 6px rgba(0,0,0,0.08);"> <?php echo $i; ?> </span>
+                <?php else: ?>
+                    <a href="?page=<?php echo $i; ?>" style="padding: 8px 14px; font-size: 1.2rem; border-radius: 50%; background: #fff; color: #333; border: 2px solid #eee; text-decoration: none; transition: background 0.2s;"> <?php echo $i; ?> </a>
+                <?php endif; ?>
+            <?php endfor; ?>
+            <?php if ($end < $total_pages) echo '<span style="padding:0 4px;">...</span>'; ?>
+
+            <!-- Next page -->
+            <?php if ($page < $total_pages): ?>
+                <a class="next" href="?page=<?php echo $page+1; ?>" title="Next Page" style="padding: 8px 10px; font-size: 1.2rem; border-radius: 50%; background: #eee; color: #333; text-decoration: none;">&#8250;</a>
+            <?php else: ?>
+                <span class="next" style="padding: 8px 10px; font-size: 1.2rem; border-radius: 50%; background: #ccc; color: #fff;">&#8250;</span>
+            <?php endif; ?>
+
+            <!-- Last page -->
+            <?php if ($page < $total_pages): ?>
+                <a class="last" href="?page=<?php echo $total_pages; ?>" title="Last Page" style="padding: 8px 10px; font-size: 1.2rem; border-radius: 50%; background: #eee; color: #333; text-decoration: none;">&#187;</a>
+            <?php else: ?>
+                <span class="last" style="padding: 8px 10px; font-size: 1.2rem; border-radius: 50%; background: #ccc; color: #fff;">&#187;</span>
+            <?php endif; ?>
+        <?php endif; ?>
+    </div>
     </main>
 
          <?php include_once 'footer.php'; ?>
@@ -926,19 +1091,19 @@
                         <div class="elementor-form-fields-wrapper elementor-labels-above">
                             <div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-100 elementor-field-required">
                                 <label for="form-field-name" class="elementor-field-label">
-								Name							</label>
+                                Name							</label>
                                 <input size="1" type="text" name="form_fields[name]" id="form-field-name" class="elementor-field elementor-size-md  elementor-field-textual" placeholder="Enter your full name" required="required">
                             </div>
                             <div class="elementor-field-type-tel elementor-field-group elementor-column elementor-field-group-field_46a3b24 elementor-col-100 elementor-field-required">
                                 <label for="form-field-field_46a3b24" class="elementor-field-label">
-								Mobile Number							</label>
+                                Mobile Number							</label>
                                 <input size="1" type="tel" name="form_fields[field_46a3b24]" id="form-field-field_46a3b24" class="elementor-field elementor-size-md  elementor-field-textual" placeholder="Enter your 10 digit mobile number" required="required" pattern="[0-9()#&amp;+*-=.]+"
                                     title="Only numbers and phone characters (#, -, *, etc) are accepted.">
 
                             </div>
                             <div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-field_6f41113 elementor-col-100 elementor-field-required">
                                 <label for="form-field-field_6f41113" class="elementor-field-label">
-								City							</label>
+                                City							</label>
                                 <input size="1" type="text" name="form_fields[field_6f41113]" id="form-field-field_6f41113" class="elementor-field elementor-size-md  elementor-field-textual" placeholder="Enter your city" required="required">
                             </div>
                             <div class="elementor-field-type-hidden elementor-field-group elementor-column elementor-field-group-field_ff54e22 elementor-col-100">
@@ -946,10 +1111,10 @@
                             </div>
                             <div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-30 e-form__buttons">
                                 <button class="elementor-button elementor-size-sm" type="submit">
-						<span class="elementor-button-content-wrapper">
-																						<span class="elementor-button-text">Send</span>
-													</span>
-					</button>
+                        <span class="elementor-button-content-wrapper">
+                                                                                        <span class="elementor-button-text">Send</span>
+                                                    </span>
+                    </button>
                             </div>
                         </div>
                     </form>

@@ -1322,11 +1322,11 @@ document.addEventListener('DOMContentLoaded', function() {
                                                                         <li class="elementor-icon-list-item">
                                                                             <a href="https://muliya.in/gold-buying-plans/">
 
-                                            <span class="elementor-icon-list-text">Gold Buying Plans</span>
-                                            </a>
+                                                                 <span class="elementor-icon-list-text">Gold Buying Plans</span>
+                                                                         </a>
                                                                         </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                            <a href="https://muliya.in/blog/">
+                                                                            <a href="blog.php">
 
                                             <span class="elementor-icon-list-text">Blog</span>
                                             </a>

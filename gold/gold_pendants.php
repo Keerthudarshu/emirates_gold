@@ -682,6 +682,6 @@ if ($conn->connect_error) {
     <?php endif; ?>
 
     <?php $conn->close(); ?>
-
+  <?php include_once '../footer.php'; ?>
 </body>
 </html>

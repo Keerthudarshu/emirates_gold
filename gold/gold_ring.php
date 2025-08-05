@@ -1364,6 +1364,6 @@ document.addEventListener('DOMContentLoaded', function() {
     <?php endif; ?>
 
     <?php $conn->close(); ?>
-
+  <?php include_once '../footer.php'; ?>
 </body>
 </html>

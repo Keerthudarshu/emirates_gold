@@ -704,225 +704,72 @@ $detail_pages = [
 </head>
 
 <body data-rsssl=1 class="home wp-singular page-template-default page page-id-2374 wp-embed-responsive wp-theme-hello-elementor wp-child-theme-muliya-jewels theme-hello-elementor woocommerce-no-js hello-elementor-default elementor-default elementor-kit-7 elementor-page elementor-page-2374">
+    <?php include_once '../header.php'; ?>
 
-
-    <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
-
-    <div data-elementor-type="header" data-elementor-id="11154" class="elementor elementor-11154 elementor-location-header" data-elementor-post-type="elementor_library">
-        <div class="elementor-element elementor-element-b149b10 e-con-full mj-header e-flex e-con e-parent" data-id="b149b10" data-element_type="container">
-            <div class="elementor-element elementor-element-533ad43 mj-logo-header e-flex e-con-boxed e-con e-child" data-id="533ad43" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                <div class="e-con-inner">
-                    <div class="elementor-element elementor-element-ed409db e-con-full elementor-hidden-mobile elementor-hidden-tablet e-flex e-con e-child" data-id="ed409db" data-element_type="container">
-                        <div class="elementor-element elementor-element-b97c4e7 elementor-widget elementor-widget-image" data-id="b97c4e7" data-element_type="widget" data-widget_type="image.default">
-                            <div class="elementor-widget-container">
-                                <a href="../index.php">
-                            <img width="152" height="69" src="../assets/emirats logo.jpg" class="attachment-large size-large wp-image-11160" alt="Logo" />								
-                        </a>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- scheme section start -->
-                    <div class="elementor-element elementor-element-efdac0b e-con-full e-flex e-con e-child" data-id="efdac0b" data-element_type="container">
-                        <div class="elementor-element elementor-element-f7430de e-con-full e-flex e-con e-child" data-id="f7430de" data-element_type="container" >
-                            <div class="elementor-element elementor-element-a05eb7c elementor-icon-list--layout-inline elementor-hidden-mobile elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="a05eb7c" data-element_type="widget" data-widget_type="icon-list.default">
-                                <div class="elementor-widget-container">
-                                    <ul class="elementor-icon-list-items elementor-inline-items">
-                                        <li class="elementor-icon-list-item elementor-inline-item">
-                                            <a href="#">
-
-                                                <span class="elementor-icon-list-icon">
-                            <!-- <svg xmlns="http://www.w3.org/2000/svg" width="37" height="27" viewBox="0 0 37 27" fill="none"><path d="M24.4694 20.4635L32.6134 15.2543C33.096 14.955 35.0024 14.3562 35.8711 15.7932C36.7398 17.2302 36.052 18.308 34.9662 19.0265L24.1074 26.2116H11.0769L7.09534 23.5172V12.021H14.8775L20.6688 17.9488C21.2721 18.4876 21.7547 19.745 20.3068 20.8228C19.4019 21.3617 18.3161 21.5413 17.2302 20.4635L12.7057 16.1525H9.81003" stroke="#E92548" stroke-width="1.18255" stroke-linecap="round"></path><mask id="path-2-inside-1_2421_2849" fill="white"><rect y="10.4443" width="7.88366" height="16.5557" rx="0.788366"></rect></mask><rect y="10.4443" width="7.88366" height="16.5557" rx="0.788366" fill="#FFE8EC" stroke="#E92548" stroke-width="2.3651" mask="url(#path-2-inside-1_2421_2849)"></rect><circle cx="24.8346" cy="7.58725" r="6.99598" fill="#FFE8EC" stroke="#E92548" stroke-width="1.18255"></circle><path d="M22.7845 4.4259H27.5364V4.43577C27.2565 4.86717 27.0984 5.09768 27.0622 5.12732H25.7927C25.9673 5.33149 26.0858 5.58012 26.1484 5.8732H27.5018C27.5183 5.8765 27.5265 5.88308 27.5265 5.89296C27.2236 6.34741 27.0688 6.57463 27.0622 6.57463H26.183C26.1632 6.80844 26.0512 7.09 25.8471 7.4193C25.577 7.75191 25.3185 7.9676 25.0715 8.06639C24.6105 8.28703 24.1692 8.39735 23.7477 8.39735V8.40723C23.7477 8.44016 24.7011 9.57133 26.6078 11.8007H25.3482C23.4909 9.63719 22.5622 8.55048 22.5622 8.5406V7.88363L22.5721 7.85893C22.7368 7.88198 22.9294 7.89351 23.15 7.89351C24.1906 7.89351 24.8377 7.55597 25.0913 6.88089C25.1308 6.78209 25.1506 6.68001 25.1506 6.57463H22.3251C22.3119 6.57463 22.3054 6.56804 22.3054 6.55487C22.6182 6.10043 22.7779 5.8732 22.7845 5.8732H25.0271V5.86332C24.8987 5.60317 24.65 5.40065 24.2812 5.25575C24.0178 5.17013 23.7807 5.12732 23.5699 5.12732H22.3152V5.10262C22.6182 4.65147 22.7746 4.4259 22.7845 4.4259Z" fill="#E92548"></path></svg>			 -->
-                                   <img src="../assets/favicon/euro-money.png" alt="">
-                        </span>
-                                        <span class="elementor-icon-list-text" style="color: #000000;"></span><br><span style="color: #000000;">Jewellery Buying Plan</span></span>
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                           
-                            <div class="elementor-element elementor-element-07f9549 elementor-icon-list--layout-inline mj-gold-rate-btn elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="07f9549" data-element_type="widget" data-widget_type="icon-list.default">
-                                <div class="elementor-widget-container">
-                                    <ul class="elementor-icon-list-items elementor-inline-items">
-                                        <li class="elementor-icon-list-item elementor-inline-item">
-                                            <a href="#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjExNzE1IiwidG9nZ2xlIjpmYWxzZX0%3D">
-
-                                                <span class="elementor-icon-list-icon">
-                                        <!-- <svg xmlns="http://www.w3.org/2000/svg" width="44" height="26" viewBox="0 0 44 26" fill="none"><path d="M17.5888 14.2537H4.14304C3.84284 14.2537 3.58067 14.4568 3.50565 14.7475L1.21232 23.6341C1.1048 24.0508 1.4194 24.4569 1.84971 24.4569H19.5955C20.0175 24.4569 20.3306 24.0653 20.2376 23.6536L18.2309 14.767C18.1632 14.4669 17.8965 14.2537 17.5888 14.2537Z" fill="#FFE8EC" stroke="#E92548" stroke-width="1.23644"></path><path d="M29.0003 1H15.5545C15.2468 1 14.9802 1.21315 14.9124 1.51328L12.9057 10.3999C12.8128 10.8116 13.1258 11.2032 13.5479 11.2032H31.2936C31.7239 11.2032 32.0385 10.7971 31.931 10.3804L29.6377 1.49378C29.5627 1.20311 29.3005 1 29.0003 1Z" fill="#FFE8EC" stroke="#E92548" stroke-width="1.23644"></path><path d="M39.7054 14.2537H26.2596C25.9519 14.2537 25.6853 14.4669 25.6175 14.767L23.6108 23.6536C23.5179 24.0653 23.8309 24.4569 24.2529 24.4569H41.9987C42.429 24.4569 42.7436 24.0508 42.6361 23.6341L40.3428 14.7475C40.2678 14.4568 40.0056 14.2537 39.7054 14.2537Z" fill="#FFE8EC" stroke="#E92548" stroke-width="1.23644"></path></svg>						 -->
-                                        <img src="../assets/favicon/gold-bar.png" alt="">
-                                    </span>
-                                        <span class="elementor-icon-list-text"><span style="color: #272727">Today's
-                                        </span><br>Gold Rate</span>
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!--section end----  -->
-                        <!-- next section ---- -->
-
-                        <div class="elementor-element elementor-element-d57f097 elementor-widget-mobile__width-initial elementor-widget elementor-widget-search" data-id="d57f097" data-element_type="widget" data-settings="{&quot;submit_trigger&quot;:&quot;both&quot;,&quot;pagination_type_options&quot;:&quot;none&quot;}"
-                            data-widget_type="search.default">
-                            <div class="elementor-widget-container">
-                                <search class="e-search " role="search">
-                                    <form class="e-search-form" action="#" method="get">
-
-
-                                        <label class="e-search-label" for="search-d57f097">
-                    <span class="elementor-screen-only">
-                        Search					</span>
-                                    </label>
-
-                                        <div class="e-search-input-wrapper">
-                                            <input id="search-d57f097" placeholder="Search for gold jewellery, diamond jewellery and more" class="e-search-input" type="search" name="s" value="" autocomplete="off" role="combobox" aria-autocomplete="list" aria-expanded="false" aria-controls="results-d57f097"
-                                                aria-haspopup="listbox">
-                                            <svg aria-hidden="true" class="e-font-icon-svg e-fas-times" viewBox="0 0 352 512" xmlns="http://www.w3.org/2000/svg"><path d="M242.72 256l100.07-100.07c12.28-12.28 12.28-32.19 0-44.48l-22.24-22.24c-12.28-12.28-32.19-12.28-44.48 0L176 189.28 75.93 89.21c-12.28-12.28-32.19-12.28-44.48 0L9.21 111.45c-12.28 12.28-12.28 32.19 0 44.48L109.28 256 9.21 356.07c-12.28 12.28-12.28 32.19 0 44.48l22.24 22.24c12.28 12.28 32.2 12.28 44.48 0L176 322.72l100.07 100.07c12.28 12.28 32.2 12.28 44.48 0l22.24-22.24c12.28-12.28 12.28-32.19 0-44.48L242.72 256z"></path></svg>                                            <output id="results-d57f097" class="e-search-results-container hide-loader" aria-live="polite" aria-atomic="true" aria-label="Results for search" tabindex="0">
-                        <div class="e-search-results"></div>
-                                            </output>
-                                        </div>
-
-
-                                        <button class="e-search-submit  " type="submit" aria-label="Search">
-                    <svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36" fill="none"><path d="M13.3714 0C16.9178 0 20.3188 1.40877 22.8265 3.9164C25.3341 6.42403 26.7429 9.82511 26.7429 13.3714C26.7429 16.6834 25.5291 19.728 23.5337 22.0731L24.0891 22.6286H25.7143L36 32.9143L32.9143 36L22.6286 25.7143V24.0891L22.0731 23.5337C19.6465 25.6042 16.5613 26.7419 13.3714 26.7429C9.82511 26.7429 6.42403 25.3341 3.9164 22.8265C1.40877 20.3188 0 16.9178 0 13.3714C0 9.82511 1.40877 6.42403 3.9164 3.9164C6.42403 1.40877 9.82511 0 13.3714 0ZM13.3714 4.11429C8.22857 4.11429 4.11429 8.22857 4.11429 13.3714C4.11429 18.5143 8.22857 22.6286 13.3714 22.6286C18.5143 22.6286 22.6286 18.5143 22.6286 13.3714C22.6286 8.22857 18.5143 4.11429 13.3714 4.11429Z" fill="white"></path></svg>
-                                    </button>
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-  var btn = document.getElementById('e-n-menu-dropdown-icon-8208');
-  var content = document.getElementById('e-n-menu-content-8208');
-  if (btn && content) {
-    content.style.position = 'fixed';
-    content.style.display = 'none';
-    content.style.zIndex = 1000;
-    btn.addEventListener('click', function(e) {
-      e.stopPropagation();
-      var expanded = btn.getAttribute('aria-expanded') === 'true';
-      btn.setAttribute('aria-expanded', !expanded);
-      if (!expanded) {
-        var rect = btn.getBoundingClientRect();
-        content.style.left = '50%';
-        content.style.top = (rect.bottom + 8) + 'px';
-        content.style.transform = 'translate(-50%, 0)';
-        content.style.display = 'block';
-        document.body.style.overflow = 'hidden';
-      } else {
-        content.style.display = 'none';
-        document.body.style.overflow = '';
-      }
-    });
-    document.addEventListener('mousedown', function(e) {
-      if (!content.contains(e.target) && !btn.contains(e.target)) {
-        if (content.style.display === 'block') {
-          content.style.display = 'none';
-          btn.setAttribute('aria-expanded', 'false');
-          document.body.style.overflow = '';
-        }
-      }
-    });
-  }
-});
-</script>
-        <script>
-        document.addEventListener('DOMContentLoaded', function() {
-            var btn = document.getElementById('e-n-menu-dropdown-icon-8204');
-            var content = document.getElementById('e-n-menu-content-8204');
-            if (btn && content) {
-                // Set content to fixed and hidden initially
-                content.style.position = 'fixed';
-                content.style.display = 'none';
-                content.style.zIndex = 1000;
-                var openedIcon = btn.querySelector('.e-n-menu-dropdown-icon-opened');
-                var closedIcon = btn.querySelector('.e-n-menu-dropdown-icon-closed');
-                // Hide opened icon by default
-                if (openedIcon) openedIcon.style.display = 'none';
-                if (closedIcon) closedIcon.style.display = '';
-                btn.addEventListener('click', function() {
-                    var expanded = btn.getAttribute('aria-expanded') === 'true';
-                    btn.setAttribute('aria-expanded', !expanded);
-                    if (!expanded) {
-                        var rect = btn.getBoundingClientRect();
-                        // Show and center the dropdown fixed in the viewport
-                        content.style.display = 'block';
-                        content.style.visibility = 'hidden';
-                        // Center horizontally, position below the menu bar (rect.bottom)
-                        content.style.left = '50%';
-                        content.style.top = (rect.bottom + 8) + 'px'; // 8px gap below menu
-                        content.style.transform = 'translate(-50%, 0)';
-                        content.style.minWidth = rect.width + 'px';
-                        content.style.visibility = '';
-                        if (openedIcon) openedIcon.style.display = '';
-                        if (closedIcon) closedIcon.style.display = 'none';
-                    } else {
-                        content.style.display = 'none';
-                        if (openedIcon) openedIcon.style.display = 'none';
-                        if (closedIcon) closedIcon.style.display = '';
-                    }
-                });
-            }
-        });
-        </script>
-        <script>
-        document.addEventListener('DOMContentLoaded', function() {
-            var btn = document.getElementById('e-n-menu-dropdown-icon-8203');
-            var content = document.getElementById('e-n-menu-content-8203');
-            if (btn && content) {
-                // Set content to fixed and hidden initially
-                content.style.position = 'fixed';
-                content.style.display = 'none';
-                content.style.zIndex = 1000;
-                var openedIcon = btn.querySelector('.e-n-menu-dropdown-icon-opened');
-                var closedIcon = btn.querySelector('.e-n-menu-dropdown-icon-closed');
-                // Hide opened icon by default
-                if (openedIcon) openedIcon.style.display = 'none';
-                if (closedIcon) closedIcon.style.display = '';
-                btn.addEventListener('click', function() {
-                    var expanded = btn.getAttribute('aria-expanded') === 'true';
-                    btn.setAttribute('aria-expanded', !expanded);
-                    if (!expanded) {
-                        // Show and position below the button
-                        var rect = btn.getBoundingClientRect();
-                        // Show and center the dropdown fixed in the viewport
-                        content.style.display = 'block';
-                        content.style.visibility = 'hidden';
-                        // Center horizontally, position below the menu bar (rect.bottom)
-                        content.style.left = '50%';
-                        content.style.top = (rect.bottom + 8) + 'px'; // 8px gap below menu
-                        content.style.transform = 'translate(-50%, 0)';
-                        content.style.minWidth = rect.width + 'px';
-                        content.style.visibility = '';
-                        if (openedIcon) openedIcon.style.display = '';
-                        if (closedIcon) closedIcon.style.display = 'none';
-                    } else {
-                        content.style.display = 'none';
-                        if (openedIcon) openedIcon.style.display = 'none';
-                        if (closedIcon) closedIcon.style.display = '';
-                    }
-                });
-            }
-        });
-        </script>
-                                        <input type="hidden" name="e_search_props" value="d57f097-11154">
-                                    </form>
-                                </search>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="elementor-element elementor-element-13a8ae2 e-con-full e-transform e-flex e-con e-child" data-id="13a8ae2" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;position&quot;:&quot;fixed&quot;,&quot;_transform_rotateZ_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:-90,&quot;sizes&quot;:[]},&quot;_transform_rotateZ_effect_tablet&quot;:{&quot;unit&quot;:&quot;deg&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_rotateZ_effect_mobile&quot;:{&quot;unit&quot;:&quot;deg&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}">
-                        <div class="elementor-element elementor-element-7ce9365 elementor-widget-mobile__width-initial elementor-widget elementor-widget-text-editor" data-id="7ce9365" data-element_type="widget" data-widget_type="text-editor.default">
-                            <div class="elementor-widget-container">
-                                <p><a href="#">Feedback</a></p>
-                            </div>
-                        </div>
-                    </div>
+    <h1>All Diamond Products</h1>
+    <div class="product-list">
+        <?php if ($result && $result->num_rows > 0): ?>
+            <?php while($row = $result->fetch_assoc()): ?>
+                <div class="product-card">
+                    <img src="<?php echo htmlspecialchars($row['image']); ?>" alt="<?php echo htmlspecialchars($row['name']); ?>">
+                    <h3><?php echo htmlspecialchars($row['name']); ?></h3>
+                    <div class="code">Code: <?php echo htmlspecialchars($row['code']); ?></div>
+                    <div class="weight">Weight: <?php echo htmlspecialchars($row['weight']); ?></div>
+                    <?php $detail_page = isset($detail_pages[$row['source']]) ? $detail_pages[$row['source']] : '#'; ?>
+                    <a class="button" href="<?php echo $detail_page . '?id=' . urlencode($row['id']); ?>">View Details</a>
                 </div>
-            </div>
-            <div class="elementor-element elementor-element-f995112 mj-menu-header e-flex e-con-boxed e-con e-child" data-id="f995112" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                <div class="e-con-inner">
-                    <div class="elementor-element elementor-element-54dae0a elementor-hidden-desktop elementor-widget-tablet__width-initial elementor-widget elementor-widget-image" data-id="54dae0a" data-element_type="widget" data-widget_type="image.default">
-                        <div class="elementor-widget-container">
-                            <a href="/">
-                            <img width="152" height="69" src="../assets/emirats logo.jpg" class="attachment-large size-large wp-image-11160" alt="Logo" />								</a>
-                        </div>
-                    </div>
-                    <div class="elementor-element elementor-element-07d25c0 elementor-widget-tablet__width-initial e-full_width e-n-menu-layout-horizontal e-n-menu-tablet elementor-widget elementor-widget-n-menu" data-id="07d25c0" data-element_type="widget" data-settings="{&quot;menu_items&quot;:[{&quot;item_title&quot;:&quot;&lt;img src=\&quot;\/wp-content\/uploads\/2025\/04\/Gold.svg\&quot; style=\&quot;margin-right:6px; Width: 24px;\&quot;&gt;Gold&quot;,&quot;_id&quot;:&quot;38016ae&quot;,&quot;__dynamic__&quot;:{&quot;item_link&quot;:&quot;[elementor-tag id=\&quot;4bb6dbe\&quot; name=\&quot;internal-url\&quot; settings=\&quot;%7B%22type%22%3A%22post%22%2C%22post_id%22%3A%222875%22%7D\&quot;]&quot;},&quot;item_dropdown_content&quot;:&quot;yes&quot;,&quot;item_link&quot;:{&quot;url&quot;:&quot;https:\/\/muliya.in\/gold\/&quot;,&quot;is_external&quot;:&quot;&quot;,&quot;nofollow&quot;:&quot;&quot;,&quot;custom_attributes&quot;:&quot;&quot;},&quot;item_icon&quot;:{&quot;value&quot;:&quot;&quot;,&quot;library&quot;:&quot;&quot;},&quot;item_icon_active&quot;:null,&quot;element_id&quot;:&quot;&quot;},{&quot;item_title&quot;:&quot;&lt;img src=\&quot;\/wp-content\/uploads\/2025\/04\/Silver.svg\&quot; style=\&quot;margin-right:6px; Width: 18px;\&quot;&gt;Silver&quot;,&quot;_id&quot;:&quot;fd45e80&quot;,&quot;__dynamic__&quot;:{&quot;item_link&quot;:&quot;[elementor-tag id=\&quot;5277658\&quot; name=\&quot;internal-url\&quot; settings=\&quot;%7B%22type%22%3A%22post%22%2C%22post_id%22%3A%229603%22%7D\&quot;]&quot;},&quot;item_dropdown_content&quot;:&quot;&quot;,&quot;item_link&quot;:{&quot;url&quot;:&quot;https:\/\/muliya.in\/silver\/&quot;,&quot;is_external&quot;:&quot;&quot;,&quot;nofollow&quot;:&quot;&quot;,&quot;custom_attributes&quot;:&quot;&quot;},&quot;item_icon&quot;:{&quot;value&quot;:&quot;&quot;,&quot;library&quot;:&quot;&quot;},&quot;item_icon_active&quot;:null,&quot;element_id&quot;:&quot;&quot;},{&quot;item_title&quot;:&quot;&lt;img src=\&quot;\/wp-content\/uploads\/2025\/04\/Diamond.svg\&quot; style=\&quot;margin-right:6px; Width: 18px;\&quot;&gt;Diamond&quot;,&quot;_id&quot;:&quot;53655cc&quot;,&quot;__dynamic__&quot;:{&quot;item_link&quot;:&quot;[elementor-tag id=\&quot;e6777ed\&quot; name=\&quot;internal-url\&quot; settings=\&quot;%7B%22type%22%3A%22post%22%2C%22post_id%22%3A%229552%22%7D\&quot;]&quot;},&quot;item_dropdown_content&quot;:&quot;yes&quot;,&quot;item_link&quot;:{&quot;url&quot;:&quot;https:\/\/muliya.in\/diamond\/&quot;,&quot;is_external&quot;:&quot;&quot;,&quot;nofollow&quot;:&quot;&quot;,&quot;custom_attributes&quot;:&quot;&quot;},&quot;item_icon&quot;:{&quot;value&quot;:&quot;&quot;,&quot;library&quot;:&quot;&quot;},&quot;item_icon_active&quot;:null,&quot;element_id&quot;:&quot;&quot;},{&quot;item_title&quot;:&quot;&lt;img src=\&quot;\/wp-content\/uploads\/2025\/04\/Collections.svg\&quot; style=\&quot;margin-right:6px; Width: 18px;\&quot;&gt;Collections&quot;,&quot;__dynamic__&quot;:[],&quot;_id&quot;:&quot;641ac90&quot;,&quot;item_dropdown_content&quot;:&quot;yes&quot;,&quot;item_link&quot;:{&quot;url&quot;:&quot;&quot;,&quot;is_external&quot;:&quot;&quot;,&quot;nofollow&quot;:&quot;&quot;,&quot;custom_attributes&quot;:&quot;&quot;},&quot;item_icon&quot;:{&quot;value&quot;:&quot;&quot;,&quot;library&quot;:&quot;&quot;},&quot;item_icon_active&quot;:null,&quot;element_id&quot;:&quot;&quot;},{&quot;item_title&quot;:&quot;&lt;img src=\&quot;\/wp-content\/uploads\/2025\/04\/Showrooms.svg\&quot; style=\&quot;margin-right:6px; Width: 18px;\&quot;&gt;Showrooms&quot;,&quot;__dynamic__&quot;:{&quot;item_link&quot;:&quot;[elementor-tag id=\&quot;7e5f470\&quot; name=\&quot;internal-url\&quot; settings=\&quot;%7B%22type%22%3A%22post%22%2C%22post_id%22%3A%229736%22%7D\&quot;]&quot;},&quot;_id&quot;:&quot;4588b17&quot;,&quot;item_link&quot;:{&quot;url&quot;:&quot;https:\/\/muliya.in\/store-locator\/&quot;,&quot;is_external&quot;:&quot;&quot;,&quot;nofollow&quot;:&quot;&quot;,&quot;custom_attributes&quot;:&quot;&quot;},&quot;item_dropdown_content&quot;:&quot;no&quot;,&quot;item_icon&quot;:{&quot;value&quot;:&quot;&quot;,&quot;library&quot;:&quot;&quot;},&quot;item_icon_active&quot;:null,&quot;element_id&quot;:&quot;&quot;},{&quot;item_title&quot;:&quot;&lt;img src=\&quot;\/wp-content\/uploads\/2025\/04\/gallery.svg\&quot; style=\&quot;margin-right:6px; Width: 20px;\&quot;&gt;Gallery&quot;,&quot;__dynamic__&quot;:[],&quot;item_link&quot;:{&quot;url&quot;:&quot;https:\/\/gallery.muliya.in\/&quot;,&quot;is_external&quot;:&quot;on&quot;,&quot;nofollow&quot;:&quot;&quot;,&quot;custom_attributes&quot;:&quot;&quot;},&quot;_id&quot;:&quot;7ac2c36&quot;,&quot;item_dropdown_content&quot;:&quot;no&quot;,&quot;item_icon&quot;:{&quot;value&quot;&
+            <?php endwhile; ?>
+        <?php else: ?>
+            <p>No diamond products found.</p>
+        <?php endif; ?>
+    </div>
+
+
+    <div class="pagination" style="display: flex; justify-content: center; align-items: center; gap: 8px; margin-top: 40px;">
+        <?php if ($total_pages > 1): ?>
+            <!-- First page -->
+            <?php if ($page > 1): ?>
+                <a class="first" href="?page=1" title="First Page" style="padding: 8px 10px; font-size: 1.2rem; border-radius: 50%; background: #eee; color: #333; text-decoration: none;">&#171;</a>
+            <?php else: ?>
+                <span class="first" style="padding: 8px 10px; font-size: 1.2rem; border-radius: 50%; background: #ccc; color: #fff;">&#171;</span>
+            <?php endif; ?>
+
+            <!-- Prev page -->
+            <?php if ($page > 1): ?>
+                <a class="prev" href="?page=<?php echo $page-1; ?>" title="Previous Page" style="padding: 8px 10px; font-size: 1.2rem; border-radius: 50%; background: #eee; color: #333; text-decoration: none;">&#8249;</a>
+            <?php else: ?>
+                <span class="prev" style="padding: 8px 10px; font-size: 1.2rem; border-radius: 50%; background: #ccc; color: #fff;">&#8249;</span>
+            <?php endif; ?>
+
+            <!-- Page numbers (show max 5 around current) -->
+            <?php
+                $start = max(1, $page - 2);
+                $end = min($total_pages, $page + 2);
+                if ($start > 1) echo '<span style="padding:0 4px;">...</span>';
+                for ($i = $start; $i <= $end; $i++):
+            ?>
+                <?php if ($i == $page): ?>
+                    <span class="current" style="padding: 8px 14px; font-size: 1.2rem; border-radius: 50%; background: #000; color: #fff; font-weight: bold; border: 2px solid #444; box-shadow: 0 2px 6px rgba(0,0,0,0.08);"> <?php echo $i; ?> </span>
+                <?php else: ?>
+                    <a href="?page=<?php echo $i; ?>" style="padding: 8px 14px; font-size: 1.2rem; border-radius: 50%; background: #fff; color: #333; border: 2px solid #eee; text-decoration: none; transition: background 0.2s;"> <?php echo $i; ?> </a>
+                <?php endif; ?>
+            <?php endfor; ?>
+            <?php if ($end < $total_pages) echo '<span style="padding:0 4px;">...</span>'; ?>
+
+            <!-- Next page -->
+            <?php if ($page < $total_pages): ?>
+                <a class="next" href="?page=<?php echo $page+1; ?>" title="Next Page" style="padding: 8px 10px; font-size: 1.2rem; border-radius: 50%; background: #eee; color: #333; text-decoration: none;">&#8250;</a>
+            <?php else: ?>
+                <span class="next" style="padding: 8px 10px; font-size: 1.2rem; border-radius: 50%; background: #ccc; color: #fff;">&#8250;</span>
+            <?php endif; ?>
+
+            <!-- Last page -->
+            <?php if ($page < $total_pages): ?>
+                <a class="last" href="?page=<?php echo $total_pages; ?>" title="Last Page" style="padding: 8px 10px; font-size: 1.2rem; border-radius: 50%; background: #eee; color: #333; text-decoration: none;">&#187;</a>
+            <?php else: ?>
+                <span class="last" style="padding: 8px 10px; font-size: 1.2rem; border-radius: 50%; background: #ccc; color: #fff;">&#187;</span>
+            <?php endif; ?>
+        <?php endif; ?>
+    </div>
+
+    <?php include_once '../footer.php'; ?>
