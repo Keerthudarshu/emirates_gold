@@ -587,6 +587,168 @@
             top: 0;
             left: 0;
         }
+
+        /* Mobile Carousel Height Enhancement */
+        @media (max-width: 768px) {
+            .elementor-element-256b066 .elementor-widget-container,
+            .elementor-element-0f83bc8 .elementor-widget-container {
+                min-height: auto !important;
+                height: auto !important;
+            }
+            
+            .elementor-element-256b066 .e-n-carousel.swiper {
+                min-height: auto !important;
+                height: auto !important;
+            }
+            
+            .elementor-element-256b066 .swiper-slide {
+                min-height: auto !important;
+                height: auto !important;
+                display: flex !important;
+                align-items: center !important;
+                justify-content: center !important;
+            }
+            
+            .elementor-element-256b066 .swiper-slide img {
+                min-height: auto !important;
+                height: auto !important;
+                max-height: 400px !important;
+                object-fit: contain !important;
+                object-position: center !important;
+                width: 100% !important;
+                display: block !important;
+            }
+            
+            .elementor-element-256b066 .e-con-full {
+                min-height: auto !important;
+                height: auto !important;
+                display: flex !important;
+                align-items: center !important;
+                justify-content: center !important;
+            }
+            
+            .elementor-element-256b066 .elementor-widget-image {
+                width: 100% !important;
+                display: flex !important;
+                align-items: center !important;
+                justify-content: center !important;
+            }
+            
+            .elementor-element-256b066 .elementor-widget-image .elementor-widget-container {
+                width: 100% !important;
+                display: flex !important;
+                align-items: center !important;
+                justify-content: center !important;
+            }
+        }
+
+        /* Extra small mobile devices */
+        @media (max-width: 480px) {
+            .elementor-element-256b066 .elementor-widget-container,
+            .elementor-element-0f83bc8 .elementor-widget-container {
+                min-height: auto !important;
+                height: auto !important;
+            }
+            
+            .elementor-element-256b066 .e-n-carousel.swiper {
+                min-height: auto !important;
+                height: auto !important;
+            }
+            
+            .elementor-element-256b066 .swiper-slide {
+                min-height: auto !important;
+                height: auto !important;
+                display: flex !important;
+                align-items: center !important;
+                justify-content: center !important;
+            }
+            
+            .elementor-element-256b066 .swiper-slide img {
+                min-height: auto !important;
+                height: auto !important;
+                max-height: 250px !important;
+                object-fit: contain !important;
+                object-position: center !important;
+                width: 100% !important;
+                display: block !important;
+            }
+            
+            .elementor-element-256b066 .e-con-full {
+                min-height: auto !important;
+                height: auto !important;
+                display: flex !important;
+                align-items: center !important;
+                justify-content: center !important;
+            }
+            
+            .elementor-element-256b066 .elementor-widget-image {
+                width: 100% !important;
+                display: flex !important;
+                align-items: center !important;
+                justify-content: center !important;
+            }
+            
+            .elementor-element-256b066 .elementor-widget-image .elementor-widget-container {
+                width: 100% !important;
+                display: flex !important;
+                align-items: center !important;
+                justify-content: center !important;
+            }
+        }
+
+        /* Extra small mobile devices */
+        @media (max-width: 480px) {
+            .elementor-element-256b066 .elementor-widget-container,
+            .elementor-element-0f83bc8 .elementor-widget-container {
+                min-height: auto !important;
+                height: auto !important;
+            }
+            
+            .elementor-element-256b066 .e-n-carousel.swiper {
+                min-height: auto !important;
+                height: auto !important;
+            }
+            
+            .elementor-element-256b066 .swiper-slide {
+                min-height: auto !important;
+                height: auto !important;
+                display: flex !important;
+                align-items: center !important;
+                justify-content: center !important;
+            }
+            
+            .elementor-element-256b066 .swiper-slide img {
+                min-height: auto !important;
+                height: auto !important;
+                max-height: 400px !important;
+                object-fit: contain !important;
+                object-position: center !important;
+                width: 100% !important;
+                display: block !important;
+            }
+            
+            .elementor-element-256b066 .e-con-full {
+                min-height: auto !important;
+                height: auto !important;
+                display: flex !important;
+                align-items: center !important;
+                justify-content: center !important;
+            }
+            
+            .elementor-element-256b066 .elementor-widget-image {
+                width: 100% !important;
+                display: flex !important;
+                align-items: center !important;
+                justify-content: center !important;
+            }
+            
+            .elementor-element-256b066 .elementor-widget-image .elementor-widget-container {
+                width: 100% !important;
+                display: flex !important;
+                align-items: center !important;
+                justify-content: center !important;
+            }
+        }
     </style>
 </head>
 

@@ -1,8 +1,4 @@
 <?php
-// Include the header
-include_once '../header.php';
-?>
-<?php
 // Database connection
 $servername = "localhost";
 $username = "root";
@@ -30,13 +26,21 @@ if ($conn->connect_error) {
         }
         h1 {
             text-align: center;
+            margin-top: 220px;
+            
+            font-size: 2.5rem;
+            color: #2c3e50;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 1px;
         }
         .product-list {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            grid-template-columns: repeat(4, 1fr);
             gap: 30px;
             max-width: 1200px;
             margin: 40px auto;
+            padding: 0 20px;
         }
         .product-card {
             background: #fff;
@@ -44,33 +48,107 @@ if ($conn->connect_error) {
             border-radius: 15px;
             box-shadow: 0 4px 10px rgba(0,0,0,0.1);
             transition: transform 0.2s;
+            height: 450px;
+            display: flex;
+            flex-direction: column;
         }
         .product-card:hover {
             transform: translateY(-5px);
         }
         .product-card img {
             width: 100%;
-            height: 300px;
+            height: 200px;
             object-fit: cover;
             border-radius: 10px;
+            flex-shrink: 0;
         }
         .product-card h3 {
             margin: 10px 0;
             color: #333;
-            font-size: 18px;
+            font-size: 16px;
+            font-weight: 600;
+            line-height: 1.3;
+            flex-shrink: 0;
+            height: 40px;
+            overflow: hidden;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+        }
+        .product-card .product-info {
+            flex-grow: 1;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+        .product-card .product-details {
+            flex-grow: 1;
+        }
+        .product-card .product-details p {
+            margin: 5px 0;
+            font-size: 14px;
+            color: #666;
+            line-height: 1.4;
+        }
+        .product-card .product-details p:first-child {
+            font-weight: 600;
+            color: #d4af37;
         }
         .product-card a.button {
             display: inline-block;
             margin-top: 10px;
-            padding: 8px 15px;
-            background-color: #000;
+            padding: 10px 20px;
+            background: linear-gradient(45deg, #d4af37, #b8941f);
             color: #fff;
             text-decoration: none;
-            border-radius: 5px;
-            transition: background 0.3s;
+            border-radius: 25px;
+            font-size: 14px;
+            font-weight: 600;
+            text-align: center;
+            transition: all 0.3s ease;
+            align-self: flex-start;
+            width: 100%;
+            box-sizing: border-box;
         }
         .product-card a.button:hover {
-            background-color: #444;
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(212, 175, 55, 0.4);
+        }
+
+        /* Responsive grid breakpoints */
+        @media (max-width: 1200px) {
+            .product-list {
+                grid-template-columns: repeat(3, 1fr);
+                gap: 25px;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .product-list {
+                grid-template-columns: repeat(2, 1fr);
+                gap: 20px;
+                padding: 0 15px;
+            }
+            
+            h1 {
+                margin-top: 100px;
+                margin-bottom: 30px;
+                font-size: 2rem;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .product-list {
+                grid-template-columns: 1fr;
+                gap: 15px;
+                padding: 0 10px;
+            }
+            
+            h1 {
+                margin-top: 80px;
+                margin-bottom: 25px;
+                font-size: 1.8rem;
+            }
         }
     </style>
  <link rel='dns-prefetch' href='//www.googletagmanager.com' />
@@ -622,14 +700,15 @@ if ($conn->connect_error) {
 
 <body data-rsssl=1 class="home wp-singular page-template-default page page-id-2374 wp-embed-responsive wp-theme-hello-elementor wp-child-theme-muliya-jewels theme-hello-elementor woocommerce-no-js hello-elementor-default elementor-default elementor-kit-7 elementor-page elementor-page-2374">
 
-
+  <?php include_once '../header.php'; ?>
     
-    <h1>Gold Kadaas</h1>
+
+    <h1 style="margin-top:100px;">Gold Kadaas</h1>
 
     <div class="product-list">
        <?php
         // Pagination setup
-        $items_per_page = 10;
+        $items_per_page = 12; // 4x3 grid
         $page = isset($_GET['page']) && is_numeric($_GET['page']) ? (int)$_GET['page'] : 1;
         if ($page < 1) $page = 1;
         $offset = ($page - 1) * $items_per_page;
@@ -652,10 +731,21 @@ if ($conn->connect_error) {
                 $productUrl = 'gold_kadaas_product.php?code=' . urlencode($row['code']) . '&type=gold_kadaas';
                 echo '<div class="product-card">';
                 echo '<a href="' . $productUrl . '">';
-                echo '<img src="' . htmlspecialchars($row['image']) . '" alt="' . htmlspecialchars($row['name']) . '">';
+                $imgPath = !empty($row['image']) ? $row['image'] : 'img/gold_kadaas/default.jpg';
+                echo '<img src="' . htmlspecialchars($imgPath) . '" alt="' . htmlspecialchars($row['name']) . '">';
                 echo '</a>';
+                echo '<div class="product-info">';
                 echo '<h3>' . htmlspecialchars($row['name']) . '</h3>';
+                echo '<div class="product-details">';
+                echo '<p>Code: ' . htmlspecialchars($row['code']) . '</p>';
+                echo '<p>Weight: ' . htmlspecialchars($row['weight']) . '</p>';
+                if (!empty($row['description'])) {
+                    $description = strlen($row['description']) > 60 ? substr($row['description'], 0, 60) . '...' : $row['description'];
+                    echo '<p>' . htmlspecialchars($description) . '</p>';
+                }
+                echo '</div>';
                 echo '<a class="button" href="' . $productUrl . '">Know More</a>';
+                echo '</div>';
                 echo '</div>';
             }
         } else {

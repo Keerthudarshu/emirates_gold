@@ -1,4 +1,10 @@
+
 <?php
+// Include the header
+include_once '../header.php';
+?>
+<?php
+
 $servername = "localhost";
 $username = "root";
 $password = "";
@@ -12,26 +18,27 @@ if ($conn->connect_error) {
 // Get product by code and type
 $code = isset($_GET['code']) ? $_GET['code'] : '';
 $id = isset($_GET['id']) ? intval($_GET['id']) : 0;
+$type = isset($_GET['type']) ? $_GET['type'] : 'gold_bangles';
 $row = null;
 $source = '';
 
-// Only fetch from gold_bangles table
-if ($code) {
-    $sql = "SELECT * FROM gold_bangles WHERE code = '" . $conn->real_escape_string($code) . "'";
-    $result = $conn->query($sql);
-    if ($result && $result->num_rows > 0) {
-        $row = $result->fetch_assoc();
-        $source = 'gold_bangles';
+if ($type === 'gold_bangles') {
+    if ($code) {
+        $sql = "SELECT * FROM gold_bangles WHERE code = '" . $conn->real_escape_string($code) . "'";
+        $result = $conn->query($sql);
+        if ($result && $result->num_rows > 0) {
+            $row = $result->fetch_assoc();
+            $source = 'gold_bangles';
+        }
+    } elseif ($id) {
+        $sql = "SELECT * FROM gold_bangles WHERE id = $id";
+        $result = $conn->query($sql);
+        if ($result && $result->num_rows > 0) {
+            $row = $result->fetch_assoc();
+            $source = 'gold_bangles';
+        }
     }
-} elseif ($id) {
-    $sql = "SELECT * FROM gold_bangles WHERE id = $id";
-    $result = $conn->query($sql);
-    if ($result && $result->num_rows > 0) {
-        $row = $result->fetch_assoc();
-        $source = 'gold_bangles';
-    }
-}
-
+} 
 if ($row) {
 ?>
 <!DOCTYPE html>
@@ -41,111 +48,356 @@ if ($row) {
     <title><?php echo htmlspecialchars($row['name']); ?> - Product Details</title>
     <link rel="stylesheet" href="style.css">
     <style>
-        body { font-family: sans-serif; background: #f6f0fa; margin: 0; padding: 0; }
+        body { 
+            font-family: 'Inter', 'Segoe UI', system-ui, sans-serif; 
+            background: linear-gradient(135deg, #f8f5f0 0%, #e8e1d8 100%); 
+            margin: 0; 
+            padding: 0; 
+            line-height: 1.6;
+        }
+        
         .product-view-container {
             display: flex;
             justify-content: center;
             align-items: flex-start;
             min-height: 100vh;
-            padding: 40px 0;
-            background: #f6f0fa;
-            gap: 40px;
+            padding: 20px;
+            background: linear-gradient(135deg, #f8f5f0 0%, #e8e1d8 100%);
+            gap: 30px;
+            max-width: 1000px;
+            margin: 0 auto;
         }
+        
         .product-image {
             background: #fff;
-            border-radius: 10px;
-            box-shadow: 0 4px 10px rgba(0,0,0,0.07);
-            padding: 30px;
+            border-radius: 16px;
+            box-shadow: 0 8px 32px rgba(0,0,0,0.08);
+            padding: 20px;
             display: flex;
             align-items: center;
             justify-content: center;
-            flex-basis: 500px;
+            flex-basis: 450px;
             flex-shrink: 0;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            position: relative;
+            overflow: hidden;
+            min-height: 500px;
         }
+        
+        .product-image:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 12px 40px rgba(0,0,0,0.12);
+        }
+        
+        .product-image::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 3px;
+            background: linear-gradient(90deg, #d4af37, #b8941f, #d4af37);
+        }
+        
         .product-image img {
             max-width: 100%;
-            max-height: 500px;
-            border-radius: 10px;
+            max-height: 400px;
+            border-radius: 12px;
             background: #fff;
             display: block;
+            object-fit: cover;
+            transition: transform 0.3s ease;
         }
+        
+        .product-image:hover img {
+            transform: scale(1.05);
+        }
+        
         .product-details {
             background: #fff;
-            border-radius: 10px;
-            box-shadow: 0 4px 10px rgba(0,0,0,0.07);
-            padding: 40px 50px;
-            flex-basis: 500px;
-            max-width: 600px;
+            border-radius: 16px;
+            box-shadow: 0 8px 32px rgba(0,0,0,0.08);
+            padding: 30px;
+            flex-basis: 450px;
+            max-width: 450px;
             width: 100%;
+            position: relative;
+            overflow: hidden;
+            min-height: 500px;
         }
+        
+        .product-details::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 3px;
+            background: linear-gradient(90deg, #d4af37, #b8941f, #d4af37);
+        }
+        
         .product-details h1 {
-            font-size: 2.5rem;
-            margin: 0 0 20px 0;
-            font-weight: 500;
-            letter-spacing: 1px;
+            font-size: 1.4rem;
+            margin: 0 0 12px 0;
+            font-weight: 600;
+            letter-spacing: -0.5px;
+            color: #2c1810;
+            line-height: 1.3;
         }
+        
         .product-details .code-weight {
-            font-size: 1.1rem;
+            font-size: 1rem;
             margin-bottom: 20px;
-            color: #222;
+            color: #666;
+            background: #f8f5f0;
+            padding: 12px 16px;
+            border-radius: 8px;
+            border-left: 4px solid #d4af37;
         }
+        
         .product-details .weight {
             display: block;
             margin-top: 5px;
             font-size: 1.1rem;
+            font-weight: 600;
+            color: #2c1810;
         }
+        
         .product-details .social-icons {
-            margin: 25px 0 30px 0;
+            margin: 20px 0 25px 0;
+            padding: 15px 0;
+            border-top: 1px solid #eee;
+            border-bottom: 1px solid #eee;
         }
+        
         .product-details .social-icons a {
             display: inline-block;
-            margin-right: 18px;
-            font-size: 2rem;
-            color: #e74c3c;
-            transition: color 0.2s;
+            margin-right: 15px;
+            font-size: 1.5rem;
+            color: #666;
+            transition: all 0.3s ease;
+            padding: 8px;
+            border-radius: 8px;
+            background: #f8f5f0;
         }
+        
         .product-details .social-icons a:last-child {
             margin-right: 0;
         }
-        .product-details .social-icons a.twitter { color: #e74c3c; }
-        .product-details .social-icons a.whatsapp { color: #27d146; }
+        
+        .product-details .social-icons a:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+        }
+        
+        .product-details .social-icons a.twitter:hover { 
+            color: #1da1f2; 
+            background: #e3f2fd;
+        }
+        
+        .product-details .social-icons a.whatsapp:hover { 
+            color: #25d366; 
+            background: #e8f5e8;
+        }
+        
+        .product-details .social-icons a:hover {
+            color: #3b5998;
+            background: #e3f2fd;
+        }
+        
         .product-details .enquiry-btns {
             display: flex;
-            gap: 20px;
+            gap: 10px;
             margin-top: 20px;
+            flex-direction: row;
         }
+        
         .product-details .enquiry-btns a {
-            flex: 1;
-            padding: 18px 0;
+            padding: 10px 16px;
             text-align: center;
-            border-radius: 12px;
-            font-size: 1.2rem;
+            border-radius: 8px;
+            font-size: 0.9rem;
             font-weight: 600;
             text-decoration: none;
             color: #fff;
-            transition: background 0.2s;
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+            flex: 1;
         }
+        
+        .product-details .enquiry-btns a::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(255,255,255,0.2), transparent);
+            transition: left 0.5s;
+        }
+        
+        .product-details .enquiry-btns a:hover::before {
+            left: 100%;
+        }
+        
         .product-details .enquiry-btns .send {
-            background: #eb4b6c;
+            background: linear-gradient(135deg, #d4af37 0%, #b8941f 100%);
+            color: #2c1810;
         }
+        
         .product-details .enquiry-btns .send:hover {
-            background: #eb4b6c;
+            transform: translateY(-2px);
+            box-shadow: 0 8px 20px rgba(212, 175, 55, 0.4);
         }
+        
         .product-details .enquiry-btns .whatsapp {
-            background: #4c8961;
+            background: linear-gradient(135deg, #25d366 0%, #128c7e 100%);
         }
+        
         .product-details .enquiry-btns .whatsapp:hover {
-            background: #4c8961;
+            transform: translateY(-2px);
+            box-shadow: 0 8px 20px rgba(37, 211, 102, 0.4);
         }
-        @media (max-width: 900px) {
-            .product-view-container { flex-direction: column; align-items: center; gap: 0; }
-            .product-image { margin-right: 0; margin-bottom: 30px; }
-            .product-details { padding: 30px 15px; max-width: 100%; }
+        
+        /* Responsive Design */
+        @media (max-width: 1024px) {
+            .product-view-container {
+                padding: 15px;
+                gap: 20px;
+                max-width: 900px;
+            }
+            
+            .product-image {
+                flex-basis: 400px;
+                padding: 15px;
+                min-height: 450px;
+            }
+            
+            .product-image img {
+                max-height: 350px;
+            }
+            
+            .product-details {
+                padding: 25px;
+                flex-basis: 400px;
+                max-width: 400px;
+                min-height: 450px;
+            }
+            
+            .product-details h1 {
+                font-size: 1.2rem;
+            }
+        }
+        
+        @media (max-width: 768px) {
+            .product-view-container { 
+                flex-direction: column; 
+                align-items: center; 
+                gap: 20px;
+                padding: 15px 10px;
+            }
+            
+            .product-image { 
+                flex-basis: auto;
+                width: 100%;
+                max-width: 450px;
+                margin-bottom: 0;
+                padding: 15px;
+                min-height: auto;
+            }
+            
+            .product-image img {
+                max-height: 300px;
+            }
+            
+            .product-details { 
+                padding: 20px 15px; 
+                max-width: 100%; 
+                width: 100%;
+                min-height: auto;
+            }
+            
+            .product-details h1 {
+                font-size: 1.1rem;
+                margin-bottom: 10px;
+            }
+            
+            .product-details .social-icons a {
+                font-size: 1.3rem;
+                margin-right: 12px;
+                padding: 6px;
+            }
+            
+            .product-details .enquiry-btns {
+                gap: 8px;
+            }
+            
+            .product-details .enquiry-btns a {
+                padding: 8px 12px;
+                font-size: 0.85rem;
+            }
+        }
+        
+        @media (max-width: 480px) {
+            .product-view-container {
+                padding: 10px 5px;
+            }
+            
+            .product-image {
+                padding: 12px;
+            }
+            
+            .product-image img {
+                max-height: 200px;
+            }
+            
+            .product-details {
+                padding: 15px 12px;
+            }
+            
+            .product-details h1 {
+                font-size: 1.0rem;
+                line-height: 1.2;
+            }
+            
+            .product-details .code-weight {
+                font-size: 0.9rem;
+                padding: 10px 12px;
+            }
+            
+            .product-details .social-icons {
+                margin: 15px 0 20px 0;
+                text-align: center;
+            }
+            
+            .product-details .social-icons a {
+                font-size: 1.2rem;
+                margin: 0 8px 5px 8px;
+            }
+        }
+        
+        /* Loading animation for images */
+        .product-image img {
+            opacity: 0;
+            animation: fadeIn 0.5s ease-in-out forwards;
+        }
+        
+        @keyframes fadeIn {
+            to {
+                opacity: 1;
+            }
+        }
+        
+        /* Improved focus states for accessibility */
+        .product-details .enquiry-btns a:focus,
+        .product-details .social-icons a:focus {
+            outline: 2px solid #d4af37;
+            outline-offset: 2px;
         }
     </style>
-    <!-- Font Awesome for icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
- <link rel='dns-prefetch' href='//www.googletagmanager.com' />
+
+     <link rel='dns-prefetch' href='//www.googletagmanager.com' />
     <link rel='dns-prefetch' href='//hb.wpmucdn.com' />
     <link href='//hb.wpmucdn.com' rel='preconnect' />
     <link rel="alternate" type="application/rss+xml" title="Muliya Gold &amp; Diamonds &raquo; Feed" href="https://muliya.in/feed/" />
@@ -694,8 +946,11 @@ if ($row) {
 
 <body data-rsssl=1 class="home wp-singular page-template-default page page-id-2374 wp-embed-responsive wp-theme-hello-elementor wp-child-theme-muliya-jewels theme-hello-elementor woocommerce-no-js hello-elementor-default elementor-default elementor-kit-7 elementor-page elementor-page-2374">
 
-  <?php include_once '../header.php'; ?>
-        <div class="product-view-container">
+
+    <!-- Font Awesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <div class="product-view-container">
         <div class="product-image">
             <img src="<?php echo htmlspecialchars($row['image']); ?>" alt="<?php echo htmlspecialchars($row['name']); ?>">
         </div>
@@ -716,28 +971,72 @@ if ($row) {
             </div>
             <style>
                 .box-btn {
-                    margin-top: 30px;
+                    margin-top: 20px;
                     display: inline-block;
-                    background: #000;
+                    background: linear-gradient(135deg, #2c1810 0%, #4a2c1a 100%);
                     color: #fff;
-                    padding: 18px 0;
-                    border-radius: 12px;
-                    font-size: 1.2rem;
+                    padding: 10px 16px;
+                    border-radius: 8px;
+                    font-size: 0.9rem;
                     font-weight: 600;
                     text-align: center;
-                    width: 100%;
+                    width: 60%;
                     text-decoration: none;
-                    transition: background 0.2s;
+                    transition: all 0.3s ease;
+                    position: relative;
+                    overflow: hidden;
+                    border: 2px solid transparent;
                 }
+                
+                .box-btn::before {
+                    content: '';
+                    position: absolute;
+                    top: 0;
+                    left: -100%;
+                    width: 100%;
+                    height: 100%;
+                    background: linear-gradient(90deg, transparent, rgba(255,255,255,0.1), transparent);
+                    transition: left 0.5s;
+                }
+                
+                .box-btn:hover::before {
+                    left: 100%;
+                }
+                
                 .box-btn:hover {
-                    background: #444;
+                    transform: translateY(-2px);
+                    box-shadow: 0 8px 20px rgba(44, 24, 16, 0.3);
+                    border-color: #d4af37;
+                }
+                
+                .box-btn:focus {
+                    outline: 2px solid #d4af37;
+                    outline-offset: 2px;
+                }
+                
+                @media (max-width: 768px) {
+                    .box-btn {
+                        padding: 8px 12px;
+                        font-size: 0.85rem;
+                        margin-top: 15px;
+                        width: 70%;
+                    }
+                }
+                
+                @media (max-width: 480px) {
+                    .box-btn {
+                        padding: 6px 10px;
+                        font-size: 0.8rem;
+                        margin-top: 12px;
+                        width: 80%;
+                    }
                 }
             </style>
             <?php
             // Set back link based on source table
             $backLinks = [
                 'products' => 'index.php',
-                'gold_ring' => 'gold_ring.php',
+                
                 'gold_bangles' => 'gold_bangles.php'
             ];
             $backHref = isset($backLinks[$source]) ? $backLinks[$source] : 'index.php';

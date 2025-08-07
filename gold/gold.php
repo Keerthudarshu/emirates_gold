@@ -1,5 +1,5 @@
-
 <?php
+// Database connection
 $servername = "localhost";
 $username = "root";
 $password = "";
@@ -9,59 +9,8 @@ $conn = new mysqli($servername, $username, $password, $dbname);
 if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
 }
-
-// List of all gold product tables
-$gold_tables = [
-    'gold_ring',
-    'gold_bangles',
-    'gold_bracelets',
-    'gold_chain',
-    'gold_earring',
-    'gold_haarams',
-    'gold_kadaas',
-    'gold_mangalsutra',
-    'gold_necklaces',
-    'gold_pendants'
-];
-
-$limit = 12;
-$page = isset($_GET['page']) && is_numeric($_GET['page']) ? (int)$_GET['page'] : 1;
-if ($page < 1) $page = 1;
-$offset = ($page - 1) * $limit;
-
-// Get total count
-$total = 0;
-foreach ($gold_tables as $table) {
-    $count_sql = "SELECT COUNT(*) as total FROM $table";
-    $count_result = $conn->query($count_sql);
-    if ($count_result && $row = $count_result->fetch_assoc()) {
-        $total += $row['total'];
-    }
-}
-$total_pages = ceil($total / $limit);
-
-// Build UNION query to fetch all gold products
-$union_sql = [];
-foreach ($gold_tables as $table) {
-    $union_sql[] = "SELECT id, name, code, weight, image, '" . $table . "' as source FROM $table";
-}
-$sql = implode(" UNION ALL ", $union_sql) . " ORDER BY id DESC LIMIT $limit OFFSET $offset";
-$result = $conn->query($sql);
-
-// Map for detail pages
-$detail_pages = [
-    'gold_ring' => 'gold_ring_product.php',
-    'gold_bangles' => 'gold_bangles_product.php',
-    'gold_bracelets' => 'gold_bracelets_product.php',
-    'gold_chain' => 'gold_chain_product.php',
-    'gold_earring' => 'gold_earring_product.php',
-    'gold_haarams' => 'gold_haarams_product.php',
-    'gold_kadaas' => 'gold_kadaas_product.php',
-    'gold_mangalsutra' => 'gold_mangalsutra_product.php',
-    'gold_necklaces' => 'gold_necklaces_product.php',
-    'gold_pendants' => 'gold_pendants_product.php'
-];
 ?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -77,15 +26,21 @@ $detail_pages = [
         }
         h1 {
             text-align: center;
+            margin-top: 220px;
+            
             font-size: 2.5rem;
-            margin-bottom: 40px;
+            color: #2c3e50;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 1px;
         }
         .product-list {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            grid-template-columns: repeat(4, 1fr);
             gap: 30px;
             max-width: 1200px;
             margin: 40px auto;
+            padding: 0 20px;
         }
         .product-card {
             background: #fff;
@@ -93,77 +48,110 @@ $detail_pages = [
             border-radius: 15px;
             box-shadow: 0 4px 10px rgba(0,0,0,0.1);
             transition: transform 0.2s;
+            height: 450px;
+            display: flex;
+            flex-direction: column;
         }
         .product-card:hover {
             transform: translateY(-5px);
         }
         .product-card img {
             width: 100%;
-            height: 300px;
+            height: 200px;
             object-fit: cover;
             border-radius: 10px;
+            flex-shrink: 0;
         }
         .product-card h3 {
             margin: 10px 0;
             color: #333;
-            font-size: 18px;
+            font-size: 16px;
+            font-weight: 600;
+            line-height: 1.3;
+            flex-shrink: 0;
+            height: 40px;
+            overflow: hidden;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
         }
-        .product-card .code {
-            font-size: 1rem;
-            color: #555;
-            margin-bottom: 6px;
+        .product-card .product-info {
+            flex-grow: 1;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
         }
-        .product-card .weight {
-            font-size: 1rem;
-            color: #222;
-            margin-bottom: 10px;
+        .product-card .product-details {
+            flex-grow: 1;
+        }
+        .product-card .product-details p {
+            margin: 5px 0;
+            font-size: 14px;
+            color: #666;
+            line-height: 1.4;
+        }
+        .product-card .product-details p:first-child {
+            font-weight: 600;
+            color: #d4af37;
         }
         .product-card a.button {
             display: inline-block;
             margin-top: 10px;
-            padding: 8px 15px;
-            background-color: #000;
+            padding: 10px 20px;
+            background: linear-gradient(45deg, #d4af37, #b8941f);
             color: #fff;
             text-decoration: none;
-            border-radius: 5px;
-            transition: background 0.3s;
+            border-radius: 25px;
+            font-size: 14px;
+            font-weight: 600;
+            text-align: center;
+            transition: all 0.3s ease;
+            align-self: flex-start;
+            width: 100%;
+            box-sizing: border-box;
         }
         .product-card a.button:hover {
-            background-color: #444;
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(212, 175, 55, 0.4);
         }
-        .pagination {
-            text-align: center;
-            margin-top: 30px;
+
+        /* Responsive grid breakpoints */
+        @media (max-width: 1200px) {
+            .product-list {
+                grid-template-columns: repeat(3, 1fr);
+                gap: 25px;
+            }
         }
-        .pagination a, .pagination span {
-            display: inline-block;
-            min-width: 32px;
-            padding: 8px 12px;
-            margin: 0 4px;
-            background: #eee;
-            color: #333;
-            border-radius: 5px;
-            text-decoration: none;
-            font-weight: bold;
-            font-size: 1.1rem;
-            transition: background 0.2s, color 0.2s;
+
+        @media (max-width: 768px) {
+            .product-list {
+                grid-template-columns: repeat(2, 1fr);
+                gap: 20px;
+                padding: 0 15px;
+            }
+            
+            h1 {
+                margin-top: 100px;
+                margin-bottom: 30px;
+                font-size: 2rem;
+            }
         }
-        .pagination span.current {
-            background: #000;
-            color: #fff;
-        }
-        .pagination a.prev, .pagination a.next {
-            background: #000;
-            color: #fff;
-        }
-        .pagination a.prev[disabled], .pagination a.next[disabled] {
-            background: #ccc;
-            color: #fff;
-            pointer-events: none;
+
+        @media (max-width: 480px) {
+            .product-list {
+                grid-template-columns: 1fr;
+                gap: 15px;
+                padding: 0 10px;
+            }
+            
+            h1 {
+                margin-top: 80px;
+                margin-bottom: 25px;
+                font-size: 1.8rem;
+            }
         }
     </style>
-
-     <link rel='dns-prefetch' href='//www.googletagmanager.com' />
+ <link rel='dns-prefetch' href='//www.googletagmanager.com' />
     <link rel='dns-prefetch' href='//hb.wpmucdn.com' />
     <link href='//hb.wpmucdn.com' rel='preconnect' />
     <link rel="alternate" type="application/rss+xml" title="Muliya Gold &amp; Diamonds &raquo; Feed" href="https://muliya.in/feed/" />
@@ -715,23 +703,76 @@ $detail_pages = [
   <?php include_once '../header.php'; ?>
     
 
-    <h1>All Gold Products</h1>
+    <h1 style="margin-top:100px;">All Gold Products</h1>
 
     <div class="product-list">
        <?php
+        // Pagination setup
+        $items_per_page = 12; // 4x3 grid
+        $page = isset($_GET['page']) && is_numeric($_GET['page']) ? (int)$_GET['page'] : 1;
+        if ($page < 1) $page = 1;
+        $offset = ($page - 1) * $items_per_page;
+
+        // Get total items count from all gold tables
+        $tables = ['gold_bangles', 'gold_bracelets', 'gold_chain', 'gold_earring', 'gold_haarams', 'gold_kadaas', 'gold_mangalsutra', 'gold_necklaces', 'gold_pendants', 'gold_ring'];
+        $total_items = 0;
+        
+        foreach ($tables as $table) {
+            $count_sql = "SELECT COUNT(*) as total FROM $table";
+            $count_result = $conn->query($count_sql);
+            if ($count_result && $row = $count_result->fetch_assoc()) {
+                $total_items += (int)$row['total'];
+            }
+        }
+        $total_pages = ceil($total_items / $items_per_page);
+
+        // Fetch paginated items from all gold tables using UNION
+        $sql = "
+            (SELECT *, 'gold_bangles' as category, 'gold_bangles_product.php' as product_page, 'img/gold_bangles/' as img_path FROM gold_bangles)
+            UNION ALL
+            (SELECT *, 'gold_bracelets' as category, 'gold_bracelets_product.php' as product_page, 'img/gold_bracelets/' as img_path FROM gold_bracelets)
+            UNION ALL
+            (SELECT *, 'gold_chain' as category, 'gold_chain_product.php' as product_page, 'img/gold_chain/' as img_path FROM gold_chain)
+            UNION ALL
+            (SELECT *, 'gold_earring' as category, 'gold_earring_product.php' as product_page, 'img/gold_earring/' as img_path FROM gold_earring)
+            UNION ALL
+            (SELECT *, 'gold_haarams' as category, 'gold_haarams_product.php' as product_page, 'img/gold_haarams/' as img_path FROM gold_haarams)
+            UNION ALL
+            (SELECT *, 'gold_kadaas' as category, 'gold_kadaas_product.php' as product_page, 'img/gold_kadaas/' as img_path FROM gold_kadaas)
+            UNION ALL
+            (SELECT *, 'gold_mangalsutra' as category, 'gold_mangalsutra_product.php' as product_page, 'img/gold_mangalsutra/' as img_path FROM gold_mangalsutra)
+            UNION ALL
+            (SELECT *, 'gold_necklaces' as category, 'gold_necklaces_product.php' as product_page, 'img/gold_necklaces/' as img_path FROM gold_necklaces)
+            UNION ALL
+            (SELECT *, 'gold_pendants' as category, 'gold_pendants_product.php' as product_page, 'img/gold_pendants/' as img_path FROM gold_pendants)
+            UNION ALL
+            (SELECT *, 'gold_ring' as category, 'gold_ring_product.php' as product_page, 'img/gold_ring/' as img_path FROM gold_ring)
+            ORDER BY RAND()
+            LIMIT $items_per_page OFFSET $offset
+        ";
+        $result = $conn->query($sql);
+
         if ($result && $result->num_rows > 0) {
             while ($row = $result->fetch_assoc()) {
-                $source = $row['source'];
-                $detail_page = isset($detail_pages[$source]) ? $detail_pages[$source] : '#';
-                $productUrl = $detail_page . '?code=' . urlencode($row['code']);
+                $productUrl = $row['product_page'] . '?code=' . urlencode($row['code']) . '&type=' . $row['category'];
                 echo '<div class="product-card">';
                 echo '<a href="' . $productUrl . '">';
-                echo '<img src="' . htmlspecialchars($row['image']) . '" alt="' . htmlspecialchars($row['name']) . '">';
+                $imgPath = !empty($row['image']) ? $row['image'] : $row['img_path'] . 'default.jpg';
+                echo '<img src="' . htmlspecialchars($imgPath) . '" alt="' . htmlspecialchars($row['name']) . '">';
                 echo '</a>';
+                echo '<div class="product-info">';
                 echo '<h3>' . htmlspecialchars($row['name']) . '</h3>';
-                echo '<div class="code">Code: ' . htmlspecialchars($row['code']) . '</div>';
-                echo '<div class="weight">Weight: ' . htmlspecialchars($row['weight']) . '</div>';
+                echo '<div class="product-details">';
+                echo '<p>Category: Gold ' . ucfirst(str_replace('gold_', '', $row['category'])) . '</p>';
+                echo '<p>Code: ' . htmlspecialchars($row['code']) . '</p>';
+                echo '<p>Weight: ' . htmlspecialchars($row['weight']) . '</p>';
+                if (!empty($row['description'])) {
+                    $description = strlen($row['description']) > 60 ? substr($row['description'], 0, 60) . '...' : $row['description'];
+                    echo '<p>' . htmlspecialchars($description) . '</p>';
+                }
+                echo '</div>';
                 echo '<a class="button" href="' . $productUrl . '">Know More</a>';
+                echo '</div>';
                 echo '</div>';
             }
         } else {
@@ -741,31 +782,35 @@ $detail_pages = [
     </div>
 
     <?php if ($total_pages > 1): ?>
-    <div class="pagination">
+    <div style="text-align:center; margin-top:30px;">
         <?php
-        $max_links = 5;
-        $start = max(1, $page - floor($max_links/2));
-        $end = min($total_pages, $start + $max_links - 1);
-        if ($end - $start < $max_links - 1) {
-            $start = max(1, $end - $max_links + 1);
+        // Show only first 5 pages and next button
+        $max_visible_pages = 5;
+        $start_page = max(1, $page - 2);
+        $end_page = min($total_pages, $start_page + $max_visible_pages - 1);
+        
+        // Adjust start_page if we're near the end
+        if ($end_page - $start_page < $max_visible_pages - 1) {
+            $start_page = max(1, $end_page - $max_visible_pages + 1);
         }
-
-        // Prev button
+        
+        // Previous button
         if ($page > 1) {
-            echo '<a class="prev" href="?page=' . ($page-1) . '">&laquo; Prev</a>';
+            echo '<a href="?page=' . ($page - 1) . '" style="display:inline-block; min-width:32px; padding:8px 12px; margin:0 4px; background:#eee; color:#333; border-radius:5px; text-decoration:none;">‹ Prev</a>';
         }
-
-        for ($i = $start; $i <= $end; $i++) {
+        
+        // Page numbers (1-5 max)
+        for ($i = $start_page; $i <= $end_page; $i++) {
             if ($i == $page) {
-                echo '<span class="current">' . $i . '</span>';
+                echo '<span style="display:inline-block; min-width:32px; padding:8px 12px; margin:0 4px; background:#000; color:#fff; border-radius:5px; font-weight:bold;">' . $i . '</span>';
             } else {
-                echo '<a href="?page=' . $i . '">' . $i . '</a>';
+                echo '<a href="?page=' . $i . '" style="display:inline-block; min-width:32px; padding:8px 12px; margin:0 4px; background:#eee; color:#333; border-radius:5px; text-decoration:none;">' . $i . '</a>';
             }
         }
-
+        
         // Next button
         if ($page < $total_pages) {
-            echo '<a class="next" href="?page=' . ($page+1) . '">Next &raquo;</a>';
+            echo '<a href="?page=' . ($page + 1) . '" style="display:inline-block; min-width:32px; padding:8px 12px; margin:0 4px; background:#eee; color:#333; border-radius:5px; text-decoration:none;">Next ›</a>';
         }
         ?>
     </div>
