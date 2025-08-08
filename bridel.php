@@ -701,7 +701,7 @@
                         </div>
                             <h1 >All Bridal Products (Gold & Diamond)</h1>
 
-                        <div class="bridal-products-grid" style="display: grid; grid-template-columns: repeat(5, 1fr); gap: 24px; margin-top: 32px;">
+                        <div class="bridal-products-grid" style="display: flex; justify-content: center; margin-top: 32px;">
                         <?php
 $servername = "localhost";
 $username = "root";
@@ -811,8 +811,10 @@ $detail_pages = [
         margin: 40px auto 0 auto;
         padding-bottom: 32px;
         box-sizing: border-box;
-        width: 100vw;
+        width: 100%;
         overflow-x: auto;
+        justify-content: center;
+        justify-items: center;
     }
     .product-card {
         background: #fff;
@@ -881,6 +883,88 @@ $detail_pages = [
         margin: 0 auto 40px auto;
         max-width: 1400px;
         padding-top: 24px;
+    }
+    
+    /* Responsive adjustments */
+    @media (max-width: 768px) {
+        .product-list {
+            grid-template-columns: repeat(2, 1fr);
+            gap: 16px;
+            margin: 20px auto 0 auto;
+            padding: 0 16px;
+        }
+        .product-card {
+            min-height: 380px;
+            padding: 14px 10px 16px 10px;
+        }
+        .product-card img {
+            height: 180px;
+        }
+        .product-card h3 {
+            font-size: 1rem;
+            min-height: 32px;
+        }
+        .product-card .code, .product-card .weight, .product-card .type {
+            font-size: 0.9rem;
+        }
+        .product-card .button {
+            padding: 6px 16px;
+            font-size: 0.9rem;
+        }
+    }
+    
+    @media (max-width: 480px) {
+        .product-list {
+            grid-template-columns: repeat(2, 1fr);
+            gap: 12px;
+            margin: 16px auto 0 auto;
+            padding: 0 12px;
+        }
+        .product-card {
+            min-height: 360px;
+            padding: 12px 8px 14px 8px;
+        }
+        .product-card img {
+            height: 160px;
+        }
+        .product-card h3 {
+            font-size: 0.95rem;
+            min-height: 28px;
+        }
+        .product-card .code, .product-card .weight, .product-card .type {
+            font-size: 0.85rem;
+        }
+        .product-card .button {
+            padding: 5px 14px;
+            font-size: 0.85rem;
+        }
+    }
+    
+    @media (max-width: 360px) {
+        .product-list {
+            grid-template-columns: repeat(1, 1fr);
+            gap: 16px;
+            margin: 16px auto 0 auto;
+            padding: 0 16px;
+        }
+        .product-card {
+            min-height: 400px;
+            padding: 16px 12px 18px 12px;
+        }
+        .product-card img {
+            height: 200px;
+        }
+        .product-card h3 {
+            font-size: 1.05rem;
+            min-height: 36px;
+        }
+        .product-card .code, .product-card .weight, .product-card .type {
+            font-size: 0.95rem;
+        }
+        .product-card .button {
+            padding: 8px 20px;
+            font-size: 0.95rem;
+        }
     }
     </style>
 
@@ -1891,26 +1975,7 @@ $detail_pages = [
             jQuery(".mj-header").addClass("sticky"); } lastScrollTop = st; }); });
 
     </script>
-    <script type="wphb-delay-type" data-wphb-type="text/javascript" async defer>
-        (function(w, d, s, o, f, js, fjs) {
-            w[o] =
-                w[o] ||
-                function() {
-                    (w[o].q = w[o].q || []).push(arguments);
-                };
-            (js = d.createElement(s)), (fjs = d.getElementsByTagName(s)[0]);
-            js.id = o;
-            js.src = f;
-            js.async = 1;
-            fjs.parentNode.insertBefore(js, fjs);
-        })(window, document, "script", "dt", "https://d3r49s2alut4u1.cloudfront.net/js/widget.js");
-        dt("init", {
-            crmWidgetId: "8b3aa74e-857f-419f-a9a9-11111bfb5749",
-            companyName: "Muliya Jewels",
-            companyLogoUrl: "https://muliya.in/wp-content/uploads/2022/01/Muliya-Logo-new-English-02-160x126.png",
-            phoneNumber: "918147030916"
-        });
-    </script>
+
     <!-- Event snippet for Muliya Purchase conversion page -->
     <script type="wphb-delay-type">
         gtag('event', 'conversion', { 'send_to': 'AW-873895533/rm8dCIax3toZEO2s2qAD', 'transaction_id': '' });

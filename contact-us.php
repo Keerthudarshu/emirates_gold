@@ -6,7 +6,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="profile" href="https://gmpg.org/xfn/11">
-    <title>Careers | Muliya Gold &amp; Diamonds</title>
+    <title>Contact us | Muliya Gold &amp; Diamonds</title>
     <meta name='robots' content='max-image-preview:large' />
     <style>
         img:is([sizes="auto" i], [sizes^="auto," i]) {
@@ -19,7 +19,7 @@
     <link rel="alternate" type="application/rss+xml" title="Muliya Gold &amp; Diamonds &raquo; Feed" href="https://muliya.in/feed/" />
     <link rel="alternate" type="application/rss+xml" title="Muliya Gold &amp; Diamonds &raquo; Comments Feed" href="https://muliya.in/comments/feed/" />
     <link rel='stylesheet' id='elementor-post-7-css' href='https://muliya.in/wp-content/uploads/elementor/css/post-7.css?ver=1754293754' media='all' />
-    <link rel='stylesheet' id='elementor-post-11363-css' href='https://muliya.in/wp-content/uploads/elementor/css/post-11363.css?ver=1754297921' media='all' />
+    <link rel='stylesheet' id='elementor-post-2523-css' href='https://muliya.in/wp-content/uploads/elementor/css/post-2523.css?ver=1754297795' media='all' />
     <link rel='stylesheet' id='elementor-post-11154-css' href='https://muliya.in/wp-content/uploads/elementor/css/post-11154.css?ver=1754293760' media='all' />
     <link rel='stylesheet' id='elementor-post-9707-css' href='https://muliya.in/wp-content/uploads/elementor/css/post-9707.css?ver=1754293761' media='all' />
     <link rel='stylesheet' id='elementor-post-11715-css' href='https://muliya.in/wp-content/uploads/elementor/css/post-11715.css?ver=1754293761' media='all' />
@@ -474,7 +474,7 @@
     <link rel='stylesheet' id='e-popup-css' href='https://hb.wpmucdn.com/muliya.in/5839646d-9413-4bcc-b523-1f74118a4f92.css' media='all' />
     <link rel='stylesheet' id='widget-form-css' href='https://hb.wpmucdn.com/muliya.in/d0a8e350-c28a-4ef4-868d-eefa15b3296a.css' media='all' />
     <link rel='stylesheet' id='e-animation-fadeIn-css' href='https://hb.wpmucdn.com/muliya.in/db0e8fcd-dc63-4e48-b645-abb49c23b782.css' media='all' />
-    <link rel='stylesheet' id='e-sticky-css' href='https://hb.wpmucdn.com/muliya.in/fe1522c5-5d9a-44ec-916b-64504c921d23.css' media='all' />
+    <link rel='stylesheet' id='widget-nested-accordion-css' href='https://hb.wpmucdn.com/muliya.in/81ee9dac-9bdb-4744-9f27-2059dae4aae4.css' media='all' />
     <link rel='stylesheet' id='hello-elementor-child-style-css' href='https://hb.wpmucdn.com/muliya.in/62b9c300-a90a-4be9-89f4-52e76015a5ef.css' media='all' />
     <link rel='stylesheet' id='elementor-gf-local-roboto-css' href='https://hb.wpmucdn.com/muliya.in/5586faba-33df-4483-9286-5fa80161c5bb.css' media='all' />
     <link rel='stylesheet' id='elementor-gf-local-robotoslab-css' href='https://hb.wpmucdn.com/muliya.in/f53a85c2-d5ee-4d8d-af29-f034ab7aa296.css' media='all' />
@@ -513,9 +513,9 @@
     </script>
     <script type="wphb-delay-type" src="https://hb.wpmucdn.com/muliya.in/a06901cf-7428-4cd3-90d2-8280e7a2d274.js" id="woocommerce-js"></script>
     <link rel="https://api.w.org/" href="https://muliya.in/wp-json/" />
-    <link rel="alternate" title="JSON" type="application/json" href="https://muliya.in/wp-json/wp/v2/pages/11363" />
-    <link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://muliya.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmuliya.in%2Fcareers%2F" />
-    <link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://muliya.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmuliya.in%2Fcareers%2F&#038;format=xml" />
+    <link rel="alternate" title="JSON" type="application/json" href="https://muliya.in/wp-json/wp/v2/pages/2523" />
+    <link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://muliya.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmuliya.in%2Fcontact-us%2F" />
+    <link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://muliya.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmuliya.in%2Fcontact-us%2F&#038;format=xml" />
     <meta name="generator" content="Site Kit by Google 1.158.0" /> <noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
     <meta name="generator" content="Elementor 3.30.4; features: e_font_icon_svg, additional_custom_breakpoints, e_element_cache; settings: css_print_method-external, google_font-enabled, font_display-swap">
     <!-- Global site tag (gtag.js) - Google Ads: 873895533 -->
@@ -538,8 +538,9 @@
     <!-- End Facebook Pixel Code -->
 
     <!-- SEO meta tags powered by SmartCrawl https://wpmudev.com/project/smartcrawl-wordpress-seo/ -->
-    <link rel="canonical" href="https://muliya.in/careers/" />
-    <meta name="description" content="Join the Team Behind Karnataka’s Most Trusted Jewellery Brand Who We Are At Muliya – Gold &amp; Diamonds, we don’t just make jewellery—we make joy, trust, a ..." />
+    <link rel="canonical" href="https://muliya.in/contact-us/" />
+    <meta name="description" content="Get in touch Address SHYAMA JEWELS LLP
+NO 476 G and H INDIAN ARCADE Court Road, Puttur, DAKSHINA KANNADA KARNATAKA-574201 Helpdesk 1800 4252 916 Social Medi ..." />
     <script type="application/ld+json">
         {
             "@context": "https:\/\/schema.org",
@@ -575,7 +576,7 @@
                 }
             }, {
                 "@type": "BreadcrumbList",
-                "@id": "https:\/\/muliya.in\/careers?page&pagename=careers\/#breadcrumb",
+                "@id": "https:\/\/muliya.in\/contact-us?page&pagename=contact-us\/#breadcrumb",
                 "itemListElement": [{
                     "@type": "ListItem",
                     "position": 1,
@@ -584,7 +585,7 @@
                 }, {
                     "@type": "ListItem",
                     "position": 2,
-                    "name": "Careers"
+                    "name": "Contact us"
                 }]
             }, {
                 "@type": "Person",
@@ -593,18 +594,18 @@
                 "url": "https:\/\/muliya.in\/author\/developers\/"
             }, {
                 "@type": "WebPage",
-                "@id": "https:\/\/muliya.in\/careers\/#schema-webpage",
+                "@id": "https:\/\/muliya.in\/contact-us\/#schema-webpage",
                 "isPartOf": {
                     "@id": "https:\/\/muliya.in\/#schema-website"
                 },
                 "publisher": {
                     "@id": "https:\/\/muliya.in\/#schema-publishing-organization"
                 },
-                "url": "https:\/\/muliya.in\/careers\/"
+                "url": "https:\/\/muliya.in\/contact-us\/"
             }, {
                 "@type": "Article",
                 "mainEntityOfPage": {
-                    "@id": "https:\/\/muliya.in\/careers\/#schema-webpage"
+                    "@id": "https:\/\/muliya.in\/contact-us\/#schema-webpage"
                 },
                 "author": {
                     "@id": "https:\/\/muliya.in\/author\/developers\/#schema-author"
@@ -612,27 +613,25 @@
                 "publisher": {
                     "@id": "https:\/\/muliya.in\/#schema-publishing-organization"
                 },
-                "dateModified": "2025-04-21T15:44:55",
-                "datePublished": "2025-04-16T13:33:50",
-                "headline": "Careers | Muliya Gold &amp; Diamonds",
-                "description": "Join the Team Behind Karnataka\u2019s Most Trusted Jewellery Brand Who We Are At Muliya \u2013 Gold &amp; Diamonds, we don\u2019t just make jewellery\u2014we make joy, trust, a ...",
-                "name": "Careers"
+                "dateModified": "2025-04-21T15:33:35",
+                "datePublished": "2025-04-13T12:47:40",
+                "headline": "Contact us | Muliya Gold &amp; Diamonds",
+                "description": "Get in touch Address SHYAMA JEWELS LLP\u2028NO 476 G and H INDIAN ARCADE Court Road, Puttur, DAKSHINA KANNADA KARNATAKA-574201 Helpdesk 1800 4252 916 Social Medi ...",
+                "name": "Contact us"
             }]
         }
     </script>
     <meta property="og:type" content="article" />
-    <meta property="og:url" content="https://muliya.in/careers/" />
-    <meta property="og:title" content="Careers | Muliya Gold &amp; Diamonds" />
-    <meta property="og:description" content="Join the Team Behind Karnataka’s Most Trusted Jewellery Brand Who We Are At Muliya – Gold &amp; Diamonds, we don’t just make jewellery—we make joy, trust, a ..." />
-    <meta property="og:image" content="https://muliya.in/wp-content/uploads/2025/04/Career-background-image.png" />
-    <meta property="og:image:width" content="673" />
-    <meta property="og:image:height" content="448" />
-    <meta property="article:published_time" content="2025-04-16T13:33:50" />
+    <meta property="og:url" content="https://muliya.in/contact-us/" />
+    <meta property="og:title" content="Contact us | Muliya Gold &amp; Diamonds" />
+    <meta property="og:description" content="Get in touch Address SHYAMA JEWELS LLP
+NO 476 G and H INDIAN ARCADE Court Road, Puttur, DAKSHINA KANNADA KARNATAKA-574201 Helpdesk 1800 4252 916 Social Medi ..." />
+    <meta property="article:published_time" content="2025-04-13T12:47:40" />
     <meta property="article:author" content="Developers" />
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Careers | Muliya Gold &amp; Diamonds" />
-    <meta name="twitter:description" content="Join the Team Behind Karnataka’s Most Trusted Jewellery Brand Who We Are At Muliya – Gold &amp; Diamonds, we don’t just make jewellery—we make joy, trust, a ..." />
-    <meta name="twitter:image" content="https://muliya.in/wp-content/uploads/2025/04/Career-background-image.png" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="Contact us | Muliya Gold &amp; Diamonds" />
+    <meta name="twitter:description" content="Get in touch Address SHYAMA JEWELS LLP
+NO 476 G and H INDIAN ARCADE Court Road, Puttur, DAKSHINA KANNADA KARNATAKA-574201 Helpdesk 1800 4252 916 Social Medi ..." />
     <!-- /SEO -->
     <style>
         .e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
@@ -677,262 +676,116 @@
     </style>
 </head>
 
-<body data-rsssl=1 class="wp-singular page-template-default page page-id-11363 wp-embed-responsive wp-theme-hello-elementor wp-child-theme-muliya-jewels theme-hello-elementor woocommerce-no-js hello-elementor-default elementor-default elementor-kit-7 elementor-page elementor-page-11363">
+<body data-rsssl=1 class="wp-singular page-template-default page page-id-2523 wp-embed-responsive wp-theme-hello-elementor wp-child-theme-muliya-jewels theme-hello-elementor woocommerce-no-js hello-elementor-default elementor-default elementor-kit-7 elementor-page elementor-page-2523">
 
 
-<?php include_once 'header.php'; ?>
-
-
-    
-
-    <main id="content" class="site-main post-11363 page type-page status-publish hentry">
+   <?php include 'header.php'; ?>
+    <main id="content" class="site-main post-2523 page type-page status-publish hentry">
 
 
         <div class="page-content">
-            <div data-elementor-type="wp-page" data-elementor-id="11363" class="elementor elementor-11363" data-elementor-post-type="page">
-                <div class="elementor-element elementor-element-110e11f e-flex e-con-boxed e-con e-parent" data-id="110e11f" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+            <div data-elementor-type="wp-page" data-elementor-id="2523" class="elementor elementor-2523" data-elementor-post-type="page">
+                <div class="elementor-element elementor-element-8693824 e-flex e-con-boxed e-con e-parent" data-id="8693824" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                     <div class="e-con-inner">
-                        <div class="elementor-element elementor-element-0e944a5  elementor-widget elementor-widget-heading" data-id="0e944a5" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="heading.default">
+                        <div class="elementor-element elementor-element-27d943b  elementor-widget elementor-widget-heading" data-id="27d943b" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="heading.default">
                             <div class="elementor-widget-container">
-                                <h1 class="elementor-heading-title elementor-size-default">Careers</h1>
-                            </div>
-                        </div>
-                        <div class="elementor-element elementor-element-f82388b elementor-widget__width-initial  elementor-widget elementor-widget-text-editor" data-id="f82388b" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}"
-                            data-widget_type="text-editor.default">
-                            <div class="elementor-widget-container">
-                                <p>Join the Team Behind Karnataka’s Most Trusted Jewellery Brand</p>
+                                <h1 class="elementor-heading-title elementor-size-default">Contact us</h1>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="elementor-element elementor-element-3ea0cc4 e-flex e-con-boxed e-con e-parent" data-id="3ea0cc4" data-element_type="container">
+                <div class="elementor-element elementor-element-869dfe4 e-flex e-con-boxed e-con e-parent" data-id="869dfe4" data-element_type="container">
                     <div class="e-con-inner">
-                        <div class="elementor-element elementor-element-e5d2cc8 e-con-full e-flex e-con e-child" data-id="e5d2cc8" data-element_type="container">
-                            <div class="elementor-element elementor-element-185d7e9  elementor-widget elementor-widget-heading" data-id="185d7e9" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="heading.default">
+                        <div class="elementor-element elementor-element-1a4fe63 e-con-full e-flex e-con e-child" data-id="1a4fe63" data-element_type="container">
+                            <div class="elementor-element elementor-element-7d49fba  elementor-widget elementor-widget-heading" data-id="7d49fba" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="heading.default">
                                 <div class="elementor-widget-container">
-                                    <h2 class="elementor-heading-title elementor-size-default">Who We Are
-                                    </h2>
+                                    <h2 class="elementor-heading-title elementor-size-default">Get in touch</h2>
                                 </div>
                             </div>
-                            <div class="elementor-element elementor-element-e0c8345  elementor-widget elementor-widget-text-editor" data-id="e0c8345" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="text-editor.default">
-                                <div class="elementor-widget-container">
-                                    <p>At Muliya – Gold &amp; Diamonds, we don’t just make jewellery—we make joy, trust, and memories that last a lifetime.</p>
-                                    <p>Founded in 1944 and growing across Karnataka, we are on a mission to blend tradition with transformation. We’re building a team of passionate professionals—across design, retail, marketing, operations, and more—who
-                                        want to grow with a brand that values integrity, innovation, and people.</p>
-                                    <p>Whether you&#8217;re a fresher with curiosity or a professional with experience, <span style="color: #e92548; font-weight: bold;">your journey can start here.</span></p>
+                            <div class="elementor-element elementor-element-8c00ea0 e-con-full e-flex e-con e-child" data-id="8c00ea0" data-element_type="container">
+                                <div class="elementor-element elementor-element-6e4d433  elementor-widget elementor-widget-heading" data-id="6e4d433" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="heading.default">
+                                    <div class="elementor-widget-container">
+                                        <h3 class="elementor-heading-title elementor-size-default">Address</h3>
+                                    </div>
+                                </div>
+                                <div class="elementor-element elementor-element-95b116e elementor-widget__width-initial  elementor-widget elementor-widget-text-editor" data-id="95b116e" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}"
+                                    data-widget_type="text-editor.default">
+                                    <div class="elementor-widget-container">
+                                        <p>SHYAMA JEWELS LLP
+                                            <br />NO 476 G and H INDIAN ARCADE Court Road, Puttur, DAKSHINA KANNADA KARNATAKA-574201</p>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="elementor-element elementor-element-1ebe298 e-con-full e-flex e-con e-child" data-id="1ebe298" data-element_type="container">
-                            <div class="elementor-element elementor-element-3e08d62 elementor-widget elementor-widget-image" data-id="3e08d62" data-element_type="widget" data-widget_type="image.default">
-                                <div class="elementor-widget-container">
-                                    <img loading="lazy" decoding="async" width="673" height="448" src="https://muliya.in/wp-content/uploads/2025/04/Career-background-image.png" class="attachment-large size-large wp-image-11387" alt="Career background image" srcset="https://muliya.in/wp-content/uploads/2025/04/Career-background-image.png 673w, https://muliya.in/wp-content/uploads/2025/04/Career-background-image-300x200.png 300w, https://muliya.in/wp-content/uploads/2025/04/Career-background-image-600x399.png 600w"
-                                        sizes="(max-width: 673px) 100vw, 673px" /> </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="elementor-element elementor-element-1b150d2 e-flex e-con-boxed e-con e-parent" data-id="1b150d2" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                    <div class="e-con-inner">
-                        <div class="elementor-element elementor-element-dbbd161 e-con-full e-flex e-con e-child" data-id="dbbd161" data-element_type="container" data-settings="{&quot;sticky&quot;:&quot;top&quot;,&quot;sticky_offset&quot;:70,&quot;sticky_parent&quot;:&quot;yes&quot;,&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;],&quot;sticky_offset_tablet&quot;:120,&quot;sticky_effects_offset&quot;:0,&quot;sticky_anchor_link_offset&quot;:0}">
-                            <div class="elementor-element elementor-element-4a461c3  elementor-widget elementor-widget-heading" data-id="4a461c3" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="heading.default">
-                                <div class="elementor-widget-container">
-                                    <h2 class="elementor-heading-title elementor-size-default">Why work with us?
-                                    </h2>
+                            <div class="elementor-element elementor-element-6ac2fe8 e-con-full e-flex e-con e-child" data-id="6ac2fe8" data-element_type="container">
+                                <div class="elementor-element elementor-element-bf888cd  elementor-widget elementor-widget-heading" data-id="bf888cd" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="heading.default">
+                                    <div class="elementor-widget-container">
+                                        <h3 class="elementor-heading-title elementor-size-default">Helpdesk</h3>
+                                    </div>
+                                </div>
+                                <div class="elementor-element elementor-element-7904db5 elementor-widget__width-initial  elementor-widget elementor-widget-text-editor" data-id="7904db5" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}"
+                                    data-widget_type="text-editor.default">
+                                    <div class="elementor-widget-container">
+                                        <p><a href="tel:1800 4252 916">1800 4252 916</a></p>
+                                    </div>
                                 </div>
                             </div>
-                            <div class="elementor-element elementor-element-60af6ee  elementor-widget elementor-widget-text-editor" data-id="60af6ee" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="text-editor.default">
-                                <div class="elementor-widget-container">
-                                    <p>At Muliya, we invest not just in skills—but in happiness, purpose, and long-term growth. Here&#8217;s what makes a career with us truly rewarding:</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="elementor-element elementor-element-a7c692c e-con-full career-sec e-flex e-con e-child" data-id="a7c692c" data-element_type="container">
-                            <div class="elementor-element elementor-element-81161b7 e-grid e-con-full e-con e-child" data-id="81161b7" data-element_type="container">
-                                <div class="elementor-element elementor-element-e1abd5f e-con-full e-flex e-con e-child" data-id="e1abd5f" data-element_type="container">
-                                    <div class="elementor-element elementor-element-e8c4e5a elementor-widget elementor-widget-heading" data-id="e8c4e5a" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="heading.default">
-                                        <div class="elementor-widget-container">
-                                            <h3 class="elementor-heading-title elementor-size-default">Growth &amp; Development</h3>
-                                        </div>
-                                    </div>
-                                    <div class="elementor-element elementor-element-04cca5e elementor-widget__width-initial elementor-icon-list--layout-traditional elementor-list-item-link-full_width  elementor-widget elementor-widget-icon-list" data-id="04cca5e" data-element_type="widget"
-                                        data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="icon-list.default">
-                                        <div class="elementor-widget-container">
-                                            <ul class="elementor-icon-list-items">
-                                                <li class="elementor-icon-list-item">
-                                                    <span class="elementor-icon-list-icon">
-							<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M8.75227 14.2299L8.39039 15.7038C8.3756 15.7816 8.32983 15.8586 8.26787 15.9208C8.20662 15.983 8.11369 15.9986 8.03694 16C7.9602 16.0007 7.86726 15.9696 7.8046 15.9236C7.74264 15.8777 7.69617 15.8006 7.68068 15.7073L7.2864 14.2384C6.95479 12.9087 6.25424 11.6886 5.27699 10.7187C4.29975 9.74817 3.09227 9.05752 1.76299 8.74083L0.295005 8.37749C0.217557 8.36264 0.140813 8.31598 0.0788553 8.25448C0.0168973 8.19298 0.00140814 8.10038 0 8.02262C0 7.93002 0.0302761 7.85226 0.0760406 7.78934C0.137295 7.72714 0.198548 7.68048 0.291485 7.66493L1.75454 7.28532C3.0796 6.93682 4.29482 6.2483 5.26151 5.26642C6.22819 4.28524 6.89917 3.05736 7.23149 1.72343L7.60887 0.296203C7.62436 0.218444 7.67012 0.141393 7.73137 0.0791854C7.79263 0.0169781 7.88557 0.00142561 7.96231 1.1805e-05C8.03906 -0.000695095 8.13199 0.0304086 8.19465 0.0763571C8.25661 0.122306 8.30308 0.199359 8.31998 0.292669L8.69876 1.76161C9.03038 3.09129 9.73093 4.3114 10.7082 5.28126C11.6854 6.25184 12.9084 6.94106 14.237 7.25917L15.7049 7.62252C15.7817 7.63736 15.8591 7.68402 15.9211 7.74552C15.9831 7.80702 15.9985 7.89962 16 7.97738C16.0014 8.05514 15.9697 8.14774 15.9239 8.21066C15.8627 8.27286 15.8007 8.31952 15.7085 8.33507L14.2454 8.71468C12.9211 9.04763 11.7058 9.73615 10.7539 10.7173C9.77177 11.683 9.0853 12.9108 8.75227 14.2299Z" fill="#E92247"></path></svg>						</span>
-                                                    <span class="elementor-icon-list-text">Ongoing training and development programs</span>
-                                                </li>
-                                                <li class="elementor-icon-list-item">
-                                                    <span class="elementor-icon-list-icon">
-							<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M8.75227 14.2299L8.39039 15.7038C8.3756 15.7816 8.32983 15.8586 8.26787 15.9208C8.20662 15.983 8.11369 15.9986 8.03694 16C7.9602 16.0007 7.86726 15.9696 7.8046 15.9236C7.74264 15.8777 7.69617 15.8006 7.68068 15.7073L7.2864 14.2384C6.95479 12.9087 6.25424 11.6886 5.27699 10.7187C4.29975 9.74817 3.09227 9.05752 1.76299 8.74083L0.295005 8.37749C0.217557 8.36264 0.140813 8.31598 0.0788553 8.25448C0.0168973 8.19298 0.00140814 8.10038 0 8.02262C0 7.93002 0.0302761 7.85226 0.0760406 7.78934C0.137295 7.72714 0.198548 7.68048 0.291485 7.66493L1.75454 7.28532C3.0796 6.93682 4.29482 6.2483 5.26151 5.26642C6.22819 4.28524 6.89917 3.05736 7.23149 1.72343L7.60887 0.296203C7.62436 0.218444 7.67012 0.141393 7.73137 0.0791854C7.79263 0.0169781 7.88557 0.00142561 7.96231 1.1805e-05C8.03906 -0.000695095 8.13199 0.0304086 8.19465 0.0763571C8.25661 0.122306 8.30308 0.199359 8.31998 0.292669L8.69876 1.76161C9.03038 3.09129 9.73093 4.3114 10.7082 5.28126C11.6854 6.25184 12.9084 6.94106 14.237 7.25917L15.7049 7.62252C15.7817 7.63736 15.8591 7.68402 15.9211 7.74552C15.9831 7.80702 15.9985 7.89962 16 7.97738C16.0014 8.05514 15.9697 8.14774 15.9239 8.21066C15.8627 8.27286 15.8007 8.31952 15.7085 8.33507L14.2454 8.71468C12.9211 9.04763 11.7058 9.73615 10.7539 10.7173C9.77177 11.683 9.0853 12.9108 8.75227 14.2299Z" fill="#E92247"></path></svg>						</span>
-                                                    <span class="elementor-icon-list-text">Internal promotions and leadership-building opportunities</span>
-                                                </li>
-                                                <li class="elementor-icon-list-item">
-                                                    <span class="elementor-icon-list-icon">
-							<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M8.75227 14.2299L8.39039 15.7038C8.3756 15.7816 8.32983 15.8586 8.26787 15.9208C8.20662 15.983 8.11369 15.9986 8.03694 16C7.9602 16.0007 7.86726 15.9696 7.8046 15.9236C7.74264 15.8777 7.69617 15.8006 7.68068 15.7073L7.2864 14.2384C6.95479 12.9087 6.25424 11.6886 5.27699 10.7187C4.29975 9.74817 3.09227 9.05752 1.76299 8.74083L0.295005 8.37749C0.217557 8.36264 0.140813 8.31598 0.0788553 8.25448C0.0168973 8.19298 0.00140814 8.10038 0 8.02262C0 7.93002 0.0302761 7.85226 0.0760406 7.78934C0.137295 7.72714 0.198548 7.68048 0.291485 7.66493L1.75454 7.28532C3.0796 6.93682 4.29482 6.2483 5.26151 5.26642C6.22819 4.28524 6.89917 3.05736 7.23149 1.72343L7.60887 0.296203C7.62436 0.218444 7.67012 0.141393 7.73137 0.0791854C7.79263 0.0169781 7.88557 0.00142561 7.96231 1.1805e-05C8.03906 -0.000695095 8.13199 0.0304086 8.19465 0.0763571C8.25661 0.122306 8.30308 0.199359 8.31998 0.292669L8.69876 1.76161C9.03038 3.09129 9.73093 4.3114 10.7082 5.28126C11.6854 6.25184 12.9084 6.94106 14.237 7.25917L15.7049 7.62252C15.7817 7.63736 15.8591 7.68402 15.9211 7.74552C15.9831 7.80702 15.9985 7.89962 16 7.97738C16.0014 8.05514 15.9697 8.14774 15.9239 8.21066C15.8627 8.27286 15.8007 8.31952 15.7085 8.33507L14.2454 8.71468C12.9211 9.04763 11.7058 9.73615 10.7539 10.7173C9.77177 11.683 9.0853 12.9108 8.75227 14.2299Z" fill="#E92247"></path></svg>						</span>
-                                                    <span class="elementor-icon-list-text">Mentoring from industry experts</span>
-                                                </li>
-                                            </ul>
-                                        </div>
+                            <div class="elementor-element elementor-element-dc9eddc e-con-full e-flex e-con e-child" data-id="dc9eddc" data-element_type="container">
+                                <div class="elementor-element elementor-element-215ecd7 elementor-widget elementor-widget-heading" data-id="215ecd7" data-element_type="widget" data-widget_type="heading.default">
+                                    <div class="elementor-widget-container">
+                                        <h3 class="elementor-heading-title elementor-size-default">Social Media</h3>
                                     </div>
                                 </div>
-                                <div class="elementor-element elementor-element-b0c3ea7 e-con-full e-flex e-con e-child" data-id="b0c3ea7" data-element_type="container">
-                                    <div class="elementor-element elementor-element-c16d95b  elementor-widget elementor-widget-heading" data-id="c16d95b" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="heading.default">
-                                        <div class="elementor-widget-container">
-                                            <h3 class="elementor-heading-title elementor-size-default">Rewards &amp; Recognition</h3>
-                                        </div>
-                                    </div>
-                                    <div class="elementor-element elementor-element-cb6b597 elementor-widget__width-initial elementor-icon-list--layout-traditional elementor-list-item-link-full_width  elementor-widget elementor-widget-icon-list" data-id="cb6b597" data-element_type="widget"
-                                        data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="icon-list.default">
-                                        <div class="elementor-widget-container">
-                                            <ul class="elementor-icon-list-items">
-                                                <li class="elementor-icon-list-item">
-                                                    <span class="elementor-icon-list-icon">
-							<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M8.75227 14.2299L8.39039 15.7038C8.3756 15.7816 8.32983 15.8586 8.26787 15.9208C8.20662 15.983 8.11369 15.9986 8.03694 16C7.9602 16.0007 7.86726 15.9696 7.8046 15.9236C7.74264 15.8777 7.69617 15.8006 7.68068 15.7073L7.2864 14.2384C6.95479 12.9087 6.25424 11.6886 5.27699 10.7187C4.29975 9.74817 3.09227 9.05752 1.76299 8.74083L0.295005 8.37749C0.217557 8.36264 0.140813 8.31598 0.0788553 8.25448C0.0168973 8.19298 0.00140814 8.10038 0 8.02262C0 7.93002 0.0302761 7.85226 0.0760406 7.78934C0.137295 7.72714 0.198548 7.68048 0.291485 7.66493L1.75454 7.28532C3.0796 6.93682 4.29482 6.2483 5.26151 5.26642C6.22819 4.28524 6.89917 3.05736 7.23149 1.72343L7.60887 0.296203C7.62436 0.218444 7.67012 0.141393 7.73137 0.0791854C7.79263 0.0169781 7.88557 0.00142561 7.96231 1.1805e-05C8.03906 -0.000695095 8.13199 0.0304086 8.19465 0.0763571C8.25661 0.122306 8.30308 0.199359 8.31998 0.292669L8.69876 1.76161C9.03038 3.09129 9.73093 4.3114 10.7082 5.28126C11.6854 6.25184 12.9084 6.94106 14.237 7.25917L15.7049 7.62252C15.7817 7.63736 15.8591 7.68402 15.9211 7.74552C15.9831 7.80702 15.9985 7.89962 16 7.97738C16.0014 8.05514 15.9697 8.14774 15.9239 8.21066C15.8627 8.27286 15.8007 8.31952 15.7085 8.33507L14.2454 8.71468C12.9211 9.04763 11.7058 9.73615 10.7539 10.7173C9.77177 11.683 9.0853 12.9108 8.75227 14.2299Z" fill="#E92247"></path></svg>						</span>
-                                                    <span class="elementor-icon-list-text">Attractive salary and benefits</span>
-                                                </li>
-                                                <li class="elementor-icon-list-item">
-                                                    <span class="elementor-icon-list-icon">
-							<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M8.75227 14.2299L8.39039 15.7038C8.3756 15.7816 8.32983 15.8586 8.26787 15.9208C8.20662 15.983 8.11369 15.9986 8.03694 16C7.9602 16.0007 7.86726 15.9696 7.8046 15.9236C7.74264 15.8777 7.69617 15.8006 7.68068 15.7073L7.2864 14.2384C6.95479 12.9087 6.25424 11.6886 5.27699 10.7187C4.29975 9.74817 3.09227 9.05752 1.76299 8.74083L0.295005 8.37749C0.217557 8.36264 0.140813 8.31598 0.0788553 8.25448C0.0168973 8.19298 0.00140814 8.10038 0 8.02262C0 7.93002 0.0302761 7.85226 0.0760406 7.78934C0.137295 7.72714 0.198548 7.68048 0.291485 7.66493L1.75454 7.28532C3.0796 6.93682 4.29482 6.2483 5.26151 5.26642C6.22819 4.28524 6.89917 3.05736 7.23149 1.72343L7.60887 0.296203C7.62436 0.218444 7.67012 0.141393 7.73137 0.0791854C7.79263 0.0169781 7.88557 0.00142561 7.96231 1.1805e-05C8.03906 -0.000695095 8.13199 0.0304086 8.19465 0.0763571C8.25661 0.122306 8.30308 0.199359 8.31998 0.292669L8.69876 1.76161C9.03038 3.09129 9.73093 4.3114 10.7082 5.28126C11.6854 6.25184 12.9084 6.94106 14.237 7.25917L15.7049 7.62252C15.7817 7.63736 15.8591 7.68402 15.9211 7.74552C15.9831 7.80702 15.9985 7.89962 16 7.97738C16.0014 8.05514 15.9697 8.14774 15.9239 8.21066C15.8627 8.27286 15.8007 8.31952 15.7085 8.33507L14.2454 8.71468C12.9211 9.04763 11.7058 9.73615 10.7539 10.7173C9.77177 11.683 9.0853 12.9108 8.75227 14.2299Z" fill="#E92247"></path></svg>						</span>
-                                                    <span class="elementor-icon-list-text">Performance-linked incentives</span>
-                                                </li>
-                                                <li class="elementor-icon-list-item">
-                                                    <span class="elementor-icon-list-icon">
-							<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M8.75227 14.2299L8.39039 15.7038C8.3756 15.7816 8.32983 15.8586 8.26787 15.9208C8.20662 15.983 8.11369 15.9986 8.03694 16C7.9602 16.0007 7.86726 15.9696 7.8046 15.9236C7.74264 15.8777 7.69617 15.8006 7.68068 15.7073L7.2864 14.2384C6.95479 12.9087 6.25424 11.6886 5.27699 10.7187C4.29975 9.74817 3.09227 9.05752 1.76299 8.74083L0.295005 8.37749C0.217557 8.36264 0.140813 8.31598 0.0788553 8.25448C0.0168973 8.19298 0.00140814 8.10038 0 8.02262C0 7.93002 0.0302761 7.85226 0.0760406 7.78934C0.137295 7.72714 0.198548 7.68048 0.291485 7.66493L1.75454 7.28532C3.0796 6.93682 4.29482 6.2483 5.26151 5.26642C6.22819 4.28524 6.89917 3.05736 7.23149 1.72343L7.60887 0.296203C7.62436 0.218444 7.67012 0.141393 7.73137 0.0791854C7.79263 0.0169781 7.88557 0.00142561 7.96231 1.1805e-05C8.03906 -0.000695095 8.13199 0.0304086 8.19465 0.0763571C8.25661 0.122306 8.30308 0.199359 8.31998 0.292669L8.69876 1.76161C9.03038 3.09129 9.73093 4.3114 10.7082 5.28126C11.6854 6.25184 12.9084 6.94106 14.237 7.25917L15.7049 7.62252C15.7817 7.63736 15.8591 7.68402 15.9211 7.74552C15.9831 7.80702 15.9985 7.89962 16 7.97738C16.0014 8.05514 15.9697 8.14774 15.9239 8.21066C15.8627 8.27286 15.8007 8.31952 15.7085 8.33507L14.2454 8.71468C12.9211 9.04763 11.7058 9.73615 10.7539 10.7173C9.77177 11.683 9.0853 12.9108 8.75227 14.2299Z" fill="#E92247"></path></svg>						</span>
-                                                    <span class="elementor-icon-list-text">Awards for excellence and long-term service</span>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="elementor-element elementor-element-1c62346 e-con-full e-flex e-con e-child" data-id="1c62346" data-element_type="container">
-                                    <div class="elementor-element elementor-element-fbac400  elementor-widget elementor-widget-heading" data-id="fbac400" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="heading.default">
-                                        <div class="elementor-widget-container">
-                                            <h3 class="elementor-heading-title elementor-size-default">Employee Welfare
-                                            </h3>
-                                        </div>
-                                    </div>
-                                    <div class="elementor-element elementor-element-513c136 elementor-widget__width-initial elementor-icon-list--layout-traditional elementor-list-item-link-full_width  elementor-widget elementor-widget-icon-list" data-id="513c136" data-element_type="widget"
-                                        data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="icon-list.default">
-                                        <div class="elementor-widget-container">
-                                            <ul class="elementor-icon-list-items">
-                                                <li class="elementor-icon-list-item">
-                                                    <span class="elementor-icon-list-icon">
-							<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M8.75227 14.2299L8.39039 15.7038C8.3756 15.7816 8.32983 15.8586 8.26787 15.9208C8.20662 15.983 8.11369 15.9986 8.03694 16C7.9602 16.0007 7.86726 15.9696 7.8046 15.9236C7.74264 15.8777 7.69617 15.8006 7.68068 15.7073L7.2864 14.2384C6.95479 12.9087 6.25424 11.6886 5.27699 10.7187C4.29975 9.74817 3.09227 9.05752 1.76299 8.74083L0.295005 8.37749C0.217557 8.36264 0.140813 8.31598 0.0788553 8.25448C0.0168973 8.19298 0.00140814 8.10038 0 8.02262C0 7.93002 0.0302761 7.85226 0.0760406 7.78934C0.137295 7.72714 0.198548 7.68048 0.291485 7.66493L1.75454 7.28532C3.0796 6.93682 4.29482 6.2483 5.26151 5.26642C6.22819 4.28524 6.89917 3.05736 7.23149 1.72343L7.60887 0.296203C7.62436 0.218444 7.67012 0.141393 7.73137 0.0791854C7.79263 0.0169781 7.88557 0.00142561 7.96231 1.1805e-05C8.03906 -0.000695095 8.13199 0.0304086 8.19465 0.0763571C8.25661 0.122306 8.30308 0.199359 8.31998 0.292669L8.69876 1.76161C9.03038 3.09129 9.73093 4.3114 10.7082 5.28126C11.6854 6.25184 12.9084 6.94106 14.237 7.25917L15.7049 7.62252C15.7817 7.63736 15.8591 7.68402 15.9211 7.74552C15.9831 7.80702 15.9985 7.89962 16 7.97738C16.0014 8.05514 15.9697 8.14774 15.9239 8.21066C15.8627 8.27286 15.8007 8.31952 15.7085 8.33507L14.2454 8.71468C12.9211 9.04763 11.7058 9.73615 10.7539 10.7173C9.77177 11.683 9.0853 12.9108 8.75227 14.2299Z" fill="#E92247"></path></svg>						</span>
-                                                    <span class="elementor-icon-list-text">Free accommodation for eligible staff</span>
-                                                </li>
-                                                <li class="elementor-icon-list-item">
-                                                    <span class="elementor-icon-list-icon">
-							<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M8.75227 14.2299L8.39039 15.7038C8.3756 15.7816 8.32983 15.8586 8.26787 15.9208C8.20662 15.983 8.11369 15.9986 8.03694 16C7.9602 16.0007 7.86726 15.9696 7.8046 15.9236C7.74264 15.8777 7.69617 15.8006 7.68068 15.7073L7.2864 14.2384C6.95479 12.9087 6.25424 11.6886 5.27699 10.7187C4.29975 9.74817 3.09227 9.05752 1.76299 8.74083L0.295005 8.37749C0.217557 8.36264 0.140813 8.31598 0.0788553 8.25448C0.0168973 8.19298 0.00140814 8.10038 0 8.02262C0 7.93002 0.0302761 7.85226 0.0760406 7.78934C0.137295 7.72714 0.198548 7.68048 0.291485 7.66493L1.75454 7.28532C3.0796 6.93682 4.29482 6.2483 5.26151 5.26642C6.22819 4.28524 6.89917 3.05736 7.23149 1.72343L7.60887 0.296203C7.62436 0.218444 7.67012 0.141393 7.73137 0.0791854C7.79263 0.0169781 7.88557 0.00142561 7.96231 1.1805e-05C8.03906 -0.000695095 8.13199 0.0304086 8.19465 0.0763571C8.25661 0.122306 8.30308 0.199359 8.31998 0.292669L8.69876 1.76161C9.03038 3.09129 9.73093 4.3114 10.7082 5.28126C11.6854 6.25184 12.9084 6.94106 14.237 7.25917L15.7049 7.62252C15.7817 7.63736 15.8591 7.68402 15.9211 7.74552C15.9831 7.80702 15.9985 7.89962 16 7.97738C16.0014 8.05514 15.9697 8.14774 15.9239 8.21066C15.8627 8.27286 15.8007 8.31952 15.7085 8.33507L14.2454 8.71468C12.9211 9.04763 11.7058 9.73615 10.7539 10.7173C9.77177 11.683 9.0853 12.9108 8.75227 14.2299Z" fill="#E92247"></path></svg>						</span>
-                                                    <span class="elementor-icon-list-text">Childcare support facilities at key locations</span>
-                                                </li>
-                                                <li class="elementor-icon-list-item">
-                                                    <span class="elementor-icon-list-icon">
-							<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M8.75227 14.2299L8.39039 15.7038C8.3756 15.7816 8.32983 15.8586 8.26787 15.9208C8.20662 15.983 8.11369 15.9986 8.03694 16C7.9602 16.0007 7.86726 15.9696 7.8046 15.9236C7.74264 15.8777 7.69617 15.8006 7.68068 15.7073L7.2864 14.2384C6.95479 12.9087 6.25424 11.6886 5.27699 10.7187C4.29975 9.74817 3.09227 9.05752 1.76299 8.74083L0.295005 8.37749C0.217557 8.36264 0.140813 8.31598 0.0788553 8.25448C0.0168973 8.19298 0.00140814 8.10038 0 8.02262C0 7.93002 0.0302761 7.85226 0.0760406 7.78934C0.137295 7.72714 0.198548 7.68048 0.291485 7.66493L1.75454 7.28532C3.0796 6.93682 4.29482 6.2483 5.26151 5.26642C6.22819 4.28524 6.89917 3.05736 7.23149 1.72343L7.60887 0.296203C7.62436 0.218444 7.67012 0.141393 7.73137 0.0791854C7.79263 0.0169781 7.88557 0.00142561 7.96231 1.1805e-05C8.03906 -0.000695095 8.13199 0.0304086 8.19465 0.0763571C8.25661 0.122306 8.30308 0.199359 8.31998 0.292669L8.69876 1.76161C9.03038 3.09129 9.73093 4.3114 10.7082 5.28126C11.6854 6.25184 12.9084 6.94106 14.237 7.25917L15.7049 7.62252C15.7817 7.63736 15.8591 7.68402 15.9211 7.74552C15.9831 7.80702 15.9985 7.89962 16 7.97738C16.0014 8.05514 15.9697 8.14774 15.9239 8.21066C15.8627 8.27286 15.8007 8.31952 15.7085 8.33507L14.2454 8.71468C12.9211 9.04763 11.7058 9.73615 10.7539 10.7173C9.77177 11.683 9.0853 12.9108 8.75227 14.2299Z" fill="#E92247"></path></svg>						</span>
-                                                    <span class="elementor-icon-list-text">Supportive, respectful, and inclusive work environment</span>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="elementor-element elementor-element-aa57d62 e-con-full e-flex e-con e-child" data-id="aa57d62" data-element_type="container">
-                                    <div class="elementor-element elementor-element-ac08afd  elementor-widget elementor-widget-heading" data-id="ac08afd" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="heading.default">
-                                        <div class="elementor-widget-container">
-                                            <h3 class="elementor-heading-title elementor-size-default">Culture &amp; Engagement
-                                            </h3>
-                                        </div>
-                                    </div>
-                                    <div class="elementor-element elementor-element-d2e291a elementor-widget__width-initial elementor-icon-list--layout-traditional elementor-list-item-link-full_width  elementor-widget elementor-widget-icon-list" data-id="d2e291a" data-element_type="widget"
-                                        data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="icon-list.default">
-                                        <div class="elementor-widget-container">
-                                            <ul class="elementor-icon-list-items">
-                                                <li class="elementor-icon-list-item">
-                                                    <span class="elementor-icon-list-icon">
-							<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M8.75227 14.2299L8.39039 15.7038C8.3756 15.7816 8.32983 15.8586 8.26787 15.9208C8.20662 15.983 8.11369 15.9986 8.03694 16C7.9602 16.0007 7.86726 15.9696 7.8046 15.9236C7.74264 15.8777 7.69617 15.8006 7.68068 15.7073L7.2864 14.2384C6.95479 12.9087 6.25424 11.6886 5.27699 10.7187C4.29975 9.74817 3.09227 9.05752 1.76299 8.74083L0.295005 8.37749C0.217557 8.36264 0.140813 8.31598 0.0788553 8.25448C0.0168973 8.19298 0.00140814 8.10038 0 8.02262C0 7.93002 0.0302761 7.85226 0.0760406 7.78934C0.137295 7.72714 0.198548 7.68048 0.291485 7.66493L1.75454 7.28532C3.0796 6.93682 4.29482 6.2483 5.26151 5.26642C6.22819 4.28524 6.89917 3.05736 7.23149 1.72343L7.60887 0.296203C7.62436 0.218444 7.67012 0.141393 7.73137 0.0791854C7.79263 0.0169781 7.88557 0.00142561 7.96231 1.1805e-05C8.03906 -0.000695095 8.13199 0.0304086 8.19465 0.0763571C8.25661 0.122306 8.30308 0.199359 8.31998 0.292669L8.69876 1.76161C9.03038 3.09129 9.73093 4.3114 10.7082 5.28126C11.6854 6.25184 12.9084 6.94106 14.237 7.25917L15.7049 7.62252C15.7817 7.63736 15.8591 7.68402 15.9211 7.74552C15.9831 7.80702 15.9985 7.89962 16 7.97738C16.0014 8.05514 15.9697 8.14774 15.9239 8.21066C15.8627 8.27286 15.8007 8.31952 15.7085 8.33507L14.2454 8.71468C12.9211 9.04763 11.7058 9.73615 10.7539 10.7173C9.77177 11.683 9.0853 12.9108 8.75227 14.2299Z" fill="#E92247"></path></svg>						</span>
-                                                    <span class="elementor-icon-list-text">Employee celebrations, cultural events, and bonding activities</span>
-                                                </li>
-                                                <li class="elementor-icon-list-item">
-                                                    <span class="elementor-icon-list-icon">
-							<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M8.75227 14.2299L8.39039 15.7038C8.3756 15.7816 8.32983 15.8586 8.26787 15.9208C8.20662 15.983 8.11369 15.9986 8.03694 16C7.9602 16.0007 7.86726 15.9696 7.8046 15.9236C7.74264 15.8777 7.69617 15.8006 7.68068 15.7073L7.2864 14.2384C6.95479 12.9087 6.25424 11.6886 5.27699 10.7187C4.29975 9.74817 3.09227 9.05752 1.76299 8.74083L0.295005 8.37749C0.217557 8.36264 0.140813 8.31598 0.0788553 8.25448C0.0168973 8.19298 0.00140814 8.10038 0 8.02262C0 7.93002 0.0302761 7.85226 0.0760406 7.78934C0.137295 7.72714 0.198548 7.68048 0.291485 7.66493L1.75454 7.28532C3.0796 6.93682 4.29482 6.2483 5.26151 5.26642C6.22819 4.28524 6.89917 3.05736 7.23149 1.72343L7.60887 0.296203C7.62436 0.218444 7.67012 0.141393 7.73137 0.0791854C7.79263 0.0169781 7.88557 0.00142561 7.96231 1.1805e-05C8.03906 -0.000695095 8.13199 0.0304086 8.19465 0.0763571C8.25661 0.122306 8.30308 0.199359 8.31998 0.292669L8.69876 1.76161C9.03038 3.09129 9.73093 4.3114 10.7082 5.28126C11.6854 6.25184 12.9084 6.94106 14.237 7.25917L15.7049 7.62252C15.7817 7.63736 15.8591 7.68402 15.9211 7.74552C15.9831 7.80702 15.9985 7.89962 16 7.97738C16.0014 8.05514 15.9697 8.14774 15.9239 8.21066C15.8627 8.27286 15.8007 8.31952 15.7085 8.33507L14.2454 8.71468C12.9211 9.04763 11.7058 9.73615 10.7539 10.7173C9.77177 11.683 9.0853 12.9108 8.75227 14.2299Z" fill="#E92247"></path></svg>						</span>
-                                                    <span class="elementor-icon-list-text">Open-door leadership and family-like team culture</span>
-                                                </li>
-                                                <li class="elementor-icon-list-item">
-                                                    <span class="elementor-icon-list-icon">
-							<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M8.75227 14.2299L8.39039 15.7038C8.3756 15.7816 8.32983 15.8586 8.26787 15.9208C8.20662 15.983 8.11369 15.9986 8.03694 16C7.9602 16.0007 7.86726 15.9696 7.8046 15.9236C7.74264 15.8777 7.69617 15.8006 7.68068 15.7073L7.2864 14.2384C6.95479 12.9087 6.25424 11.6886 5.27699 10.7187C4.29975 9.74817 3.09227 9.05752 1.76299 8.74083L0.295005 8.37749C0.217557 8.36264 0.140813 8.31598 0.0788553 8.25448C0.0168973 8.19298 0.00140814 8.10038 0 8.02262C0 7.93002 0.0302761 7.85226 0.0760406 7.78934C0.137295 7.72714 0.198548 7.68048 0.291485 7.66493L1.75454 7.28532C3.0796 6.93682 4.29482 6.2483 5.26151 5.26642C6.22819 4.28524 6.89917 3.05736 7.23149 1.72343L7.60887 0.296203C7.62436 0.218444 7.67012 0.141393 7.73137 0.0791854C7.79263 0.0169781 7.88557 0.00142561 7.96231 1.1805e-05C8.03906 -0.000695095 8.13199 0.0304086 8.19465 0.0763571C8.25661 0.122306 8.30308 0.199359 8.31998 0.292669L8.69876 1.76161C9.03038 3.09129 9.73093 4.3114 10.7082 5.28126C11.6854 6.25184 12.9084 6.94106 14.237 7.25917L15.7049 7.62252C15.7817 7.63736 15.8591 7.68402 15.9211 7.74552C15.9831 7.80702 15.9985 7.89962 16 7.97738C16.0014 8.05514 15.9697 8.14774 15.9239 8.21066C15.8627 8.27286 15.8007 8.31952 15.7085 8.33507L14.2454 8.71468C12.9211 9.04763 11.7058 9.73615 10.7539 10.7173C9.77177 11.683 9.0853 12.9108 8.75227 14.2299Z" fill="#E92247"></path></svg>						</span>
-                                                    <span class="elementor-icon-list-text">Strong brand values rooted in humility and trust</span>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="elementor-element elementor-element-2d08843 e-con-full e-flex e-con e-child" data-id="2d08843" data-element_type="container">
-                                    <div class="elementor-element elementor-element-c73f181  elementor-widget elementor-widget-heading" data-id="c73f181" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="heading.default">
-                                        <div class="elementor-widget-container">
-                                            <h3 class="elementor-heading-title elementor-size-default">Diverse Career Avenues
-                                            </h3>
-                                        </div>
-                                    </div>
-                                    <div class="elementor-element elementor-element-84fc4ea  elementor-widget elementor-widget-text-editor" data-id="84fc4ea" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="text-editor.default">
-                                        <div class="elementor-widget-container">
-                                            <p>Muliya Group is active in multiple industries, allowing you to explore cross-functional growth:</p>
-                                        </div>
-                                    </div>
-                                    <div class="elementor-element elementor-element-e3383c1 elementor-widget__width-initial elementor-icon-list--layout-traditional elementor-list-item-link-full_width  elementor-widget elementor-widget-icon-list" data-id="e3383c1" data-element_type="widget"
-                                        data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="icon-list.default">
-                                        <div class="elementor-widget-container">
-                                            <ul class="elementor-icon-list-items">
-                                                <li class="elementor-icon-list-item">
-                                                    <span class="elementor-icon-list-icon">
-							<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M8.75227 14.2299L8.39039 15.7038C8.3756 15.7816 8.32983 15.8586 8.26787 15.9208C8.20662 15.983 8.11369 15.9986 8.03694 16C7.9602 16.0007 7.86726 15.9696 7.8046 15.9236C7.74264 15.8777 7.69617 15.8006 7.68068 15.7073L7.2864 14.2384C6.95479 12.9087 6.25424 11.6886 5.27699 10.7187C4.29975 9.74817 3.09227 9.05752 1.76299 8.74083L0.295005 8.37749C0.217557 8.36264 0.140813 8.31598 0.0788553 8.25448C0.0168973 8.19298 0.00140814 8.10038 0 8.02262C0 7.93002 0.0302761 7.85226 0.0760406 7.78934C0.137295 7.72714 0.198548 7.68048 0.291485 7.66493L1.75454 7.28532C3.0796 6.93682 4.29482 6.2483 5.26151 5.26642C6.22819 4.28524 6.89917 3.05736 7.23149 1.72343L7.60887 0.296203C7.62436 0.218444 7.67012 0.141393 7.73137 0.0791854C7.79263 0.0169781 7.88557 0.00142561 7.96231 1.1805e-05C8.03906 -0.000695095 8.13199 0.0304086 8.19465 0.0763571C8.25661 0.122306 8.30308 0.199359 8.31998 0.292669L8.69876 1.76161C9.03038 3.09129 9.73093 4.3114 10.7082 5.28126C11.6854 6.25184 12.9084 6.94106 14.237 7.25917L15.7049 7.62252C15.7817 7.63736 15.8591 7.68402 15.9211 7.74552C15.9831 7.80702 15.9985 7.89962 16 7.97738C16.0014 8.05514 15.9697 8.14774 15.9239 8.21066C15.8627 8.27286 15.8007 8.31952 15.7085 8.33507L14.2454 8.71468C12.9211 9.04763 11.7058 9.73615 10.7539 10.7173C9.77177 11.683 9.0853 12.9108 8.75227 14.2299Z" fill="#E92247"></path></svg>						</span>
-                                                    <span class="elementor-icon-list-text">Retail Jewellery</span>
-                                                </li>
-                                                <li class="elementor-icon-list-item">
-                                                    <span class="elementor-icon-list-icon">
-							<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M8.75227 14.2299L8.39039 15.7038C8.3756 15.7816 8.32983 15.8586 8.26787 15.9208C8.20662 15.983 8.11369 15.9986 8.03694 16C7.9602 16.0007 7.86726 15.9696 7.8046 15.9236C7.74264 15.8777 7.69617 15.8006 7.68068 15.7073L7.2864 14.2384C6.95479 12.9087 6.25424 11.6886 5.27699 10.7187C4.29975 9.74817 3.09227 9.05752 1.76299 8.74083L0.295005 8.37749C0.217557 8.36264 0.140813 8.31598 0.0788553 8.25448C0.0168973 8.19298 0.00140814 8.10038 0 8.02262C0 7.93002 0.0302761 7.85226 0.0760406 7.78934C0.137295 7.72714 0.198548 7.68048 0.291485 7.66493L1.75454 7.28532C3.0796 6.93682 4.29482 6.2483 5.26151 5.26642C6.22819 4.28524 6.89917 3.05736 7.23149 1.72343L7.60887 0.296203C7.62436 0.218444 7.67012 0.141393 7.73137 0.0791854C7.79263 0.0169781 7.88557 0.00142561 7.96231 1.1805e-05C8.03906 -0.000695095 8.13199 0.0304086 8.19465 0.0763571C8.25661 0.122306 8.30308 0.199359 8.31998 0.292669L8.69876 1.76161C9.03038 3.09129 9.73093 4.3114 10.7082 5.28126C11.6854 6.25184 12.9084 6.94106 14.237 7.25917L15.7049 7.62252C15.7817 7.63736 15.8591 7.68402 15.9211 7.74552C15.9831 7.80702 15.9985 7.89962 16 7.97738C16.0014 8.05514 15.9697 8.14774 15.9239 8.21066C15.8627 8.27286 15.8007 8.31952 15.7085 8.33507L14.2454 8.71468C12.9211 9.04763 11.7058 9.73615 10.7539 10.7173C9.77177 11.683 9.0853 12.9108 8.75227 14.2299Z" fill="#E92247"></path></svg>						</span>
-                                                    <span class="elementor-icon-list-text">Real Estate & Property</span>
-                                                </li>
-                                                <li class="elementor-icon-list-item">
-                                                    <span class="elementor-icon-list-icon">
-							<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M8.75227 14.2299L8.39039 15.7038C8.3756 15.7816 8.32983 15.8586 8.26787 15.9208C8.20662 15.983 8.11369 15.9986 8.03694 16C7.9602 16.0007 7.86726 15.9696 7.8046 15.9236C7.74264 15.8777 7.69617 15.8006 7.68068 15.7073L7.2864 14.2384C6.95479 12.9087 6.25424 11.6886 5.27699 10.7187C4.29975 9.74817 3.09227 9.05752 1.76299 8.74083L0.295005 8.37749C0.217557 8.36264 0.140813 8.31598 0.0788553 8.25448C0.0168973 8.19298 0.00140814 8.10038 0 8.02262C0 7.93002 0.0302761 7.85226 0.0760406 7.78934C0.137295 7.72714 0.198548 7.68048 0.291485 7.66493L1.75454 7.28532C3.0796 6.93682 4.29482 6.2483 5.26151 5.26642C6.22819 4.28524 6.89917 3.05736 7.23149 1.72343L7.60887 0.296203C7.62436 0.218444 7.67012 0.141393 7.73137 0.0791854C7.79263 0.0169781 7.88557 0.00142561 7.96231 1.1805e-05C8.03906 -0.000695095 8.13199 0.0304086 8.19465 0.0763571C8.25661 0.122306 8.30308 0.199359 8.31998 0.292669L8.69876 1.76161C9.03038 3.09129 9.73093 4.3114 10.7082 5.28126C11.6854 6.25184 12.9084 6.94106 14.237 7.25917L15.7049 7.62252C15.7817 7.63736 15.8591 7.68402 15.9211 7.74552C15.9831 7.80702 15.9985 7.89962 16 7.97738C16.0014 8.05514 15.9697 8.14774 15.9239 8.21066C15.8627 8.27286 15.8007 8.31952 15.7085 8.33507L14.2454 8.71468C12.9211 9.04763 11.7058 9.73615 10.7539 10.7173C9.77177 11.683 9.0853 12.9108 8.75227 14.2299Z" fill="#E92247"></path></svg>						</span>
-                                                    <span class="elementor-icon-list-text">Hospitality & Spa</span>
-                                                </li>
-                                                <li class="elementor-icon-list-item">
-                                                    <span class="elementor-icon-list-icon">
-							<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M8.75227 14.2299L8.39039 15.7038C8.3756 15.7816 8.32983 15.8586 8.26787 15.9208C8.20662 15.983 8.11369 15.9986 8.03694 16C7.9602 16.0007 7.86726 15.9696 7.8046 15.9236C7.74264 15.8777 7.69617 15.8006 7.68068 15.7073L7.2864 14.2384C6.95479 12.9087 6.25424 11.6886 5.27699 10.7187C4.29975 9.74817 3.09227 9.05752 1.76299 8.74083L0.295005 8.37749C0.217557 8.36264 0.140813 8.31598 0.0788553 8.25448C0.0168973 8.19298 0.00140814 8.10038 0 8.02262C0 7.93002 0.0302761 7.85226 0.0760406 7.78934C0.137295 7.72714 0.198548 7.68048 0.291485 7.66493L1.75454 7.28532C3.0796 6.93682 4.29482 6.2483 5.26151 5.26642C6.22819 4.28524 6.89917 3.05736 7.23149 1.72343L7.60887 0.296203C7.62436 0.218444 7.67012 0.141393 7.73137 0.0791854C7.79263 0.0169781 7.88557 0.00142561 7.96231 1.1805e-05C8.03906 -0.000695095 8.13199 0.0304086 8.19465 0.0763571C8.25661 0.122306 8.30308 0.199359 8.31998 0.292669L8.69876 1.76161C9.03038 3.09129 9.73093 4.3114 10.7082 5.28126C11.6854 6.25184 12.9084 6.94106 14.237 7.25917L15.7049 7.62252C15.7817 7.63736 15.8591 7.68402 15.9211 7.74552C15.9831 7.80702 15.9985 7.89962 16 7.97738C16.0014 8.05514 15.9697 8.14774 15.9239 8.21066C15.8627 8.27286 15.8007 8.31952 15.7085 8.33507L14.2454 8.71468C12.9211 9.04763 11.7058 9.73615 10.7539 10.7173C9.77177 11.683 9.0853 12.9108 8.75227 14.2299Z" fill="#E92247"></path></svg>						</span>
-                                                    <span class="elementor-icon-list-text">Fitness & Lifestyle (Upcoming)</span>
-                                                </li>
-                                                <li class="elementor-icon-list-item">
-                                                    <span class="elementor-icon-list-icon">
-							<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M8.75227 14.2299L8.39039 15.7038C8.3756 15.7816 8.32983 15.8586 8.26787 15.9208C8.20662 15.983 8.11369 15.9986 8.03694 16C7.9602 16.0007 7.86726 15.9696 7.8046 15.9236C7.74264 15.8777 7.69617 15.8006 7.68068 15.7073L7.2864 14.2384C6.95479 12.9087 6.25424 11.6886 5.27699 10.7187C4.29975 9.74817 3.09227 9.05752 1.76299 8.74083L0.295005 8.37749C0.217557 8.36264 0.140813 8.31598 0.0788553 8.25448C0.0168973 8.19298 0.00140814 8.10038 0 8.02262C0 7.93002 0.0302761 7.85226 0.0760406 7.78934C0.137295 7.72714 0.198548 7.68048 0.291485 7.66493L1.75454 7.28532C3.0796 6.93682 4.29482 6.2483 5.26151 5.26642C6.22819 4.28524 6.89917 3.05736 7.23149 1.72343L7.60887 0.296203C7.62436 0.218444 7.67012 0.141393 7.73137 0.0791854C7.79263 0.0169781 7.88557 0.00142561 7.96231 1.1805e-05C8.03906 -0.000695095 8.13199 0.0304086 8.19465 0.0763571C8.25661 0.122306 8.30308 0.199359 8.31998 0.292669L8.69876 1.76161C9.03038 3.09129 9.73093 4.3114 10.7082 5.28126C11.6854 6.25184 12.9084 6.94106 14.237 7.25917L15.7049 7.62252C15.7817 7.63736 15.8591 7.68402 15.9211 7.74552C15.9831 7.80702 15.9985 7.89962 16 7.97738C16.0014 8.05514 15.9697 8.14774 15.9239 8.21066C15.8627 8.27286 15.8007 8.31952 15.7085 8.33507L14.2454 8.71468C12.9211 9.04763 11.7058 9.73615 10.7539 10.7173C9.77177 11.683 9.0853 12.9108 8.75227 14.2299Z" fill="#E92247"></path></svg>						</span>
-                                                    <span class="elementor-icon-list-text">NGO – Gou Vihara (Cow Care & Heritage Initiatives)</span>
-                                                </li>
-                                            </ul>
-                                        </div>
+                                <div class="elementor-element elementor-element-b2067d8 elementor-icon-list--layout-inline elementor-list-item-link-full_width  elementor-widget elementor-widget-icon-list" data-id="b2067d8" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}"
+                                    data-widget_type="icon-list.default">
+                                    <div class="elementor-widget-container">
+                                        <ul class="elementor-icon-list-items elementor-inline-items">
+                                            <li class="elementor-icon-list-item elementor-inline-item">
+                                                <a href="https://www.instagram.com/muliyajewels/?igshid=1a849czh7jep4">
+
+												<span class="elementor-icon-list-icon">
+							<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28" fill="none"><path d="M21.3976 0H6.55028C2.93266 0 0 2.93266 0 6.55028V21.3976C0 25.0152 2.93266 27.9479 6.55028 27.9479H21.3976C25.0152 27.9479 27.9479 25.0152 27.9479 21.3976V6.55028C27.9479 2.93266 25.0152 0 21.3976 0Z" fill="white"></path><path d="M21.3976 0H6.55028C2.93266 0 0 2.93266 0 6.55028V21.3976C0 25.0152 2.93266 27.9479 6.55028 27.9479H21.3976C25.0152 27.9479 27.9479 25.0152 27.9479 21.3976V6.55028C27.9479 2.93266 25.0152 0 21.3976 0Z" fill="#E92548"></path><path d="M13.9748 3.05664C11.0099 3.05664 10.6377 3.06963 9.4733 3.12258C8.31106 3.17586 7.51771 3.35981 6.8236 3.62979C6.10547 3.90861 5.4964 4.28165 4.88963 4.88865C4.28231 5.49553 3.90927 6.1046 3.62957 6.8224C3.35883 7.51673 3.17465 8.31041 3.12236 9.4721C3.07029 10.6366 3.05664 11.0089 3.05664 13.9739C3.05664 16.9389 3.06974 17.3098 3.12258 18.4743C3.17607 19.6365 3.36003 20.4299 3.62979 21.124C3.90883 21.8421 4.28187 22.4512 4.88886 23.0579C5.49553 23.6653 6.1046 24.0392 6.82218 24.318C7.51684 24.588 8.3103 24.7719 9.47232 24.8252C10.6368 24.8781 11.0087 24.8911 13.9735 24.8911C16.9387 24.8911 17.3096 24.8781 18.474 24.8252C19.6363 24.7719 20.4305 24.588 21.1252 24.318C21.843 24.0392 22.4512 23.6653 23.0577 23.0579C23.665 22.4512 24.038 21.8421 24.3178 21.1243C24.5861 20.4299 24.7704 19.6363 24.825 18.4745C24.8773 17.3101 24.8909 16.9389 24.8909 13.9739C24.8909 11.0089 24.8773 10.6368 24.825 9.47232C24.7704 8.31008 24.5861 7.51684 24.3178 6.82273C24.038 6.1046 23.665 5.49553 23.0577 4.88865C22.4505 4.28143 21.8432 3.9084 21.1245 3.6299C20.4285 3.35981 19.6348 3.17575 18.4725 3.12258C17.308 3.06963 16.9372 3.05664 13.9714 3.05664H13.9748ZM12.9954 5.02402C13.2861 5.02358 13.6105 5.02402 13.9748 5.02402C16.8898 5.02402 17.2352 5.0345 18.3863 5.08679C19.4507 5.13548 20.0284 5.31332 20.4133 5.46278C20.9228 5.6606 21.286 5.89717 21.6679 6.27938C22.05 6.66148 22.2864 7.02535 22.4848 7.53485C22.6342 7.91914 22.8123 8.49687 22.8608 9.56129C22.9131 10.7122 22.9244 11.0578 22.9244 13.9714C22.9244 16.8849 22.9131 17.2307 22.8608 18.3815C22.8121 19.4459 22.6342 20.0236 22.4848 20.408C22.287 20.9175 22.05 21.2803 21.6679 21.6622C21.2858 22.0443 20.923 22.2807 20.4133 22.4787C20.0289 22.6288 19.4507 22.8062 18.3863 22.8549C17.2354 22.9072 16.8898 22.9185 13.9748 22.9185C11.0597 22.9185 10.7141 22.9072 9.56337 22.8549C8.49894 22.8057 7.92121 22.6279 7.53605 22.4785C7.02666 22.2805 6.66268 22.0441 6.28058 21.662C5.89848 21.2799 5.66202 20.9169 5.46365 20.4071C5.3142 20.0228 5.13614 19.445 5.08767 18.3806C5.03537 17.2297 5.02489 16.8841 5.02489 13.9687C5.02489 11.0532 5.03537 10.7094 5.08767 9.55856C5.13636 8.49414 5.3142 7.91641 5.46365 7.53158C5.66158 7.02207 5.89848 6.65821 6.28069 6.27611C6.6629 5.89401 7.02666 5.65743 7.53616 5.45918C7.92099 5.30907 8.49894 5.13166 9.56337 5.08275C10.5705 5.03723 10.9608 5.02358 12.9954 5.02129V5.02402ZM19.8023 6.8367C19.0791 6.8367 18.4923 7.42295 18.4923 8.14632C18.4923 8.86958 19.0791 9.45638 19.8023 9.45638C20.5256 9.45638 21.1124 8.86958 21.1124 8.14632C21.1124 7.42306 20.5256 6.83626 19.8023 6.83626V6.8367ZM13.9748 8.36739C10.8787 8.36739 8.36838 10.8777 8.36838 13.9739C8.36838 17.0701 10.8787 19.5792 13.9748 19.5792C17.071 19.5792 19.5804 17.0701 19.5804 13.9739C19.5804 10.8778 17.0708 8.36739 13.9745 8.36739H13.9748ZM13.9748 10.3348C15.9845 10.3348 17.6139 11.9639 17.6139 13.9739C17.6139 15.9836 15.9845 17.613 13.9748 17.613C11.965 17.613 10.3358 15.9836 10.3358 13.9739C10.3358 11.9639 11.9649 10.3348 13.9748 10.3348Z" fill="white"></path></svg>						</span>
+										<span class="elementor-icon-list-text"></span>
+											</a>
+                                            </li>
+                                            <li class="elementor-icon-list-item elementor-inline-item">
+                                                <a href="https://www.facebook.com/muliyajewels/">
+
+												<span class="elementor-icon-list-icon">
+							<svg xmlns="http://www.w3.org/2000/svg" width="30" height="29" viewBox="0 0 30 29" fill="none"><path d="M29.2484 14.1774C29.2484 6.35203 22.8974 0.000976562 15.072 0.000976562C7.24656 0.000976562 0.895508 6.35203 0.895508 14.1774C0.895508 21.0388 5.77221 26.752 12.2367 28.0704V18.4304H9.40139V14.1774H12.2367V10.6333C12.2367 7.89727 14.4624 5.67156 17.1984 5.67156H20.7426V9.9245H17.9073C17.1276 9.9245 16.4896 10.5624 16.4896 11.3421V14.1774H20.7426V18.4304H16.4896V28.283C23.6487 27.5742 29.2484 21.535 29.2484 14.1774Z" fill="#E92548"></path></svg>						</span>
+										<span class="elementor-icon-list-text"></span>
+											</a>
+                                            </li>
+                                            <li class="elementor-icon-list-item elementor-inline-item">
+                                                <a href="https://x.com/i/flow/login?redirect_after_login=%2FMuliyaJewels">
+
+												<span class="elementor-icon-list-icon">
+							<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28" fill="none"><mask id="mask0_2350_1032" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="28" height="28"><path d="M0.791016 0.672852H27.7191V27.601H0.791016V0.672852Z" fill="white"></path></mask><g mask="url(#mask0_2350_1032)"><path d="M21.9969 1.93469H26.1265L17.1056 12.2712L27.7191 26.3392H19.4099L12.8971 17.8088L5.45342 26.3392H1.31996L10.9679 15.2795L0.791016 1.93662H9.31184L15.1899 9.7323L21.9969 1.93469ZM20.5447 23.8619H22.8336L8.0616 4.28321H5.6073L20.5447 23.8619Z" fill="#E92548"></path></g></svg>						</span>
+										<span class="elementor-icon-list-text"></span>
+											</a>
+                                            </li>
+                                            <li class="elementor-icon-list-item elementor-inline-item">
+                                                <a href="https://www.youtube.com/channel/UCrj7ckW96TetuYE2ApABEjA">
+
+												<span class="elementor-icon-list-icon">
+							<svg xmlns="http://www.w3.org/2000/svg" width="34" height="25" viewBox="0 0 34 25" fill="none"><path d="M13.8039 17.5224L22.5387 12.4734L13.8039 7.42441V17.5224ZM33.2594 4.34451C33.4782 5.13552 33.6297 6.19581 33.7307 7.54222C33.8485 8.88862 33.899 10.0499 33.899 11.0597L34 12.4734C34 16.1592 33.7307 18.8689 33.2594 20.6024C32.8387 22.1171 31.8626 23.0932 30.3479 23.514C29.5568 23.7327 28.1095 23.8842 25.8879 23.9852C23.7 24.103 21.6972 24.1535 19.8459 24.1535L17.1699 24.2545C10.1181 24.2545 5.72546 23.9852 3.99197 23.514C2.47726 23.0932 1.50112 22.1171 1.08037 20.6024C0.861576 19.8113 0.710105 18.751 0.609125 17.4046C0.491314 16.0582 0.440824 14.897 0.440824 13.8872L0.339844 12.4734C0.339844 8.78764 0.609125 6.078 1.08037 4.34451C1.50112 2.8298 2.47726 1.85366 3.99197 1.43291C4.78298 1.21411 6.23037 1.06264 8.45194 0.961664C10.6398 0.843853 12.6426 0.793363 14.4939 0.793363L17.1699 0.692383C24.2217 0.692383 28.6144 0.961664 30.3479 1.43291C31.8626 1.85366 32.8387 2.8298 33.2594 4.34451Z" fill="#E92548"></path></svg>						</span>
+										<span class="elementor-icon-list-text"></span>
+											</a>
+                                            </li>
+                                        </ul>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                    </div>
-                </div>
-                <div class="elementor-element elementor-element-61e1ce1 resume-color e-flex e-con-boxed e-con e-parent" data-id="61e1ce1" data-element_type="container">
-                    <div class="e-con-inner">
-                        <div class="elementor-element elementor-element-9123022  elementor-widget elementor-widget-heading" data-id="9123022" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="heading.default">
-                            <div class="elementor-widget-container">
-                                <h2 class="elementor-heading-title elementor-size-default">Drop your resume here</h2>
-                            </div>
-                        </div>
-                        <div class="elementor-element elementor-element-5ce020c e-con-full e-flex  e-con e-child" data-id="5ce020c" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeIn&quot;}">
-                            <div class="elementor-element elementor-element-4157510 elementor-button-align-start  elementor-widget elementor-widget-form" data-id="4157510" data-element_type="widget" data-settings="{&quot;step_next_label&quot;:&quot;Next&quot;,&quot;step_previous_label&quot;:&quot;Previous&quot;,&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:200,&quot;button_width&quot;:&quot;100&quot;,&quot;step_type&quot;:&quot;number_text&quot;,&quot;step_icon_shape&quot;:&quot;circle&quot;}"
+                        <div class="elementor-element elementor-element-507030b e-con-full e-flex  e-con e-child" data-id="507030b" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeIn&quot;}">
+                            <div class="elementor-element elementor-element-82d1f80 elementor-button-align-start  elementor-widget elementor-widget-form" data-id="82d1f80" data-element_type="widget" data-settings="{&quot;step_next_label&quot;:&quot;Next&quot;,&quot;step_previous_label&quot;:&quot;Previous&quot;,&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:200,&quot;button_width&quot;:&quot;100&quot;,&quot;step_type&quot;:&quot;number_text&quot;,&quot;step_icon_shape&quot;:&quot;circle&quot;}"
                                 data-widget_type="form.default">
                                 <div class="elementor-widget-container">
-                                    <form class="elementor-form" method="post" name="New Form" aria-label="New Form">
-                                        <input type="hidden" name="post_id" value="11363" />
-                                        <input type="hidden" name="form_id" value="4157510" />
-                                        <input type="hidden" name="referer_title" value="Careers | Muliya Gold &amp; Diamonds" />
+                                    <form class="elementor-form" method="post" name="Contact Form" aria-label="Contact Form">
+                                        <input type="hidden" name="post_id" value="2523" />
+                                        <input type="hidden" name="form_id" value="82d1f80" />
+                                        <input type="hidden" name="referer_title" value="Contact us | Muliya Gold &amp; Diamonds" />
 
-                                        <input type="hidden" name="queried_id" value="11363" />
+                                        <input type="hidden" name="queried_id" value="2523" />
 
                                         <div class="elementor-form-fields-wrapper elementor-labels-above">
                                             <div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-100 elementor-field-required">
@@ -945,29 +798,16 @@
 								Email							</label>
                                                 <input size="1" type="email" name="form_fields[email]" id="form-field-email" class="elementor-field elementor-size-md  elementor-field-textual" placeholder="Enter your Email" required="required">
                                             </div>
-                                            <div class="elementor-field-type-radio elementor-field-group elementor-column elementor-field-group-field_554ab53 elementor-col-100 elementor-field-required">
-                                                <label for="form-field-field_554ab53" class="elementor-field-label">
-								Experience							</label>
-                                                <div class="elementor-field-subgroup  "><span class="elementor-field-option"><input type="radio" value="Experienced in Retail Sector" id="form-field-field_554ab53-0" name="form_fields[field_554ab53]" required="required"> <label for="form-field-field_554ab53-0">Experienced in Retail Sector</label></span>
-                                                    <span
-                                                        class="elementor-field-option"><input type="radio" value="Experienced in Service or Manufacturing" id="form-field-field_554ab53-1" name="form_fields[field_554ab53]" required="required"> <label for="form-field-field_554ab53-1">Experienced in Service or Manufacturing</label></span>
-                                                        <span
-                                                            class="elementor-field-option"><input type="radio" value="Fresher" id="form-field-field_554ab53-2" name="form_fields[field_554ab53]" required="required"> <label for="form-field-field_554ab53-2">Fresher</label></span>
-                                                </div>
+                                            <div class="elementor-field-type-tel elementor-field-group elementor-column elementor-field-group-field_73d0a0d elementor-col-100 elementor-field-required">
+                                                <label for="form-field-field_73d0a0d" class="elementor-field-label">
+								Mobile Number							</label>
+                                                <input size="1" type="tel" name="form_fields[field_73d0a0d]" id="form-field-field_73d0a0d" class="elementor-field elementor-size-md  elementor-field-textual" placeholder="Enter your Mobile Number" required="required" pattern="[0-9()#&amp;+*-=.]+" title="Only numbers and phone characters (#, -, *, etc) are accepted.">
+
                                             </div>
                                             <div class="elementor-field-type-textarea elementor-field-group elementor-column elementor-field-group-message elementor-col-100">
                                                 <label for="form-field-message" class="elementor-field-label">
 								Message							</label>
                                                 <textarea class="elementor-field-textual elementor-field  elementor-size-md" name="form_fields[message]" id="form-field-message" rows="4" placeholder="Enter your Message"></textarea> </div>
-                                            <div class="elementor-field-type-upload elementor-field-group elementor-column elementor-field-group-field_03f5679 elementor-col-100 elementor-field-required">
-                                                <label for="form-field-field_03f5679" class="elementor-field-label">
-								Resume							</label>
-                                                <input type="file" name="form_fields[field_03f5679]" id="form-field-field_03f5679" class="elementor-field elementor-size-md  elementor-upload-field" required="required">
-
-                                            </div>
-                                            <div class="elementor-field-type-checkbox elementor-field-group elementor-column elementor-field-group-field_f3422a2 elementor-col-100">
-                                                <div class="elementor-field-subgroup  "><span class="elementor-field-option"><input type="checkbox" value="I agree to be contacted by representatives of Muliya Jewellers overriding any DND request from this number." id="form-field-field_f3422a2-0" name="form_fields[field_f3422a2]"> <label for="form-field-field_f3422a2-0">I agree to be contacted by representatives of Muliya Jewellers overriding any DND request from this number.</label></span></div>
-                                            </div>
                                             <div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-100 e-form__buttons">
                                                 <button class="elementor-button elementor-size-sm" type="submit">
 						<span class="elementor-button-content-wrapper">
@@ -982,6 +822,111 @@
                         </div>
                     </div>
                 </div>
+                <div class="elementor-element elementor-element-3d3ea7b elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile e-flex e-con-boxed e-con e-parent" data-id="3d3ea7b" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                    <div class="e-con-inner">
+                        <div class="elementor-element elementor-element-df45021 e-con-full e-flex e-con e-child" data-id="df45021" data-element_type="container">
+                            <div class="elementor-element elementor-element-a5f7756  elementor-widget elementor-widget-heading" data-id="a5f7756" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="heading.default">
+                                <div class="elementor-widget-container">
+                                    <h2 class="elementor-heading-title elementor-size-default">Have some Questions?</h2>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="elementor-element elementor-element-2568b3b e-con-full e-flex e-con e-child" data-id="2568b3b" data-element_type="container">
+                            <div class="elementor-element elementor-element-7fdf68f  elementor-widget elementor-widget-n-accordion" data-id="7fdf68f" data-element_type="widget" data-settings="{&quot;n_accordion_animation_duration&quot;:{&quot;unit&quot;:&quot;ms&quot;,&quot;size&quot;:200,&quot;sizes&quot;:[]},&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:100,&quot;default_state&quot;:&quot;expanded&quot;,&quot;max_items_expended&quot;:&quot;one&quot;}"
+                                data-widget_type="nested-accordion.default">
+                                <div class="elementor-widget-container">
+                                    <div class="e-n-accordion" aria-label="Accordion. Open links with Enter or Space, close with Escape, and navigate with Arrow Keys">
+                                        <details id="e-n-accordion-item-1340" class="e-n-accordion-item" open>
+                                            <summary class="e-n-accordion-item-title" data-accordion-index="1" tabindex="0" aria-expanded="true" aria-controls="e-n-accordion-item-1340">
+                                                <span class='e-n-accordion-item-title-header'><div class="e-n-accordion-item-title-text"> Can I exchange my gold jewellery at any Muliya store? </div></span>
+                                                <span class='e-n-accordion-item-title-icon'>
+			<span class='e-opened' ><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M18 15L12 9L6 15" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg></span>
+                                                <span class='e-closed'><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M6 9L12 15L18 9" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg></span>
+                                                </span>
+
+                                            </summary>
+                                            <div role="region" aria-labelledby="e-n-accordion-item-1340" class="elementor-element elementor-element-2b52f5c e-con-full e-flex e-con e-child" data-id="2b52f5c" data-element_type="container">
+                                                <div class="elementor-element elementor-element-1e643de elementor-widget elementor-widget-text-editor" data-id="1e643de" data-element_type="widget" data-widget_type="text-editor.default">
+                                                    <div class="elementor-widget-container">
+                                                        <p>Yes, you can walk into any Muliya store and get your gold jewellery exchanged for a trendy new design.</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </details>
+                                        <details id="e-n-accordion-item-1341" class="e-n-accordion-item">
+                                            <summary class="e-n-accordion-item-title" data-accordion-index="2" tabindex="-1" aria-expanded="false" aria-controls="e-n-accordion-item-1341">
+                                                <span class='e-n-accordion-item-title-header'><div class="e-n-accordion-item-title-text"> Is Muliya jewellery made of real gold and diamonds? </div></span>
+                                                <span class='e-n-accordion-item-title-icon'>
+			<span class='e-opened' ><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M18 15L12 9L6 15" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg></span>
+                                                <span class='e-closed'><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M6 9L12 15L18 9" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg></span>
+                                                </span>
+
+                                            </summary>
+                                            <div role="region" aria-labelledby="e-n-accordion-item-1341" class="elementor-element elementor-element-d27487e e-con-full e-flex e-con e-child" data-id="d27487e" data-element_type="container">
+                                                <div class="elementor-element elementor-element-aaf8fa3 elementor-widget elementor-widget-text-editor" data-id="aaf8fa3" data-element_type="widget" data-widget_type="text-editor.default">
+                                                    <div class="elementor-widget-container">
+                                                        <p>Yes, you can walk into any Muliya store and get your gold jewellery exchanged for a trendy new design.</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </details>
+                                        <details id="e-n-accordion-item-1342" class="e-n-accordion-item">
+                                            <summary class="e-n-accordion-item-title" data-accordion-index="3" tabindex="-1" aria-expanded="false" aria-controls="e-n-accordion-item-1342">
+                                                <span class='e-n-accordion-item-title-header'><div class="e-n-accordion-item-title-text"> How can I become an expert? </div></span>
+                                                <span class='e-n-accordion-item-title-icon'>
+			<span class='e-opened' ><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M18 15L12 9L6 15" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg></span>
+                                                <span class='e-closed'><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M6 9L12 15L18 9" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg></span>
+                                                </span>
+
+                                            </summary>
+                                            <div role="region" aria-labelledby="e-n-accordion-item-1342" class="elementor-element elementor-element-ed9634b e-con-full e-flex e-con e-child" data-id="ed9634b" data-element_type="container">
+                                                <div class="elementor-element elementor-element-83ef2d8 elementor-widget elementor-widget-text-editor" data-id="83ef2d8" data-element_type="widget" data-widget_type="text-editor.default">
+                                                    <div class="elementor-widget-container">
+                                                        <p>Yes, you can walk into any Muliya store and get your gold jewellery exchanged for a trendy new design.</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </details>
+                                        <details id="e-n-accordion-item-1343" class="e-n-accordion-item">
+                                            <summary class="e-n-accordion-item-title" data-accordion-index="4" tabindex="-1" aria-expanded="false" aria-controls="e-n-accordion-item-1343">
+                                                <span class='e-n-accordion-item-title-header'><div class="e-n-accordion-item-title-text"> Is there a fee for asking questions? </div></span>
+                                                <span class='e-n-accordion-item-title-icon'>
+			<span class='e-opened' ><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M18 15L12 9L6 15" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg></span>
+                                                <span class='e-closed'><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M6 9L12 15L18 9" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg></span>
+                                                </span>
+
+                                            </summary>
+                                            <div role="region" aria-labelledby="e-n-accordion-item-1343" class="elementor-element elementor-element-2f62232 e-con-full e-flex e-con e-child" data-id="2f62232" data-element_type="container">
+                                                <div class="elementor-element elementor-element-0a584ab elementor-widget elementor-widget-text-editor" data-id="0a584ab" data-element_type="widget" data-widget_type="text-editor.default">
+                                                    <div class="elementor-widget-container">
+                                                        <p>Yes, you can walk into any Muliya store and get your gold jewellery exchanged for a trendy new design.</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </details>
+                                        <details id="e-n-accordion-item-1344" class="e-n-accordion-item">
+                                            <summary class="e-n-accordion-item-title" data-accordion-index="5" tabindex="-1" aria-expanded="false" aria-controls="e-n-accordion-item-1344">
+                                                <span class='e-n-accordion-item-title-header'><div class="e-n-accordion-item-title-text"> How do I follow up on my questions? </div></span>
+                                                <span class='e-n-accordion-item-title-icon'>
+			<span class='e-opened' ><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M18 15L12 9L6 15" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg></span>
+                                                <span class='e-closed'><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"><path d="M6 9L12 15L18 9" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path></svg></span>
+                                                </span>
+
+                                            </summary>
+                                            <div role="region" aria-labelledby="e-n-accordion-item-1344" class="elementor-element elementor-element-cae3410 e-con-full e-flex e-con e-child" data-id="cae3410" data-element_type="container">
+                                                <div class="elementor-element elementor-element-f41fbb3 elementor-widget elementor-widget-text-editor" data-id="f41fbb3" data-element_type="widget" data-widget_type="text-editor.default">
+                                                    <div class="elementor-widget-container">
+                                                        <p>Yes, you can walk into any Muliya store and get your gold jewellery exchanged for a trendy new design.</p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </details>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
 
 
@@ -990,7 +935,8 @@
 
     </main>
 
-    <?php include_once 'footer.php'; ?>
+    <?php include 'footer.php'; ?>
+
     <script type="speculationrules">
         {"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/muliya-jewels\/*","\/wp-content\/themes\/hello-elementor\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch,
         .no-prefetch a"}}]},"eagerness":"conservative"}]}
@@ -1083,9 +1029,9 @@
                     <form class="elementor-form" method="post" name="Enquiry Form" aria-label="Enquiry Form">
                         <input type="hidden" name="post_id" value="11346" />
                         <input type="hidden" name="form_id" value="7514f09" />
-                        <input type="hidden" name="referer_title" value="Careers | Muliya Gold &amp; Diamonds" />
+                        <input type="hidden" name="referer_title" value="Contact us | Muliya Gold &amp; Diamonds" />
 
-                        <input type="hidden" name="queried_id" value="11363" />
+                        <input type="hidden" name="queried_id" value="2523" />
 
                         <div class="elementor-form-fields-wrapper elementor-labels-above">
                             <div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-100 elementor-field-required">
@@ -1106,7 +1052,7 @@
                                 <input size="1" type="text" name="form_fields[field_6f41113]" id="form-field-field_6f41113" class="elementor-field elementor-size-md  elementor-field-textual" placeholder="Enter your city" required="required">
                             </div>
                             <div class="elementor-field-type-hidden elementor-field-group elementor-column elementor-field-group-field_ff54e22 elementor-col-100">
-                                <input size="1" type="hidden" name="form_fields[field_ff54e22]" id="form-field-field_ff54e22" class="elementor-field elementor-size-md  elementor-field-textual" value="Careers">
+                                <input size="1" type="hidden" name="form_fields[field_ff54e22]" id="form-field-field_ff54e22" class="elementor-field elementor-size-md  elementor-field-textual" value="Contact us">
                             </div>
                             <div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-30 e-form__buttons">
                                 <button class="elementor-button elementor-size-sm" type="submit">
@@ -1623,7 +1569,7 @@
     <link rel='stylesheet' id='wc-blocks-style-css' href='https://hb.wpmucdn.com/muliya.in/35c608f2-fdde-4761-8b44-f7ec86f51602.css' media='all' />
     <script type="wphb-delay-type" src="https://hb.wpmucdn.com/muliya.in/754a616b-e2dc-4e2c-ba62-45db0ab9e06e.js" id="wpascript-js"></script>
     <script type="wphb-delay-type" id="wpascript-js-after">
-        wpa_field_info = {"wpa_field_name":"hlozur8873","wpa_field_value":766088,"wpa_add_test":"no"}
+        wpa_field_info = {"wpa_field_name":"hlozur8873","wpa_field_value":21908,"wpa_add_test":"no"}
     </script>
     <script type="wphb-delay-type" src="https://hb.wpmucdn.com/muliya.in/3db0b1fd-15e7-4745-8ab4-a7e4a415baf5.js" id="hello-theme-frontend-js"></script>
     <script type="wphb-delay-type" src="https://muliya.in/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.30.4" id="elementor-webpack-runtime-js"></script>
@@ -1634,11 +1580,10 @@
         image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This
         is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile
         Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet
-        Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"3.30.4","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"theme_builder_v2":true,"hello-theme-header-footer":true,"nested-elements":true,"e_element_cache":true,"home_screen":true,"global_classes_should_enforce_capabilities":true,"cloud-library":true,"e_opt_in_v4_page":true,"mega-menu":true},"urls":{"assets":"https:\/\/muliya.in\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/muliya.in\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/muliya.in\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"e6661c951e"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","woocommerce_notices_elements":[],"hello_header_logo_type":"title","hello_footer_logo_type":"logo"},"post":{"id":11363,"title":"Careers%20%7C%20Muliya%20Gold%20%26%20Diamonds","excerpt":"","featuredImage":false}};
+        Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"3.30.4","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"theme_builder_v2":true,"hello-theme-header-footer":true,"nested-elements":true,"e_element_cache":true,"home_screen":true,"global_classes_should_enforce_capabilities":true,"cloud-library":true,"e_opt_in_v4_page":true,"mega-menu":true},"urls":{"assets":"https:\/\/muliya.in\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/muliya.in\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/muliya.in\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"fedcd78f60"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","woocommerce_notices_elements":[],"hello_header_logo_type":"title","hello_footer_logo_type":"logo"},"post":{"id":2523,"title":"Contact%20us%20%7C%20Muliya%20Gold%20%26%20Diamonds","excerpt":"","featuredImage":false}};
     </script>
     <script type="wphb-delay-type" src="https://hb.wpmucdn.com/muliya.in/c1cd3633-9a1a-4b9f-88b5-e6918acb6f47.js" id="elementor-frontend-js"></script>
     <script type="wphb-delay-type" src="https://hb.wpmucdn.com/muliya.in/19eb4da9-7457-4260-907a-a7d4524fc265.js" id="lottie-js"></script>
-    <script type="wphb-delay-type" src="https://hb.wpmucdn.com/muliya.in/f81b0d55-412a-485b-af2e-c11a4e3dbad4.js" id="e-sticky-js"></script>
     <script type="wphb-delay-type" src="https://hb.wpmucdn.com/muliya.in/6c7c4e2e-1a85-4c22-b005-7c8e0d8a37df.js" id="sourcebuster-js-js"></script>
     <script id="wc-order-attribution-js-extra">
         var wc_order_attribution = {
@@ -1683,7 +1628,7 @@
         wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
     </script>
     <script type="wphb-delay-type" id="elementor-pro-frontend-js-before">
-        var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/muliya.in\/wp-admin\/admin-ajax.php","nonce":"0b1285297c","urls":{"assets":"https:\/\/muliya.in\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/muliya.in\/wp-json\/"},"settings":{"lazy_load_background_images":true},"popup":{"hasPopUps":true},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"woocommerce":{"menu_cart":{"cart_page_url":"https:\/\/muliya.in\/cart\/","checkout_page_url":"https:\/\/muliya.in\/checkout\/","fragments_nonce":"bd3cd57f52"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/muliya.in\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+        var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/muliya.in\/wp-admin\/admin-ajax.php","nonce":"4038a11d2b","urls":{"assets":"https:\/\/muliya.in\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/muliya.in\/wp-json\/"},"settings":{"lazy_load_background_images":true},"popup":{"hasPopUps":true},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"woocommerce":{"menu_cart":{"cart_page_url":"https:\/\/muliya.in\/cart\/","checkout_page_url":"https:\/\/muliya.in\/checkout\/","fragments_nonce":"7fb486fab1"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/muliya.in\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
     </script>
     <script type="wphb-delay-type" src="https://hb.wpmucdn.com/muliya.in/e682701c-7303-4dbb-a5e2-a90c43c44996.js" id="elementor-pro-frontend-js"></script>
     <script type="wphb-delay-type" src="https://hb.wpmucdn.com/muliya.in/a17484e3-fc17-472a-9e77-925d99686746.js" id="pro-elements-handlers-js"></script>
@@ -1699,9 +1644,9 @@
             jQuery(".mj-header").addClass("sticky"); } lastScrollTop = st; }); });
 
     </script>
-
+   
 
 </body>
 
 </html>
-<!-- Hummingbird cache file was created in 0.85554718971252 seconds, on 04-08-25 9:18:47 -->
+<!-- Hummingbird cache file was created in 0.8919939994812 seconds, on 06-08-25 8:15:08 -->

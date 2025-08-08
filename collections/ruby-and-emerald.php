@@ -1,4 +1,4 @@
-<!-- This page is cached by the Hummingbird Performance plugin v3.14.1 - https://wordpress.org/plugins/hummingbird-performance/. -->
+
 <!doctype html>
 <html lang="en-US">
 
@@ -6,7 +6,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="profile" href="https://gmpg.org/xfn/11">
-    <title>Free hair donation camp on September 11 for cancer sufferers by &quot;Seeds of Hope&quot;. | Muliya Gold &amp; Diamonds</title>
+    <title>Bridal | Muliya Gold &amp; Diamonds</title>
     <meta name='robots' content='max-image-preview:large' />
     <style>
         img:is([sizes="auto" i], [sizes^="auto," i]) {
@@ -18,15 +18,12 @@
     <link href='//hb.wpmucdn.com' rel='preconnect' />
     <link rel="alternate" type="application/rss+xml" title="Muliya Gold &amp; Diamonds &raquo; Feed" href="https://muliya.in/feed/" />
     <link rel="alternate" type="application/rss+xml" title="Muliya Gold &amp; Diamonds &raquo; Comments Feed" href="https://muliya.in/comments/feed/" />
-    <link rel="alternate" type="application/rss+xml" title="Muliya Gold &amp; Diamonds &raquo; Free hair donation camp on September 11 for cancer sufferers by &#8220;Seeds of Hope&#8221;. Comments Feed" href="https://muliya.in/free-hair-donation-camp/feed/"
-    />
     <link rel='stylesheet' id='elementor-post-7-css' href='https://muliya.in/wp-content/uploads/elementor/css/post-7.css?ver=1753797460' media='all' />
+    <link rel='stylesheet' id='elementor-post-11578-css' href='https://muliya.in/wp-content/uploads/elementor/css/post-11578.css?ver=1753825003' media='all' />
     <link rel='stylesheet' id='elementor-post-11154-css' href='https://muliya.in/wp-content/uploads/elementor/css/post-11154.css?ver=1753797463' media='all' />
     <link rel='stylesheet' id='elementor-post-9707-css' href='https://muliya.in/wp-content/uploads/elementor/css/post-9707.css?ver=1753797464' media='all' />
-    <link rel='stylesheet' id='elementor-post-2497-css' href='https://muliya.in/wp-content/uploads/elementor/css/post-2497.css?ver=1753806655' media='all' />
     <link rel='stylesheet' id='elementor-post-11715-css' href='https://muliya.in/wp-content/uploads/elementor/css/post-11715.css?ver=1753797465' media='all' />
     <link rel='stylesheet' id='elementor-post-11346-css' href='https://muliya.in/wp-content/uploads/elementor/css/post-11346.css?ver=1753797465' media='all' />
-    <link rel='stylesheet' id='wp-block-library-css' href='https://hb.wpmucdn.com/muliya.in/ac8a5860-25ea-409f-8c66-75489a1d4983.css' media='all' />
     <style id='global-styles-inline-css'>
         :root {
             --wp--preset--aspect-ratio--square: 1;
@@ -473,13 +470,12 @@
     <link rel='stylesheet' id='widget-search-css' href='https://hb.wpmucdn.com/muliya.in/1db84dba-8d3b-4729-a537-d513b72b69e4.css' media='all' />
     <link rel='stylesheet' id='widget-heading-css' href='https://hb.wpmucdn.com/muliya.in/e451f4b8-e5d5-46cb-80e9-30d222b81964.css' media='all' />
     <link rel='stylesheet' id='widget-mega-menu-css' href='https://hb.wpmucdn.com/muliya.in/537fbbb3-698e-41d4-bd95-795120a86b1b.css' media='all' />
-    <link rel='stylesheet' id='widget-share-buttons-css' href='https://hb.wpmucdn.com/muliya.in/cc2982b6-5ea4-461c-bed2-3d7fe2e65348.css' media='all' />
-    <link rel='stylesheet' id='e-apple-webkit-css' href='https://hb.wpmucdn.com/muliya.in/b97e6e9d-d6e8-497e-ad0b-e955ec011595.css' media='all' />
-    <link rel='stylesheet' id='widget-loop-common-css' href='https://hb.wpmucdn.com/muliya.in/1c649dd6-9f3d-4f02-bf67-2b2aaa144922.css' media='all' />
-    <link rel='stylesheet' id='widget-loop-grid-css' href='https://hb.wpmucdn.com/muliya.in/1aa9800f-b8ce-419c-adcf-67da09a925cd.css' media='all' />
     <link rel='stylesheet' id='widget-lottie-css' href='https://hb.wpmucdn.com/muliya.in/af7d7526-b66e-468e-bfd5-aba2e22bb15c.css' media='all' />
     <link rel='stylesheet' id='e-popup-css' href='https://hb.wpmucdn.com/muliya.in/d13c0d37-9c45-4ff6-a5fa-27115f57a03e.css' media='all' />
     <link rel='stylesheet' id='widget-form-css' href='https://hb.wpmucdn.com/muliya.in/0c19fd59-6f6f-41fb-af9e-0cb41d277f09.css' media='all' />
+    <link rel='stylesheet' id='e-animation-fadeIn-css' href='https://hb.wpmucdn.com/muliya.in/bb02d59e-f17d-43e3-a6c3-42aa895af40b.css' media='all' />
+    <link rel='stylesheet' id='widget-loop-common-css' href='https://hb.wpmucdn.com/muliya.in/1c649dd6-9f3d-4f02-bf67-2b2aaa144922.css' media='all' />
+    <link rel='stylesheet' id='widget-loop-grid-css' href='https://hb.wpmucdn.com/muliya.in/1aa9800f-b8ce-419c-adcf-67da09a925cd.css' media='all' />
     <link rel='stylesheet' id='hello-elementor-child-style-css' href='https://hb.wpmucdn.com/muliya.in/ae6f93bf-4b4c-4dad-b8ea-91895544a26b.css' media='all' />
     <link rel='stylesheet' id='elementor-gf-local-roboto-css' href='https://hb.wpmucdn.com/muliya.in/032157fc-a66a-4f4b-a986-a78835f78094.css' media='all' />
     <link rel='stylesheet' id='elementor-gf-local-robotoslab-css' href='https://hb.wpmucdn.com/muliya.in/ad362ff3-cc18-4768-a4ed-8163b9d3d104.css' media='all' />
@@ -518,9 +514,9 @@
         key ] = true; setTimeout( () => { delete window._googlesitekit.throttledEvents[ key ]; }, 5 ); gtag( "event", name, { ...data, event_source: "site-kit" } ); };
     </script>
     <link rel="https://api.w.org/" href="https://muliya.in/wp-json/" />
-    <link rel="alternate" title="JSON" type="application/json" href="https://muliya.in/wp-json/wp/v2/posts/11128" />
-    <link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://muliya.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmuliya.in%2Ffree-hair-donation-camp%2F" />
-    <link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://muliya.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmuliya.in%2Ffree-hair-donation-camp%2F&#038;format=xml" />
+    <link rel="alternate" title="JSON" type="application/json" href="https://muliya.in/wp-json/wp/v2/pages/11578" />
+    <link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://muliya.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmuliya.in%2Fbridal%2F" />
+    <link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://muliya.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmuliya.in%2Fbridal%2F&#038;format=xml" />
     <meta name="generator" content="Site Kit by Google 1.158.0" /> <noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
     <meta name="generator" content="Elementor 3.30.0; features: e_font_icon_svg, additional_custom_breakpoints, e_element_cache; settings: css_print_method-external, google_font-enabled, font_display-swap">
     <!-- Global site tag (gtag.js) - Google Ads: 873895533 -->
@@ -543,8 +539,8 @@
     <!-- End Facebook Pixel Code -->
 
     <!-- SEO meta tags powered by SmartCrawl https://wpmudev.com/project/smartcrawl-wordpress-seo/ -->
-    <link rel="canonical" href="https://muliya.in/free-hair-donation-camp/" />
-    <meta name="description" content="https://www.facebook.com/watch/?v=2032809133572971&amp;extid=NS-UNK-UNK-UNK-AN_GK0T-GK1C&amp;ref=sharing" />
+    <link rel="canonical" href="https://muliya.in/bridal/" />
+    <meta name="description" content="A jewel beyond the virtual beauty. Modern designs that bloom on the finest gold. Designed with dedicated care to glorify the princess in you." />
     <script type="application/ld+json">
         {
             "@context": "https:\/\/schema.org",
@@ -580,7 +576,7 @@
                 }
             }, {
                 "@type": "BreadcrumbList",
-                "@id": "https:\/\/muliya.in\/free-hair-donation-camp?page&name=free-hair-donation-camp\/#breadcrumb",
+                "@id": "https:\/\/muliya.in\/bridal?page&pagename=bridal\/#breadcrumb",
                 "itemListElement": [{
                     "@type": "ListItem",
                     "position": 1,
@@ -589,17 +585,7 @@
                 }, {
                     "@type": "ListItem",
                     "position": 2,
-                    "name": "Blog",
-                    "item": "https:\/\/muliya.in\/blog\/"
-                }, {
-                    "@type": "ListItem",
-                    "position": 3,
-                    "name": "Updates",
-                    "item": "https:\/\/muliya.in\/category\/updates\/"
-                }, {
-                    "@type": "ListItem",
-                    "position": 4,
-                    "name": "Free hair donation camp on September 11 for cancer sufferers by &#8220;Seeds of Hope&#8221;."
+                    "name": "Bridal"
                 }]
             }, {
                 "@type": "Person",
@@ -608,18 +594,18 @@
                 "url": "https:\/\/muliya.in\/author\/developers\/"
             }, {
                 "@type": "WebPage",
-                "@id": "https:\/\/muliya.in\/free-hair-donation-camp\/#schema-webpage",
+                "@id": "https:\/\/muliya.in\/bridal\/#schema-webpage",
                 "isPartOf": {
                     "@id": "https:\/\/muliya.in\/#schema-website"
                 },
                 "publisher": {
                     "@id": "https:\/\/muliya.in\/#schema-publishing-organization"
                 },
-                "url": "https:\/\/muliya.in\/free-hair-donation-camp\/"
+                "url": "https:\/\/muliya.in\/bridal\/"
             }, {
                 "@type": "Article",
                 "mainEntityOfPage": {
-                    "@id": "https:\/\/muliya.in\/free-hair-donation-camp\/#schema-webpage"
+                    "@id": "https:\/\/muliya.in\/bridal\/#schema-webpage"
                 },
                 "author": {
                     "@id": "https:\/\/muliya.in\/author\/developers\/#schema-author"
@@ -627,35 +613,23 @@
                 "publisher": {
                     "@id": "https:\/\/muliya.in\/#schema-publishing-organization"
                 },
-                "dateModified": "2025-04-17T13:03:11",
-                "datePublished": "2022-09-06T12:53:21",
-                "headline": "Free hair donation camp on September 11 for cancer sufferers by \"Seeds of Hope\". | Muliya Gold &amp; Diamonds",
-                "description": "https:\/\/www.facebook.com\/watch\/?v=2032809133572971&amp;extid=NS-UNK-UNK-UNK-AN_GK0T-GK1C&amp;ref=sharing",
-                "name": "Free hair donation camp on September 11 for cancer sufferers by &#8220;Seeds of Hope&#8221;.",
-                "image": {
-                    "@type": "ImageObject",
-                    "@id": "https:\/\/muliya.in\/free-hair-donation-camp\/#schema-article-image",
-                    "url": "https:\/\/muliya.in\/wp-content\/uploads\/2022\/09\/Yoga-Jeevana-Poster.jpg",
-                    "height": 330,
-                    "width": 650
-                },
-                "thumbnailUrl": "https:\/\/muliya.in\/wp-content\/uploads\/2022\/09\/Yoga-Jeevana-Poster.jpg"
+                "dateModified": "2025-04-16T17:03:05",
+                "datePublished": "2025-04-16T16:57:15",
+                "headline": "Bridal | Muliya Gold &amp; Diamonds",
+                "description": "A jewel beyond the virtual beauty. Modern designs that bloom on the finest gold. Designed with dedicated care to glorify the princess in you.",
+                "name": "Bridal"
             }]
         }
     </script>
     <meta property="og:type" content="article" />
-    <meta property="og:url" content="https://muliya.in/free-hair-donation-camp/" />
-    <meta property="og:title" content="Free hair donation camp on September 11 for cancer sufferers by &quot;Seeds of Hope&quot;. | Muliya Gold &amp; Diamonds" />
-    <meta property="og:description" content="https://www.facebook.com/watch/?v=2032809133572971&amp;extid=NS-UNK-UNK-UNK-AN_GK0T-GK1C&amp;ref=sharing" />
-    <meta property="og:image" content="https://muliya.in/wp-content/uploads/2022/09/Yoga-Jeevana-Poster.jpg" />
-    <meta property="og:image:width" content="650" />
-    <meta property="og:image:height" content="330" />
-    <meta property="article:published_time" content="2022-09-06T12:53:21" />
+    <meta property="og:url" content="https://muliya.in/bridal/" />
+    <meta property="og:title" content="Bridal | Muliya Gold &amp; Diamonds" />
+    <meta property="og:description" content="A jewel beyond the virtual beauty. Modern designs that bloom on the finest gold. Designed with dedicated care to glorify the princess in you." />
+    <meta property="article:published_time" content="2025-04-16T16:57:15" />
     <meta property="article:author" content="Developers" />
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Free hair donation camp on September 11 for cancer sufferers by &quot;Seeds of Hope&quot;. | Muliya Gold &amp; Diamonds" />
-    <meta name="twitter:description" content="https://www.facebook.com/watch/?v=2032809133572971&amp;extid=NS-UNK-UNK-UNK-AN_GK0T-GK1C&amp;ref=sharing" />
-    <meta name="twitter:image" content="https://muliya.in/wp-content/uploads/2022/09/Yoga-Jeevana-Poster.jpg" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="Bridal | Muliya Gold &amp; Diamonds" />
+    <meta name="twitter:description" content="A jewel beyond the virtual beauty. Modern designs that bloom on the finest gold. Designed with dedicated care to glorify the princess in you." />
     <!-- /SEO -->
     <style>
         .e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
@@ -700,184 +674,407 @@
     </style>
 </head>
 
-<body data-rsssl=1 class="wp-singular post-template-default single single-post postid-11128 single-format-standard wp-embed-responsive wp-theme-hello-elementor wp-child-theme-muliya-jewels theme-hello-elementor woocommerce-no-js hello-elementor-default elementor-default elementor-kit-7 elementor-page-2497">
 
-<?php include_once '../header.php'; ?>
-    
-    <div data-elementor-type="single-post" data-elementor-id="2497" class="elementor elementor-2497 elementor-location-single post-11128 post type-post status-publish format-standard has-post-thumbnail hentry category-updates" data-elementor-post-type="elementor_library">
-        <div class="elementor-element elementor-element-22259ee e-flex e-con-boxed e-con e-parent" data-id="22259ee" data-element_type="container">
-            <div class="e-con-inner">
-                <div class="elementor-element elementor-element-1082cb8 elementor-widget elementor-widget-heading" data-id="1082cb8" data-element_type="widget" data-widget_type="heading.default">
-                    <div class="elementor-widget-container">
-                        <h1 class="elementor-heading-title elementor-size-default">Jewelry Education – Everything You Need to Know Before You Buy &#8220;Perfect Match&#8221;.</h1>
+
+<body data-rsssl=1 class="wp-singular page-template-default page page-id-11578 wp-embed-responsive wp-theme-hello-elementor wp-child-theme-muliya-jewels theme-hello-elementor woocommerce-no-js hello-elementor-default elementor-default elementor-kit-7 elementor-page elementor-page-11578">
+
+
+           <?php include_once 'header.php'; ?>
+
+
+    <main id="content" class="site-main post-11578 page type-page status-publish hentry">
+
+
+        <div class="page-content">
+            <div data-elementor-type="wp-page" data-elementor-id="11578" class="elementor elementor-11578" data-elementor-post-type="page">
+                <div class="elementor-element elementor-element-28bc1da e-flex e-con-boxed  e-con e-parent" data-id="28bc1da" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation_mobile&quot;:&quot;fadeIn&quot;,&quot;animation&quot;:&quot;fadeIn&quot;}">
+                    <div class="e-con-inner">
                     </div>
                 </div>
-                <div class="elementor-element elementor-element-8efb792 e-con-full e-flex e-con e-child" data-id="8efb792" data-element_type="container">
-                    <div class="elementor-element elementor-element-50bdd13 elementor-widget elementor-widget-text-editor" data-id="50bdd13" data-element_type="widget" data-widget_type="text-editor.default">
-                        <div class="elementor-widget-container">
-                            July 9, 2024 </div>
-                    </div>
-                    <div class="elementor-element elementor-element-cf52792 elementor-share-buttons--view-icon elementor-share-buttons--skin-flat elementor-share-buttons--shape-circle elementor-share-buttons--color-custom elementor-grid-mobile-0 elementor-share-buttons-mobile--align-left elementor-grid-0 elementor-widget elementor-widget-share-buttons"
-                        data-id="cf52792" data-element_type="widget" data-widget_type="share-buttons.default">
-                        <div class="elementor-widget-container">
-                            <div class="elementor-grid" role="list">
-                                <div class="elementor-grid-item" role="listitem">
-                                    <div class="elementor-share-btn elementor-share-btn_facebook" role="button" tabindex="0" aria-label="Share on facebook">
-                                        <span class="elementor-share-btn__icon">
-                                <svg class="e-font-icon-svg e-fab-facebook" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"></path></svg>							</span>
-                                    </div>
-                                </div>
-                                <div class="elementor-grid-item" role="listitem">
-                                    <div class="elementor-share-btn elementor-share-btn_twitter" role="button" tabindex="0" aria-label="Share on twitter">
-                                        <span class="elementor-share-btn__icon">
-                                <svg class="e-font-icon-svg e-fab-twitter" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg>							</span>
-                                    </div>
-                                </div>
-                                <div class="elementor-grid-item" role="listitem">
-                                    <div class="elementor-share-btn elementor-share-btn_whatsapp" role="button" tabindex="0" aria-label="Share on whatsapp">
-                                        <span class="elementor-share-btn__icon">
-                                <svg class="e-font-icon-svg e-fab-whatsapp" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path d="M380.9 97.1C339 55.1 283.2 32 223.9 32c-122.4 0-222 99.6-222 222 0 39.1 10.2 77.3 29.6 111L0 480l117.7-30.9c32.4 17.7 68.9 27 106.1 27h.1c122.3 0 224.1-99.6 224.1-222 0-59.3-25.2-115-67.1-157zm-157 341.6c-33.2 0-65.7-8.9-94-25.7l-6.7-4-69.8 18.3L72 359.2l-4.4-7c-18.5-29.4-28.2-63.3-28.2-98.2 0-101.7 82.8-184.5 184.6-184.5 49.3 0 95.6 19.2 130.4 54.1 34.8 34.9 56.2 81.2 56.1 130.5 0 101.8-84.9 184.6-186.6 184.6zm101.2-138.2c-5.5-2.8-32.8-16.2-37.9-18-5.1-1.9-8.8-2.8-12.5 2.8-3.7 5.6-14.3 18-17.6 21.8-3.2 3.7-6.5 4.2-12 1.4-32.6-16.3-54-29.1-75.5-66-5.7-9.8 5.7-9.1 16.3-30.3 1.8-3.7.9-6.9-.5-9.7-1.4-2.8-12.5-30.1-17.1-41.2-4.5-10.8-9.1-9.3-12.5-9.5-3.2-.2-6.9-.2-10.6-.2-3.7 0-9.7 1.4-14.8 6.9-5.1 5.6-19.4 19-19.4 46.3 0 27.3 19.9 53.7 22.6 57.4 2.8 3.7 39.1 59.7 94.8 83.8 35.2 15.2 49 16.5 66.6 13.9 10.7-1.6 32.8-13.4 37.4-26.4 4.6-13 4.6-24.1 3.2-26.4-1.3-2.5-5-3.9-10.5-6.6z"></path></svg>							</span>
-                                    </div>
-                                </div>
+                <div class="elementor-element elementor-element-541548e e-flex e-con-boxed e-con e-parent" data-id="541548e" data-element_type="container">
+
+                    <div class="e-con-inner">
+                        <div class="elementor-element elementor-element-874491b elementor-widget__width-initial elementor-widget-mobile__width-inherit elementor-widget elementor-widget-text-editor" data-id="874491b" data-element_type="widget" data-widget_type="text-editor.default">
+                            <div class="elementor-widget-container">
+                                <p>Discover our exclusive bridal collection featuring both gold and diamond jewellery. Each piece is crafted to perfection for your special day.</p>
                             </div>
                         </div>
-                    </div>
-                </div>
-                <div class="elementor-element elementor-element-138bff8 elementor-widget elementor-widget-image" data-id="138bff8" data-element_type="widget" data-widget_type="image.default">
-                    <div class="elementor-widget-container">
-                        <img loading="lazy" width="650" height="330" src="../assets/blog/Jewelry-Education.png" class="attachment-large size-large wp-image-11148 blog-featured-image" alt="" srcset="../assets/blog/Jewelry-Education.png 650w, ../assets/blog/Jewelry-Education.png 600w, ../assets/blog/Jewelry-Education.png 300w"
-                            sizes="(max-width: 650px) 100vw, 650px" /> </div>
-                </div>
-                
-                <style>
-                    .blog-featured-image {
-                        max-width: 340px !important;
-                        width: 340px !important;
-                        height: 500px !important;
-                        object-fit: cover !important;
-                        display: block !important;
-                        margin: 20px auto !important;
-                        border-radius: 12px !important;
-                        box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15) !important;
-                        transition: transform 0.3s ease, box-shadow 0.3s ease !important;
+                            <h1 >All Bridal Products (Gold & Diamond)</h1>
+
+                        <div class="bridal-products-grid" style="display: flex; justify-content: center; margin-top: 32px;">
+                        <?php
+$servername = "localhost";
+$username = "root";
+$password = "";
+$dbname = "emirates";
+
+$conn = new mysqli($servername, $username, $password, $dbname);
+if ($conn->connect_error) {
+    die("Connection failed: " . $conn->connect_error);
+}
+
+// List of all diamond and gold product tables
+$diamond_tables = [
+    'diamond_rings',
+    'diamond_bangles',
+    'diamond_bracelets',
+    'diamond_earring',
+    'diamond_necklaces',
+    'diamond_pendants'
+];
+$gold_tables = [
+    'gold_rings',
+    'gold_bangles',
+    'gold_bracelets',
+    'gold_earring',
+    'gold_necklaces',
+    'gold_pendants'
+];
+
+
+// Only use tables that exist in the database
+$existing_tables = [];
+$all_tables = array_merge($diamond_tables, $gold_tables);
+$show_tables_result = $conn->query("SHOW TABLES");
+if ($show_tables_result) {
+    while ($row = $show_tables_result->fetch_array()) {
+        $existing_tables[] = $row[0];
+    }
+}
+
+$valid_diamond_tables = array_intersect($diamond_tables, $existing_tables);
+$valid_gold_tables = array_intersect($gold_tables, $existing_tables);
+$valid_all_tables = array_merge($valid_diamond_tables, $valid_gold_tables);
+
+$limit = 20;
+$page = isset($_GET['page']) && is_numeric($_GET['page']) ? (int)$_GET['page'] : 1;
+if ($page < 1) $page = 1;
+$offset = ($page - 1) * $limit;
+
+// Get total count
+$total = 0;
+foreach ($valid_all_tables as $table) {
+    $count_sql = "SELECT COUNT(*) as total FROM $table";
+    $count_result = $conn->query($count_sql);
+    if ($count_result && $row = $count_result->fetch_assoc()) {
+        $total += $row['total'];
+    }
+}
+$total_pages = $total > 0 ? ceil($total / $limit) : 1;
+
+// Build UNION query to fetch all products
+$union_sql = [];
+foreach ($valid_diamond_tables as $table) {
+    $union_sql[] = "SELECT id, name, code, weight, image, 'diamond', '" . $table . "' as source FROM $table";
+}
+foreach ($valid_gold_tables as $table) {
+    $union_sql[] = "SELECT id, name, code, weight, image, 'gold', '" . $table . "' as source FROM $table";
+}
+$sql = count($union_sql) > 0 ? implode(" UNION ALL ", $union_sql) . " ORDER BY id DESC LIMIT $limit OFFSET $offset" : '';
+$result = $sql ? $conn->query($sql) : false;
+
+// Map for detail pages
+$detail_pages = [
+    // Diamond
+    'diamond_rings' => 'diamond/diamond_rings_product.php',
+    'diamond_bangles' => 'diamond/diamond_bangles_product.php',
+    'diamond_bracelets' => 'diamond/diamond_bracelets_product.php',
+    'diamond_earring' => 'diamond/diamond_earring_product.php',
+    'diamond_necklaces' => 'diamond/diamond_necklaces_product.php',
+    'diamond_pendants' => 'diamond/diamond_pendants_product.php',
+    // Gold
+    'gold_rings' => 'gold/gold_rings_product.php',
+    'gold_bangles' => 'gold/gold_bangles_product.php',
+    'gold_bracelets' => 'gold/gold_bracelets_product.php',
+    'gold_earring' => 'gold/gold_earring_product.php',
+    'gold_necklaces' => 'gold/gold_necklaces_product.php',
+    'gold_pendants' => 'gold/gold_pendants_product.php'
+];
+?>
+  <?php include_once 'header.php'; ?>
+
+
+
+
+    <style>
+    body {
+        overflow-x: hidden;
+    }
+    main, .product-list, .pagination {
+        box-sizing: border-box;
+    }
+    .product-list {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+        gap: 28px;
+        max-width: 1400px;
+        margin: 40px auto 0 auto;
+        padding-bottom: 32px;
+        box-sizing: border-box;
+        width: 100%;
+        overflow-x: auto;
+        justify-content: center;
+        justify-items: center;
+    }
+    .product-card {
+        background: #fff;
+        border-radius: 14px;
+        box-shadow: 0 2px 12px rgba(0,0,0,0.07);
+        padding: 18px 14px 20px 14px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        transition: box-shadow 0.2s, transform 0.2s;
+        min-height: 420px;
+        position: relative;
+    }
+    .product-card:hover {
+        box-shadow: 0 6px 24px rgba(0,0,0,0.13);
+        transform: translateY(-4px) scale(1.02);
+    }
+    .product-card img {
+        width: 100%;
+        height: 220px;
+        object-fit: cover;
+        border-radius: 10px;
+        background: #f3f3f3;
+        margin-bottom: 12px;
+    }
+    .product-card h3 {
+        font-size: 1.08rem;
+        font-weight: 600;
+        margin: 0 0 6px 0;
+        text-align: center;
+        color: #222;
+        min-height: 38px;
+    }
+    .product-card .code, .product-card .weight, .product-card .type {
+        font-size: 0.97rem;
+        color: #666;
+        margin-bottom: 4px;
+        text-align: center;
+    }
+    .product-card .type {
+        color: #888;
+        margin-bottom: 10px;
+    }
+    .product-card .button {
+        margin-top: auto;
+        display: inline-block;
+        background: #d4af37;
+        color: #fff;
+        padding: 8px 22px;
+        border-radius: 6px;
+        text-decoration: none;
+        font-weight: 600;
+        font-size: 1rem;
+        transition: background 0.2s;
+        box-shadow: 0 1px 4px rgba(0,0,0,0.07);
+    }
+    .product-card .button:hover {
+        background: #bfa133;
+        color: #fff;
+    }
+    .pagination {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 8px;
+        margin: 0 auto 40px auto;
+        max-width: 1400px;
+        padding-top: 24px;
+    }
+    
+    /* Responsive adjustments */
+    @media (max-width: 768px) {
+        .product-list {
+            grid-template-columns: repeat(2, 1fr);
+            gap: 16px;
+            margin: 20px auto 0 auto;
+            padding: 0 16px;
+        }
+        .product-card {
+            min-height: 380px;
+            padding: 14px 10px 16px 10px;
+        }
+        .product-card img {
+            height: 180px;
+        }
+        .product-card h3 {
+            font-size: 1rem;
+            min-height: 32px;
+        }
+        .product-card .code, .product-card .weight, .product-card .type {
+            font-size: 0.9rem;
+        }
+        .product-card .button {
+            padding: 6px 16px;
+            font-size: 0.9rem;
+        }
+    }
+    
+    @media (max-width: 480px) {
+        .product-list {
+            grid-template-columns: repeat(2, 1fr);
+            gap: 12px;
+            margin: 16px auto 0 auto;
+            padding: 0 12px;
+        }
+        .product-card {
+            min-height: 360px;
+            padding: 12px 8px 14px 8px;
+        }
+        .product-card img {
+            height: 160px;
+        }
+        .product-card h3 {
+            font-size: 0.95rem;
+            min-height: 28px;
+        }
+        .product-card .code, .product-card .weight, .product-card .type {
+            font-size: 0.85rem;
+        }
+        .product-card .button {
+            padding: 5px 14px;
+            font-size: 0.85rem;
+        }
+    }
+    
+    @media (max-width: 360px) {
+        .product-list {
+            grid-template-columns: repeat(1, 1fr);
+            gap: 16px;
+            margin: 16px auto 0 auto;
+            padding: 0 16px;
+        }
+        .product-card {
+            min-height: 400px;
+            padding: 16px 12px 18px 12px;
+        }
+        .product-card img {
+            height: 200px;
+        }
+        .product-card h3 {
+            font-size: 1.05rem;
+            min-height: 36px;
+        }
+        .product-card .code, .product-card .weight, .product-card .type {
+            font-size: 0.95rem;
+        }
+        .product-card .button {
+            padding: 8px 20px;
+            font-size: 0.95rem;
+        }
+    }
+    </style>
+
+    <div class="product-list">
+        <?php
+        $products = [];
+        if ($result && $result->num_rows > 0) {
+            while($row = $result->fetch_assoc()) {
+                $products[] = $row;
+            }
+        }
+        if (count($products) > 0):
+            foreach ($products as $row):
+                $source = isset($row['source']) ? $row['source'] : (isset($row['7']) ? $row['7'] : '');
+                $type = '';
+                if (strpos($source, 'diamond') !== false) {
+                    $type = 'Diamond';
+                } elseif (strpos($source, 'gold') !== false) {
+                    $type = 'Gold';
+                }
+                $img = isset($row['image']) ? $row['image'] : '';
+                $img_path = '';
+                if ($img) {
+                    if (preg_match('/^https?:\/\//', $img)) {
+                        $img_path = $img;
+                    } elseif (strpos($source, 'diamond') !== false) {
+                        $img_path = 'diamond/' . ltrim($img, '/');
+                    } elseif (strpos($source, 'gold') !== false) {
+                        $img_path = 'gold/' . ltrim($img, '/');
+                    } else {
+                        $img_path = $img;
                     }
-                    
-                    .blog-featured-image:hover {
-                        transform: translateY(-5px) !important;
-                        box-shadow: 0 12px 35px rgba(0, 0, 0, 0.2) !important;
-                    }
-                    
-                    .elementor-element-138bff8 .elementor-widget-container {
-                        text-align: center !important;
-                        padding: 0 20px !important;
-                    }
-                    
-                    @media (max-width: 768px) {
-                        .blog-featured-image {
-                            max-width: 300px !important;
-                            width: 300px !important;
-                            height: 441px !important;
-                            margin: 15px auto !important;
-                        }
-                        
-                        .elementor-element-138bff8 .elementor-widget-container {
-                            padding: 0 15px !important;
-                        }
-                    }
-                    
-                    @media (max-width: 480px) {
-                        .blog-featured-image {
-                            max-width: 250px !important;
-                            width: 250px !important;
-                            height: 368px !important;
-                            margin: 10px auto !important;
-                            border-radius: 8px !important;
-                        }
-                        
-                        .elementor-element-138bff8 .elementor-widget-container {
-                            padding: 0 10px !important;
-                        }
-                    }
-                </style>
-                <div class="elementor-element elementor-element-b9d6448 elementor-widget elementor-widget-theme-post-content" data-id="b9d6448" data-element_type="widget" data-widget_type="theme-post-content.default">
-                    <div class="elementor-widget-container">
-                         <h3>💎 Why Jewelry Education Matters:</h3>
-                        <p>Before buying jewelry, it’s important to know what you're investing in. With the variety of metals, gemstones, styles, and price points, making an informed decision can save you money and ensure you receive the highest quality. Our educational content helps both beginners and enthusiasts to:</p>
-                        <ul>
-                            <li>Avoid common mistakes when purchasing jewelry</li>
-                            <li>Understand authenticity and certification standards</li>
-                            <li>Learn how to care for and maintain fine jewelry</li>
-                            <li>Appreciate the craftsmanship and stories behind traditional and modern designs</li>
-                        </ul>
-                        <h3>📚 Topics We Cover in Jewelry Education:</h3>
-                        <ol>
-                            <li><strong>Diamond Education: 4Cs Explained</strong><br>
-                                <ul>
-                                    <li>Learn how Cut, Clarity, Color, and Carat weight affect a diamond’s quality and price.</li>
-                                    <li>Understand grading reports (GIA, IGI) and how to read them.</li>
-                                    <li>Real vs. synthetic diamonds – how to tell the difference.</li>
-                                </ul>
-                            </li>
-                            <li><strong>Gold Purity & Hallmarking</strong><br>
-                                <ul>
-                                    <li>What is 24K, 22K, 18K, 14K gold?</li>
-                                    <li>The importance of BIS hallmarking in India.</li>
-                                    <li>Tips for buying gold jewelry wisely, especially during festive seasons like Akshaya Tritiya.</li>
-                                </ul>
-                            </li>
-                            <li><strong>Gemstones: Types, Meanings & Certifications</strong><br>
-                                <ul>
-                                    <li>Understand popular gemstones: rubies, emeralds, sapphires, pearls, etc.</li>
-                                    <li>Learn about birthstones, astrological gems, and their meanings.</li>
-                                    <li>How to verify if a gemstone is natural, synthetic, or imitation.</li>
-                                </ul>
-                            </li>
-                            <li><strong>Jewelry Styles and Traditions</strong><br>
-                                <ul>
-                                    <li>Discover different jewelry styles from around India (e.g., Kundan, Meenakari, Temple Jewelry).</li>
-                                    <li>Explore international jewelry design trends.</li>
-                                    <li>The cultural and symbolic importance of jewelry in weddings, festivals, and milestones.</li>
-                                </ul>
-                            </li>
-                            <li><strong>Jewelry Buying Tips & Investment Advice</strong><br>
-                                <ul>
-                                    <li>How to choose the right jewelry for your occasion, budget, and lifestyle.</li>
-                                    <li>Jewelry as an investment: what holds value over time?</li>
-                                    <li>Online vs. in-store purchases – what to look out for.</li>
-                                </ul>
-                            </li>
-                            <li><strong>Jewelry Care and Maintenance</strong><br>
-                                <ul>
-                                    <li>Best practices for cleaning gold, silver, diamond, and gemstone jewelry.</li>
-                                    <li>Storage tips to prevent tarnishing and scratches.</li>
-                                    <li>When to get your jewelry professionally cleaned or checked.</li>
-                                </ul>
-                            </li>
-                            <li><strong>Behind the Scenes: How Jewelry is Made</strong><br>
-                                <ul>
-                                    <li>Insights into the craftsmanship of goldsmiths and designers.</li>
-                                    <li>How custom jewelry is designed and manufactured.</li>
-                                    <li>Tools and techniques used in traditional and modern jewelry making.</li>
-                                </ul>
-                            </li>
-                        </ol>
-                        <h3>✨ Who Should Read This Blog?</h3>
-                        <ul>
-                            <li>First-time jewelry buyers</li>
-                            <li>Wedding & engagement ring shoppers</li>
-                            <li>Jewelry investors and collectors</li>
-                            <li>Fashion enthusiasts and stylists</li>
-                            <li>Anyone who loves understanding the story behind beautiful things</li>
-                        </ul>
-                        <h3>🎯 Our Mission:</h3>
-                        <p>To empower every jewelry lover with knowledge so you can buy, wear, and gift with confidence. No more guesswork, no more confusion — just sparkle with certainty.</p>
-                    </div>
-                </div>
+                } else {
+                    // fallback placeholder
+                    $img_path = 'assets/no-image.png';
+                }
+        ?>
+            <div class="product-card">
+                <img src="<?php echo htmlspecialchars($img_path); ?>" alt="<?php echo htmlspecialchars($row['name']); ?>" onerror="this.onerror=null;this.src='assets/no-image.png';">
+                <h3><?php echo htmlspecialchars($row['name']); ?></h3>
+                <div class="code">Code: <?php echo htmlspecialchars($row['code']); ?></div>
+                <div class="weight">Weight: <?php echo htmlspecialchars($row['weight']); ?></div>
+                <div class="type">Type: <?php echo $type; ?></div>
+                <?php $detail_page = isset($detail_pages[$source]) ? $detail_pages[$source] : '#'; ?>
+                <a class="button" href="<?php echo $detail_page . '?id=' . urlencode($row['id']); ?>">View Details</a>
             </div>
-        </div>
-       
+        <?php endforeach; ?>
+        <?php else: ?>
+            <p>No bridal products found.</p>
+        <?php endif; ?>
     </div>
-   <?php include_once '../footer.php'; ?>
+
+
+
+   
+
+                        </div>
+                    </div>
+
+                    
+    <div class="pagination" style="display: flex; justify-content: center; align-items: center; gap: 8px; margin: 40px auto 0 auto; max-width: 1400px;">
+        <?php if ($total_pages > 1): ?>
+            <!-- First page -->
+            <?php if ($page > 1): ?>
+                <a class="first" href="?page=1" title="First Page" style="padding: 8px 10px; font-size: 1.2rem; border-radius: 50%; background: #eee; color: #333; text-decoration: none;">&#171;</a>
+            <?php else: ?>
+                <span class="first" style="padding: 8px 10px; font-size: 1.2rem; border-radius: 50%; background: #ccc; color: #fff;">&#171;</span>
+            <?php endif; ?>
+
+            <!-- Prev page -->
+            <?php if ($page > 1): ?>
+                <a class="prev" href="?page=<?php echo $page-1; ?>" title="Previous Page" style="padding: 8px 10px; font-size: 1.2rem; border-radius: 50%; background: #eee; color: #333; text-decoration: none;">&#8249;</a>
+            <?php else: ?>
+                <span class="prev" style="padding: 8px 10px; font-size: 1.2rem; border-radius: 50%; background: #ccc; color: #fff;">&#8249;</span>
+            <?php endif; ?>
+
+            <!-- Page numbers (show max 5 around current) -->
+            <?php
+                $start = max(1, $page - 2);
+                $end = min($total_pages, $page + 2);
+                if ($start > 1) echo '<span style="padding:0 4px;">...</span>';
+                for ($i = $start; $i <= $end; $i++):
+            ?>
+                <?php if ($i == $page): ?>
+                    <span class="current" style="padding: 8px 14px; font-size: 1.2rem; border-radius: 50%; background: #000; color: #fff; font-weight: bold; border: 2px solid #444; box-shadow: 0 2px 6px rgba(0,0,0,0.08);"> <?php echo $i; ?> </span>
+                <?php else: ?>
+                    <a href="?page=<?php echo $i; ?>" style="padding: 8px 14px; font-size: 1.2rem; border-radius: 50%; background: #fff; color: #333; border: 2px solid #eee; text-decoration: none; transition: background 0.2s;"> <?php echo $i; ?> </a>
+                <?php endif; ?>
+            <?php endfor; ?>
+            <?php if ($end < $total_pages) echo '<span style="padding:0 4px;">...</span>'; ?>
+
+            <!-- Next page -->
+            <?php if ($page < $total_pages): ?>
+                <a class="next" href="?page=<?php echo $page+1; ?>" title="Next Page" style="padding: 8px 10px; font-size: 1.2rem; border-radius: 50%; background: #eee; color: #333; text-decoration: none;">&#8250;</a>
+            <?php else: ?>
+                <span class="next" style="padding: 8px 10px; font-size: 1.2rem; border-radius: 50%; background: #ccc; color: #fff;">&#8250;</span>
+            <?php endif; ?>
+
+            <!-- Last page -->
+            <?php if ($page < $total_pages): ?>
+                <a class="last" href="?page=<?php echo $total_pages; ?>" title="Last Page" style="padding: 8px 10px; font-size: 1.2rem; border-radius: 50%; background: #eee; color: #333; text-decoration: none;">&#187;</a>
+            <?php else: ?>
+                <span class="last" style="padding: 8px 10px; font-size: 1.2rem; border-radius: 50%; background: #ccc; color: #fff;">&#187;</span>
+            <?php endif; ?>
+        <?php endif; ?>
+    </div>
+    </main>
+
+         <?php include_once 'footer.php'; ?>
+
 
     <script type="speculationrules">
         {"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/muliya-jewels\/*","\/wp-content\/themes\/hello-elementor\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch,
@@ -886,7 +1083,6 @@
 
     <script type="wphb-delay-type" data-wphb-type="text/javascript">
         var _paq = _paq || [];
-        _paq.push(['setCustomDimension', 1, '{"ID":1,"name":"Developers","avatar":"f6bec09509c60ea7d5b5f93acd16e596"}']);
         _paq.push(['trackPageView']);
         (function() {
             var u = "https://analytics2.wpmudev.com/";
@@ -907,7 +1103,7 @@
             <div class="elementor-element elementor-element-10db2f1 e-con-full e-flex e-con e-child" data-id="10db2f1" data-element_type="container">
                 <div class="elementor-element elementor-element-29fafd1 elementor-widget-mobile__width-inherit elementor-widget elementor-widget-image" data-id="29fafd1" data-element_type="widget" data-widget_type="image.default">
                     <div class="elementor-widget-container">
-                        <img loading="lazy" width="431" height="433" src="https://muliya.in/wp-content/uploads/2025/04/Gold-Price-BG.png" class="attachment-large size-large wp-image-11751" alt="Gold Price" srcset="https://muliya.in/wp-content/uploads/2025/04/Gold-Price-BG.png 431w, https://muliya.in/wp-content/uploads/2025/04/Gold-Price-BG-300x300.png 300w, https://muliya.in/wp-content/uploads/2025/04/Gold-Price-BG-150x150.png 150w, https://muliya.in/wp-content/uploads/2025/04/Gold-Price-BG-100x100.png 100w"
+                        <img width="431" height="433" src="https://muliya.in/wp-content/uploads/2025/04/Gold-Price-BG.png" class="attachment-large size-large wp-image-11751" alt="Gold Price" srcset="https://muliya.in/wp-content/uploads/2025/04/Gold-Price-BG.png 431w, https://muliya.in/wp-content/uploads/2025/04/Gold-Price-BG-300x300.png 300w, https://muliya.in/wp-content/uploads/2025/04/Gold-Price-BG-150x150.png 150w, https://muliya.in/wp-content/uploads/2025/04/Gold-Price-BG-100x100.png 100w"
                             sizes="(max-width: 431px) 100vw, 431px" /> </div>
                 </div>
             </div>
@@ -972,9 +1168,9 @@
                     <form class="elementor-form" method="post" name="Enquiry Form" aria-label="Enquiry Form">
                         <input type="hidden" name="post_id" value="11346" />
                         <input type="hidden" name="form_id" value="7514f09" />
-                        <input type="hidden" name="referer_title" value="Free hair donation camp on September 11 for cancer sufferers by &quot;Seeds of Hope&quot;. | Muliya Gold &amp; Diamonds" />
+                        <input type="hidden" name="referer_title" value="Bridal | Muliya Gold &amp; Diamonds" />
 
-                        <input type="hidden" name="queried_id" value="11128" />
+                        <input type="hidden" name="queried_id" value="11578" />
 
                         <div class="elementor-form-fields-wrapper elementor-labels-above">
                             <div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-100 elementor-field-required">
@@ -995,7 +1191,7 @@
                                 <input size="1" type="text" name="form_fields[field_6f41113]" id="form-field-field_6f41113" class="elementor-field elementor-size-md  elementor-field-textual" placeholder="Enter your city" required="required">
                             </div>
                             <div class="elementor-field-type-hidden elementor-field-group elementor-column elementor-field-group-field_ff54e22 elementor-col-100">
-                                <input size="1" type="hidden" name="form_fields[field_ff54e22]" id="form-field-field_ff54e22" class="elementor-field elementor-size-md  elementor-field-textual" value="Free hair donation camp on September 11 for cancer sufferers by &#8220;Seeds of Hope&#8221;.">
+                                <input size="1" type="hidden" name="form_fields[field_ff54e22]" id="form-field-field_ff54e22" class="elementor-field elementor-size-md  elementor-field-textual" value="Bridal">
                             </div>
                             <div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-30 e-form__buttons">
                                 <button class="elementor-button elementor-size-sm" type="submit">
@@ -1703,7 +1899,7 @@
     <link rel='stylesheet' id='wc-blocks-style-css' href='https://hb.wpmucdn.com/muliya.in/d2d699ac-5744-4d95-9196-37d8a263072a.css' media='all' />
     <script type="wphb-delay-type" src="https://hb.wpmucdn.com/muliya.in/4bec02ae-5a6a-4181-9569-fac6e93ef352.js" id="wpascript-js"></script>
     <script type="wphb-delay-type" id="wpascript-js-after">
-        wpa_field_info = {"wpa_field_name":"hlozur8873","wpa_field_value":481894,"wpa_add_test":"no"}
+        wpa_field_info = {"wpa_field_name":"hlozur8873","wpa_field_value":675430,"wpa_add_test":"no"}
     </script>
     <script type="wphb-delay-type" src="https://hb.wpmucdn.com/muliya.in/dd9cec62-3b82-4519-96a6-b4b2beffd215.js" id="hello-theme-frontend-js"></script>
     <script type="wphb-delay-type" src="https://muliya.in/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.30.0" id="elementor-webpack-runtime-js"></script>
@@ -1714,11 +1910,11 @@
         image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This
         is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile
         Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet
-        Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"3.30.0","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"theme_builder_v2":true,"hello-theme-header-footer":true,"nested-elements":true,"e_element_cache":true,"home_screen":true,"global_classes_should_enforce_capabilities":true,"cloud-library":true,"e_opt_in_v4_page":true,"mega-menu":true},"urls":{"assets":"https:\/\/muliya.in\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/muliya.in\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/muliya.in\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"7f965ba3e9"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","woocommerce_notices_elements":[],"hello_header_logo_type":"title","hello_footer_logo_type":"logo"},"post":{"id":11128,"title":"Free%20hair%20donation%20camp%20on%20September%2011%20for%20cancer%20sufferers%20by%20%22Seeds%20of%20Hope%22.%20%7C%20Muliya%20Gold%20%26%20Diamonds","excerpt":"","featuredImage":"https:\/\/muliya.in\/wp-content\/uploads\/2022\/09\/Yoga-Jeevana-Poster.jpg"}};
+        Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"3.30.0","is_static":false,"experimentalFeatures":{"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"theme_builder_v2":true,"hello-theme-header-footer":true,"nested-elements":true,"e_element_cache":true,"home_screen":true,"global_classes_should_enforce_capabilities":true,"cloud-library":true,"e_opt_in_v4_page":true,"mega-menu":true},"urls":{"assets":"https:\/\/muliya.in\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/muliya.in\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/muliya.in\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"67df8db9ea"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","woocommerce_notices_elements":[],"hello_header_logo_type":"title","hello_footer_logo_type":"logo"},"post":{"id":11578,"title":"Bridal%20%7C%20Muliya%20Gold%20%26%20Diamonds","excerpt":"","featuredImage":false}};
     </script>
     <script type="wphb-delay-type" src="https://hb.wpmucdn.com/muliya.in/7f2110ae-184a-4ef3-9a3e-724fb9c3e6e2.js" id="elementor-frontend-js"></script>
-    <script type="wphb-delay-type" src="https://hb.wpmucdn.com/muliya.in/7d9ce607-3dfe-46df-8331-92e75eeaf7c9.js" id="imagesloaded-js"></script>
     <script type="wphb-delay-type" src="https://hb.wpmucdn.com/muliya.in/e5a940df-4ab0-4f25-9b3d-c807e5a49b81.js" id="lottie-js"></script>
+    <script type="wphb-delay-type" src="https://hb.wpmucdn.com/muliya.in/7d9ce607-3dfe-46df-8331-92e75eeaf7c9.js" id="imagesloaded-js"></script>
     <script type="wphb-delay-type" src="https://hb.wpmucdn.com/muliya.in/c2aaf3f4-a0f7-426c-871e-666017f58bc9.js" id="sourcebuster-js-js"></script>
     <script id="wc-order-attribution-js-extra">
         var wc_order_attribution = {
@@ -1763,7 +1959,7 @@
         wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
     </script>
     <script type="wphb-delay-type" id="elementor-pro-frontend-js-before">
-        var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/muliya.in\/wp-admin\/admin-ajax.php","nonce":"6cea72ab21","urls":{"assets":"https:\/\/muliya.in\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/muliya.in\/wp-json\/"},"settings":{"lazy_load_background_images":true},"popup":{"hasPopUps":true},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"woocommerce":{"menu_cart":{"cart_page_url":"https:\/\/muliya.in\/cart\/","checkout_page_url":"https:\/\/muliya.in\/checkout\/","fragments_nonce":"1121bb2564"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/muliya.in\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+        var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/muliya.in\/wp-admin\/admin-ajax.php","nonce":"62cc677645","urls":{"assets":"https:\/\/muliya.in\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/muliya.in\/wp-json\/"},"settings":{"lazy_load_background_images":true},"popup":{"hasPopUps":true},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"woocommerce":{"menu_cart":{"cart_page_url":"https:\/\/muliya.in\/cart\/","checkout_page_url":"https:\/\/muliya.in\/checkout\/","fragments_nonce":"3ff66048e1"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/muliya.in\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
     </script>
     <script type="wphb-delay-type" src="https://hb.wpmucdn.com/muliya.in/31ba1874-da61-4dea-9697-c186cb3d235a.js" id="elementor-pro-frontend-js"></script>
     <script type="wphb-delay-type" src="https://hb.wpmucdn.com/muliya.in/771fb892-6f1c-4358-97c0-1f924c37c7ea.js" id="pro-elements-handlers-js"></script>
@@ -1807,4 +2003,3 @@
 </body>
 
 </html>
-<!-- Hummingbird cache file was created in 0.95530605316162 seconds, on 31-07-25 17:51:39 -->

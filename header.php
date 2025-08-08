@@ -667,28 +667,13 @@ $diamond_main_link = $base_path . "diamond/diamond.php";
                     <!-- scheme section start -->
                     <div class="elementor-element elementor-element-efdac0b e-con-full e-flex e-con e-child" data-id="efdac0b" data-element_type="container">
                         <div class="elementor-element elementor-element-f7430de e-con-full e-flex e-con e-child" data-id="f7430de" data-element_type="container" >
-                            <div class="elementor-element elementor-element-a05eb7c elementor-icon-list--layout-inline elementor-hidden-mobile elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="a05eb7c" data-element_type="widget" data-widget_type="icon-list.default">
-                                <div class="elementor-widget-container">
-                                    <ul class="elementor-icon-list-items elementor-inline-items">
-                                        <li class="elementor-icon-list-item elementor-inline-item">
-                                            <a href="#">
-
-                                                <span class="elementor-icon-list-icon">
-                            <!-- <svg xmlns="http://www.w3.org/2000/svg" width="37" height="27" viewBox="0 0 37 27" fill="none"><path d="M24.4694 20.4635L32.6134 15.2543C33.096 14.955 35.0024 14.3562 35.8711 15.7932C36.7398 17.2302 36.052 18.308 34.9662 19.0265L24.1074 26.2116H11.0769L7.09534 23.5172V12.021H14.8775L20.6688 17.9488C21.2721 18.4876 21.7547 19.745 20.3068 20.8228C19.4019 21.3617 18.3161 21.5413 17.2302 20.4635L12.7057 16.1525H9.81003" stroke="#E92548" stroke-width="1.18255" stroke-linecap="round"></path><mask id="path-2-inside-1_2421_2849" fill="white"><rect y="10.4443" width="7.88366" height="16.5557" rx="0.788366"></rect></mask><rect y="10.4443" width="7.88366" height="16.5557" rx="0.788366" fill="#FFE8EC" stroke="#E92548" stroke-width="2.3651" mask="url(#path-2-inside-1_2421_2849)"></rect><circle cx="24.8346" cy="7.58725" r="6.99598" fill="#FFE8EC" stroke="#E92548" stroke-width="1.18255"></circle><path d="M22.7845 4.4259H27.5364V4.43577C27.2565 4.86717 27.0984 5.09768 27.0622 5.12732H25.7927C25.9673 5.33149 26.0858 5.58012 26.1484 5.8732H27.5018C27.5183 5.8765 27.5265 5.88308 27.5265 5.89296C27.2236 6.34741 27.0688 6.57463 27.0622 6.57463H26.183C26.1632 6.80844 26.0512 7.09 25.8471 7.4193C25.577 7.75191 25.3185 7.9676 25.0715 8.06639C24.6105 8.28703 24.1692 8.39735 23.7477 8.39735V8.40723C23.7477 8.44016 24.7011 9.57133 26.6078 11.8007H25.3482C23.4909 9.63719 22.5622 8.55048 22.5622 8.5406V7.88363L22.5721 7.85893C22.7368 7.88198 22.9294 7.89351 23.15 7.89351C24.1906 7.89351 24.8377 7.55597 25.0913 6.88089C25.1308 6.78209 25.1506 6.68001 25.1506 6.57463H22.3251C22.3119 6.57463 22.3054 6.56804 22.3054 6.55487C22.6182 6.10043 22.7779 5.8732 22.7845 5.8732H25.0271V5.86332C24.8987 5.60317 24.65 5.40065 24.2812 5.25575C24.0178 5.17013 23.7807 5.12732 23.5699 5.12732H22.3152V5.10262C22.6182 4.65147 22.7746 4.4259 22.7845 4.4259Z" fill="#E92548"></path></svg>			 -->
-                                   <img src="<?php echo $euro_icon_path; ?>" alt="Euro Money Icon">
-                        </span>
-                                        <span class="elementor-icon-list-text" style="color: #000000;"></span><br><span style="color: #000000;">Jewellery Buying Plan</span></span>
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
+                           
                            
                             <div class="elementor-element elementor-element-07f9549 elementor-icon-list--layout-inline mj-gold-rate-btn elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="07f9549" data-element_type="widget" data-widget_type="icon-list.default">
                                 <div class="elementor-widget-container">
                                     <ul class="elementor-icon-list-items elementor-inline-items">
                                         <li class="elementor-icon-list-item elementor-inline-item">
-                                            <a href="#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjExNzE1IiwidG9nZ2xlIjpmYWxzZX0%3D">
+                                            <a href="api/gold-rate.php">
 
                                                 <span class="elementor-icon-list-icon">
                                         <!-- <svg xmlns="http://www.w3.org/2000/svg" width="44" height="26" viewBox="0 0 44 26" fill="none"><path d="M17.5888 14.2537H4.14304C3.84284 14.2537 3.58067 14.4568 3.50565 14.7475L1.21232 23.6341C1.1048 24.0508 1.4194 24.4569 1.84971 24.4569H19.5955C20.0175 24.4569 20.3306 24.0653 20.2376 23.6536L18.2309 14.767C18.1632 14.4669 17.8965 14.2537 17.5888 14.2537Z" fill="#FFE8EC" stroke="#E92548" stroke-width="1.23644"></path><path d="M29.0003 1H15.5545C15.2468 1 14.9802 1.21315 14.9124 1.51328L12.9057 10.3999C12.8128 10.8116 13.1258 11.2032 13.5479 11.2032H31.2936C31.7239 11.2032 32.0385 10.7971 31.931 10.3804L29.6377 1.49378C29.5627 1.20311 29.3005 1 29.0003 1Z" fill="#FFE8EC" stroke="#E92548" stroke-width="1.23644"></path><path d="M39.7054 14.2537H26.2596C25.9519 14.2537 25.6853 14.4669 25.6175 14.767L23.6108 23.6536C23.5179 24.0653 23.8309 24.4569 24.2529 24.4569H41.9987C42.429 24.4569 42.7436 24.0508 42.6361 23.6341L40.3428 14.7475C40.2678 14.4568 40.0056 14.2537 39.7054 14.2537Z" fill="#FFE8EC" stroke="#E92548" stroke-width="1.23644"></path></svg>						 -->
@@ -712,7 +697,7 @@ $diamond_main_link = $base_path . "diamond/diamond.php";
                             data-widget_type="search.default">
                             <div class="elementor-widget-container">
                                 <search class="e-search " role="search">
-                                    <form class="e-search-form" action="#" method="get">
+                                    <form class="e-search-form" action="<?php echo $base_path; ?>search.php" method="get">
 
 
                                         <label class="e-search-label" for="search-d57f097">
@@ -722,7 +707,7 @@ $diamond_main_link = $base_path . "diamond/diamond.php";
 
                                         <div class="e-search-input-wrapper">
                                             <input id="search-d57f097" placeholder="Search for gold jewellery, diamond jewellery and more" class="e-search-input" type="search" name="s" value="" autocomplete="off" role="combobox" aria-autocomplete="list" aria-expanded="false" aria-controls="results-d57f097"
-                                                aria-haspopup="listbox">
+                                                aria-haspopup="listbox" onkeyup="handleSearchInput(this.value)">
                                             <svg aria-hidden="true" class="e-font-icon-svg e-fas-times" viewBox="0 0 352 512" xmlns="http://www.w3.org/2000/svg"><path d="M242.72 256l100.07-100.07c12.28-12.28 12.28-32.19 0-44.48l-22.24-22.24c-12.28-12.28-32.19-12.28-44.48 0L176 189.28 75.93 89.21c-12.28-12.28-32.19-12.28-44.48 0L9.21 111.45c-12.28 12.28-12.28 32.19 0 44.48L109.28 256 9.21 356.07c-12.28 12.28-12.28 32.19 0 44.48l22.24 22.24c12.28 12.28 32.2 12.28 44.48 0L176 322.72l100.07 100.07c12.28 12.28 32.2 12.28 44.48 0l22.24-22.24c12.28-12.28 12.28-32.19 0-44.48L242.72 256z"></path></svg>                                            <output id="results-d57f097" class="e-search-results-container hide-loader" aria-live="polite" aria-atomic="true" aria-label="Results for search" tabindex="0">
                         <div class="e-search-results"></div>
                                             </output>
@@ -732,134 +717,14 @@ $diamond_main_link = $base_path . "diamond/diamond.php";
                                         <button class="e-search-submit  " type="submit" aria-label="Search">
                     <svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36" fill="none"><path d="M13.3714 0C16.9178 0 20.3188 1.40877 22.8265 3.9164C25.3341 6.42403 26.7429 9.82511 26.7429 13.3714C26.7429 16.6834 25.5291 19.728 23.5337 22.0731L24.0891 22.6286H25.7143L36 32.9143L32.9143 36L22.6286 25.7143V24.0891L22.0731 23.5337C19.6465 25.6042 16.5613 26.7419 13.3714 26.7429C9.82511 26.7429 6.42403 25.3341 3.9164 22.8265C1.40877 20.3188 0 16.9178 0 13.3714C0 9.82511 1.40877 6.42403 3.9164 3.9164C6.42403 1.40877 9.82511 0 13.3714 0ZM13.3714 4.11429C8.22857 4.11429 4.11429 8.22857 4.11429 13.3714C4.11429 18.5143 8.22857 22.6286 13.3714 22.6286C18.5143 22.6286 22.6286 18.5143 22.6286 13.3714C22.6286 8.22857 18.5143 4.11429 13.3714 4.11429Z" fill="white"></path></svg>
                                     </button>
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-  var btn = document.getElementById('e-n-menu-dropdown-icon-8208');
-  var content = document.getElementById('e-n-menu-content-8208');
-  if (btn && content) {
-    content.style.position = 'fixed';
-    content.style.display = 'none';
-    content.style.zIndex = 1000;
-    btn.addEventListener('click', function(e) {
-      e.stopPropagation();
-      var expanded = btn.getAttribute('aria-expanded') === 'true';
-      btn.setAttribute('aria-expanded', !expanded);
-      if (!expanded) {
-        var rect = btn.getBoundingClientRect();
-        content.style.left = '50%';
-        content.style.top = (rect.bottom + 8) + 'px';
-        content.style.transform = 'translate(-50%, 0)';
-        content.style.display = 'block';
-        document.body.style.overflow = 'hidden';
-      } else {
-        content.style.display = 'none';
-        document.body.style.overflow = '';
-      }
-    });
-    document.addEventListener('mousedown', function(e) {
-      if (!content.contains(e.target) && !btn.contains(e.target)) {
-        if (content.style.display === 'block') {
-          content.style.display = 'none';
-          btn.setAttribute('aria-expanded', 'false');
-          document.body.style.overflow = '';
-        }
-      }
-    });
-  }
-});
-</script>
-        <script>
-        document.addEventListener('DOMContentLoaded', function() {
-            var btn = document.getElementById('e-n-menu-dropdown-icon-8204');
-            var content = document.getElementById('e-n-menu-content-8204');
-            if (btn && content) {
-                // Set content to fixed and hidden initially
-                content.style.position = 'fixed';
-                content.style.display = 'none';
-                content.style.zIndex = 1000;
-                var openedIcon = btn.querySelector('.e-n-menu-dropdown-icon-opened');
-                var closedIcon = btn.querySelector('.e-n-menu-dropdown-icon-closed');
-                // Hide opened icon by default
-                if (openedIcon) openedIcon.style.display = 'none';
-                if (closedIcon) closedIcon.style.display = '';
-                btn.addEventListener('click', function() {
-                    var expanded = btn.getAttribute('aria-expanded') === 'true';
-                    btn.setAttribute('aria-expanded', !expanded);
-                    if (!expanded) {
-                        var rect = btn.getBoundingClientRect();
-                        // Show and center the dropdown fixed in the viewport
-                        content.style.display = 'block';
-                        content.style.visibility = 'hidden';
-                        // Center horizontally, position below the menu bar (rect.bottom)
-                        content.style.left = '50%';
-                        content.style.top = (rect.bottom + 8) + 'px'; // 8px gap below menu
-                        content.style.transform = 'translate(-50%, 0)';
-                        content.style.minWidth = rect.width + 'px';
-                        content.style.visibility = '';
-                        if (openedIcon) openedIcon.style.display = '';
-                        if (closedIcon) closedIcon.style.display = 'none';
-                    } else {
-                        content.style.display = 'none';
-                        if (openedIcon) openedIcon.style.display = 'none';
-                        if (closedIcon) closedIcon.style.display = '';
-                    }
-                });
-            }
-        });
-        </script>
-        <script>
-        document.addEventListener('DOMContentLoaded', function() {
-            var btn = document.getElementById('e-n-menu-dropdown-icon-8203');
-            var content = document.getElementById('e-n-menu-content-8203');
-            if (btn && content) {
-                // Set content to fixed and hidden initially
-                content.style.position = 'fixed';
-                content.style.display = 'none';
-                content.style.zIndex = 1000;
-                var openedIcon = btn.querySelector('.e-n-menu-dropdown-icon-opened');
-                var closedIcon = btn.querySelector('.e-n-menu-dropdown-icon-closed');
-                // Hide opened icon by default
-                if (openedIcon) openedIcon.style.display = 'none';
-                if (closedIcon) closedIcon.style.display = '';
-                btn.addEventListener('click', function() {
-                    var expanded = btn.getAttribute('aria-expanded') === 'true';
-                    btn.setAttribute('aria-expanded', !expanded);
-                    if (!expanded) {
-                        // Show and position below the button
-                        var rect = btn.getBoundingClientRect();
-                        // Show and center the dropdown fixed in the viewport
-                        content.style.display = 'block';
-                        content.style.visibility = 'hidden';
-                        // Center horizontally, position below the menu bar (rect.bottom)
-                        content.style.left = '50%';
-                        content.style.top = (rect.bottom + 8) + 'px'; // 8px gap below menu
-                        content.style.transform = 'translate(-50%, 0)';
-                        content.style.minWidth = rect.width + 'px';
-                        content.style.visibility = '';
-                        if (openedIcon) openedIcon.style.display = '';
-                        if (closedIcon) closedIcon.style.display = 'none';
-                    } else {
-                        content.style.display = 'none';
-                        if (openedIcon) openedIcon.style.display = 'none';
-                        if (closedIcon) closedIcon.style.display = '';
-                    }
-                });
-            }
-        });
-        </script>
+<!-- Removed per-item init scripts to avoid conflicts with unified handler -->
                                         <input type="hidden" name="e_search_props" value="d57f097-11154">
                                     </form>
                                 </search>
                             </div>
                         </div>
                     </div>
-                    <!-- <div class="elementor-element elementor-element-13a8ae2 e-con-full e-transform e-flex e-con e-child" data-id="13a8ae2" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;position&quot;:&quot;fixed&quot;,&quot;_transform_rotateZ_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:-90,&quot;sizes&quot;:[]},&quot;_transform_rotateZ_effect_tablet&quot;:{&quot;unit&quot;:&quot;deg&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_rotateZ_effect_mobile&quot;:{&quot;unit&quot;:&quot;deg&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}">
-                        <div class="elementor-element elementor-element-7ce9365 elementor-widget-mobile__width-initial elementor-widget elementor-widget-text-editor" data-id="7ce9365" data-element_type="widget" data-widget_type="text-editor.default">
-                            <div class="elementor-widget-container">
-                                <p><a href="#">Feedback</a></p>
-                            </div>
-                        </div>
-                    </div> -->
+                   
                 </div>
             </div>
             <div class="elementor-element elementor-element-f995112 mj-menu-header e-flex e-con-boxed e-con e-child" data-id="f995112" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}" style="background-color: #f1db9dff !important;">
@@ -904,37 +769,7 @@ document.addEventListener('DOMContentLoaded', function() {
                                                             <span class="elementor-screen-only">Open <img src="<?php echo $gold_icon_path_2; ?>" style="margin-right:6px; margin-top: 20px; Width: 24px;" alt="Gold Icon">Gold</span>
                                                         </span>
                                                     </button>
-                                                        <script>
-                                                        document.addEventListener('DOMContentLoaded', function() {
-                                                        var btn = document.getElementById('e-n-menu-dropdown-icon-8201');
-                                                        var content = document.getElementById('e-n-menu-content-8201');
-                                                        if (btn && content) {
-                                                            // Set content to absolute and hidden initially
-                                                            content.style.position = 'absolute';
-                                                            content.style.display = 'none';
-                                                            content.style.zIndex = 1000;
-                                                            btn.addEventListener('click', function() {
-                                                            var expanded = btn.getAttribute('aria-expanded') === 'true';
-                                                            btn.setAttribute('aria-expanded', !expanded);
-                                                            if (!expanded) {
-                                                                // Show and position below the button
-                                                                var rect = btn.getBoundingClientRect();
-                                                                var scrollTop = window.pageYOffset || document.documentElement.scrollTop;
-                                                                var scrollLeft = window.pageXOffset || document.documentElement.scrollLeft;
-                                                                content.style.top = (rect.bottom + scrollTop) + '-8px';
-                                                                // Center the dropdown below the button
-                                                                var contentWidth = content.offsetWidth || rect.width;
-                                                                var left = (rect.left + scrollLeft) + (rect.width / 2) - (contentWidth / 2);
-                                                                content.style.left = left + 'px';
-                                                                content.style.minWidth = rect.width + 'px';
-                                                                content.style.display = 'block';
-                                                            } else {
-                                                                content.style.display = 'none';
-                                                            }
-                                                            });
-                                                        }
-                                                        });
-                                                        </script>
+                                                        <!-- Init handled globally by unified script -->
                                             </div>
                                             <div class="e-n-menu-content">
                                                 <div id="e-n-menu-content-8201" data-tab-index="1" aria-labelledby="e-n-menu-dropdown-icon-8201" class="elementor-element elementor-element-419d9a4 e-flex e-con-boxed e-con e-child" data-id="419d9a4" data-element_type="container">
@@ -1320,25 +1155,25 @@ document.addEventListener('DOMContentLoaded', function() {
                                                                 <div class="elementor-widget-container">
                                                                     <ul class="elementor-icon-list-items">
                                                                         <li class="elementor-icon-list-item">
-                                                                            <a href="https://muliya.in/gold-buying-plans/">
+                                                                            <a href="<?php echo $base_path; ?>bridel.php">
 
-                                                                 <span class="elementor-icon-list-text">Gold Buying Plans</span>
+                                                                 <span class="elementor-icon-list-text">Bridal Collection</span>
                                                                          </a>
                                                                         </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                            <a href="blog.php">
+                                                                            <a href="<?php echo $base_path; ?>blog.php">
 
                                             <span class="elementor-icon-list-text">Blog</span>
                                             </a>
                                                                         </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                            <a href="https://muliya.in/careers/">
+                                                                            <a href="<?php echo $base_path; ?>careers.php">
 
                                             <span class="elementor-icon-list-text">Careers</span>
                                             </a>
                                                                         </li>
                                                                         <li class="elementor-icon-list-item">
-                                                                            <a href="https://muliya.in/contact-us/">
+                                                                            <a href="<?php echo $base_path; ?>contact-us.php">
 
                                             <span class="elementor-icon-list-text">Contact Us</span>
                                             </a>
@@ -1360,3 +1195,333 @@ document.addEventListener('DOMContentLoaded', function() {
             </div>
         </div>
     </div>
+
+    <script>
+    // Enhanced search functionality
+    function handleSearchInput(value) {
+        const searchInput = document.getElementById('search-d57f097');
+        const resultsContainer = document.getElementById('results-d57f097');
+        const resultsDiv = resultsContainer.querySelector('.e-search-results');
+        
+        if (value.length < 2) {
+            resultsContainer.classList.add('hide-loader');
+            resultsDiv.innerHTML = '';
+            return;
+        }
+        
+        // Show loading state
+        resultsContainer.classList.remove('hide-loader');
+        resultsDiv.innerHTML = '<div style="padding: 20px; text-align: center;">Searching...</div>';
+        
+        // Simulate search results (you can replace this with actual AJAX call)
+        setTimeout(() => {
+            if (value.toLowerCase().includes('gold') || value.toLowerCase().includes('diamond') || value.toLowerCase().includes('ring') || value.toLowerCase().includes('necklace') || value.toLowerCase().includes('earring') || value.toLowerCase().includes('bangle')) {
+                resultsDiv.innerHTML = `
+                    <div style="padding: 15px; border-bottom: 1px solid #eee;">
+                        <div style="font-weight: 600; color: #333;">Found products matching "${value}"</div>
+                        <div style="font-size: 12px; color: #666; margin-top: 5px;">Click to view all results</div>
+                    </div>
+                    <div style="padding: 15px;">
+                        <a href="search.php?s=${encodeURIComponent(value)}" style="color: #d4af37; text-decoration: none; font-weight: 600;">
+                            View all search results →
+                        </a>
+                    </div>
+                `;
+            } else {
+                resultsDiv.innerHTML = `
+                    <div style="padding: 15px; border-bottom: 1px solid #eee;">
+                        <div style="font-weight: 600; color: #333;">No quick matches found</div>
+                        <div style="font-size: 12px; color: #666; margin-top: 5px;">Try searching for "gold", "diamond", "ring", etc.</div>
+                    </div>
+                    <div style="padding: 15px;">
+                        <a href="search.php?s=${encodeURIComponent(value)}" style="color: #d4af37; text-decoration: none; font-weight: 600;">
+                            Search anyway →
+                        </a>
+                    </div>
+                `;
+            }
+            resultsContainer.classList.remove('hide-loader');
+        }, 500);
+    }
+    
+    // Handle search form submission
+    document.addEventListener('DOMContentLoaded', function() {
+        const searchForm = document.querySelector('.e-search-form');
+        const searchInput = document.getElementById('search-d57f097');
+        
+        if (searchForm && searchInput) {
+            searchForm.addEventListener('submit', function(e) {
+                const query = searchInput.value.trim();
+                if (query.length < 2) {
+                    e.preventDefault();
+                    alert('Please enter at least 2 characters to search.');
+                    return;
+                }
+            });
+        }
+    });
+    </script>
+
+    <!-- Gold Rate Modal -->
+    <div id="gold-rate-modal" class="grm-overlay" style="display:none; position:fixed; inset:0; background:rgba(0,0,0,.55); z-index:99999; align-items:center; justify-content:center;">
+      <div class="grm-card" role="dialog" aria-modal="true" aria-labelledby="grm-title" style="background:#fff; width:min(560px, 92vw); border-radius:18px; box-shadow:0 20px 60px rgba(0,0,0,.25); overflow:hidden;">
+        <div style="display:flex; align-items:center; justify-content:space-between; padding:16px 18px; background:#0b1a2b; color:#fff;">
+          <div style="display:flex; align-items:center; gap:12px;">
+            <img src="<?php echo $logo_path; ?>" alt="Emirates Gold & Diamonds" style="width:40px; height:40px; border-radius:8px; object-fit:cover; background:#fff;">
+            <div>
+              <div id="grm-title" style="font-weight:700; font-size:18px;">Today's Gold & Silver Rate</div>
+              <div id="grm-updated" style="opacity:.85; font-size:12px;">Updating…</div>
+            </div>
+          </div>
+          <button id="grm-close" aria-label="Close" style="background:transparent; border:none; color:#fff; font-size:22px; line-height:1; cursor:pointer;">×</button>
+        </div>
+        <div style="padding:18px 18px 8px 18px;">
+          <div id="grm-error" style="display:none; background:#fff3f3; color:#b00020; border:1px solid #ffd7d7; padding:10px 12px; border-radius:8px; margin-bottom:12px;">Unable to fetch rates. Showing last available values.</div>
+          <div style="display:grid; grid-template-columns:1fr 1fr; gap:14px;">
+            <div style="background:#f8fafc; border:1px solid #eef2f7; border-radius:12px; padding:14px;">
+              <div style="font-size:12px; color:#64748b; text-transform:uppercase; letter-spacing:.04em;">Gold 22K</div>
+              <div style="display:flex; align-items:baseline; gap:8px;">
+                <div id="gr-22g" style="font-size:26px; font-weight:800; color:#0f172a;">—</div>
+                <div style="color:#475569;">per gram</div>
+              </div>
+              <div id="gr-22t" style="font-size:14px; color:#475569; margin-top:6px;">— per 10g</div>
+            </div>
+            <div style="background:#f8fafc; border:1px solid #eef2f7; border-radius:12px; padding:14px;">
+              <div style="font-size:12px; color:#64748b; text-transform:uppercase; letter-spacing:.04em;">Gold 24K</div>
+              <div style="display:flex; align-items:baseline; gap:8px;">
+                <div id="gr-24g" style="font-size:26px; font-weight:800; color:#0f172a;">—</div>
+                <div style="color:#475569;">per gram</div>
+              </div>
+              <div id="gr-24t" style="font-size:14px; color:#475569; margin-top:6px;">— per 10g</div>
+            </div>
+          </div>
+          <div style="margin-top:14px; background:#fafafa; border:1px dashed #e2e8f0; border-radius:12px; padding:12px 14px; display:flex; align-items:center; justify-content:space-between;">
+            <div>
+              <div style="font-size:12px; color:#64748b; text-transform:uppercase; letter-spacing:.04em;">Silver</div>
+              <div id="gr-silver" style="font-size:16px; color:#0f172a;">— per gram</div>
+            </div>
+            <div style="font-size:12px; color:#64748b;">Currency: INR</div>
+          </div>
+        </div>
+        <div style="padding:12px 18px 18px 18px; display:flex; align-items:center; justify-content:flex-end; gap:10px;">
+          <a href="<?php echo $base_path; ?>search.php?s=gold" style="background:#d4af37; color:#fff; text-decoration:none; font-weight:700; padding:10px 14px; border-radius:10px;">Explore Gold</a>
+          <button id="grm-close-bottom" style="background:#0b1a2b; color:#fff; border:none; padding:10px 14px; border-radius:10px; cursor:pointer;">Close</button>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      (function(){
+        const modal = document.getElementById('gold-rate-modal');
+        const closeBtns = [document.getElementById('grm-close'), document.getElementById('grm-close-bottom')];
+        const updatedEl = document.getElementById('grm-updated');
+        const errEl = document.getElementById('grm-error');
+        const el22g = document.getElementById('gr-22g');
+        const el22t = document.getElementById('gr-22t');
+        const el24g = document.getElementById('gr-24g');
+        const el24t = document.getElementById('gr-24t');
+        const elAg  = document.getElementById('gr-silver');
+
+        function formatINR(n){
+          try { return new Intl.NumberFormat('en-IN', { style:'currency', currency:'INR', maximumFractionDigits:2 }).format(n); } catch(e){ return '₹'+(Math.round(n*100)/100).toLocaleString('en-IN'); }
+        }
+        function openModal(){ modal.style.display='flex'; document.body.style.overflow='hidden'; }
+        function closeModal(){ modal.style.display='none'; document.body.style.overflow=''; }
+        closeBtns.forEach(btn=>btn && btn.addEventListener('click', closeModal));
+        modal.addEventListener('click', (e)=>{ if(e.target === modal) closeModal(); });
+        document.addEventListener('keydown', (e)=>{ if(e.key==='Escape' && modal.style.display==='flex') closeModal(); });
+
+        // Hook the existing gold-rate trigger
+        const trigger = document.querySelector('.mj-gold-rate-btn');
+        if (trigger) {
+          trigger.addEventListener('click', function(e){
+            e.preventDefault();
+            openModal();
+            updatedEl.textContent = 'Updating…';
+            errEl.style.display = 'none';
+            el22g.textContent = '—'; el22t.textContent = '— per 10g';
+            el24g.textContent = '—'; el24t.textContent = '— per 10g';
+            elAg.textContent  = '— per gram';
+
+            fetch('<?php echo $base_path; ?>api/gold-rate.php', { cache:'no-store' })
+              .then(r=>r.json())
+              .then(d=>{
+                const g22 = Number(d.gold_22k_per_gram ?? d.gold);
+                const g24 = Number(d.gold_24k_per_gram ?? (g22? g22*(24/22): NaN));
+                const ag  = d.silver_per_gram ? Number(d.silver_per_gram) : (d.silver? Number(d.silver): NaN);
+
+                if (!isFinite(g22) && !isFinite(g24)) throw new Error('No rates');
+                if (isFinite(g22)) {
+                  el22g.textContent = formatINR(g22);
+                  el22t.textContent = formatINR(g22*10) + ' per 10g';
+                }
+                if (isFinite(g24)) {
+                  el24g.textContent = formatINR(g24);
+                  el24t.textContent = formatINR(g24*10) + ' per 10g';
+                }
+                if (isFinite(ag)) {
+                  elAg.textContent = formatINR(ag) + ' per gram';
+                }
+                const ts = d.updatedAt ? new Date(d.updatedAt*1000) : new Date();
+                updatedEl.textContent = 'Last updated: ' + ts.toLocaleString('en-IN', { timeZone: 'Asia/Kolkata' });
+              })
+              .catch(()=>{
+                errEl.style.display = 'block';
+                updatedEl.textContent = 'Unable to fetch live data';
+              });
+          });
+        }
+      })();
+    </script>
+
+    <script>
+      (function(){
+        // Mobile hamburger toggle robustness
+        document.addEventListener('DOMContentLoaded', function(){
+          var toggle = document.getElementById('menu-toggle-820');
+          var wrapper = document.getElementById('menubar-820');
+          if (!toggle || !wrapper) return;
+
+          function openMenu(){
+            toggle.setAttribute('aria-expanded','true');
+            wrapper.classList.add('e-n-menu-open');
+            wrapper.style.display = 'block';
+            document.body.style.overflow = 'hidden';
+          }
+          function closeMenu(){
+            toggle.setAttribute('aria-expanded','false');
+            wrapper.classList.remove('e-n-menu-open');
+            wrapper.style.display = '';
+            document.body.style.overflow = '';
+          }
+          function isOpen(){ return toggle.getAttribute('aria-expanded') === 'true'; }
+
+          toggle.addEventListener('click', function(e){
+            e.preventDefault();
+            isOpen() ? closeMenu() : openMenu();
+          });
+
+          // Close on escape
+          document.addEventListener('keydown', function(e){ if(e.key==='Escape' && isOpen()) closeMenu(); });
+
+          // Close when clicking outside
+          document.addEventListener('click', function(e){
+            if (!isOpen()) return;
+            var within = wrapper.contains(e.target) || toggle.contains(e.target);
+            if (!within) closeMenu();
+          });
+
+          // Submenu click handling is centralized below; no per-button toggles here
+        });
+      })();
+    </script>
+
+    <script>
+      (function(){
+        // Unified dropdown/dropup handling for Gold / Diamond / Collections / More
+        document.addEventListener('DOMContentLoaded', function(){
+          var wrapper = document.getElementById('menubar-820');
+          if (!wrapper) return;
+
+          function setActiveOnInner(innerElement, isActive){
+            if (!innerElement) return;
+            if (isActive) innerElement.classList.add('e-active');
+            else innerElement.classList.remove('e-active');
+          }
+
+          function closeAll(){
+            // Hide all wrappers and remove e-active from their inner containers
+            wrapper.querySelectorAll('.e-n-menu-content').forEach(function(wrap){
+              var inner = wrap.querySelector(':scope > .e-con');
+              setActiveOnInner(inner, false);
+              wrap.style.display = 'none';
+            });
+            // Reset all buttons
+            wrapper.querySelectorAll('.e-n-menu-dropdown-icon[aria-expanded]').forEach(function(b){
+              b.setAttribute('aria-expanded','false');
+              var openedIcon = b.querySelector('.e-n-menu-dropdown-icon-opened');
+              var closedIcon = b.querySelector('.e-n-menu-dropdown-icon-closed');
+              if (openedIcon) openedIcon.style.display = 'none';
+              if (closedIcon) closedIcon.style.display = '';
+            });
+          }
+
+          // Initialize wrappers hidden and above other elements
+          wrapper.querySelectorAll('.e-n-menu-content').forEach(function(wrap){
+            var inner = wrap.querySelector(':scope > .e-con');
+            setActiveOnInner(inner, false);
+            wrap.style.display='none';
+            wrap.style.zIndex = 1000;
+          });
+
+          wrapper.addEventListener('click', function(e){
+            var title = e.target.closest('.e-n-menu-title');
+            if (!title || !wrapper.contains(title)) return;
+
+            var button = title.querySelector('.e-n-menu-dropdown-icon');
+            var inner = null;
+            var wrap = null;
+
+            if (button && button.getAttribute('aria-controls')) {
+              inner = document.getElementById(button.getAttribute('aria-controls'));
+              if (inner) wrap = inner.closest('.e-n-menu-content');
+            }
+            // Fallback: locate wrapper by sibling, then inner by child
+            if (!wrap) {
+              var sib = title.parentElement ? title.parentElement.nextElementSibling : null;
+              while (sib && !sib.classList.contains('e-n-menu-content')) sib = sib.nextElementSibling;
+              wrap = sib || null;
+              if (wrap) inner = wrap.querySelector(':scope > .e-con');
+            }
+            if (!wrap || !inner) return;
+
+            // Prevent navigation if there is a dropdown
+            var anchor = title.querySelector('a.e-n-menu-title-container');
+            if (anchor) { e.preventDefault(); }
+            e.stopPropagation();
+
+            var isOpen = wrap.style.display !== 'none';
+            closeAll();
+            if (!isOpen) {
+              // Decide drop direction based on viewport space
+              var rect = title.getBoundingClientRect();
+              var spaceBelow = window.innerHeight - rect.bottom;
+              var spaceAbove = rect.top;
+              var preferDropUp = spaceBelow < 320 && spaceAbove > spaceBelow;
+
+              // Prepare wrapper positioning
+              wrap.style.position = 'fixed';
+              wrap.style.left = '50%';
+              wrap.style.transform = 'translate(-50%, 0)';
+              wrap.style.minWidth = rect.width + 'px';
+
+              // Temporarily show to measure height for dropup calculation
+              setActiveOnInner(inner, true);
+              wrap.style.visibility = 'hidden';
+              wrap.style.display = 'block';
+              var contentHeight = wrap.offsetHeight;
+              wrap.style.visibility = '';
+
+              if (preferDropUp) {
+                var topPos = Math.max(8, rect.top - contentHeight - 8);
+                wrap.style.top = topPos + 'px';
+              } else {
+                wrap.style.top = (rect.bottom + 8) + 'px';
+              }
+
+              if (button) {
+                button.setAttribute('aria-expanded','true');
+                var openedIcon = button.querySelector('.e-n-menu-dropdown-icon-opened');
+                var closedIcon = button.querySelector('.e-n-menu-dropdown-icon-closed');
+                if (openedIcon) openedIcon.style.display = '';
+                if (closedIcon) closedIcon.style.display = 'none';
+              }
+            }
+          });
+
+          // close on outside click / escape
+          document.addEventListener('click', function(ev){ if (!wrapper.contains(ev.target)) closeAll(); });
+          document.addEventListener('keydown', function(ev){ if (ev.key==='Escape') closeAll(); });
+        });
+      })();
+    </script>
