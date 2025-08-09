@@ -5,10 +5,10 @@ $path_parts = explode('/', trim($current_file, '/'));
 $depth = count($path_parts) - 1;
 
 // If we're in the root directory, don't add any path prefix
-if ($depth == 0) {
+if ($depth <= 1) {
     $base_path = "";
 } else {
-    $base_path = str_repeat('../', $depth);
+    $base_path = str_repeat('../', $depth - 1);
 }
 
 // Footer image paths
@@ -37,7 +37,7 @@ echo "<!-- Debug: Logo path: " . $logo_path . " -->";
 
 // Footer links
 $home_link = $base_path . "index.php";
-$gold_link = $base_path . "gold/index.php";
+$gold_link = $base_path . "gold/gold.php";
 $diamond_link = $base_path . "diamond/index.php";
 $about_link = $base_path . "about.php";
 $contact_link = $base_path . "contact.php";
@@ -57,7 +57,7 @@ $gallery_link = $base_path . "gallery.php";
                 <div class="footer-section">
                     <div class="footer-logo mb-3">
                         <a href="<?php echo $home_link; ?>">
-                            <img src="assets/emirats logo.jpg" 
+                            <img src="<?php echo $logo_path; ?>" 
                                  alt="Emirates Gold Logo" 
                                  style="max-height: 80px; width: auto; max-width: 200px; object-fit: contain; display: block; margin: 0 auto;">
                             <div style="display: none; color: #d4af37; font-size: 24px; font-weight: bold; text-align: center;">Emirates Gold</div>

@@ -676,19 +676,24 @@
 
 
 
-<body data-rsssl=1 class="wp-singular page-template-default page page-id-11578 wp-embed-responsive wp-theme-hello-elementor wp-child-theme-muliya-jewels theme-hello-elementor woocommerce-no-js hello-elementor-default elementor-default elementor-kit-7 elementor-page elementor-page-11578">
+<body data-rsssl=1 class="wp-singular page-template-default page page-id-11578 wp-embed-responsive wp-theme-hello-elementor wp-child-theme-muliya-jewels theme-hello-elementor woocommerce-no-js hello-elementor-default elementor-default elementor-kit-7 elementor-page ">
 
 
-           <?php include_once 'header.php'; ?>
+           <?php include_once __DIR__ . '/../header.php'; ?>
 
 
     <main id="content" class="site-main post-11578 page type-page status-publish hentry">
 
 
         <div class="page-content">
-            <div data-elementor-type="wp-page" data-elementor-id="11578" class="elementor elementor-11578" data-elementor-post-type="page">
-                <div class="elementor-element elementor-element-28bc1da e-flex e-con-boxed  e-con e-parent" data-id="28bc1da" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation_mobile&quot;:&quot;fadeIn&quot;,&quot;animation&quot;:&quot;fadeIn&quot;}">
+            <div data-elementor-type="wp-page" data-elementor-id="11578"  data-elementor-post-type="page">
+                <div class="elementor-element elementor-element-28bc1da e-flex e-con-boxed  e-con e-parent" data-id="28bc1da" data-element_type="container" >
                     <div class="e-con-inner">
+                    <?php
+                                                                            $amuliya_collection_path = $base_path . "assets/collection_menu/amuliya-Menu2.png";
+                                                                            ?>
+                                                                            <img loading="lazy" style="width:100%; height:auto; max-height:100vh; object-fit:cover; display:block;" src="<?php echo $amuliya_collection_path; ?>" alt="Amuliya Collection" /> </div>
+                                                                  
                     </div>
                 </div>
                 <div class="elementor-element elementor-element-541548e e-flex e-con-boxed e-con e-parent" data-id="541548e" data-element_type="container">
@@ -773,25 +778,33 @@ foreach ($valid_gold_tables as $table) {
 $sql = count($union_sql) > 0 ? implode(" UNION ALL ", $union_sql) . " ORDER BY id DESC LIMIT $limit OFFSET $offset" : '';
 $result = $sql ? $conn->query($sql) : false;
 
+// Compute base path relative to project root for assets/links
+$current_dir = dirname($_SERVER['SCRIPT_NAME']);
+$base_path = '';
+if ($current_dir && $current_dir !== '/') {
+    $depth = substr_count(trim($current_dir, '/'), '/');
+    $base_path = str_repeat('../', $depth);
+}
+
 // Map for detail pages
 $detail_pages = [
     // Diamond
-    'diamond_rings' => 'diamond/diamond_rings_product.php',
-    'diamond_bangles' => 'diamond/diamond_bangles_product.php',
-    'diamond_bracelets' => 'diamond/diamond_bracelets_product.php',
-    'diamond_earring' => 'diamond/diamond_earring_product.php',
-    'diamond_necklaces' => 'diamond/diamond_necklaces_product.php',
-    'diamond_pendants' => 'diamond/diamond_pendants_product.php',
+    'diamond_rings' => $base_path . 'diamond/diamond_rings_product.php',
+    'diamond_bangles' => $base_path . 'diamond/diamond_bangles_product.php',
+    'diamond_bracelets' => $base_path . 'diamond/diamond_bracelets_product.php',
+    'diamond_earring' => $base_path . 'diamond/diamond_earring_product.php',
+    'diamond_necklaces' => $base_path . 'diamond/diamond_necklaces_product.php',
+    'diamond_pendants' => $base_path . 'diamond/diamond_pendants_product.php',
     // Gold
-    'gold_rings' => 'gold/gold_rings_product.php',
-    'gold_bangles' => 'gold/gold_bangles_product.php',
-    'gold_bracelets' => 'gold/gold_bracelets_product.php',
-    'gold_earring' => 'gold/gold_earring_product.php',
-    'gold_necklaces' => 'gold/gold_necklaces_product.php',
-    'gold_pendants' => 'gold/gold_pendants_product.php'
+    'gold_rings' => $base_path . 'gold/gold_rings_product.php',
+    'gold_bangles' => $base_path . 'gold/gold_bangles_product.php',
+    'gold_bracelets' => $base_path . 'gold/gold_bracelets_product.php',
+    'gold_earring' => $base_path . 'gold/gold_earring_product.php',
+    'gold_necklaces' => $base_path . 'gold/gold_necklaces_product.php',
+    'gold_pendants' => $base_path . 'gold/gold_pendants_product.php'
 ];
 ?>
-  <?php include_once 'header.php'; ?>
+  <?php /* header already included above */ ?>
 
 
 
@@ -991,19 +1004,19 @@ $detail_pages = [
                     if (preg_match('/^https?:\/\//', $img)) {
                         $img_path = $img;
                     } elseif (strpos($source, 'diamond') !== false) {
-                        $img_path = 'diamond/' . ltrim($img, '/');
+                        $img_path = $base_path . 'diamond/' . ltrim($img, '/');
                     } elseif (strpos($source, 'gold') !== false) {
-                        $img_path = 'gold/' . ltrim($img, '/');
+                        $img_path = $base_path . 'gold/' . ltrim($img, '/');
                     } else {
-                        $img_path = $img;
+                        $img_path = $base_path . ltrim($img, '/');
                     }
                 } else {
                     // fallback placeholder
-                    $img_path = 'assets/no-image.png';
+                    $img_path = $base_path . 'assets/no-image.png';
                 }
         ?>
             <div class="product-card">
-                <img src="<?php echo htmlspecialchars($img_path); ?>" alt="<?php echo htmlspecialchars($row['name']); ?>" onerror="this.onerror=null;this.src='assets/no-image.png';">
+                <img src="<?php echo htmlspecialchars($img_path); ?>" alt="<?php echo htmlspecialchars($row['name']); ?>" onerror="this.onerror=null;this.src='<?php echo $base_path; ?>assets/no-image.png';">
                 <h3><?php echo htmlspecialchars($row['name']); ?></h3>
                 <div class="code">Code: <?php echo htmlspecialchars($row['code']); ?></div>
                 <div class="weight">Weight: <?php echo htmlspecialchars($row['weight']); ?></div>
@@ -1073,7 +1086,7 @@ $detail_pages = [
     </div>
     </main>
 
-         <?php include_once 'footer.php'; ?>
+         <?php include_once __DIR__ . '/../footer.php'; ?>
 
 
     <script type="speculationrules">
@@ -1975,26 +1988,7 @@ $detail_pages = [
             jQuery(".mj-header").addClass("sticky"); } lastScrollTop = st; }); });
 
     </script>
-    <script type="wphb-delay-type" data-wphb-type="text/javascript" async defer>
-        (function(w, d, s, o, f, js, fjs) {
-            w[o] =
-                w[o] ||
-                function() {
-                    (w[o].q = w[o].q || []).push(arguments);
-                };
-            (js = d.createElement(s)), (fjs = d.getElementsByTagName(s)[0]);
-            js.id = o;
-            js.src = f;
-            js.async = 1;
-            fjs.parentNode.insertBefore(js, fjs);
-        })(window, document, "script", "dt", "https://d3r49s2alut4u1.cloudfront.net/js/widget.js");
-        dt("init", {
-            crmWidgetId: "8b3aa74e-857f-419f-a9a9-11111bfb5749",
-            companyName: "Muliya Jewels",
-            companyLogoUrl: "https://muliya.in/wp-content/uploads/2022/01/Muliya-Logo-new-English-02-160x126.png",
-            phoneNumber: "918147030916"
-        });
-    </script>
+
     <!-- Event snippet for Muliya Purchase conversion page -->
     <script type="wphb-delay-type">
         gtag('event', 'conversion', { 'send_to': 'AW-873895533/rm8dCIax3toZEO2s2qAD', 'transaction_id': '' });

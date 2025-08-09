@@ -798,10 +798,39 @@
                             padding: 0 10px !important;
                         }
                     }
+                    
+                    .jewelry-education-blog {
+                        max-width: 800px;
+                        margin: 0 auto;
+                        padding: 20px;
+                        font-family: 'Segoe UI', sans-serif;
+                        line-height: 1.7;
+                        color: #333;
+                    }
+
+                    .jewelry-education-blog h2,
+                    .jewelry-education-blog h3 {
+                        color: #a67c00; /* gold tone */
+                    }
+
+                    .jewelry-education-blog ul,
+                    .jewelry-education-blog ol {
+                        padding-left: 20px;
+                        margin-bottom: 20px;
+                    }
+
+                    .jewelry-education-blog blockquote {
+                        border-left: 4px solid #a67c00;
+                        margin: 20px 0;
+                        padding-left: 15px;
+                        font-style: italic;
+                        color: #555;
+                    }
                 </style>
                 <div class="elementor-element elementor-element-b9d6448 elementor-widget elementor-widget-theme-post-content" data-id="b9d6448" data-element_type="widget" data-widget_type="theme-post-content.default">
                     <div class="elementor-widget-container">
-                         <h3>💎 Why Jewelry Education Matters:</h3>
+                        <div class="jewelry-education-blog">
+                         <h2>Why Jewelry Education Matters:</h2>
                         <p>Before buying jewelry, it’s important to know what you're investing in. With the variety of metals, gemstones, styles, and price points, making an informed decision can save you money and ensure you receive the highest quality. Our educational content helps both beginners and enthusiasts to:</p>
                         <ul>
                             <li>Avoid common mistakes when purchasing jewelry</li>
@@ -809,7 +838,7 @@
                             <li>Learn how to care for and maintain fine jewelry</li>
                             <li>Appreciate the craftsmanship and stories behind traditional and modern designs</li>
                         </ul>
-                        <h3>📚 Topics We Cover in Jewelry Education:</h3>
+                        <h2>Topics We Cover in Jewelry Education:</h2>
                         <ol>
                             <li><strong>Diamond Education: 4Cs Explained</strong><br>
                                 <ul>
@@ -861,7 +890,7 @@
                                 </ul>
                             </li>
                         </ol>
-                        <h3>✨ Who Should Read This Blog?</h3>
+                        <h2>Who Should Read This Blog?</h2>
                         <ul>
                             <li>First-time jewelry buyers</li>
                             <li>Wedding & engagement ring shoppers</li>
@@ -869,8 +898,11 @@
                             <li>Fashion enthusiasts and stylists</li>
                             <li>Anyone who loves understanding the story behind beautiful things</li>
                         </ul>
-                        <h3>🎯 Our Mission:</h3>
+                        <blockquote>
+                        <h2>Our Mission:</h2>
                         <p>To empower every jewelry lover with knowledge so you can buy, wear, and gift with confidence. No more guesswork, no more confusion — just sparkle with certainty.</p>
+                </blockquote>
+                    </div>
                     </div>
                 </div>
             </div>

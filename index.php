@@ -869,10 +869,10 @@ document.addEventListener('DOMContentLoaded', function() {
                             <div class="elementor-widget-container" >
                                 <div class="elementor-button-wrapper" >
                                     <a class="elementor-button elementor-button-link elementor-size-sm" style="background-color:#b28713" href="<?php echo 'about.php'; ?>">
-                        <span class="elementor-button-content-wrapper">
-                                    <span class="elementor-button-text">Discover More About Us</span>
-                    </span>
-                    </a>
+                                    <span class="elementor-button-content-wrapper">
+                                                <span class="elementor-button-text">Discover More About Us</span>
+                                </span>
+                                    </a>
                                 </div>
                             </div>
                         </div>
@@ -909,10 +909,10 @@ document.addEventListener('DOMContentLoaded', function() {
                                             <div class="elementor-widget-container">
                                                 <div class="elementor-button-wrapper">
                                                     <a class="elementor-button elementor-button-link elementor-size-sm" style="background-color:#b28713" href="<?php echo 'about.php'; ?>">
-                        <span class="elementor-button-content-wrapper">
-                                    <span class="elementor-button-text">Read More</span>
-                    </span>
-                    </a>
+                                                    <span class="elementor-button-content-wrapper">
+                                                                <span class="elementor-button-text">Read More</span>
+                                                </span>
+                                                </a>
                                                 </div>
                                             </div>
                                         </div>
@@ -952,11 +952,12 @@ document.addEventListener('DOMContentLoaded', function() {
   grid-template-columns: 1.5fr 1fr 1fr;
   grid-template-rows: 1fr 1fr;
   gap: 16px;
-  max-width: 100%;
-  width: 100%;
+  max-width: 90%;
+  width: 90%;
   margin: 0 auto;
   padding: 0;
   min-height: 400px;
+  box-sizing: border-box;
 }
 .diamond-showcase-item {
   position: relative;
@@ -1017,6 +1018,9 @@ document.addEventListener('DOMContentLoaded', function() {
     grid-template-columns: 1.2fr 1fr 1fr;
     gap: 10px;
     min-height: 260px;
+    width: 85%;
+    max-width: 85%;
+    padding: 0;
   }
   .diamond-showcase-item { min-height: 120px; border-radius: 10px; }
   .diamond-showcase-grid .diamond-showcase-item:first-child { min-height: 240px; }
@@ -1031,45 +1035,58 @@ document.addEventListener('DOMContentLoaded', function() {
     gap: 6px;
     padding: 0;
     min-height: 120px;
+    width: 90%;
+    max-width: 90%;
   }
   .diamond-showcase-item { min-height: 60px; }
   .diamond-showcase-grid .diamond-showcase-item:first-child { min-height: 110px; }
   .diamond-showcase-content { padding: 7px 5px 7px 8px; }
 }
+
+/* Desktop: Ensure full image display without cropping */
+@media (min-width: 1025px) {
+    .diamond-showcase-item img {
+        object-fit: cover;
+        object-position: center;
+        background: none;
+    }
+}
 </style>
 
-<section class="diamond-section section-width mb20" style="width: 100% !important; max-width: 100% !important; margin: 0 !important; padding: 0 !important; box-sizing: border-box;"></section>
-  <div class="section-heading" style="justify-items: center; width: 100% !important; max-width: 100% !important; margin: 0 auto; padding: 40px 20px 20px 20px;">
-                                            <h2 class="section-title festive-highlight" style="text-align:center; width:100%;">Diamond Jewellery</h2>
-                                            <p class="section-sub-text" style="text-align:center; width:100%;">Sparkle through the events with timeless diamonds</p>
-                                        </div>
-  <div class="diamond-showcase-grid" style="width: 100% !important; max-width: 100% !important;">
+<section class="diamond-section section-width mb20" style="width: 100% !important; max-width: 100% !important; margin: 0 !important; padding: 40px 0 !important; box-sizing: border-box; overflow-x: hidden;">
+  <div class="section-heading" style="justify-items: center; width: 80% !important; max-width: 80% !important; margin: 0 auto; padding: 0 0 40px 0;">
+    <h2 class="section-title festive-highlight" style="text-align:center; width:100%;">Diamond Jewellery</h2>
+    <p class="section-sub-text" style="text-align:center; width:100%;">Sparkle through the events with timeless diamonds</p>
+  </div>
+  <div class="diamond-showcase-grid" style="width: 80% !important; max-width: 80% !important;">
     <!-- Statement Necklaces (large) -->
     <div class="diamond-showcase-item">
       <img src="assets/diamond/diamond-necklace.jpg" alt="Statement Necklaces" />
-      
-                                            </div>
+     
+     
+    </div>
     <!-- Sleek Rings -->
     <div class="diamond-showcase-item">
       <img src="assets/diamond/diamond-ring.jpg" alt="Sleek Rings" />
-      
-                                        </div> 
+     
+    </div>
     <!-- Elegant Bangles -->
     <div class="diamond-showcase-item">
       <img src="assets/diamond/diamond-bangle.jpg" alt="Elegant Bangles" />
-     
-                                            </div>
+      
+    </div>
     <!-- Stunning Earrings -->
-    <div class="diamond-showcase-item">
+    <div class="diamond-showcase-item" style="margin-right:0px !important;">
       <img src="assets/diamond/diamond-earring.jpg" alt="Stunning Earrings" />
-     
-                                        </div>
+      
+      
+    </div>
     <!-- Stylish Mangalsutras -->
-    <div class="diamond-showcase-item">
+    <div class="diamond-showcase-item" style="margin-right:0px !important;">
       <img src="assets/diamond/diamond-mangalsutra.jpg" alt="Stylish Mangalsutras" />
       
-                                            </div>
-                                        </div>
+    </div>
+  </div>
    <div class="elementor-element elementor-element-8bec38c elementor-widget elementor-widget-button" style="margin-top: 50px;" data-id="8bec38c" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:100}"
                             data-widget_type="button.default">
                             <div class="elementor-widget-container">
@@ -1079,10 +1096,10 @@ document.addEventListener('DOMContentLoaded', function() {
                                     <span class="elementor-button-text">View All Collections</span>
                     </span>
                     </a>
-                                            </div>
-                                        </div>
-                                            </div>
-                                    </section>
+                                </div>
+                            </div>
+                        </div>
+</section>
 
                                     
                                 </div>
@@ -1187,9 +1204,9 @@ document.addEventListener('DOMContentLoaded', function() {
                             <div class="elementor-element elementor-element-f096abe elementor-widget__width-inherit elementor-widget elementor-widget-text-editor" data-id="f096abe" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:100}"
                                 data-widget_type="text-editor.default">
                                 <div class="elementor-widget-container">
-<p>Emirates Gold International is your trusted partner for exquisite bridal collections, specializing exclusively in gold and diamond products. Our curated selection features timeless designs and contemporary styles, crafted to make every bride shine on her special day.</p>
-<p>With a commitment to quality, authenticity, and exceptional service, Emirates Gold International ensures that your wedding jewellery is as unique and memorable as your celebration.</p>
-                                </div>
+                        <p>Emirates Gold International is your trusted partner for exquisite bridal collections, specializing exclusively in gold and diamond products. Our curated selection features timeless designs and contemporary styles, crafted to make every bride shine on her special day.</p>
+                        <p>With a commitment to quality, authenticity, and exceptional service, Emirates Gold International ensures that your wedding jewellery is as unique and memorable as your celebration.</p>
+                              </div>
                             </div>
                             <div class="elementor-element elementor-element-c15461d e-con-full e-flex e-con e-child" data-id="c15461d" data-element_type="container">
                                 <div class="elementor-element elementor-element-18facd2 elementor-widget elementor-widget-button" data-id="18facd2" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:200}"
@@ -1262,11 +1279,11 @@ document.addEventListener('DOMContentLoaded', function() {
                     </div>
                 </div>
 <!-- gift section -->
- <link rel="stylesheet" href="/css/bootstrap.min.css">     
-  <link rel="stylesheet" href="/css/common-mergeV1.min.css">  
-  <link rel="stylesheet" href="/css/custom-style.css">    
-  <link rel="stylesheet" href="/css/verticalmenu02.css">   
-  <link rel="stylesheet" href="/css/bootstrap-select.min.css">               
+<link rel="stylesheet" href="/css/bootstrap.min.css">     
+<link rel="stylesheet" href="/css/common-mergeV1.min.css">  
+<link rel="stylesheet" href="/css/custom-style.css">    
+<link rel="stylesheet" href="/css/verticalmenu02.css">   
+<link rel="stylesheet" href="/css/bootstrap-select.min.css">               
 
 <style>
 .gift-section {
@@ -1539,14 +1556,14 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 }
 </style>
-                            
-                            <div class="clear pb20">&nbsp;</div>
+
+<div class="clear pb20">&nbsp;</div>
 <div class="gift-section">
     <div class="container">
-                                        <div class="section-heading">
-                                            <h2 class="section-title">Gifting &amp; More</h2>
-                                            <p class="section-sub-text">Gifts that mark a moment</p>
-                                        </div>
+        <div class="section-heading">
+            <h2 class="section-title">Gifting &amp; More</h2>
+            <p class="section-sub-text">Gifts that mark a moment</p>
+        </div>
         
         <div class="gift-grid">
             <!-- Birthday -->
@@ -1557,7 +1574,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     </a>
                    
                 </figure>
-                                            </div>
+            </div>
             
             <!-- Anniversary -->
             <div class="gift-item">
@@ -1567,7 +1584,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     </a>
                    
                 </figure>
-                                            </div>
+            </div>
             
             <!-- Personalised Jewellery -->
             <div class="gift-item">
@@ -1577,7 +1594,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     </a>
                     
                 </figure>
-                                        </div>
+            </div>
             
             <!-- Baby Birth -->
             <div class="gift-item">
@@ -1587,7 +1604,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     </a>
                    
                 </figure>
-                                            </div>
+            </div>
             
             <!-- Festive collection -->
             <div class="gift-item">
@@ -1597,7 +1614,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     </a>
                     
                 </figure>
-                                            </div>
+            </div>
             
             <!-- Customized Jewellery -->
             <div class="gift-item">
@@ -1607,11 +1624,11 @@ document.addEventListener('DOMContentLoaded', function() {
                     </a>
                    
                 </figure>
-                                        </div>
-                                        </div>
-                                </div>
-                            </div>
- <!-- gift section end -->
+            </div>
+        </div>
+    </div>
+</div>
+<!-- gift section end -->
 
 
 
@@ -3167,7 +3184,30 @@ echo '<img loading="lazy" decoding="async" width="800" height="493" src="' . htm
             jQuery(".mj-header").addClass("sticky"); } lastScrollTop = st; }); });
 
     </script>
-   
+    <script type="wphb-delay-type" data-wphb-type="text/javascript" async defer>
+        (function(w, d, s, o, f, js, fjs) {
+            w[o] =
+                w[o] ||
+                function() {
+                    (w[o].q = w[o].q || []).push(arguments);
+                };
+            (js = d.createElement(s)), (fjs = d.getElementsByTagName(s)[0]);
+            js.id = o;
+            js.src = f;
+            js.async = 1;
+            fjs.parentNode.insertBefore(js, fjs);
+        })(window, document, "script", "dt", "https://d3r49s2alut4u1.cloudfront.net/js/widget.js");
+        dt("init", {
+            crmWidgetId: "8b3aa74e-857f-419f-a9a9-11111bfb5749",
+            companyName: "Muliya Jewels",
+            companyLogoUrl: "https://muliya.in/wp-content/uploads/2022/01/Muliya-Logo-new-English-02-160x126.png",
+            phoneNumber: "918147030916"
+        });
+    </script>
+    <!-- Event snippet for Muliya Purchase conversion page -->
+    <script type="wphb-delay-type">
+        gtag('event', 'conversion', { 'send_to': 'AW-873895533/rm8dCIax3toZEO2s2qAD', 'transaction_id': '' });
+    </script>
 
 </body>
 

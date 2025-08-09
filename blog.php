@@ -562,8 +562,24 @@
     <link rel="apple-touch-icon" href="https://muliya.in/wp-content/uploads/2025/04/muliya-favicon.png" />
     <meta name="msapplication-TileImage" content="https://muliya.in/wp-content/uploads/2025/04/muliya-favicon.png" />
     <style id="wp-custom-css">
+        /* Reset margins and padding */
+        /* * {
+            margin: 0px !important;
+            padding: 0px !important;
+        } 
+        
+        body {
+            margin: 0px !important;
+            padding: 0px !important;
+        }
+        
+          .elementor-widget-container {
+            margin: 0px !important;
+            
+            padding: 0px !important;
+        }
+        
         /* Header */
-
         .mj-mm-item {
             transition: .2s linear;
         }
@@ -595,7 +611,7 @@
                 </div>
             </div>
         </div>
-        <div class="elementor-element elementor-element-e2d210a e-flex e-con-boxed e-con e-parent" data-id="e2d210a" data-element_type="container">
+        <div class="elementor-element elementor-element-e2d210a e-flex e-con-boxed e-con e-parent" data-id="e2d210a" data-element_type="container" style="margin:0px; padding:0px;">
             <div class="e-con-inner">
                 <div class="elementor-element elementor-element-f5bdb96 elementor-grid-4 elementor-grid-tablet-2 elementor-grid-mobile-1 elementor-widget elementor-widget-loop-grid" data-id="f5bdb96" data-element_type="widget" data-settings="{&quot;template_id&quot;:&quot;2414&quot;,&quot;columns&quot;:4,&quot;columns_tablet&quot;:2,&quot;row_gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:100,&quot;sizes&quot;:[]},&quot;columns_mobile&quot;:1,&quot;pagination_type&quot;:&quot;numbers&quot;,&quot;pagination_load_type&quot;:&quot;ajax&quot;,&quot;row_gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:60,&quot;sizes&quot;:[]},&quot;row_gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:30,&quot;sizes&quot;:[]},&quot;_skin&quot;:&quot;post&quot;,&quot;edit_handle_selector&quot;:&quot;[data-elementor-type=\&quot;loop-item\&quot;]&quot;}"
                     data-widget_type="loop-grid.post">
@@ -748,14 +764,14 @@
                                         </div>
                                         <div class="elementor-element elementor-element-64e7e35 elementor-widget elementor-widget-heading" data-id="64e7e35" data-element_type="widget" data-widget_type="heading.default">
                                             <div class="elementor-widget-container">
-                                                <h3 class="elementor-heading-title elementor-size-default">Muliya Jewels Founder’s day – Social Responsibility on the path of Excellence</h3>
+                                                <h3 class="elementor-heading-title elementor-size-default">Akshaya Tritiya – A Golden Opportunity to Celebrate Prosperity &#8220;With Love&#8221;.</h3>
                                             </div>
                                         </div>
                                         <div class="elementor-element elementor-element-d1f3c3e e-con-full e-flex e-con e-child" data-id="d1f3c3e" data-element_type="container">
                                             <div class="elementor-element elementor-element-d8a3646 elementor-widget elementor-widget-button" data-id="d8a3646" data-element_type="widget" data-widget_type="button.default">
                                                 <div class="elementor-widget-container">
                                                     <div class="elementor-button-wrapper">
-                                                        <a class="elementor-button elementor-button-link elementor-size-sm" href="/muliya-jewels-founders-day-social-responsibility-on-the-path-of-excellence/index.html">
+                                                        <a class="elementor-button elementor-button-link elementor-size-sm" href="Blogs/Akshaya Tritiya.php">
                         <span class="elementor-button-content-wrapper">
                                     <span class="elementor-button-text">Read More</span>
                     </span>
@@ -776,8 +792,8 @@
 <?php
 $styling_img = 'assets/blog/Styling.png';
 $styling_srcset = 'assets/blog/Styling.png 800w, assets/blog/Styling.png 600w, assets/blog/Styling.png 300w, assets/blog/Styling.png 768w, assets/blog/Styling.png 1200w';
-echo '<div style="width:100%;display:flex;justify-content:center;align-items:center;margin-bottom:16px;">';
-echo '<img loading="lazy" width="320" height="200" src="' . htmlspecialchars($styling_img) . '" class="blog-img-standard" alt="Fashion & Styling Tips" srcset="' . htmlspecialchars($styling_srcset) . '" sizes="320px" style="width:320px;height:200px;object-fit:cover;object-position:center center;border-radius:10px;box-shadow:0 2px 12px rgba(0,0,0,0.08);background:#f3f3f3;display:block;" />';
+echo '<div style="width:100%;display:flex;justify-content:center;align-items:center;margin:0px;padding:0px;">';
+echo '<img loading="lazy" width="320" height="200" src="' . htmlspecialchars($styling_img) . '" class="blog-img-standard" alt="Fashion & Styling Tips" srcset="' . htmlspecialchars($styling_srcset) . '" sizes="320px" style="width:320px;height:200px;object-fit:cover;object-position:center center;border-radius:10px;box-shadow:0 2px 12px rgba(0,0,0,0.08);background:#f3f3f3;display:block;margin:0px;padding:0px;" />';
 echo '</div>';
 ?>
                                                      </div>
@@ -812,8 +828,8 @@ echo '</div>';
                                             <?php
                                             $behind_scenes_img = 'assets/blog/Behind-scenes.png';
                                             $behind_scenes_srcset = 'assets/blog/Behind-scenes.png 800w, assets/blog/Behind-scenes.png 600w, assets/blog/Behind-scenes.png 300w, assets/blog/Behind-scenes.png 768w, assets/blog/Behind-scenes.png 1200w';
-                                            echo '<div style="width:100%;display:flex;justify-content:center;align-items:center;margin-bottom:16px;">';
-                                            echo '<img loading="lazy" width="320" height="200" src="' . htmlspecialchars($behind_scenes_img) . '" class="blog-img-standard" alt="Behind the Scenes" srcset="' . htmlspecialchars($behind_scenes_srcset) . '" sizes="320px" style="width:320px;height:200px;object-fit:cover;object-position:center center;border-radius:10px;box-shadow:0 2px 12px rgba(0,0,0,0.08);background:#f3f3f3;display:block;" />';
+                                            echo '<div style="width:100%;display:flex;justify-content:center;align-items:center;margin:0px;padding:0px;">';
+                                            echo '<img loading="lazy" width="320" height="200" src="' . htmlspecialchars($behind_scenes_img) . '" class="blog-img-standard" alt="Behind the Scenes" srcset="' . htmlspecialchars($behind_scenes_srcset) . '" sizes="320px" style="width:320px;height:200px;object-fit:cover;object-position:center center;border-radius:10px;box-shadow:0 2px 12px rgba(0,0,0,0.08);background:#f3f3f3;display:block;margin:0px;padding:0px;" />';
                                             echo '</div>';
                                             ?>
                                         <div class="elementor-element elementor-element-64e7e35 elementor-widget elementor-widget-heading" data-id="64e7e35" data-element_type="widget" data-widget_type="heading.default">
@@ -825,11 +841,11 @@ echo '</div>';
                                             <div class="elementor-element elementor-element-d8a3646 elementor-widget elementor-widget-button" data-id="d8a3646" data-element_type="widget" data-widget_type="button.default">
                                                 <div class="elementor-widget-container">
                                                     <div class="elementor-button-wrapper">
-                                                        <a class="elementor-button elementor-button-link elementor-size-sm" href="Blogs/Behind-scences.php">
-                        <span class="elementor-button-content-wrapper">
-                                    <span class="elementor-button-text">Read More</span>
-                    </span>
-                    </a>
+                                                            <a class="elementor-button elementor-button-link elementor-size-sm" href="Blogs/Behind-scences.php">
+                                                            <span class="elementor-button-content-wrapper">
+                                                                        <span class="elementor-button-text">Read More</span>
+                                                        </span>
+                                                        </a>
                                                     </div>
                                                 </div>
                                             </div>

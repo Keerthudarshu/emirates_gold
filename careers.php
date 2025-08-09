@@ -6,7 +6,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="profile" href="https://gmpg.org/xfn/11">
-    <title>Careers | Muliya Gold &amp; Diamonds</title>
+    <title>Careers | Emirates Gold Internationals</title>
     <meta name='robots' content='max-image-preview:large' />
     <style>
         img:is([sizes="auto" i], [sizes^="auto," i]) {
@@ -16,8 +16,8 @@
     <link rel='dns-prefetch' href='//www.googletagmanager.com' />
     <link rel='dns-prefetch' href='//hb.wpmucdn.com' />
     <link href='//hb.wpmucdn.com' rel='preconnect' />
-    <link rel="alternate" type="application/rss+xml" title="Muliya Gold &amp; Diamonds &raquo; Feed" href="https://muliya.in/feed/" />
-    <link rel="alternate" type="application/rss+xml" title="Muliya Gold &amp; Diamonds &raquo; Comments Feed" href="https://muliya.in/comments/feed/" />
+    <link rel="alternate" type="application/rss+xml" title="Emirates Gold Internationals &raquo; Feed" href="https://muliya.in/feed/" />
+    <link rel="alternate" type="application/rss+xml" title="Emirates Gold Internationals &raquo; Comments Feed" href="https://muliya.in/comments/feed/" />
     <link rel='stylesheet' id='elementor-post-7-css' href='https://muliya.in/wp-content/uploads/elementor/css/post-7.css?ver=1754293754' media='all' />
     <link rel='stylesheet' id='elementor-post-11363-css' href='https://muliya.in/wp-content/uploads/elementor/css/post-11363.css?ver=1754297921' media='all' />
     <link rel='stylesheet' id='elementor-post-11154-css' href='https://muliya.in/wp-content/uploads/elementor/css/post-11154.css?ver=1754293760' media='all' />
@@ -547,7 +547,7 @@
                 "@type": "Organization",
                 "@id": "https:\/\/muliya.in\/#schema-publishing-organization",
                 "url": "https:\/\/muliya.in",
-                "name": "Muliya Gold &amp; Diamonds",
+                "name": "Emirates Gold Internationals",
                 "logo": {
                     "@type": "ImageObject",
                     "@id": "https:\/\/muliya.in\/#schema-organization-logo",
@@ -614,7 +614,7 @@
                 },
                 "dateModified": "2025-04-21T15:44:55",
                 "datePublished": "2025-04-16T13:33:50",
-                "headline": "Careers | Muliya Gold &amp; Diamonds",
+                "headline": "Careers | Emirates Gold Internationals",
                 "description": "Join the Team Behind Karnataka\u2019s Most Trusted Jewellery Brand Who We Are At Muliya \u2013 Gold &amp; Diamonds, we don\u2019t just make jewellery\u2014we make joy, trust, a ...",
                 "name": "Careers"
             }]
@@ -622,7 +622,7 @@
     </script>
     <meta property="og:type" content="article" />
     <meta property="og:url" content="https://muliya.in/careers/" />
-    <meta property="og:title" content="Careers | Muliya Gold &amp; Diamonds" />
+    <meta property="og:title" content="Careers | Emirates Gold Internationals" />
     <meta property="og:description" content="Join the Team Behind Karnataka’s Most Trusted Jewellery Brand Who We Are At Muliya – Gold &amp; Diamonds, we don’t just make jewellery—we make joy, trust, a ..." />
     <meta property="og:image" content="https://muliya.in/wp-content/uploads/2025/04/Career-background-image.png" />
     <meta property="og:image:width" content="673" />
@@ -630,7 +630,7 @@
     <meta property="article:published_time" content="2025-04-16T13:33:50" />
     <meta property="article:author" content="Developers" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Careers | Muliya Gold &amp; Diamonds" />
+    <meta name="twitter:title" content="Careers | Emirates Gold Internationals" />
     <meta name="twitter:description" content="Join the Team Behind Karnataka’s Most Trusted Jewellery Brand Who We Are At Muliya – Gold &amp; Diamonds, we don’t just make jewellery—we make joy, trust, a ..." />
     <meta name="twitter:image" content="https://muliya.in/wp-content/uploads/2025/04/Career-background-image.png" />
     <!-- /SEO -->
@@ -694,13 +694,13 @@
                     <div class="e-con-inner">
                         <div class="elementor-element elementor-element-0e944a5  elementor-widget elementor-widget-heading" data-id="0e944a5" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="heading.default">
                             <div class="elementor-widget-container">
-                                <h1 class="elementor-heading-title elementor-size-default">Careers</h1>
+                                <h1 class="elementor-heading-title elementor-size-default" style="color: #a67c00; font-weight: bold;">Careers</h1>
                             </div>
                         </div>
                         <div class="elementor-element elementor-element-f82388b elementor-widget__width-initial  elementor-widget elementor-widget-text-editor" data-id="f82388b" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}"
                             data-widget_type="text-editor.default">
                             <div class="elementor-widget-container">
-                                <p>Join the Team Behind Karnataka’s Most Trusted Jewellery Brand</p>
+                                <p>Join the Team Behind UAE’s Premier Luxury Jewelry Destination</p>
                             </div>
                         </div>
                     </div>
@@ -710,16 +710,16 @@
                         <div class="elementor-element elementor-element-e5d2cc8 e-con-full e-flex e-con e-child" data-id="e5d2cc8" data-element_type="container">
                             <div class="elementor-element elementor-element-185d7e9  elementor-widget elementor-widget-heading" data-id="185d7e9" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="heading.default">
                                 <div class="elementor-widget-container">
-                                    <h2 class="elementor-heading-title elementor-size-default">Who We Are
+                                    <h2 class="elementor-heading-title elementor-size-default" style="color: #a67c00; font-weight: bold;">Who We Are
                                     </h2>
                                 </div>
                             </div>
                             <div class="elementor-element elementor-element-e0c8345  elementor-widget elementor-widget-text-editor" data-id="e0c8345" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="text-editor.default">
                                 <div class="elementor-widget-container">
-                                    <p>At Muliya – Gold &amp; Diamonds, we don’t just make jewellery—we make joy, trust, and memories that last a lifetime.</p>
-                                    <p>Founded in 1944 and growing across Karnataka, we are on a mission to blend tradition with transformation. We’re building a team of passionate professionals—across design, retail, marketing, operations, and more—who
-                                        want to grow with a brand that values integrity, innovation, and people.</p>
-                                    <p>Whether you&#8217;re a fresher with curiosity or a professional with experience, <span style="color: #e92548; font-weight: bold;">your journey can start here.</span></p>
+                                    <p>At Emirates Gold Internationals, we don’t just craft jewellery — we create moments of elegance, trust, and memories that shine for a lifetime.</p>
+                                    <p>Founded with a vision to bring unmatched quality and craftsmanship to the world, we have grown into a symbol of luxury and reliability across the UAE and beyond. Our mission is to blend rich tradition with modern innovation.</p>
+                                    <p>We’re building a team of passionate professionals — across design, retail, marketing, operations, and more — who want to grow with a brand that values integrity, creativity, and excellence.</p>
+                                    <p>Whether you’re a fresher ready to explore or an experienced professional looking for your next milestone, <span style="color: #a67c00; font-weight: bold;">your journey can begin here.</span></p>
                                 </div>
                             </div>
                         </div>
@@ -737,13 +737,13 @@
                         <div class="elementor-element elementor-element-dbbd161 e-con-full e-flex e-con e-child" data-id="dbbd161" data-element_type="container" data-settings="{&quot;sticky&quot;:&quot;top&quot;,&quot;sticky_offset&quot;:70,&quot;sticky_parent&quot;:&quot;yes&quot;,&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;],&quot;sticky_offset_tablet&quot;:120,&quot;sticky_effects_offset&quot;:0,&quot;sticky_anchor_link_offset&quot;:0}">
                             <div class="elementor-element elementor-element-4a461c3  elementor-widget elementor-widget-heading" data-id="4a461c3" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="heading.default">
                                 <div class="elementor-widget-container">
-                                    <h2 class="elementor-heading-title elementor-size-default">Why work with us?
+                                    <h2 class="elementor-heading-title elementor-size-default" style="color: #a67c00; font-weight: bold;">Why work with us?
                                     </h2>
                                 </div>
                             </div>
                             <div class="elementor-element elementor-element-60af6ee  elementor-widget elementor-widget-text-editor" data-id="60af6ee" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="text-editor.default">
                                 <div class="elementor-widget-container">
-                                    <p>At Muliya, we invest not just in skills—but in happiness, purpose, and long-term growth. Here&#8217;s what makes a career with us truly rewarding:</p>
+                                    <p>At Emirates Gold Internationals, we invest not just in skills — but in happiness, purpose, and long-term success. Here’s what makes a career with us truly rewarding:</p>
                                 </div>
                             </div>
                         </div>
@@ -752,7 +752,7 @@
                                 <div class="elementor-element elementor-element-e1abd5f e-con-full e-flex e-con e-child" data-id="e1abd5f" data-element_type="container">
                                     <div class="elementor-element elementor-element-e8c4e5a elementor-widget elementor-widget-heading" data-id="e8c4e5a" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="heading.default">
                                         <div class="elementor-widget-container">
-                                            <h3 class="elementor-heading-title elementor-size-default">Growth &amp; Development</h3>
+                                            <h3 class="elementor-heading-title elementor-size-default" style="color: #a67c00; font-weight: bold;">Growth &amp; Development</h3>
                                         </div>
                                     </div>
                                     <div class="elementor-element elementor-element-04cca5e elementor-widget__width-initial elementor-icon-list--layout-traditional elementor-list-item-link-full_width  elementor-widget elementor-widget-icon-list" data-id="04cca5e" data-element_type="widget"
@@ -762,17 +762,17 @@
                                                 <li class="elementor-icon-list-item">
                                                     <span class="elementor-icon-list-icon">
 							<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M8.75227 14.2299L8.39039 15.7038C8.3756 15.7816 8.32983 15.8586 8.26787 15.9208C8.20662 15.983 8.11369 15.9986 8.03694 16C7.9602 16.0007 7.86726 15.9696 7.8046 15.9236C7.74264 15.8777 7.69617 15.8006 7.68068 15.7073L7.2864 14.2384C6.95479 12.9087 6.25424 11.6886 5.27699 10.7187C4.29975 9.74817 3.09227 9.05752 1.76299 8.74083L0.295005 8.37749C0.217557 8.36264 0.140813 8.31598 0.0788553 8.25448C0.0168973 8.19298 0.00140814 8.10038 0 8.02262C0 7.93002 0.0302761 7.85226 0.0760406 7.78934C0.137295 7.72714 0.198548 7.68048 0.291485 7.66493L1.75454 7.28532C3.0796 6.93682 4.29482 6.2483 5.26151 5.26642C6.22819 4.28524 6.89917 3.05736 7.23149 1.72343L7.60887 0.296203C7.62436 0.218444 7.67012 0.141393 7.73137 0.0791854C7.79263 0.0169781 7.88557 0.00142561 7.96231 1.1805e-05C8.03906 -0.000695095 8.13199 0.0304086 8.19465 0.0763571C8.25661 0.122306 8.30308 0.199359 8.31998 0.292669L8.69876 1.76161C9.03038 3.09129 9.73093 4.3114 10.7082 5.28126C11.6854 6.25184 12.9084 6.94106 14.237 7.25917L15.7049 7.62252C15.7817 7.63736 15.8591 7.68402 15.9211 7.74552C15.9831 7.80702 15.9985 7.89962 16 7.97738C16.0014 8.05514 15.9697 8.14774 15.9239 8.21066C15.8627 8.27286 15.8007 8.31952 15.7085 8.33507L14.2454 8.71468C12.9211 9.04763 11.7058 9.73615 10.7539 10.7173C9.77177 11.683 9.0853 12.9108 8.75227 14.2299Z" fill="#E92247"></path></svg>						</span>
-                                                    <span class="elementor-icon-list-text">Ongoing training and development programs</span>
+                                                    <span class="elementor-icon-list-text">Continuous training and skill enhancement programs</span>
                                                 </li>
                                                 <li class="elementor-icon-list-item">
                                                     <span class="elementor-icon-list-icon">
 							<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M8.75227 14.2299L8.39039 15.7038C8.3756 15.7816 8.32983 15.8586 8.26787 15.9208C8.20662 15.983 8.11369 15.9986 8.03694 16C7.9602 16.0007 7.86726 15.9696 7.8046 15.9236C7.74264 15.8777 7.69617 15.8006 7.68068 15.7073L7.2864 14.2384C6.95479 12.9087 6.25424 11.6886 5.27699 10.7187C4.29975 9.74817 3.09227 9.05752 1.76299 8.74083L0.295005 8.37749C0.217557 8.36264 0.140813 8.31598 0.0788553 8.25448C0.0168973 8.19298 0.00140814 8.10038 0 8.02262C0 7.93002 0.0302761 7.85226 0.0760406 7.78934C0.137295 7.72714 0.198548 7.68048 0.291485 7.66493L1.75454 7.28532C3.0796 6.93682 4.29482 6.2483 5.26151 5.26642C6.22819 4.28524 6.89917 3.05736 7.23149 1.72343L7.60887 0.296203C7.62436 0.218444 7.67012 0.141393 7.73137 0.0791854C7.79263 0.0169781 7.88557 0.00142561 7.96231 1.1805e-05C8.03906 -0.000695095 8.13199 0.0304086 8.19465 0.0763571C8.25661 0.122306 8.30308 0.199359 8.31998 0.292669L8.69876 1.76161C9.03038 3.09129 9.73093 4.3114 10.7082 5.28126C11.6854 6.25184 12.9084 6.94106 14.237 7.25917L15.7049 7.62252C15.7817 7.63736 15.8591 7.68402 15.9211 7.74552C15.9831 7.80702 15.9985 7.89962 16 7.97738C16.0014 8.05514 15.9697 8.14774 15.9239 8.21066C15.8627 8.27286 15.8007 8.31952 15.7085 8.33507L14.2454 8.71468C12.9211 9.04763 11.7058 9.73615 10.7539 10.7173C9.77177 11.683 9.0853 12.9108 8.75227 14.2299Z" fill="#E92247"></path></svg>						</span>
-                                                    <span class="elementor-icon-list-text">Internal promotions and leadership-building opportunities</span>
+                                                    <span class="elementor-icon-list-text">Leadership-building and promotion opportunities</span>
                                                 </li>
                                                 <li class="elementor-icon-list-item">
                                                     <span class="elementor-icon-list-icon">
 							<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M8.75227 14.2299L8.39039 15.7038C8.3756 15.7816 8.32983 15.8586 8.26787 15.9208C8.20662 15.983 8.11369 15.9986 8.03694 16C7.9602 16.0007 7.86726 15.9696 7.8046 15.9236C7.74264 15.8777 7.69617 15.8006 7.68068 15.7073L7.2864 14.2384C6.95479 12.9087 6.25424 11.6886 5.27699 10.7187C4.29975 9.74817 3.09227 9.05752 1.76299 8.74083L0.295005 8.37749C0.217557 8.36264 0.140813 8.31598 0.0788553 8.25448C0.0168973 8.19298 0.00140814 8.10038 0 8.02262C0 7.93002 0.0302761 7.85226 0.0760406 7.78934C0.137295 7.72714 0.198548 7.68048 0.291485 7.66493L1.75454 7.28532C3.0796 6.93682 4.29482 6.2483 5.26151 5.26642C6.22819 4.28524 6.89917 3.05736 7.23149 1.72343L7.60887 0.296203C7.62436 0.218444 7.67012 0.141393 7.73137 0.0791854C7.79263 0.0169781 7.88557 0.00142561 7.96231 1.1805e-05C8.03906 -0.000695095 8.13199 0.0304086 8.19465 0.0763571C8.25661 0.122306 8.30308 0.199359 8.31998 0.292669L8.69876 1.76161C9.03038 3.09129 9.73093 4.3114 10.7082 5.28126C11.6854 6.25184 12.9084 6.94106 14.237 7.25917L15.7049 7.62252C15.7817 7.63736 15.8591 7.68402 15.9211 7.74552C15.9831 7.80702 15.9985 7.89962 16 7.97738C16.0014 8.05514 15.9697 8.14774 15.9239 8.21066C15.8627 8.27286 15.8007 8.31952 15.7085 8.33507L14.2454 8.71468C12.9211 9.04763 11.7058 9.73615 10.7539 10.7173C9.77177 11.683 9.0853 12.9108 8.75227 14.2299Z" fill="#E92247"></path></svg>						</span>
-                                                    <span class="elementor-icon-list-text">Mentoring from industry experts</span>
+                                                    <span class="elementor-icon-list-text">Mentorship from industry leaders and master craftsmen</span>
                                                 </li>
                                             </ul>
                                         </div>
@@ -781,7 +781,7 @@
                                 <div class="elementor-element elementor-element-b0c3ea7 e-con-full e-flex e-con e-child" data-id="b0c3ea7" data-element_type="container">
                                     <div class="elementor-element elementor-element-c16d95b  elementor-widget elementor-widget-heading" data-id="c16d95b" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="heading.default">
                                         <div class="elementor-widget-container">
-                                            <h3 class="elementor-heading-title elementor-size-default">Rewards &amp; Recognition</h3>
+                                            <h3 class="elementor-heading-title elementor-size-default" style="color: #a67c00; font-weight: bold;">Rewards &amp; Recognition</h3>
                                         </div>
                                     </div>
                                     <div class="elementor-element elementor-element-cb6b597 elementor-widget__width-initial elementor-icon-list--layout-traditional elementor-list-item-link-full_width  elementor-widget elementor-widget-icon-list" data-id="cb6b597" data-element_type="widget"
@@ -791,17 +791,17 @@
                                                 <li class="elementor-icon-list-item">
                                                     <span class="elementor-icon-list-icon">
 							<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M8.75227 14.2299L8.39039 15.7038C8.3756 15.7816 8.32983 15.8586 8.26787 15.9208C8.20662 15.983 8.11369 15.9986 8.03694 16C7.9602 16.0007 7.86726 15.9696 7.8046 15.9236C7.74264 15.8777 7.69617 15.8006 7.68068 15.7073L7.2864 14.2384C6.95479 12.9087 6.25424 11.6886 5.27699 10.7187C4.29975 9.74817 3.09227 9.05752 1.76299 8.74083L0.295005 8.37749C0.217557 8.36264 0.140813 8.31598 0.0788553 8.25448C0.0168973 8.19298 0.00140814 8.10038 0 8.02262C0 7.93002 0.0302761 7.85226 0.0760406 7.78934C0.137295 7.72714 0.198548 7.68048 0.291485 7.66493L1.75454 7.28532C3.0796 6.93682 4.29482 6.2483 5.26151 5.26642C6.22819 4.28524 6.89917 3.05736 7.23149 1.72343L7.60887 0.296203C7.62436 0.218444 7.67012 0.141393 7.73137 0.0791854C7.79263 0.0169781 7.88557 0.00142561 7.96231 1.1805e-05C8.03906 -0.000695095 8.13199 0.0304086 8.19465 0.0763571C8.25661 0.122306 8.30308 0.199359 8.31998 0.292669L8.69876 1.76161C9.03038 3.09129 9.73093 4.3114 10.7082 5.28126C11.6854 6.25184 12.9084 6.94106 14.237 7.25917L15.7049 7.62252C15.7817 7.63736 15.8591 7.68402 15.9211 7.74552C15.9831 7.80702 15.9985 7.89962 16 7.97738C16.0014 8.05514 15.9697 8.14774 15.9239 8.21066C15.8627 8.27286 15.8007 8.31952 15.7085 8.33507L14.2454 8.71468C12.9211 9.04763 11.7058 9.73615 10.7539 10.7173C9.77177 11.683 9.0853 12.9108 8.75227 14.2299Z" fill="#E92247"></path></svg>						</span>
-                                                    <span class="elementor-icon-list-text">Attractive salary and benefits</span>
+                                                    <span class="elementor-icon-list-text">Competitive salary packages and benefits</span>
                                                 </li>
                                                 <li class="elementor-icon-list-item">
                                                     <span class="elementor-icon-list-icon">
 							<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M8.75227 14.2299L8.39039 15.7038C8.3756 15.7816 8.32983 15.8586 8.26787 15.9208C8.20662 15.983 8.11369 15.9986 8.03694 16C7.9602 16.0007 7.86726 15.9696 7.8046 15.9236C7.74264 15.8777 7.69617 15.8006 7.68068 15.7073L7.2864 14.2384C6.95479 12.9087 6.25424 11.6886 5.27699 10.7187C4.29975 9.74817 3.09227 9.05752 1.76299 8.74083L0.295005 8.37749C0.217557 8.36264 0.140813 8.31598 0.0788553 8.25448C0.0168973 8.19298 0.00140814 8.10038 0 8.02262C0 7.93002 0.0302761 7.85226 0.0760406 7.78934C0.137295 7.72714 0.198548 7.68048 0.291485 7.66493L1.75454 7.28532C3.0796 6.93682 4.29482 6.2483 5.26151 5.26642C6.22819 4.28524 6.89917 3.05736 7.23149 1.72343L7.60887 0.296203C7.62436 0.218444 7.67012 0.141393 7.73137 0.0791854C7.79263 0.0169781 7.88557 0.00142561 7.96231 1.1805e-05C8.03906 -0.000695095 8.13199 0.0304086 8.19465 0.0763571C8.25661 0.122306 8.30308 0.199359 8.31998 0.292669L8.69876 1.76161C9.03038 3.09129 9.73093 4.3114 10.7082 5.28126C11.6854 6.25184 12.9084 6.94106 14.237 7.25917L15.7049 7.62252C15.7817 7.63736 15.8591 7.68402 15.9211 7.74552C15.9831 7.80702 15.9985 7.89962 16 7.97738C16.0014 8.05514 15.9697 8.14774 15.9239 8.21066C15.8627 8.27286 15.8007 8.31952 15.7085 8.33507L14.2454 8.71468C12.9211 9.04763 11.7058 9.73615 10.7539 10.7173C9.77177 11.683 9.0853 12.9108 8.75227 14.2299Z" fill="#E92247"></path></svg>						</span>
-                                                    <span class="elementor-icon-list-text">Performance-linked incentives</span>
+                                                    <span class="elementor-icon-list-text">Performance-based incentives</span>
                                                 </li>
                                                 <li class="elementor-icon-list-item">
                                                     <span class="elementor-icon-list-icon">
 							<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M8.75227 14.2299L8.39039 15.7038C8.3756 15.7816 8.32983 15.8586 8.26787 15.9208C8.20662 15.983 8.11369 15.9986 8.03694 16C7.9602 16.0007 7.86726 15.9696 7.8046 15.9236C7.74264 15.8777 7.69617 15.8006 7.68068 15.7073L7.2864 14.2384C6.95479 12.9087 6.25424 11.6886 5.27699 10.7187C4.29975 9.74817 3.09227 9.05752 1.76299 8.74083L0.295005 8.37749C0.217557 8.36264 0.140813 8.31598 0.0788553 8.25448C0.0168973 8.19298 0.00140814 8.10038 0 8.02262C0 7.93002 0.0302761 7.85226 0.0760406 7.78934C0.137295 7.72714 0.198548 7.68048 0.291485 7.66493L1.75454 7.28532C3.0796 6.93682 4.29482 6.2483 5.26151 5.26642C6.22819 4.28524 6.89917 3.05736 7.23149 1.72343L7.60887 0.296203C7.62436 0.218444 7.67012 0.141393 7.73137 0.0791854C7.79263 0.0169781 7.88557 0.00142561 7.96231 1.1805e-05C8.03906 -0.000695095 8.13199 0.0304086 8.19465 0.0763571C8.25661 0.122306 8.30308 0.199359 8.31998 0.292669L8.69876 1.76161C9.03038 3.09129 9.73093 4.3114 10.7082 5.28126C11.6854 6.25184 12.9084 6.94106 14.237 7.25917L15.7049 7.62252C15.7817 7.63736 15.8591 7.68402 15.9211 7.74552C15.9831 7.80702 15.9985 7.89962 16 7.97738C16.0014 8.05514 15.9697 8.14774 15.9239 8.21066C15.8627 8.27286 15.8007 8.31952 15.7085 8.33507L14.2454 8.71468C12.9211 9.04763 11.7058 9.73615 10.7539 10.7173C9.77177 11.683 9.0853 12.9108 8.75227 14.2299Z" fill="#E92247"></path></svg>						</span>
-                                                    <span class="elementor-icon-list-text">Awards for excellence and long-term service</span>
+                                                    <span class="elementor-icon-list-text">Excellence awards and loyalty recognition programs</span>
                                                 </li>
                                             </ul>
                                         </div>
@@ -810,7 +810,7 @@
                                 <div class="elementor-element elementor-element-1c62346 e-con-full e-flex e-con e-child" data-id="1c62346" data-element_type="container">
                                     <div class="elementor-element elementor-element-fbac400  elementor-widget elementor-widget-heading" data-id="fbac400" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="heading.default">
                                         <div class="elementor-widget-container">
-                                            <h3 class="elementor-heading-title elementor-size-default">Employee Welfare
+                                            <h3 class="elementor-heading-title elementor-size-default" style="color: #a67c00; font-weight: bold;">Employee Welfare
                                             </h3>
                                         </div>
                                     </div>
@@ -821,17 +821,17 @@
                                                 <li class="elementor-icon-list-item">
                                                     <span class="elementor-icon-list-icon">
 							<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M8.75227 14.2299L8.39039 15.7038C8.3756 15.7816 8.32983 15.8586 8.26787 15.9208C8.20662 15.983 8.11369 15.9986 8.03694 16C7.9602 16.0007 7.86726 15.9696 7.8046 15.9236C7.74264 15.8777 7.69617 15.8006 7.68068 15.7073L7.2864 14.2384C6.95479 12.9087 6.25424 11.6886 5.27699 10.7187C4.29975 9.74817 3.09227 9.05752 1.76299 8.74083L0.295005 8.37749C0.217557 8.36264 0.140813 8.31598 0.0788553 8.25448C0.0168973 8.19298 0.00140814 8.10038 0 8.02262C0 7.93002 0.0302761 7.85226 0.0760406 7.78934C0.137295 7.72714 0.198548 7.68048 0.291485 7.66493L1.75454 7.28532C3.0796 6.93682 4.29482 6.2483 5.26151 5.26642C6.22819 4.28524 6.89917 3.05736 7.23149 1.72343L7.60887 0.296203C7.62436 0.218444 7.67012 0.141393 7.73137 0.0791854C7.79263 0.0169781 7.88557 0.00142561 7.96231 1.1805e-05C8.03906 -0.000695095 8.13199 0.0304086 8.19465 0.0763571C8.25661 0.122306 8.30308 0.199359 8.31998 0.292669L8.69876 1.76161C9.03038 3.09129 9.73093 4.3114 10.7082 5.28126C11.6854 6.25184 12.9084 6.94106 14.237 7.25917L15.7049 7.62252C15.7817 7.63736 15.8591 7.68402 15.9211 7.74552C15.9831 7.80702 15.9985 7.89962 16 7.97738C16.0014 8.05514 15.9697 8.14774 15.9239 8.21066C15.8627 8.27286 15.8007 8.31952 15.7085 8.33507L14.2454 8.71468C12.9211 9.04763 11.7058 9.73615 10.7539 10.7173C9.77177 11.683 9.0853 12.9108 8.75227 14.2299Z" fill="#E92247"></path></svg>						</span>
-                                                    <span class="elementor-icon-list-text">Free accommodation for eligible staff</span>
+                                                    <span class="elementor-icon-list-text">Accommodation support for eligible staff</span>
                                                 </li>
                                                 <li class="elementor-icon-list-item">
                                                     <span class="elementor-icon-list-icon">
 							<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M8.75227 14.2299L8.39039 15.7038C8.3756 15.7816 8.32983 15.8586 8.26787 15.9208C8.20662 15.983 8.11369 15.9986 8.03694 16C7.9602 16.0007 7.86726 15.9696 7.8046 15.9236C7.74264 15.8777 7.69617 15.8006 7.68068 15.7073L7.2864 14.2384C6.95479 12.9087 6.25424 11.6886 5.27699 10.7187C4.29975 9.74817 3.09227 9.05752 1.76299 8.74083L0.295005 8.37749C0.217557 8.36264 0.140813 8.31598 0.0788553 8.25448C0.0168973 8.19298 0.00140814 8.10038 0 8.02262C0 7.93002 0.0302761 7.85226 0.0760406 7.78934C0.137295 7.72714 0.198548 7.68048 0.291485 7.66493L1.75454 7.28532C3.0796 6.93682 4.29482 6.2483 5.26151 5.26642C6.22819 4.28524 6.89917 3.05736 7.23149 1.72343L7.60887 0.296203C7.62436 0.218444 7.67012 0.141393 7.73137 0.0791854C7.79263 0.0169781 7.88557 0.00142561 7.96231 1.1805e-05C8.03906 -0.000695095 8.13199 0.0304086 8.19465 0.0763571C8.25661 0.122306 8.30308 0.199359 8.31998 0.292669L8.69876 1.76161C9.03038 3.09129 9.73093 4.3114 10.7082 5.28126C11.6854 6.25184 12.9084 6.94106 14.237 7.25917L15.7049 7.62252C15.7817 7.63736 15.8591 7.68402 15.9211 7.74552C15.9831 7.80702 15.9985 7.89962 16 7.97738C16.0014 8.05514 15.9697 8.14774 15.9239 8.21066C15.8627 8.27286 15.8007 8.31952 15.7085 8.33507L14.2454 8.71468C12.9211 9.04763 11.7058 9.73615 10.7539 10.7173C9.77177 11.683 9.0853 12.9108 8.75227 14.2299Z" fill="#E92247"></path></svg>						</span>
-                                                    <span class="elementor-icon-list-text">Childcare support facilities at key locations</span>
+                                                    <span class="elementor-icon-list-text">Family benefits and childcare assistance at select locations</span>
                                                 </li>
                                                 <li class="elementor-icon-list-item">
                                                     <span class="elementor-icon-list-icon">
 							<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M8.75227 14.2299L8.39039 15.7038C8.3756 15.7816 8.32983 15.8586 8.26787 15.9208C8.20662 15.983 8.11369 15.9986 8.03694 16C7.9602 16.0007 7.86726 15.9696 7.8046 15.9236C7.74264 15.8777 7.69617 15.8006 7.68068 15.7073L7.2864 14.2384C6.95479 12.9087 6.25424 11.6886 5.27699 10.7187C4.29975 9.74817 3.09227 9.05752 1.76299 8.74083L0.295005 8.37749C0.217557 8.36264 0.140813 8.31598 0.0788553 8.25448C0.0168973 8.19298 0.00140814 8.10038 0 8.02262C0 7.93002 0.0302761 7.85226 0.0760406 7.78934C0.137295 7.72714 0.198548 7.68048 0.291485 7.66493L1.75454 7.28532C3.0796 6.93682 4.29482 6.2483 5.26151 5.26642C6.22819 4.28524 6.89917 3.05736 7.23149 1.72343L7.60887 0.296203C7.62436 0.218444 7.67012 0.141393 7.73137 0.0791854C7.79263 0.0169781 7.88557 0.00142561 7.96231 1.1805e-05C8.03906 -0.000695095 8.13199 0.0304086 8.19465 0.0763571C8.25661 0.122306 8.30308 0.199359 8.31998 0.292669L8.69876 1.76161C9.03038 3.09129 9.73093 4.3114 10.7082 5.28126C11.6854 6.25184 12.9084 6.94106 14.237 7.25917L15.7049 7.62252C15.7817 7.63736 15.8591 7.68402 15.9211 7.74552C15.9831 7.80702 15.9985 7.89962 16 7.97738C16.0014 8.05514 15.9697 8.14774 15.9239 8.21066C15.8627 8.27286 15.8007 8.31952 15.7085 8.33507L14.2454 8.71468C12.9211 9.04763 11.7058 9.73615 10.7539 10.7173C9.77177 11.683 9.0853 12.9108 8.75227 14.2299Z" fill="#E92247"></path></svg>						</span>
-                                                    <span class="elementor-icon-list-text">Supportive, respectful, and inclusive work environment</span>
+                                                    <span class="elementor-icon-list-text">Safe, respectful, and inclusive workplace culture</span>
                                                 </li>
                                             </ul>
                                         </div>
@@ -840,7 +840,7 @@
                                 <div class="elementor-element elementor-element-aa57d62 e-con-full e-flex e-con e-child" data-id="aa57d62" data-element_type="container">
                                     <div class="elementor-element elementor-element-ac08afd  elementor-widget elementor-widget-heading" data-id="ac08afd" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="heading.default">
                                         <div class="elementor-widget-container">
-                                            <h3 class="elementor-heading-title elementor-size-default">Culture &amp; Engagement
+                                            <h3 class="elementor-heading-title elementor-size-default" style="color: #a67c00; font-weight: bold;">Culture &amp; Engagement
                                             </h3>
                                         </div>
                                     </div>
@@ -851,7 +851,7 @@
                                                 <li class="elementor-icon-list-item">
                                                     <span class="elementor-icon-list-icon">
 							<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M8.75227 14.2299L8.39039 15.7038C8.3756 15.7816 8.32983 15.8586 8.26787 15.9208C8.20662 15.983 8.11369 15.9986 8.03694 16C7.9602 16.0007 7.86726 15.9696 7.8046 15.9236C7.74264 15.8777 7.69617 15.8006 7.68068 15.7073L7.2864 14.2384C6.95479 12.9087 6.25424 11.6886 5.27699 10.7187C4.29975 9.74817 3.09227 9.05752 1.76299 8.74083L0.295005 8.37749C0.217557 8.36264 0.140813 8.31598 0.0788553 8.25448C0.0168973 8.19298 0.00140814 8.10038 0 8.02262C0 7.93002 0.0302761 7.85226 0.0760406 7.78934C0.137295 7.72714 0.198548 7.68048 0.291485 7.66493L1.75454 7.28532C3.0796 6.93682 4.29482 6.2483 5.26151 5.26642C6.22819 4.28524 6.89917 3.05736 7.23149 1.72343L7.60887 0.296203C7.62436 0.218444 7.67012 0.141393 7.73137 0.0791854C7.79263 0.0169781 7.88557 0.00142561 7.96231 1.1805e-05C8.03906 -0.000695095 8.13199 0.0304086 8.19465 0.0763571C8.25661 0.122306 8.30308 0.199359 8.31998 0.292669L8.69876 1.76161C9.03038 3.09129 9.73093 4.3114 10.7082 5.28126C11.6854 6.25184 12.9084 6.94106 14.237 7.25917L15.7049 7.62252C15.7817 7.63736 15.8591 7.68402 15.9211 7.74552C15.9831 7.80702 15.9985 7.89962 16 7.97738C16.0014 8.05514 15.9697 8.14774 15.9239 8.21066C15.8627 8.27286 15.8007 8.31952 15.7085 8.33507L14.2454 8.71468C12.9211 9.04763 11.7058 9.73615 10.7539 10.7173C9.77177 11.683 9.0853 12.9108 8.75227 14.2299Z" fill="#E92247"></path></svg>						</span>
-                                                    <span class="elementor-icon-list-text">Employee celebrations, cultural events, and bonding activities</span>
+                                                    <span class="elementor-icon-list-text">Employee celebrations, cultural festivals, and team-bonding events</span>
                                                 </li>
                                                 <li class="elementor-icon-list-item">
                                                     <span class="elementor-icon-list-icon">
@@ -861,7 +861,7 @@
                                                 <li class="elementor-icon-list-item">
                                                     <span class="elementor-icon-list-icon">
 							<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M8.75227 14.2299L8.39039 15.7038C8.3756 15.7816 8.32983 15.8586 8.26787 15.9208C8.20662 15.983 8.11369 15.9986 8.03694 16C7.9602 16.0007 7.86726 15.9696 7.8046 15.9236C7.74264 15.8777 7.69617 15.8006 7.68068 15.7073L7.2864 14.2384C6.95479 12.9087 6.25424 11.6886 5.27699 10.7187C4.29975 9.74817 3.09227 9.05752 1.76299 8.74083L0.295005 8.37749C0.217557 8.36264 0.140813 8.31598 0.0788553 8.25448C0.0168973 8.19298 0.00140814 8.10038 0 8.02262C0 7.93002 0.0302761 7.85226 0.0760406 7.78934C0.137295 7.72714 0.198548 7.68048 0.291485 7.66493L1.75454 7.28532C3.0796 6.93682 4.29482 6.2483 5.26151 5.26642C6.22819 4.28524 6.89917 3.05736 7.23149 1.72343L7.60887 0.296203C7.62436 0.218444 7.67012 0.141393 7.73137 0.0791854C7.79263 0.0169781 7.88557 0.00142561 7.96231 1.1805e-05C8.03906 -0.000695095 8.13199 0.0304086 8.19465 0.0763571C8.25661 0.122306 8.30308 0.199359 8.31998 0.292669L8.69876 1.76161C9.03038 3.09129 9.73093 4.3114 10.7082 5.28126C11.6854 6.25184 12.9084 6.94106 14.237 7.25917L15.7049 7.62252C15.7817 7.63736 15.8591 7.68402 15.9211 7.74552C15.9831 7.80702 15.9985 7.89962 16 7.97738C16.0014 8.05514 15.9697 8.14774 15.9239 8.21066C15.8627 8.27286 15.8007 8.31952 15.7085 8.33507L14.2454 8.71468C12.9211 9.04763 11.7058 9.73615 10.7539 10.7173C9.77177 11.683 9.0853 12.9108 8.75227 14.2299Z" fill="#E92247"></path></svg>						</span>
-                                                    <span class="elementor-icon-list-text">Strong brand values rooted in humility and trust</span>
+                                                    <span class="elementor-icon-list-text">Strong brand values rooted in trust, respect, and innovation</span>
                                                 </li>
                                             </ul>
                                         </div>
@@ -870,13 +870,12 @@
                                 <div class="elementor-element elementor-element-2d08843 e-con-full e-flex e-con e-child" data-id="2d08843" data-element_type="container">
                                     <div class="elementor-element elementor-element-c73f181  elementor-widget elementor-widget-heading" data-id="c73f181" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="heading.default">
                                         <div class="elementor-widget-container">
-                                            <h3 class="elementor-heading-title elementor-size-default">Diverse Career Avenues
-                                            </h3>
+                                            <h3 class="elementor-heading-title elementor-size-default" style="color: #a67c00; font-weight: bold;">Diverse Career Opportunities</h3>
                                         </div>
                                     </div>
                                     <div class="elementor-element elementor-element-84fc4ea  elementor-widget elementor-widget-text-editor" data-id="84fc4ea" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="text-editor.default">
                                         <div class="elementor-widget-container">
-                                            <p>Muliya Group is active in multiple industries, allowing you to explore cross-functional growth:</p>
+                                            <p>The Emirates Gold Group operates across multiple industries, giving you the chance to explore diverse roles and grow beyond boundaries:</p>
                                         </div>
                                     </div>
                                     <div class="elementor-element elementor-element-e3383c1 elementor-widget__width-initial elementor-icon-list--layout-traditional elementor-list-item-link-full_width  elementor-widget elementor-widget-icon-list" data-id="e3383c1" data-element_type="widget"
@@ -886,27 +885,27 @@
                                                 <li class="elementor-icon-list-item">
                                                     <span class="elementor-icon-list-icon">
 							<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M8.75227 14.2299L8.39039 15.7038C8.3756 15.7816 8.32983 15.8586 8.26787 15.9208C8.20662 15.983 8.11369 15.9986 8.03694 16C7.9602 16.0007 7.86726 15.9696 7.8046 15.9236C7.74264 15.8777 7.69617 15.8006 7.68068 15.7073L7.2864 14.2384C6.95479 12.9087 6.25424 11.6886 5.27699 10.7187C4.29975 9.74817 3.09227 9.05752 1.76299 8.74083L0.295005 8.37749C0.217557 8.36264 0.140813 8.31598 0.0788553 8.25448C0.0168973 8.19298 0.00140814 8.10038 0 8.02262C0 7.93002 0.0302761 7.85226 0.0760406 7.78934C0.137295 7.72714 0.198548 7.68048 0.291485 7.66493L1.75454 7.28532C3.0796 6.93682 4.29482 6.2483 5.26151 5.26642C6.22819 4.28524 6.89917 3.05736 7.23149 1.72343L7.60887 0.296203C7.62436 0.218444 7.67012 0.141393 7.73137 0.0791854C7.79263 0.0169781 7.88557 0.00142561 7.96231 1.1805e-05C8.03906 -0.000695095 8.13199 0.0304086 8.19465 0.0763571C8.25661 0.122306 8.30308 0.199359 8.31998 0.292669L8.69876 1.76161C9.03038 3.09129 9.73093 4.3114 10.7082 5.28126C11.6854 6.25184 12.9084 6.94106 14.237 7.25917L15.7049 7.62252C15.7817 7.63736 15.8591 7.68402 15.9211 7.74552C15.9831 7.80702 15.9985 7.89962 16 7.97738C16.0014 8.05514 15.9697 8.14774 15.9239 8.21066C15.8627 8.27286 15.8007 8.31952 15.7085 8.33507L14.2454 8.71468C12.9211 9.04763 11.7058 9.73615 10.7539 10.7173C9.77177 11.683 9.0853 12.9108 8.75227 14.2299Z" fill="#E92247"></path></svg>						</span>
-                                                    <span class="elementor-icon-list-text">Retail Jewellery</span>
+                                                    <span class="elementor-icon-list-text">Luxury Jewellery Retail</span>
                                                 </li>
                                                 <li class="elementor-icon-list-item">
                                                     <span class="elementor-icon-list-icon">
 							<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M8.75227 14.2299L8.39039 15.7038C8.3756 15.7816 8.32983 15.8586 8.26787 15.9208C8.20662 15.983 8.11369 15.9986 8.03694 16C7.9602 16.0007 7.86726 15.9696 7.8046 15.9236C7.74264 15.8777 7.69617 15.8006 7.68068 15.7073L7.2864 14.2384C6.95479 12.9087 6.25424 11.6886 5.27699 10.7187C4.29975 9.74817 3.09227 9.05752 1.76299 8.74083L0.295005 8.37749C0.217557 8.36264 0.140813 8.31598 0.0788553 8.25448C0.0168973 8.19298 0.00140814 8.10038 0 8.02262C0 7.93002 0.0302761 7.85226 0.0760406 7.78934C0.137295 7.72714 0.198548 7.68048 0.291485 7.66493L1.75454 7.28532C3.0796 6.93682 4.29482 6.2483 5.26151 5.26642C6.22819 4.28524 6.89917 3.05736 7.23149 1.72343L7.60887 0.296203C7.62436 0.218444 7.67012 0.141393 7.73137 0.0791854C7.79263 0.0169781 7.88557 0.00142561 7.96231 1.1805e-05C8.03906 -0.000695095 8.13199 0.0304086 8.19465 0.0763571C8.25661 0.122306 8.30308 0.199359 8.31998 0.292669L8.69876 1.76161C9.03038 3.09129 9.73093 4.3114 10.7082 5.28126C11.6854 6.25184 12.9084 6.94106 14.237 7.25917L15.7049 7.62252C15.7817 7.63736 15.8591 7.68402 15.9211 7.74552C15.9831 7.80702 15.9985 7.89962 16 7.97738C16.0014 8.05514 15.9697 8.14774 15.9239 8.21066C15.8627 8.27286 15.8007 8.31952 15.7085 8.33507L14.2454 8.71468C12.9211 9.04763 11.7058 9.73615 10.7539 10.7173C9.77177 11.683 9.0853 12.9108 8.75227 14.2299Z" fill="#E92247"></path></svg>						</span>
-                                                    <span class="elementor-icon-list-text">Real Estate & Property</span>
+                                                    <span class="elementor-icon-list-text">Gold Refining & Manufacturing</span>
                                                 </li>
                                                 <li class="elementor-icon-list-item">
                                                     <span class="elementor-icon-list-icon">
 							<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M8.75227 14.2299L8.39039 15.7038C8.3756 15.7816 8.32983 15.8586 8.26787 15.9208C8.20662 15.983 8.11369 15.9986 8.03694 16C7.9602 16.0007 7.86726 15.9696 7.8046 15.9236C7.74264 15.8777 7.69617 15.8006 7.68068 15.7073L7.2864 14.2384C6.95479 12.9087 6.25424 11.6886 5.27699 10.7187C4.29975 9.74817 3.09227 9.05752 1.76299 8.74083L0.295005 8.37749C0.217557 8.36264 0.140813 8.31598 0.0788553 8.25448C0.0168973 8.19298 0.00140814 8.10038 0 8.02262C0 7.93002 0.0302761 7.85226 0.0760406 7.78934C0.137295 7.72714 0.198548 7.68048 0.291485 7.66493L1.75454 7.28532C3.0796 6.93682 4.29482 6.2483 5.26151 5.26642C6.22819 4.28524 6.89917 3.05736 7.23149 1.72343L7.60887 0.296203C7.62436 0.218444 7.67012 0.141393 7.73137 0.0791854C7.79263 0.0169781 7.88557 0.00142561 7.96231 1.1805e-05C8.03906 -0.000695095 8.13199 0.0304086 8.19465 0.0763571C8.25661 0.122306 8.30308 0.199359 8.31998 0.292669L8.69876 1.76161C9.03038 3.09129 9.73093 4.3114 10.7082 5.28126C11.6854 6.25184 12.9084 6.94106 14.237 7.25917L15.7049 7.62252C15.7817 7.63736 15.8591 7.68402 15.9211 7.74552C15.9831 7.80702 15.9985 7.89962 16 7.97738C16.0014 8.05514 15.9697 8.14774 15.9239 8.21066C15.8627 8.27286 15.8007 8.31952 15.7085 8.33507L14.2454 8.71468C12.9211 9.04763 11.7058 9.73615 10.7539 10.7173C9.77177 11.683 9.0853 12.9108 8.75227 14.2299Z" fill="#E92247"></path></svg>						</span>
-                                                    <span class="elementor-icon-list-text">Hospitality & Spa</span>
+                                                    <span class="elementor-icon-list-text">Real Estate & Property Development</span>
                                                 </li>
                                                 <li class="elementor-icon-list-item">
                                                     <span class="elementor-icon-list-icon">
 							<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M8.75227 14.2299L8.39039 15.7038C8.3756 15.7816 8.32983 15.8586 8.26787 15.9208C8.20662 15.983 8.11369 15.9986 8.03694 16C7.9602 16.0007 7.86726 15.9696 7.8046 15.9236C7.74264 15.8777 7.69617 15.8006 7.68068 15.7073L7.2864 14.2384C6.95479 12.9087 6.25424 11.6886 5.27699 10.7187C4.29975 9.74817 3.09227 9.05752 1.76299 8.74083L0.295005 8.37749C0.217557 8.36264 0.140813 8.31598 0.0788553 8.25448C0.0168973 8.19298 0.00140814 8.10038 0 8.02262C0 7.93002 0.0302761 7.85226 0.0760406 7.78934C0.137295 7.72714 0.198548 7.68048 0.291485 7.66493L1.75454 7.28532C3.0796 6.93682 4.29482 6.2483 5.26151 5.26642C6.22819 4.28524 6.89917 3.05736 7.23149 1.72343L7.60887 0.296203C7.62436 0.218444 7.67012 0.141393 7.73137 0.0791854C7.79263 0.0169781 7.88557 0.00142561 7.96231 1.1805e-05C8.03906 -0.000695095 8.13199 0.0304086 8.19465 0.0763571C8.25661 0.122306 8.30308 0.199359 8.31998 0.292669L8.69876 1.76161C9.03038 3.09129 9.73093 4.3114 10.7082 5.28126C11.6854 6.25184 12.9084 6.94106 14.237 7.25917L15.7049 7.62252C15.7817 7.63736 15.8591 7.68402 15.9211 7.74552C15.9831 7.80702 15.9985 7.89962 16 7.97738C16.0014 8.05514 15.9697 8.14774 15.9239 8.21066C15.8627 8.27286 15.8007 8.31952 15.7085 8.33507L14.2454 8.71468C12.9211 9.04763 11.7058 9.73615 10.7539 10.7173C9.77177 11.683 9.0853 12.9108 8.75227 14.2299Z" fill="#E92247"></path></svg>						</span>
-                                                    <span class="elementor-icon-list-text">Fitness & Lifestyle (Upcoming)</span>
+                                                    <span class="elementor-icon-list-text">Hospitality & Lifestyle</span>
                                                 </li>
                                                 <li class="elementor-icon-list-item">
                                                     <span class="elementor-icon-list-icon">
 							<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none"><path d="M8.75227 14.2299L8.39039 15.7038C8.3756 15.7816 8.32983 15.8586 8.26787 15.9208C8.20662 15.983 8.11369 15.9986 8.03694 16C7.9602 16.0007 7.86726 15.9696 7.8046 15.9236C7.74264 15.8777 7.69617 15.8006 7.68068 15.7073L7.2864 14.2384C6.95479 12.9087 6.25424 11.6886 5.27699 10.7187C4.29975 9.74817 3.09227 9.05752 1.76299 8.74083L0.295005 8.37749C0.217557 8.36264 0.140813 8.31598 0.0788553 8.25448C0.0168973 8.19298 0.00140814 8.10038 0 8.02262C0 7.93002 0.0302761 7.85226 0.0760406 7.78934C0.137295 7.72714 0.198548 7.68048 0.291485 7.66493L1.75454 7.28532C3.0796 6.93682 4.29482 6.2483 5.26151 5.26642C6.22819 4.28524 6.89917 3.05736 7.23149 1.72343L7.60887 0.296203C7.62436 0.218444 7.67012 0.141393 7.73137 0.0791854C7.79263 0.0169781 7.88557 0.00142561 7.96231 1.1805e-05C8.03906 -0.000695095 8.13199 0.0304086 8.19465 0.0763571C8.25661 0.122306 8.30308 0.199359 8.31998 0.292669L8.69876 1.76161C9.03038 3.09129 9.73093 4.3114 10.7082 5.28126C11.6854 6.25184 12.9084 6.94106 14.237 7.25917L15.7049 7.62252C15.7817 7.63736 15.8591 7.68402 15.9211 7.74552C15.9831 7.80702 15.9985 7.89962 16 7.97738C16.0014 8.05514 15.9697 8.14774 15.9239 8.21066C15.8627 8.27286 15.8007 8.31952 15.7085 8.33507L14.2454 8.71468C12.9211 9.04763 11.7058 9.73615 10.7539 10.7173C9.77177 11.683 9.0853 12.9108 8.75227 14.2299Z" fill="#E92247"></path></svg>						</span>
-                                                    <span class="elementor-icon-list-text">NGO – Gou Vihara (Cow Care & Heritage Initiatives)</span>
+                                                    <span class="elementor-icon-list-text">Philanthropy & Heritage Initiatives</span>
                                                 </li>
                                             </ul>
                                         </div>
@@ -920,7 +919,7 @@
                     <div class="e-con-inner">
                         <div class="elementor-element elementor-element-9123022  elementor-widget elementor-widget-heading" data-id="9123022" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="heading.default">
                             <div class="elementor-widget-container">
-                                <h2 class="elementor-heading-title elementor-size-default">Drop your resume here</h2>
+                                <h2 class="elementor-heading-title elementor-size-default" style="color: #a67c00; font-weight: bold;">Drop your resume here</h2>
                             </div>
                         </div>
                         <div class="elementor-element elementor-element-5ce020c e-con-full e-flex  e-con e-child" data-id="5ce020c" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeIn&quot;}">
@@ -930,7 +929,7 @@
                                     <form class="elementor-form" method="post" name="New Form" aria-label="New Form">
                                         <input type="hidden" name="post_id" value="11363" />
                                         <input type="hidden" name="form_id" value="4157510" />
-                                        <input type="hidden" name="referer_title" value="Careers | Muliya Gold &amp; Diamonds" />
+                                        <input type="hidden" name="referer_title" value="Careers | Emirates Gold Internationals" />
 
                                         <input type="hidden" name="queried_id" value="11363" />
 
@@ -966,10 +965,10 @@
 
                                             </div>
                                             <div class="elementor-field-type-checkbox elementor-field-group elementor-column elementor-field-group-field_f3422a2 elementor-col-100">
-                                                <div class="elementor-field-subgroup  "><span class="elementor-field-option"><input type="checkbox" value="I agree to be contacted by representatives of Muliya Jewellers overriding any DND request from this number." id="form-field-field_f3422a2-0" name="form_fields[field_f3422a2]"> <label for="form-field-field_f3422a2-0">I agree to be contacted by representatives of Muliya Jewellers overriding any DND request from this number.</label></span></div>
+                                                <div class="elementor-field-subgroup  "><span class="elementor-field-option"><input type="checkbox" value="I agree to be contacted by representatives of Emirates Gold Internationals, overriding any DND request from this number." id="form-field-field_f3422a2-0" name="form_fields[field_f3422a2]"> <label for="form-field-field_f3422a2-0">I agree to be contacted by representatives of Emirates Gold Internationals, overriding any DND request from this number.</label></span></div>
                                             </div>
                                             <div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-100 e-form__buttons">
-                                                <button class="elementor-button elementor-size-sm" type="submit">
+                                                <button class="elementor-button elementor-size-sm" type="submit" style="background-color: #a67c00; border-color: #a67c00;">
 						<span class="elementor-button-content-wrapper">
 																						<span class="elementor-button-text">Submit</span>
 													</span>
@@ -1083,7 +1082,7 @@
                     <form class="elementor-form" method="post" name="Enquiry Form" aria-label="Enquiry Form">
                         <input type="hidden" name="post_id" value="11346" />
                         <input type="hidden" name="form_id" value="7514f09" />
-                        <input type="hidden" name="referer_title" value="Careers | Muliya Gold &amp; Diamonds" />
+                        <input type="hidden" name="referer_title" value="Careers | Emirates Gold Internationals" />
 
                         <input type="hidden" name="queried_id" value="11363" />
 
@@ -1705,3 +1704,8 @@
 
 </html>
 <!-- Hummingbird cache file was created in 0.85554718971252 seconds, on 04-08-25 9:18:47 -->
+
+
+
+
+

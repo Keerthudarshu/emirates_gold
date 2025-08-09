@@ -705,14 +705,14 @@
 <?php include_once '../header.php'; ?>
     
     <div data-elementor-type="single-post" data-elementor-id="2497" class="elementor elementor-2497 elementor-location-single post-11128 post type-post status-publish format-standard has-post-thumbnail hentry category-updates" data-elementor-post-type="elementor_library">
-        <div class="elementor-element elementor-element-22259ee e-flex e-con-boxed e-con e-parent" data-id="22259ee" data-element_type="container">
+        <div class="elementor-element elementor-element-22259ee e-flex e-con-boxed e-con e-parent" data-id="22259ee" data-element_type="container" style="margin: 0px; padding:0px;">
             <div class="e-con-inner">
                 <div class="elementor-element elementor-element-1082cb8 elementor-widget elementor-widget-heading" data-id="1082cb8" data-element_type="widget" data-widget_type="heading.default">
                     <div class="elementor-widget-container">
                         <h1 class="elementor-heading-title elementor-size-default">Akshaya Tritiya – A Golden Opportunity to Celebrate Prosperity &#8220;With Love&#8221;.</h1>
                     </div>
                 </div>
-                <div class="elementor-element elementor-element-8efb792 e-con-full e-flex e-con e-child" data-id="8efb792" data-element_type="container">
+                <div class="elementor-element elementor-element-8efb792 e-con-full e-flex e-con e-child" data-id="8efb792" data-element_type="container" style="margin:0px; padding:0px;">
                     <div class="elementor-element elementor-element-50bdd13 elementor-widget elementor-widget-text-editor" data-id="50bdd13" data-element_type="widget" data-widget_type="text-editor.default">
                         <div class="elementor-widget-container">
                             May 6, 2024 </div>
@@ -767,6 +767,33 @@
                         box-shadow: 0 12px 35px rgba(0, 0, 0, 0.2) !important;
                     }
                     
+                    .akshaya-tritiya-blog {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: 'Segoe UI', sans-serif;
+    line-height: 1.7;
+    color: #333;
+}
+
+.akshaya-tritiya-blog h2,
+.akshaya-tritiya-blog h3 {
+    color: #a67c00; /* gold tone */
+}
+
+.akshaya-tritiya-blog ul,
+.akshaya-tritiya-blog ol {
+    padding-left: 20px;
+    margin-bottom: 20px;
+}
+
+.akshaya-tritiya-blog blockquote {
+    border-left: 4px solid #a67c00;
+    margin: 20px 0;
+    padding-left: 15px;
+    font-style: italic;
+    color: #555;
+}
                     .elementor-element-138bff8 .elementor-widget-container {
                         text-align: center !important;
                         padding: 0 20px !important;
@@ -799,41 +826,72 @@
                         }
                     }
                 </style>
-                <div class="elementor-element elementor-element-b9d6448 elementor-widget elementor-widget-theme-post-content" data-id="b9d6448" data-element_type="widget" data-widget_type="theme-post-content.default">
-                    <div class="elementor-widget-container">
-                        <h2>🪔 What is Akshaya Tritiya?</h2>
-                        <p>The word “Akshaya” means “eternal” or “never diminishing,” and “Tritiya” means the third lunar day. Together, they signify a day when blessings, wealth, and virtue multiply — making it a powerful moment to begin new endeavors, purchase valuable items, and perform charitable acts.</p>
-                        <h3>✨ Spiritual & Cultural Significance:</h3>
-                        <ul>
-                            <li>Lord Vishnu, Kubera &amp; Goddess Lakshmi are worshipped for wealth and abundance.</li>
-                            <li>It is believed that Pandavas received the Akshaya Patra (a vessel of unlimited food) on this day.</li>
-                            <li>Many devotees start new business ventures, buy property, or make major purchases.</li>
-                            <li>For newlyweds and families, buying gold jewelry symbolizes eternal harmony and wealth.</li>
-                        </ul>
-                        <h3>💍 Why Buy Jewelry on Akshaya Tritiya?</h3>
-                        <ol>
-                            <li><strong>A Tradition of Auspicious Buying</strong><br>Gold is seen as a sacred metal, believed to invite Goddess Lakshmi’s blessings. Buying gold jewelry on this day is thought to ensure continuous prosperity and wealth in the household.</li>
-                            <li><strong>Jewelry as an Investment</strong><br>Akshaya Tritiya is a popular time to invest in hallmarked gold, diamond jewelry, and bullion due to its spiritual and market value.</li>
-                            <li><strong>Gifting &amp; Legacy</strong><br>It is also a time for gifting loved ones symbolic pieces — whether it’s a delicate chain for a daughter, a ring for a partner, or bangles for your mother.</li>
-                            <li><strong>Exclusive Festive Collections</strong><br>Many jewelry brands launch limited-edition festive collections, offer discounts, free gold coins, or zero-making charges on select items during this period.</li>
-                        </ol>
-                        <h3>🛍️ How to Shop Smart This Akshaya Tritiya:</h3>
-                        <ul>
-                            <li>Look for BIS hallmark gold to ensure purity.</li>
-                            <li>Choose jewelry that carries both emotional and investment value.</li>
-                            <li>Ask about exchange policies and certificates for diamond or gemstone jewelry.</li>
-                            <li>Opt for timeless designs that can be passed on across generations.</li>
-                        </ul>
-                        <h3>📿 Our Akshaya Tritiya Collection:</h3>
-                        <p>Celebrate the golden moment with our specially curated range of mangalsutras, pendants, bangles, rings, and diamond sets. Crafted with purity and elegance, each piece is a celebration of tradition, prosperity, and everlasting beauty.</p>
-                        <h3>🌟 Final Thought:</h3>
-                        <p>This Akshaya Tritiya, don’t just buy jewelry — invest in stories, values, and timeless elegance. Mark the day with a piece that reflects your inner light and legacy.</p>
-                        <blockquote>“Let your blessings shine as bright as your gold.”</blockquote>
-                                
-                    </div>
-                </div>
-            </div>
-        </div>
+            <div class="akshaya-tritiya-blog">
+    <h2>What is Akshaya Tritiya?</h2>
+    <p>
+        The word <strong>“Akshaya”</strong> means eternal or never diminishing, and <strong>“Tritiya”</strong> refers to the third lunar day. 
+        Together, Akshaya Tritiya signifies a day when blessings, wealth, and virtues are believed to multiply. 
+        It is considered an auspicious time to begin new ventures, make valuable purchases, and perform charitable acts.
+    </p>
+
+    <h3>Spiritual & Cultural Significance</h3>
+    <ul>
+        <li><strong>Lord Vishnu, Kubera, and Goddess Lakshmi</strong> are worshipped for prosperity and abundance.</li>
+        <li>It is believed that the <strong>Pandavas received the Akshaya Patra</strong> (a vessel providing unlimited food) on this day.</li>
+        <li>Many devotees choose this occasion to <strong>start new business ventures, purchase property, or make major investments</strong>.</li>
+        <li><strong>Newlyweds and families</strong> often buy gold jewelry as a symbol of eternal harmony and wealth.</li>
+    </ul>
+
+    <h3>Why Buy Jewelry on Akshaya Tritiya?</h3>
+    <ol>
+        <li>
+            <strong>A Tradition of Auspicious Buying:</strong><br>
+            Gold is regarded as a sacred metal and is believed to invite the blessings of Goddess Lakshmi. 
+            Purchasing gold on this day is considered to bring lasting prosperity to the household.
+        </li>
+        <li>
+            <strong>Jewelry as an Investment:</strong><br>
+            Akshaya Tritiya is a popular occasion for investing in <strong>hallmarked gold</strong>, <strong>diamond jewelry</strong>, and <strong>bullion</strong>, 
+            due to both its spiritual importance and market value.
+        </li>
+        <li>
+            <strong>Gifting and Legacy:</strong><br>
+            This is a perfect time to gift symbolic jewelry to loved ones — a delicate chain for a daughter, 
+            a ring for a partner, or bangles for a mother — creating memories and lasting connections.
+        </li>
+        <li>
+            <strong>Exclusive Festive Collections:</strong><br>
+            Many jewelry brands launch <strong>limited-edition festive collections</strong> and offer promotions such as 
+            <strong>discounts</strong>, <strong>complimentary gold coins</strong>, or <strong>zero-making charges</strong> on select designs.
+        </li>
+    </ol>
+
+    <h3>How to Shop Smart This Akshaya Tritiya</h3>
+    <ul>
+        <li>Look for <strong>BIS hallmark</strong> gold to ensure purity and authenticity.</li>
+        <li>Choose jewelry that holds <strong>both emotional and investment value</strong>.</li>
+        <li>Inquire about <strong>exchange policies</strong> and <strong>certification</strong> for diamond or gemstone pieces.</li>
+        <li>Opt for <strong>timeless designs</strong> that can be cherished and passed down across generations.</li>
+    </ul>
+
+    <h3>Our Akshaya Tritiya Collection</h3>
+    <p>
+        Celebrate this auspicious occasion with our specially curated selection of 
+        <strong>mangalsutras</strong>, <strong>pendants</strong>, <strong>bangles</strong>, <strong>rings</strong>, and <strong>diamond sets</strong>. 
+        Every piece is crafted with purity and elegance, designed to reflect tradition, prosperity, and timeless beauty.
+    </p>
+
+    <h3>Final Thought</h3>
+    <p>
+        This Akshaya Tritiya, don’t just purchase jewelry — invest in stories, traditions, and values that endure through time. 
+        Choose a piece that resonates with your journey and symbolizes the legacy you wish to create.
+    </p>
+
+    <blockquote>
+        “Let your blessings shine as bright as your gold.”
+    </blockquote>
+</div>
+
         
     </div>
    <?php include_once '../footer.php'; ?>

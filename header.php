@@ -7,6 +7,9 @@ if ($current_dir && $current_dir !== '/') {
     $base_path = str_repeat('../', $depth);
 }
 
+// Base URL for absolute navigation links
+$base_url = $base_path;
+
 $logo_path = $base_path . "assets/emirats logo.jpg";
 $euro_icon_path = $base_path . "assets/favicon/euro-money.png";
 $gold_icon_path = $base_path . "assets/favicon/gold-bar.png";
@@ -1048,61 +1051,61 @@ $diamond_main_link = $base_path . "diamond/diamond.php";
                                                     <div class="e-con-inner">
                                                         <div class="elementor-element elementor-element-9dee8c9 e-con-full e-flex e-con e-child" data-id="9dee8c9" data-element_type="container">
                                                             <div class="elementor-element elementor-element-caeed97 e-grid e-con-full e-con e-child" data-id="caeed97" data-element_type="container">
-                                                                <a class="elementor-element elementor-element-6285b0a e-con-full mj-mm-item e-flex e-con e-child" data-id="6285b0a" data-element_type="container" href="https://muliya.in/mahathi/">
+                                                                <a class="elementor-element elementor-element-6285b0a e-con-full mj-mm-item e-flex e-con e-child" data-id="6285b0a" data-element_type="container" href="<?php echo $base_path; ?>collections/mahathi.php">
                                                                     <div class="elementor-element elementor-element-517a996 elementor-widget elementor-widget-image" data-id="517a996" data-element_type="widget" data-widget_type="image.default">
                                                                         <div class="elementor-widget-container">
                                                                             <?php
-                                                                            $mahathi_collection_path = $base_path . "assets/collection_menu/Mahathi.png";
+                                                                            $mahathi_collection_path = $base_path . "assets/collection_menu/mahathi.png";
                                                                             ?>
                                                                             <img loading="lazy" width="460" height="201" src="<?php echo $mahathi_collection_path; ?>" class="attachment-large size-large wp-image-11646" alt="Mahathi" srcset="<?php echo $mahathi_collection_path; ?> 460w, <?php echo $base_path; ?>assets/collection_menu/Mahathi-300x131.png 300w"
                                                                                 sizes="(max-width: 460px) 100vw, 460px" /> </div>
                                                                     </div>
                                                                 </a>
-                                                                <a class="elementor-element elementor-element-471944d e-con-full mj-mm-item e-flex e-con e-child" data-id="471944d" data-element_type="container" href="https://muliya.in/amuliya/">
+                                                                <a class="elementor-element elementor-element-471944d e-con-full mj-mm-item e-flex e-con e-child" data-id="471944d" data-element_type="container" href="<?php echo $base_path; ?>collections/amuliya.php">
                                                                     <div class="elementor-element elementor-element-ad2edf0 elementor-widget elementor-widget-image" data-id="ad2edf0" data-element_type="widget" data-widget_type="image.default">
                                                                         <div class="elementor-widget-container">
                                                                             <?php
-                                                                            $amuliya_collection_path = $base_path . "assets/collection_menu/Amuliya-Menu.png";
+                                                                            $amuliya_collection_path = $base_path . "assets/collection_menu/amuliya-Menu2.png";
                                                                             ?>
-                                                                            <img loading="lazy" width="460" height="201" src="<?php echo $amuliya_collection_path; ?>" class="attachment-large size-large wp-image-11878" alt="Amuliya" srcset="<?php echo $amuliya_collection_path; ?> 460w, <?php echo $base_path; ?>assets/collection_menu/Amuliya-Menu-300x131.png 300w"
+                                                                            <img loading="lazy" width="460" height="201" src="<?php echo $amuliya_collection_path; ?>" class="attachment-large size-large wp-image-11878" alt="Amuliya" srcset="<?php echo $amuliya_collection_path; ?> 460w, <?php echo $base_path; ?>assets/collection_menu/amuliya-Menu2-300x131.png 300w"
                                                                                 sizes="(max-width: 460px) 100vw, 460px" /> </div>
                                                                     </div>
                                                                 </a>
-                                                                <a class="elementor-element elementor-element-d17c056 e-con-full mj-mm-item e-flex e-con e-child" data-id="d17c056" data-element_type="container" href="https://muliya.in/bridal/">
+                                                                <a class="elementor-element elementor-element-d17c056 e-con-full mj-mm-item e-flex e-con e-child" data-id="d17c056" data-element_type="container" href="<?php echo $base_path; ?>bridel.php">
                                                                     <div class="elementor-element elementor-element-a4fd362 elementor-widget elementor-widget-image" data-id="a4fd362" data-element_type="widget" data-widget_type="image.default">
                                                                         <div class="elementor-widget-container">
                                                                             <?php
-                                                                            $indian_bridal_collection_path = $base_path . "assets/collection_menu/Indian-bridal.png";
+                                                                            $indian_bridal_collection_path = $base_path . "assets/collection_menu/indian-bridal.png";
                                                                             ?>
                                                                             <img loading="lazy" width="460" height="201" src="<?php echo $indian_bridal_collection_path; ?>" class="attachment-large size-large wp-image-11643" alt="Indian bridal" srcset="<?php echo $indian_bridal_collection_path; ?> 460w, <?php echo $base_path; ?>assets/collection_menu/Indian-bridal-300x131.png 300w"
                                                                                 sizes="(max-width: 460px) 100vw, 460px" /> </div>
                                                                     </div>
                                                                 </a>
-                                                                <a class="elementor-element elementor-element-68722c7 e-con-full mj-mm-item e-flex e-con e-child" data-id="68722c7" data-element_type="container" href="https://muliya.in/indian-ethnic/">
+                                                                <a class="elementor-element elementor-element-68722c7 e-con-full mj-mm-item e-flex e-con e-child" data-id="68722c7" data-element_type="container" href="<?php echo $base_path; ?>collections/ethnic.php">
                                                                     <div class="elementor-element elementor-element-add1ba0 elementor-widget elementor-widget-image" data-id="add1ba0" data-element_type="widget" data-widget_type="image.default">
                                                                         <div class="elementor-widget-container">
                                                                             <?php
-                                                                            $indian_ethnic_collection_path = $base_path . "assets/collection_menu/Indian-Ethnic.png";
+                                                                            $indian_ethnic_collection_path = $base_path . "assets/collection_menu/indian-Ethnic.png";
                                                                             ?>
                                                                             <img loading="lazy" width="460" height="201" src="<?php echo $indian_ethnic_collection_path; ?>" class="attachment-large size-large wp-image-11645" alt="Indian Ethnic" srcset="<?php echo $indian_ethnic_collection_path; ?> 460w, <?php echo $base_path; ?>assets/collection_menu/Indian-Ethnic-300x131.png 300w"
                                                                                 sizes="(max-width: 460px) 100vw, 460px" /> </div>
                                                                     </div>
                                                                 </a>
-                                                                <a class="elementor-element elementor-element-87503de e-con-full mj-mm-item e-flex e-con e-child" data-id="87503de" data-element_type="container" href="https://muliya.in/ruby-and-emerald/">
+                                                                <a class="elementor-element elementor-element-87503de e-con-full mj-mm-item e-flex e-con e-child" data-id="87503de" data-element_type="container" href="<?php echo $base_path; ?>collections/ruby-and-emerald.php">
                                                                     <div class="elementor-element elementor-element-daa84d4 elementor-widget elementor-widget-image" data-id="daa84d4" data-element_type="widget" data-widget_type="image.default">
                                                                         <div class="elementor-widget-container">
                                                                             <?php
-                                                                            $ruby_emerald_collection_path = $base_path . "assets/collection_menu/Ruby-and-Emerald-1.png";
+                                                                            $ruby_emerald_collection_path = $base_path . "assets/collection_menu/ruby-and-Emerald-1.png";
                                                                             ?>
                                                                             <img loading="lazy" width="461" height="201" src="<?php echo $ruby_emerald_collection_path; ?>" class="attachment-large size-large wp-image-11652" alt="Ruby and Emerald" srcset="<?php echo $ruby_emerald_collection_path; ?> 461w, <?php echo $base_path; ?>assets/collection_menu/Ruby-and-Emerald-1-300x131.png 300w"
                                                                                 sizes="(max-width: 461px) 100vw, 461px" /> </div>
                                                                     </div>
                                                                 </a>
-                                                                <a class="elementor-element elementor-element-1c886ec e-con-full mj-mm-item e-flex e-con e-child" data-id="1c886ec" data-element_type="container" href="https://muliya.in/apsara-rose-gold/">
+                                                                <a class="elementor-element elementor-element-1c886ec e-con-full mj-mm-item e-flex e-con e-child" data-id="1c886ec" data-element_type="container" href="<?php echo $base_path; ?>collections/apsara-rose-gold.php">
                                                                     <div class="elementor-element elementor-element-e647add elementor-widget elementor-widget-image" data-id="e647add" data-element_type="widget" data-widget_type="image.default">
                                                                         <div class="elementor-widget-container">
                                                                             <?php
-                                                                            $apsara_collection_path = $base_path . "assets/collection_menu/Apsara.png";
+                                                                            $apsara_collection_path = $base_path . "assets/collection_menu/apsara.png";
                                                                             ?>
                                                                             <img loading="lazy" width="460" height="201" src="<?php echo $apsara_collection_path; ?>" class="attachment-large size-large wp-image-11642" alt="" srcset="<?php echo $apsara_collection_path; ?> 460w, <?php echo $base_path; ?>assets/collection_menu/Apsara-300x131.png 300w"
                                                                                 sizes="(max-width: 460px) 100vw, 460px" /> </div>
@@ -1114,7 +1117,7 @@ $diamond_main_link = $base_path . "diamond/diamond.php";
                                                             <div class="elementor-element elementor-element-92741a8 elementor-widget elementor-widget-image" data-id="92741a8" data-element_type="widget" data-widget_type="image.default">
                                                                 <div class="elementor-widget-container">
                                                                     <?php
-                                                                    $collections_mega_menu_path = $base_path . "assets/collection_menu/Collections-Mega-Menu.png";
+                                                                    $collections_mega_menu_path = $base_path . "assets/collection_menu/collections-Mega-Menu.png";
                                                                     ?>
                                                                     <img loading="lazy" width="806" height="497" src="<?php echo $collections_mega_menu_path; ?>" class="attachment-full size-full wp-image-11636" alt="Collections" srcset="<?php echo $collections_mega_menu_path; ?> 806w, <?php echo $base_path; ?>assets/collection_menu/Collections-Mega-Menu-300x185.png 300w, <?php echo $base_path; ?>assets/collection_menu/Collections-Mega-Menu-768x474.png 768w, <?php echo $base_path; ?>assets/collection_menu/Collections-Mega-Menu-600x370.png 600w"
                                                                         sizes="(max-width: 806px) 100vw, 806px" /> </div>

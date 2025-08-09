@@ -686,11 +686,15 @@
 
 
         <div class="page-content">
-            <div data-elementor-type="wp-page" data-elementor-id="11578" class="elementor elementor-11578" data-elementor-post-type="page">
-                <div class="elementor-element elementor-element-28bc1da e-flex e-con-boxed  e-con e-parent" data-id="28bc1da" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation_mobile&quot;:&quot;fadeIn&quot;,&quot;animation&quot;:&quot;fadeIn&quot;}">
+        <div data-elementor-type="wp-page" data-elementor-id="11578"  data-elementor-post-type="page">
+                <div class="elementor-element elementor-element-28bc1da e-flex e-con-boxed  e-con e-parent" data-id="28bc1da" data-element_type="container" >
                     <div class="e-con-inner">
+                    <?php
+                                                                            $bridal_collection_path = $base_path . "assets/collection_menu/indian-bridal.png";
+                                                                            ?>
+                                                                            <img loading="lazy" style="width:100%; height:auto; max-height:100vh; object-fit:cover; display:block;" src="<?php echo $bridal_collection_path; ?>" alt="Indian Bridal Collection" /> </div>
+                                                                  
                     </div>
-                </div>
                 <div class="elementor-element elementor-element-541548e e-flex e-con-boxed e-con e-parent" data-id="541548e" data-element_type="container">
 
                     <div class="e-con-inner">

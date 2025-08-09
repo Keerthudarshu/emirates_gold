@@ -798,12 +798,41 @@
                             padding: 0 10px !important;
                         }
                     }
+                    
+                    .akshaya-tritiya-blog {
+                        max-width: 800px;
+                        margin: 0 auto;
+                        padding: 20px;
+                        font-family: 'Segoe UI', sans-serif;
+                        line-height: 1.7;
+                        color: #333;
+                    }
+
+                    .akshaya-tritiya-blog h2,
+                    .akshaya-tritiya-blog h3 {
+                        color: #a67c00; /* gold tone */
+                    }
+
+                    .akshaya-tritiya-blog ul,
+                    .akshaya-tritiya-blog ol {
+                        padding-left: 20px;
+                        margin-bottom: 20px;
+                    }
+
+                    .akshaya-tritiya-blog blockquote {
+                        border-left: 4px solid #a67c00;
+                        margin: 20px 0;
+                        padding-left: 15px;
+                        font-style: italic;
+                        color: #555;
+                    }
                 </style>
                 <div class="elementor-element elementor-element-b9d6448 elementor-widget elementor-widget-theme-post-content" data-id="b9d6448" data-element_type="widget" data-widget_type="theme-post-content.default">
                     <div class="elementor-widget-container">
+                        <div class="akshaya-tritiya-blog">
                         <p>Jewelry is not just an accessory — it’s a powerful style statement that can transform your entire look. Whether you’re heading to a wedding, a casual brunch, or a formal event, knowing how to style your jewelry with the right outfit brings out elegance, confidence, and personality.</p>
                         <p>Our Fashion & Styling Tips blog is your go-to guide for everything related to accessorizing. From decoding the latest jewelry trends to helping you match your pieces with different necklines, face shapes, skin tones, and occasions — we’ve got you covered.</p>
-                        <h3>💄 What You’ll Learn:</h3>
+                        <h3>What You’ll Learn:</h3>
                         <ol>
                             <li><strong>Jewelry Styling Based on Occasion</strong><br>
                                 <ul>
@@ -855,11 +884,11 @@
                                 </ul>
                             </li>
                         </ol>
-                        <h3>🧥💍 Fashion Meets Tradition:</h3>
+                        <h2>Fashion Meets Tradition:</h2>
                         <p>Learn how to bring a modern twist to traditional jewelry. Think oxidized silver jhumkas with jeans, temple jewelry with a black dress, or gold hoops with Indo-western kurtas — fashion knows no rules when worn with confidence!</p>
-                        <h3>💡 Styling Tips from Our Experts:</h3>
+                        <h3>Styling Tips from Our Experts:</h3>
                         <p>We also feature styling insights from fashion stylists, influencers, and jewelry designers to help you make smarter styling choices that reflect your taste, lifestyle, and mood.</p>
-                        <h3>🎯 Who is this for?</h3>
+                        <h3>Who is this for?</h3>
                         <ul>
                             <li>Brides-to-be looking for their dream wedding look</li>
                             <li>Fashion lovers who want to upgrade their style game</li>
@@ -868,6 +897,7 @@
                         </ul>
                         <blockquote>“Jewelry is like the perfect punctuation — it completes your look.”</blockquote>
                         <p>Stay stylish, stay sparkling — explore our Fashion & Styling Tips blog and let your jewelry speak louder than words.</p>
+                        </div>
                                 
                     </div>
                 </div>
